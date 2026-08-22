@@ -11,7 +11,7 @@ app.use(cors({
     process.env.CLIENT_URL || 'http://localhost:5173',
     'http://localhost:3000',
     'http://localhost:5000',
-    'https://odoo-x-ldce-x-globetrotter-2026-rep.vercel.app/'
+    'https://odoo-x-ldce-x-globetrotter-2026-rep.vercel.app'
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],

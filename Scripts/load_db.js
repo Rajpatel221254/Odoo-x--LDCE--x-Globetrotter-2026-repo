@@ -20,7 +20,7 @@ const { MongoClient } = require('mongodb');
 // -------------------- CONFIG --------------------
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017';
 const DB_NAME   = process.env.DB_NAME   || 'travel_db';
-const DATA_DIR  = path.join(__dirname, 'output');
+const DATA_DIR  = path.join(__dirname, 'output2');
 
 // -------------------- HELPERS --------------------
 

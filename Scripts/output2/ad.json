@@ -1,0 +1,3141 @@
+{
+  "country_code": "ad",
+  "country_name": "Andorra",
+  "boundary_place_id": "5133593739d72bf93f5955736f3436454540f00101f901bf24000000000000c0020b920307416e646f727261",
+  "count": 162,
+  "places": [
+    {
+      "place_id": "5185ecbc8dcdeef73f59a6c52aeff4504540f00103f9012c1f9327000000009203116c27416e656c6c612064274f7264696e6f",
+      "name": "l'Anella d'Ordino",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6324748,
+        "lon": 1.4958015
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "l'Anella d'Ordino, Carretera General 3, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd7acb8b0293f73f59263acb2c42494540f00103f901c80fce870100000092031f4d697261646f72206465206c6120526f6361206465206c6120536162696e61",
+      "name": "Mirador de la Roca de la Sabina",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.572332,
+        "lon": 1.4733911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador de la Roca de la Sabina, CS-520, AD400 Arinsal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a3f47f5e78cf83f59b15a4f6331474540f00103f90126532d8a02000000",
+      "name": "Carrer dels Coms",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5561947,
+        "lon": 1.5344009
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carrer dels Coms, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c059090374ff93f592079e75086444540f00103f901fa7e408a02000000",
+      "name": "Plaça Sant Miquel",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.535349,
+        "lon": 1.5818401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Plaça Sant Miquel, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158e6adba0e75f93f597d72b96697484540f00103f901044599f601000000",
+      "name": "Carretera de Montaup",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5671204,
+        "lon": 1.5910785
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd7e541e38c2f93f596f8445459c454540f00103f901b24e17500200000092030a43617020646520526570",
+      "name": "Cap de Rep",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5438315,
+        "lon": 1.6099168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cap de Rep, Cami de la Costa de les Gerederes, AD100 Canillo, Andorra",
+      "description": "Cim i mirador del Cap de Rep amb taula d'orientació i dos troncs amb forma de banc",
+      "image": null
+    },
+    {
+      "place_id": "51cbaabea9fe57f83f59cf15003ed3404540f00103f9017a81c95501000000",
+      "name": "Passarel·la M. Rosa Ferrer Obiols",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5064466,
+        "lon": 1.5214831
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Passarel·la M. Rosa Ferrer Obiols, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e390685dfe5ef83f59038aa251cb404540f00103f901f667e489020000009203184d697175656c2042617263656cc3b3204172746967756573",
+      "name": "Miquel Barceló Artigues",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5062048,
+        "lon": 1.5231918
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Miquel Barceló Artigues, Carrer Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb253d676641fb3f59664f029b73454540f00103f90172edfb1902000000",
+      "name": "Port d'Envalira",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5425905,
+        "lon": 1.7034668
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Port d'Envalira, AD200 Grau Roig, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c77cc8af276f93f59e9c028f7f1444540f00103f9018aaae2dd00000000",
+      "name": "CG-2",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5386342,
+        "lon": 1.5915399
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CG-2, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51016e71e88877f83f59abb9371a1b474540f00103f901a47d852402000000",
+      "name": "Cami de Santa Bàrbara",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5555146,
+        "lon": 1.5291833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Cami de Santa Bàrbara, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4ada9e27c40f83f59eeff88cb963e4540f00103f9013a65bef80000000092031b4d697261646f722064656c20526f632064652050616c6f6d657261",
+      "name": "Mirador del Roc de Palomera",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4889769,
+        "lon": 1.5157441
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Roc de Palomera, Carretera de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af4d19ee124bf93f5928d53e1d8f444540f00103f901c07f408a02000000",
+      "name": "Passeig de l'Alguer",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5356175,
+        "lon": 1.5808286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Passeig de l'Alguer, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ff74fdc96edf73f59894a7e1f693f4540f00103f901584b6ffc0000000092032456696120666572726164612064652053616e7420566963656ec3a7206427456e636c6172",
+      "name": "Via ferrada de Sant Vicenç d'Enclar",
+      "city": "Santa Coloma",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4953956,
+        "lon": 1.4955052
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Via ferrada de Sant Vicenç d'Enclar, Accés via ferrada de Sant Vicenç d'Enclar, AD500 Santa Coloma, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db8f6f4ad4e6f73f59b5d72725a9374540f00103f901c817bb530100000092031a4d697261646f72205269752052756e65722028312e3530306d29",
+      "name": "Mirador Riu Runer (1.500m)",
+      "city": "Juberri",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4348494,
+        "lon": 1.4938548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Riu Runer Viewpoint (1.500m), Carrer del Bosc, AD600 Juberri, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6b6990af148f83f599a931799804b4540f00103f90156e0081c00000000",
+      "name": "Cami de Sedornet",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.589862,
+        "lon": 1.517808
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cami de Sedornet, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133ed516e916af93f597f1deed929484540f00103f9015296b2e60000000092031a56696120666572726164612043616e616c2064656c2047726175",
+      "name": "Via ferrada Canal del Grau",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5637772,
+        "lon": 1.5885176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Via ferrada Canal del Grau, Accés Canal del Grau, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdf0fa271332f93f5939bf171527484540f00103f9011c17d7240200000092030e4e696c6f202854616d6172726f29",
+      "name": "Nilo (Tamarro)",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5636927,
+        "lon": 1.5747253
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Nilo (Tamarro), Cami de les Bordes de Mereig, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5188d7f50b7603f83f59b87c7fdeaf3a4540f00103f90120b7708a02000000",
+      "name": "Camí de Mas",
+      "city": "Aixirivall",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4584921,
+        "lon": 1.500845
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camí de Mas, AD600 Aixirivall, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a129c9f875ff83f5939132e3fcb404540f00103f901cc66e4890200000092030c41677573746920526f717565",
+      "name": "Agusti Roque",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5062026,
+        "lon": 1.5233227
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Agusti Roque, Carrer Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e81c97cc0c56f83f59b7966eb7c9404540f00103f9017e81c95501000000",
+      "name": "Carrer del Consell General",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5061559,
+        "lon": 1.5210083
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carrer del Consell General, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51255415bfce12f93f59026ac592cd414540f00103f9019a6076cf010000009203204d697261646f722064656c2063697263756974206465206c657320666f6e7473",
+      "name": "Mirador del circuit de les fonts",
+      "city": "Engolasters",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5140861,
+        "lon": 1.5670917
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del circuit de les fonts, Circuit de les Fonts, AD700 Engolasters, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5102ba226cf244f73f59a8784af5a9464540f00102f901b2e0f024000000009203132253746f726d20696e20612054656163757022",
+      "name": "\"Storm in a Teacup\"",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.55206171165747,
+        "lon": 1.454332754521261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "\"Storm in a Teacup\", CG-4, AD400 Pal, Andorra",
+      "description": "Sculpure",
+      "image": null
+    },
+    {
+      "place_id": "51246992b30be1f83f599fdf9cb6eb4f4540f00103f9016eae8ba20100000092031047726175206465206c61204c6c6f7361",
+      "name": "Grau de la Llosa",
+      "city": "El Serrat",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6243809,
+        "lon": 1.5549428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Grau de la Llosa, Pista de Sorteny, AD300 El Serrat, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124f2b803d0e3f93f59aa0eb9196e444540f00103f901a4c0ac990200000092030e456e6b6f202854616d6172726f29",
+      "name": "Enko (Tamarro)",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.53461,
+        "lon": 1.6181183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Enko (Tamarro), Camí pleta dels onis, AD200 Encamp, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3f2695f8a5cf93f5941f9163147444540f00103f901ced0e01103000000",
+      "name": "CG-2",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5334226,
+        "lon": 1.5850929
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "CG-2, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51405475ea25a1f83f597496598462414540f00103f90168c6708a02000000",
+      "name": "Carrer de la Constituciò",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.510819,
+        "lon": 1.5393428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carrer de la Constituciò, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167727b93f04ef93f59325b0de434434540f00103f901aaf4e29302000000",
+      "name": "Carboneras",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5250516,
+        "lon": 1.5817724
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carboneras, Camí de les Pardines (peatonal), AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150a50b564151f93f59de2a3ef493444540f00103f9012e7e408a02000000",
+      "name": "Carrer Major",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5357652,
+        "lon": 1.5823377
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carrer Major, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177932930ae82f83f591f6d776a893d4540f00103f9019ee8cfeb00000000920315436f6c6c616461206465206c61204361c3bc6c6c61",
+      "name": "Collada de la Caülla",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4807561,
+        "lon": 1.5319044
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Collada de la Caülla, Carretera de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517868b3452dc8f83f5998384dfad6414540f00103f901e86f1003000000009203134d697261646f7220436f6c6c206465204a6f75",
+      "name": "Mirador Coll de Jou",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5143731,
+        "lon": 1.5488713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador Coll de Jou, Camí de Coll de Jou, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ed7f09991c6f73f59ddf52dce733b4540f00103f90188460c8a02000000",
+      "name": "Carretera de Fontaneda",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4644716,
+        "lon": 1.4859787
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carretera de Fontaneda, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514675dfd68263fb3f59fca078df424d4540f00103f901bc2cc71202000000",
+      "name": "Camí de la Cascada del Juclar",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6036033,
+        "lon": 1.7117947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camí de la Cascada del Juclar, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115319177b34bf83f592a00c63368494540f00103f90112b39b8d02000000",
+      "name": "Carretera General 3",
+      "city": "la Cortinada",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5734925,
+        "lon": 1.5184817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carretera General 3, AD300 la Cortinada, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9c9b0719b98f83f59797b060c7e414540f00102f90178f8163f0000000092030f546f7272652064652043616c646561",
+      "name": "Torre de Caldea",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.51165914837379,
+        "lon": 1.5372576180494646
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Torre de Caldea, Carrer Josep Viladomat, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a86a27ef886ff83f598eca4dd4d24b4540f00103f9010022e08b01000000920319412063617361206461207465727261206520646f20666f676f",
+      "name": "A casa da terra e do fogo",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5923715,
+        "lon": 1.5272302
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A casa da terra e do fogo, Camí Ral d'Ordino, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abf0c2312658f83f59cd1dfd2fd7404540f00103f901d43f8e2402000000",
+      "name": "Passarel·la M. Rosa Ferrer Obiols",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.506567,
+        "lon": 1.5215208
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Passarel·la M. Rosa Ferrer Obiols, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51217711a628d7f73f5927fa7c94113b4540f00103f901162db78902000000920326456e206d656dc3b2726961206465206c65732076c3ad6374696d65732064656c20436f766964",
+      "name": "En memòria de les víctimes del Covid",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.461474,
+        "lon": 1.490029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "En memòria de les víctimes del Covid, rotonda, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3c27d891d52f93f599516e41d96444540f00103f901be7f408a02000000",
+      "name": "Carrer Perdut",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5358312,
+        "lon": 1.5825477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carrer Perdut, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51733678ba4ebefa3f59a9c76c7f1d4e4540f00103f90149ec0a240100000092030743617363616465",
+      "name": "Cascade",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6102752,
+        "lon": 1.6714618
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Waterfall, Camí del Port d'Incles, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5b2b5be4868f83f5916c09481033f4540f00103f9014cc79419020000009203164d697261646f722064656c20426f7363204e65677265",
+      "name": "Mirador del Bosc Negre",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4922945,
+        "lon": 1.52546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Bosc Negre, Carretera de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c8f40722165f93f5983797e07f5444540f00103f901c17f408a02000000",
+      "name": "Carrer de Sant Romà",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5387277,
+        "lon": 1.5871901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carrer de Sant Romà, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f48189e4d027f93f59f5a8ae3209474540f00103f901a104a50f0000000092030d436f6c6c2064274f7264696e6f",
+      "name": "Coll d'Ordino",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5549682,
+        "lon": 1.5722207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coll d'Ordino, CS-240, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab460ac09a5ef83f591c00bbe4c9404540f00103f901cd66e4890200000092030c476173657420466c696e6368",
+      "name": "Gaset Flinch",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5061613,
+        "lon": 1.5230968
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Gaset Flinch, Carrer Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec94fda9a745f73f5913279c82a1464540f00103f901dec8ef8b01000000920312436f6c6c206465206c6120426f74656c6c61",
+      "name": "Coll de la Botella",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5518039,
+        "lon": 1.4545056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coll de la Botella, CG-4, AD400 Pal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199130f835485f93f59903754e7ac434540f00103f901dff3e29302000000",
+      "name": "Camí de les Pardines (peatonal)",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5287141,
+        "lon": 1.5950513
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camí de les Pardines (peatonal), AD200 Encamp, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9079854c870f83f59cb129d6516484540f00103f90118b39b8d02000000",
+      "name": "Carretera General 3",
+      "city": "Sornás",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5631835,
+        "lon": 1.5275348
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carretera General 3, AD300 Sornás, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e30d7a803859f83f593025372ff3404540f00103f901fe0308180100000092032d416e746967612070726573c3b3206465206c6120436173612064656c20517561727420287365676c6520313829",
+      "name": "Antiga presó de la Casa del Quart (segle 18)",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5074214,
+        "lon": 1.5217824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Antiga presó de la Casa del Quart (segle 18), Avinguda del Princep Benlloch, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513128d36872d1f73f59a2725d424f3d4540f00103f901b19460bb00000000920322566961206665727261646120546f7373616c204772616e2064274169786f76616c6c",
+      "name": "Via ferrada Tossal Gran d'Aixovall",
+      "city": "Aixovall",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4789813,
+        "lon": 1.4886345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Via ferrada Tossal Gran d'Aixovall, Accés via ferrada Tossal Gran d'Aixovall, AD600 Aixovall, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8a2de9dc6c7f73f59068f2562004a4540f00103f90132675b2d03000000",
+      "name": "Arinsal - Percanela - les Fonts - Pla de l'Estany - Arinsal",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5781367,
+        "lon": 1.4862734
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Arinsal - Percanela - les Fonts - Pla de l'Estany - Arinsal, AD400 Arinsal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51780e65a88ae9f83f593fc978ef03454540f00103f901aaaf8f4802000000",
+      "name": "Estall a Neres",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5391826,
+        "lon": 1.557017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Estall a Neres, AD400 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c1ae6badf77f83f597a5d75d31c414540f00103f901da16f81c0100000092030e456c206d657520756e6976657273",
+      "name": "El meu univers",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5086922,
+        "lon": 1.5292661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "El meu univers, Plaça la Rotonda, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126c86361e355f83f59f0124141ce404540f00103f9011844c9550100000092030c4a61756d6520506c656e7361",
+      "name": "Jaume Plensa",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5062944,
+        "lon": 1.5209688
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Jaume Plensa, Carrer del Consell General, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51889bf80f8e5ef83f594445e6dbcc404540f00103f901ce66e48902000000",
+      "name": "Carrer Prat de la Creu",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5062518,
+        "lon": 1.5230847
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carrer Prat de la Creu, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d4468041b37f93f597cfc941925434540f00103f901e0f3e29302000000",
+      "name": "Camí de les Pardines (peatonal)",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5245697,
+        "lon": 1.5759535
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camí de les Pardines (peatonal), AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e013ff4eed9f83f59a2d9d028b84f4540f00103f901a68dbc5902000000",
+      "name": "Pista de Sorteny",
+      "city": "El Serrat",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6228076,
+        "lon": 1.5532064
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Pista de Sorteny, AD300 El Serrat, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b235b6323c71f83f59577c9e9a264c4540f00103f901a221e08b01000000920333506f6e7420646520706564726120692063696d656e7420616d6220686f6d65732064652062726f6e7a652069206772616e6974",
+      "name": "Pont de pedra i ciment amb homes de bronze i granit",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5949281,
+        "lon": 1.5276453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Pont de pedra i ciment amb homes de bronze i granit, Camí Ral d'Ordino, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51781e262bd058f83f59de18a7c6f0404540f00103f901949bef1103000000",
+      "name": "Carrer de la Vall",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5073479,
+        "lon": 1.5216829
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Carrer de la Vall, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f30ea6176b6ef83f592bdac12dc44b4540f00103f901cc22e08b010000009203204c27686f6d6d652d64652d6665722d74617570652d7175692d6368656d696e65",
+      "name": "L'homme-de-fer-taupe-qui-chemine",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5919244,
+        "lon": 1.5269576
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "L'homme-de-fer-taupe-qui-chemine, Camí Ral d'Ordino, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ccab61d64e3f73f5907c25fddc23b4540f00103f901722db78902000000",
+      "name": "Carretera de Certers - Nagol",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4668843,
+        "lon": 1.4930154
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carretera de Certers - Nagol, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c1f155a3157f83f59d1f35d00d0404540f00103f9017c81c95501000000",
+      "name": "Carrer Prat de la Creu",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5063477,
+        "lon": 1.5212873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carrer Prat de la Creu, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e7b0f971c97f83f590a37cfc76b414540f00103f90176252d8a02000000",
+      "name": "Passeig del Valira",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5111017,
+        "lon": 1.5368925
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Passeig del Valira, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51436c55b71f55f93f59a03ab1e2af444540f00103f901bd7f408a02000000",
+      "name": "Travessera del Jardí",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5366176,
+        "lon": 1.5832822
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Travessera del Jardí, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51618a7269fce2f83f59c1070a174d424540f00103f9016344e21103000000",
+      "name": "CG-2",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5179776,
+        "lon": 1.5554165
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "CG-2, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51539852f245d6f83f59df9bf05c293c4540f00103f90166d8ca59020000009203154d697261646f72202043616d702052616d6f6e6574",
+      "name": "Mirador  Camp Ramonet",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4700123,
+        "lon": 1.5523128
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador  Camp Ramonet, Camí de l'Estany de la Nou, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51495057d2e5c8f73f595fa7a2c2223e4540f00103f9019aaa2b0101000000",
+      "name": "Carrer Tossalet i Vinyols",
+      "city": "la Margineda",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4854358,
+        "lon": 1.4865473
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carrer Tossalet i Vinyols, AD500 la Margineda, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d3bce3141d69f83f5946cd57c9c7404540f00103f9016bb4c8550100000092030e4472206a6f73c3a92052697a616c",
+      "name": "Dr josé Rizal",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.506097,
+        "lon": 1.5256625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Dr josé Rizal, Camí Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb3f87f9f2a2f93f597f9afffc63444540f00103f9018f1d18f30000000092031e4d697261646f722064656c20426f7363206465206c657320416c6c617573",
+      "name": "Mirador del Bosc de les Allaus",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5343014,
+        "lon": 1.6022825
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Bosc de les Allaus, Carretera dels Cortals d'Encamp, AD200 Encamp, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af22a3039270f83f59cb3560ebad404540f00103f901d1c4e21103000000",
+      "name": "Rotonda els Marginets",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5053076,
+        "lon": 1.527483
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Rotonda els Marginets, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f05af8b0cdfcf83f596b30687cba3f4540f00103f90115590a230100000092031f56616c6c2064656c204d616472697520506572616669746120436c61726f72",
+      "name": "Vall del Madriu Perafita Claror",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4978786,
+        "lon": 1.5617196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Madriu Perafita Claror Valley, Pont d'Entremesaigües, AD700 les Escaldes, Andorra",
+      "description": "UNESCO Weltkulturerbe",
+      "image": null
+    },
+    {
+      "place_id": "51ca8d7d248056f83f59de318683ce404540f00103f9017d81c9550100000092030a53657420506f65746573",
+      "name": "Set Poetes",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5063023,
+        "lon": 1.5211183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Set Poetes, Carrer del Consell General, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6ecdc0fd399f83f592202695abd4e4540f00103f90106cb0c8a02000000920309657363756c74757261",
+      "name": "escultura",
+      "city": "El Serrat",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6151536,
+        "lon": 1.5375548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "escultura, Camí d'Ausany, AD300 El Serrat, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5105c99640a5a5f83f59f4fc69a33a414540f00103f9012c532d8a020000009203134d616e656c20566964616c20546f7272656e73",
+      "name": "Manel Vidal Torrens",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.509602,
+        "lon": 1.5404408
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Manel Vidal Torrens, Plaça de les Pubilles, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ee94889b854f83f593a611d22c9404540f00103f9017f81c95501000000",
+      "name": "Carrer del Pui",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5061381,
+        "lon": 1.5206838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Carrer del Pui, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b7c88fce995f83f5937610cf670414540f00103f901a3582d8a02000000",
+      "name": "Passeig del Valira",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5112598,
+        "lon": 1.5366001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Passeig del Valira, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51459f8f32e2a2f73f5900982144e84a4540f00103f901adf4e29302000000",
+      "name": "Arinsal - Percanela - les Fonts - Pla de l'Estany - Arinsal",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5852132,
+        "lon": 1.4772665
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Arinsal - Percanela - les Fonts - Pla de l'Estany - Arinsal, AD400 Arinsal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c21957b7d567f93f594688e1d9d4484540f00103f9011bd461250200000092031b4573747275637475726573204175746f67656e657261646f726573",
+      "name": "Estructures Autogeneradores",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5689957,
+        "lon": 1.5878503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Estructures Autogeneradores, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196a3117d8857f83f597d3782f9d0404540f00103f9017b81c95501000000",
+      "name": "Rotonda de Govern",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5063774,
+        "lon": 1.5213704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Rotonda de Govern, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51276bd44334faf73f59feaa6dd4543f4540f00103f90126ae0a8b02000000",
+      "name": "Carrer Verge del Remei",
+      "city": "Santa Coloma",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4947763,
+        "lon": 1.498585
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carrer Verge del Remei, AD500 Santa Coloma, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f344c659c767f83f597e41c17bfd3e4540f00103f9011626ac990200000092030c4361736120646520746f7473",
+      "name": "Casa de tots",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4921107,
+        "lon": 1.5253366
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Casa de tots, Carretera de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da53724eec41f83f596ac592cdb03a4540f00103f9016d9765590200000092031d4d697261646f7220536f6c616e6573206465206c612050656775657261",
+      "name": "Mirador Solanes de la Peguera",
+      "city": "Aixirivall",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4585206,
+        "lon": 1.5160945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador Solanes de la Peguera, Carretera de la Rabassa, AD600 Aixirivall, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4e85ecc3bb3f83f597e8e8f16673c4540f00103f9014f9f0d200200000092030f467572676f6e657461205657205431",
+      "name": "Furgoneta VW T1",
+      "city": "Aixirivall",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.471896,
+        "lon": 1.5437582
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Furgoneta VW T1, Carretera de la Rabassa, AD600 Aixirivall, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518989bc9b5d6df83f59881c1142f64f4540f00103f9017347261a0200000092032844696e6f206465206c6120706172726f71756961206465204f7264696e6f202854616d6172726f29",
+      "name": "Dino de la parroquia de Ordino (Tamarro)",
+      "city": "El Serrat",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6247027,
+        "lon": 1.5267006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Dino de la parroquia de Ordino (Tamarro), Carretera General 3, AD300 El Serrat, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5171c4ffc2976ef93f5914d2753cc1484540f00103f9014d12f36302000000",
+      "name": "Free View",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5683971,
+        "lon": 1.5895002
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Free View, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e9b919ca755f83f59ca69f40fc7404540f00103f9017981c95501000000",
+      "name": "Carrer del Consell General",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5060749,
+        "lon": 1.5209118
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carrer del Consell General, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5311b09d95ef83f59475dc6a8c6404540f00103f901f567e4890200000092030e53616d75656c2053616c6365646f",
+      "name": "Samuel Salcedo",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5060626,
+        "lon": 1.5231562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Samuel Salcedo, Carrer Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177fa9c1617a2f83f59c11da8531e414540f00103f9016566e4890200000092030443617073",
+      "name": "Caps",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.508738,
+        "lon": 1.5395728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Caps, Avinguda Carlemany, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51619a33ec41b2f83f59dbee2fcc53414540f00103f9012515a7e002000000",
+      "name": "Urbanització Sa Calma",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5103698,
+        "lon": 1.5435199
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Urbanització Sa Calma, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4d1d73dc3c5f83f59e7ad15c847414540f00103f90103b0e21103000000",
+      "name": "CG-2",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5100031,
+        "lon": 1.5482819
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "CG-2, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c13b54ae4b08f93f59669f6c6f5c414540f00103f90179665f5102000000",
+      "name": "Carretera d'Engolasters",
+      "city": "Engolasters",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5106334,
+        "lon": 1.5645253
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Carretera d'Engolasters, AD700 Engolasters, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51632bc313d536f93f59cc4f60f01f434540f00103f90133675f5102000000",
+      "name": "Camí de les Pardines (peatonal)",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5244122,
+        "lon": 1.5758868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Camí de les Pardines (peatonal), AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160c9552c7e53f93f59e6a03a0c9c444540f00103f901f87e408a02000000",
+      "name": "Carrer Perdut",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5360122,
+        "lon": 1.582884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carrer Perdut, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3d4d97f536ef93f5998fe8062bf484540f00103f9016d22d724020000009203094d697261646f722031",
+      "name": "Mirador 1",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5683406,
+        "lon": 1.5894351
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador 1, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514dd64dcef5a2f73f59fe7dc68503524540f00103f901a754a1d00100000092031a4d697261646f7220536f6c617220646520547269737461696e61",
+      "name": "Mirador Solar de Tristaina",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6407325,
+        "lon": 1.4772852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador Solar de Tristaina, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9b85917122bf83f59e77e3d15263f4540f00103f9013d7f85240200000092031a4d697261646f722064656c20526f6320646520536f6c6f627265",
+      "name": "Mirador del Roc de Solobre",
+      "city": "Santa Coloma",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4933497,
+        "lon": 1.5105153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Roc de Solobre, Vial (marcat vermell), AD500 Santa Coloma, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512acd412b8b7df83f59d065c5cb2e414540f00103f9010f1d3d5b0100000092030d506f6e74206465205061726973",
+      "name": "Pont de Paris",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5092406,
+        "lon": 1.5306503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont de Paris, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514404d2b47a3df73f59304f4244c53c4540f00103f901db8bb41e01000000",
+      "name": "Carretera del Coll de la Gallina",
+      "city": "Bixessarri",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4747701,
+        "lon": 1.4525096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carretera del Coll de la Gallina, AD600 Bixessarri, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c843012352cf93f5981c17f040f424540f00103f90133b63cbb000000009203154167756c6c6573206427456e676f6c617374657273",
+      "name": "Agulles d'Engolasters",
+      "city": "Engolasters",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5160833,
+        "lon": 1.5732928
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Agulles d'Engolasters, Camí de les Agulles d'Engolasters, AD700 Engolasters, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc557ce82721fa3f595529e219d9444540f00103f90145e2ccbc02000000920317506f6e74205469626574c3a02064e28099456e63616d70",
+      "name": "Pont Tibetà d’Encamp",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5378754,
+        "lon": 1.6330947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont Tibetà d’Encamp, Camí pleta dels onis, AD200 Encamp, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e304018d2ddff73f591da622ba0c3e4540f00103f901d723f58a02000000",
+      "name": "CG-1",
+      "city": "la Margineda",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4847634,
+        "lon": 1.4919868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "CG-1, AD500 la Margineda, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f2a919fe8f5f73f59aebdaa0e143f4540f00103f9013756078b02000000",
+      "name": "Camí del Riu Valira",
+      "city": "Santa Coloma",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4927996,
+        "lon": 1.4975363
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Camí del Riu Valira, AD500 Santa Coloma, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514bae62f19b62f83f5992088d60e3404540f00103f901a9f4e29302000000",
+      "name": "Unnic",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.506939,
+        "lon": 1.5240745
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Unnic, Carrer Prat de la Creu, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5413b4ca0adf73f597c71f3d7753a4540f00103f901d19765590200000092030e456c20436f6c6c206465204a6f75",
+      "name": "El Coll de Jou",
+      "city": "Fontaneda",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4567213,
+        "lon": 1.4798892
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "El Coll de Jou, Carretera de Fontaneda, AD600 Fontaneda, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5c0221a38dbf73f5990c3bbb77d3b4540f00103f901132db78902000000",
+      "name": "Avinguda Verge de Canòlich",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4647741,
+        "lon": 1.4910203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Avinguda Verge de Canòlich, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515083b3a5585ff83f59766b990cc7404540f00103f9012f67e4890200000092031c4d697175656c20416e67656c20506c616e617320526f73656c6cc3b3",
+      "name": "Miquel Angel Planas Roselló",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5060745,
+        "lon": 1.5232779
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Miquel Angel Planas Roselló, Carrer Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f84e71c1bea2f83f59444717409d404540f00103f901636f610301000000",
+      "name": "Ur. de La Plana",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5047989,
+        "lon": 1.5397327
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ur. de La Plana, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511d13735a016ff83f59d95f764f1e484540f00103f90187f7f82402000000",
+      "name": "Carretera General 3",
+      "city": "Ansalonga",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.563425,
+        "lon": 1.5271009
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Carretera General 3, AD300 Ansalonga, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119f6c5efb7a7f83f591c7c613255464540f00103f901e911f363020000009203104d697261646f722064274f7264696e6f",
+      "name": "Mirador d'Ordino",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.549475,
+        "lon": 1.5409469
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador d'Ordino, Carretera Coll d'Ordino, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f4c0c13575ff83f59b46a2112cf404540f00103f9019167e4890200000092030d4d616e6f6c6f2056616c646573",
+      "name": "Manolo Valdes",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5063193,
+        "lon": 1.5232764
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Manolo Valdes, Carrer Prada Casadet, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51515fe003856bf83f592e4b85c2b14b4540f00103f901cd22e08b0100000092031954657272612c20666572726f2c206169677561206920666f63",
+      "name": "Terra, ferro, aigua i foc",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5913623,
+        "lon": 1.5262499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Terra, ferro, aigua i foc, Camí Ral d'Ordino, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c1723b7cbc3f93f5977bcc96fd1494540f00103f901874d084b02000000920317506f6e74205469626574c3a02064652043616e696c6c6f",
+      "name": "Pont Tibetà de Canillo",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.576704,
+        "lon": 1.6103017
+      },
+      "categories": [
+        "fee",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont Tibetà de Canillo, Pont tibetà de Canillo, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127c7f88b344cf83f595c3eed4b91474540f00103f9014598145301000000920304526f636b",
+      "name": "Rock",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5591216,
+        "lon": 1.5186048
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rock, Cerretera del Collet dels Colls, AD400 La Massana, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160ed8387c478f83f59d873e3271f414540f00103f901a117f81c010000009203144c61206e6f626c657373652064752074656d7073",
+      "name": "La noblesse du temps",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5087633,
+        "lon": 1.5294843
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "La noblesse du temps, Plaça la Rotonda, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124bfd9418067f83f596dc1f7a34d414540f00103f9018511f36302000000",
+      "name": "Carrer Parc Guillemó",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5101819,
+        "lon": 1.5252688
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carrer Parc Guillemó, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0e2546b6156f83f5902be3676e4404540f00103f90181448e2402000000920311416e67656c2064656c2074746170657a69",
+      "name": "Angel del ttapezi",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5069721,
+        "lon": 1.521089
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Angel del ttapezi, Placeta Sant Esteve, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a639c31e2455f73f59f9eb5fa3f6444540f00103f901e1f3e29302000000",
+      "name": "CG-4",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5387768,
+        "lon": 1.4582864
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CG-4, AD400 Pal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a7f6ec383e1f73f5923224619bb3b4540f00103f901112db78902000000",
+      "name": "Carretera de Certers - Nagol",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4666473,
+        "lon": 1.4925573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carretera de Certers - Nagol, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194313ecc5e96f83f59a21f5734e7404540f00103f90185d4e21103000000",
+      "name": "Rotonda del Gall",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5070558,
+        "lon": 1.5367115
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Rotonda del Gall, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b30ea2105ca0f83f598710fc146c414540f00103f901d7c6708a02000000",
+      "name": "Carrer Josep Viladomat",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5111109,
+        "lon": 1.5391503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Carrer Josep Viladomat, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c514f6fe50daf83f59e366028fb94f4540f00103f9019142c9550100000092030b4573747269706167656373",
+      "name": "Estripagecs",
+      "city": "El Serrat",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.6228503,
+        "lon": 1.5532999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Estripagecs, Pista de Sorteny, AD300 El Serrat, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156dd7e541ed8f73f598bba206cc23c4540f00103f901a92cb78902000000920315c3806e67656c2070726563696265726ec3a8746963",
+      "name": "Àngel precibernètic",
+      "city": "Aixovall",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4746833,
+        "lon": 1.4902633
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Àngel precibernètic, Urbanització Prat de la Jaia, AD600 Aixovall, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518c214ac5108af83f594640852348414540f00103f901d5c6708a02000000",
+      "name": "Tunel Dama de Gel",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.510014,
+        "lon": 1.5337074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Tunel Dama de Gel, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107be58ce94ecf73f595a057b5dd03e4540f00103f9014156078b02000000",
+      "name": "CG-1a",
+      "city": "la Margineda",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4907338,
+        "lon": 1.4952591
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "CG-1a, AD500 la Margineda, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183c9e8dbdddef73f59fc349314fd3d4540f00103f9011977fa1502000000920314506f6e74206465206c61204d617267696e656461",
+      "name": "Pont de la Margineda",
+      "city": "la Margineda",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4842859,
+        "lon": 1.4919108
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont de la Margineda, AD500 la Margineda, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513da9e5bd20b8f63f594100ba79f4454540f00103f901d29765590200000092030e506f727420646520436162c3ba73",
+      "name": "Port de Cabús",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5465233,
+        "lon": 1.4199531
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Port de Cabús, CG-4, AD400 La Massana, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51918ce612586af83f5935632c2ee93e4540f00103f901355341250200000092030e416e6479202854616d6172726f29",
+      "name": "Andy (Tamarro)",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4914911,
+        "lon": 1.5259629
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Andy (Tamarro), Carretera de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51946357ff8c77f93f59b8ec6bb823454540f00103f9012cac987200000000",
+      "name": "CG-2",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5401526,
+        "lon": 1.5916872
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CG-2, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5132dcca5c2a60f83f5950ae84494c404540f00103f9014ac794190200000092031c4d697261646f722064656c20526f632064656c732053656e64657273",
+      "name": "Mirador del Roc dels Senders",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5023281,
+        "lon": 1.5234779
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Roc dels Senders, Rec de l'Obac, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9746671b584f83f5917d68d7747474540f00103f90145a5a8ab00000000",
+      "name": "Mirador del Centre Esportiu",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5568685,
+        "lon": 1.5323996
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Centre Esportiu, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bdf3d59f0e15f93f594852d2c3d0414540f00103f901513d854b0200000092031054616d6172726f202843616c64657329",
+      "name": "Tamarro (Caldes)",
+      "city": "Engolasters",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5141835,
+        "lon": 1.5676409
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tamarro (Caldes), Circuit de les Fonts, AD700 Engolasters, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e75ac527a26f93f59df50f86c1d474540f00103f901dd8db45902000000",
+      "name": "CS-340",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5555855,
+        "lon": 1.571894
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CS-340, AD300 Ordino, Andorra",
+      "description": "Table d'orientation",
+      "image": null
+    },
+    {
+      "place_id": "511c05145e3585f83f59b88f8f8f2a474540f00102f901cb32661200000000920312526f63c3b264726f6d2064274f7264696e6f",
+      "name": "Rocòdrom d'Ordino",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.55598635206064,
+        "lon": 1.5325215983323863
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "no_fee",
+        "no_fee.no",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rocòdrom d'Ordino, Cami de Santa Bàrbara, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc896bc6b355f83f591db34703d3404540f00103f90165091aec02000000920309437ac5826f7769656b",
+      "name": "Człowiek",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5064396,
+        "lon": 1.5209234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Człowiek, Carrer del Consell General, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": "https://photos.app.goo.gl/sjiMyRhZBJgqnULN6"
+    },
+    {
+      "place_id": "515be619a0d95af83f595184d4edec404540f00103f90107891aec0200000092031f5472616e73706172656e6369612e2050727a656a727a7973746fc59bc4872e",
+      "name": "Transparencia. Przejrzystość.",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5072305,
+        "lon": 1.5221802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Transparencia. Przejrzystość., 1 Rambla Molines, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": "https://photos.app.goo.gl/p4dzmb4g8g4Z5oEq9"
+    },
+    {
+      "place_id": "51c878944a7822f93f594c14c6bbc8424540f00103f90191a0615302000000920310456c73204a6f63732064276169677561",
+      "name": "Els Jocs d'aigua",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5217509,
+        "lon": 1.5709155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Els Jocs d'aigua, Camí de les Pardines (peatonal), AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5174886eac7a0ff83f592b0f779a713f4540f00103f9014bd7022602000000",
+      "name": "Camí del Riu Valira",
+      "city": "Santa Coloma",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4956544,
+        "lon": 1.5037791
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Camí del Riu Valira, AD500 Santa Coloma, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515209f42e8356f83f59e6d99bce04414540f00103f9013267e489020000009203056d7572616c",
+      "name": "mural",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5079592,
+        "lon": 1.5211212
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "mural, Carrer Doctor Nequí, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b43a39437167f93f598c70ee0ad8484540f00103f901c505a50f0000000092031b4573747275637475726573204175746f67656e657261646f726573",
+      "name": "Estructures Autogeneradores",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5690931,
+        "lon": 1.5877545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Estructures Autogeneradores, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd7e77e1bd59f83f597cdba73eeb404540f00103f9016fd4e2110300000092030e4a757374c3ad2047756974617274",
+      "name": "Justí Guitart",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5071791,
+        "lon": 1.5219096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Justí Guitart, Rambla Molines, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f066b224e5d3f73f59b353bd46dc3a4540f00103f901a997408a02000000",
+      "name": "CG-1",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4598473,
+        "lon": 1.4892322
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "CG-1, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514d8cc0b39873f83f5982caf8f7194c4540f00103f901d720e08b0100000092031046616dc3ad6c6961204a6f7264696e6f",
+      "name": "Família Jordino",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5945425,
+        "lon": 1.5282218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Família Jordino, Camí Ral d'Ordino, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517543ae2f6d73f93f59c678831e20464540f00103f901037bb9e8000000009203194d697261646f722064656c20546f6c6c2042756c6c69646f72",
+      "name": "Mirador del Toll Bullidor",
+      "city": "Meritxell",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5478552,
+        "lon": 1.5906803
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador del Toll Bullidor, Camí del Toll Bullidor, AD100 Meritxell, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc3b32569b3ff73f596d6fb72407464540f00103f9016df5e29302000000",
+      "name": "CG-4",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.547093,
+        "lon": 1.453029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CG-4, AD400 Pal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dafe95952665f93f59677e350708454540f00103f901d5b5368a02000000",
+      "name": "Carrer de Sant Romà",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5393075,
+        "lon": 1.587195
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carrer de Sant Romà, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515110e1044b3af93f59ce740a4d6d474540f00103f901b54e0f0e0300000092030c426f6c657420676567616e74",
+      "name": "Bolet gegant",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5580231,
+        "lon": 1.5767317
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bolet gegant, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c851964dc5ef83f59b43c0feece404540f00103f901cb66e4890200000092030c4a61756d6520506c656e7361",
+      "name": "Jaume Plensa",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.506315,
+        "lon": 1.5231594
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Jaume Plensa, Carrer Prat de la Creu, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b8015962ed3f93f59cb75093d51494540f00103f9015b399b7000000000",
+      "name": "CG-2",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5727917,
+        "lon": 1.6140581
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CG-2, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51167200587812f93f5998497952cb414540f00103f901313d854b02000000",
+      "name": "Circuit de les Fonts",
+      "city": "Engolasters",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5140174,
+        "lon": 1.5670093
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Circuit de les Fonts, AD700 Engolasters, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177764364a292f83f59d3591c846f414540f00103f901b5ed8b8a02000000",
+      "name": "Avinguda Consell d'Europa",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5112157,
+        "lon": 1.5357994
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Avinguda Consell d'Europa, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a7e8571dc4ef93f598ae8d7d64f434540f00103f9015df7e29302000000",
+      "name": "Camí de les Pardines (peatonal)",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.525874,
+        "lon": 1.5817532
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camí de les Pardines (peatonal), AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b386414fb9d8f73f599d668176873b4540f00103f901bbc3700a0100000092031848697374c3b2726961206465206c61204d61727261747861",
+      "name": "Història de la Marratxa",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4650715,
+        "lon": 1.4904111
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Història de la Marratxa, 7 Plaça de la Germandat, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511d67e43d18e2f73f59d227a897ce3b4540f00103f9010f2db78902000000",
+      "name": "Avinguda Verge de Canòlich",
+      "city": "Sant Julià de Lòria",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4672422,
+        "lon": 1.4926989
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Avinguda Verge de Canòlich, AD600 Sant Julià de Lòria, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ceaeb6eee374f93f593eec5a7498484540f00102f9011f9f2036000000009203144d697261646f7220526f632064656c2051756572",
+      "name": "Mirador Roc del Quer",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.567152542491826,
+        "lon": 1.5910376858473003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador Roc del Quer, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": "Panoramic view from valls de Montaup and  Valira d'Orient, from Soldeu until Encamp",
+      "image": null
+    },
+    {
+      "place_id": "51e710829f82adf73f5937c87fdcd9444540f00103f90135986559020000009203094d61636172756c6c61",
+      "name": "Macarulla",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5378986,
+        "lon": 1.4798609
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Macarulla, CG-4, AD400 Pal, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514645f7072567f93f598d203aa9d4484540f00103f9011f17d7240200000092031b4573747275637475726573204175746f67656e657261646f726573",
+      "name": "Estructures Autogeneradores",
+      "city": "Canillo",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5689899,
+        "lon": 1.5876818
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Estructures Autogeneradores, Carretera de Montaup, AD100 Canillo, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c72d8220e5ef83f5988a5dcd847464540f00103f90173252d8a02000000920311456c20706573206465206c61206c6c756d",
+      "name": "El pes de la llum",
+      "city": "Ordino",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5490676,
+        "lon": 1.5229627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "El pes de la llum, Avinguda del Lloser, AD300 Ordino, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7ff55478e74f83f59a197f67244404540f00103f901917dd0eb00000000",
+      "name": "Carretera de la Comella",
+      "city": "Andorra la Vella",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5020889,
+        "lon": 1.528456
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carretera de la Comella, AD500 Andorra la Vella, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d0ba47a2193f83f591ae148fb7a414540f00103f901e95c2d8a02000000",
+      "name": "Plaça dels Dos Valires",
+      "city": "les Escaldes",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5115656,
+        "lon": 1.5359206
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Plaça dels Dos Valires, AD700 les Escaldes, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db36e73b53e3f73f591025b5abeb474540f00103f90167ffb2d001000000920317566961206665727261646120436f6d6120642745727473",
+      "name": "Via ferrada Coma d'Erts",
+      "city": "La Massana",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5618796,
+        "lon": 1.4929993
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Via ferrada Coma d'Erts, Carretera d'Erts, AD400 Erts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e4883802170f83f59da4e006a0f4c4540f00103f901a321e08b010000009203194772616e20636172726f20646520466572726f206920506963",
+      "name": "Gran carro de Ferro i Pic",
+      "city": "Llorts",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.5942204,
+        "lon": 1.5273757
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Gran carro de Ferro i Pic, Camí Ral d'Ordino, AD300 Llorts, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51829e1738ea52f93f59224f92ae99444540f00103f901f77e408a02000000",
+      "name": "Carrer Perdut",
+      "city": "Encamp",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.53594,
+        "lon": 1.5827429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Carrer Perdut, AD200 Vila, Andorra",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d3f6afac3429f83f5967a3ce37fd3d4540f00103f9013b7f8524020000009203125069636120526f6d616e612031373237206d",
+      "name": "Pica Romana 1727 m",
+      "city": "Certers",
+      "country": "Andorra",
+      "country_code": "ad",
+      "coordinates": {
+        "lat": 42.4842901,
+        "lon": 1.51006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pica Romana 1727 m, Urbanització Certés, AD600 Certers, Andorra",
+      "description": null,
+      "image": null
+    }
+  ]
+}

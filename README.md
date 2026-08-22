@@ -100,4 +100,6 @@ The platform focuses on turning scattered travel planning into one centralized e
         │  Atlas    │   │ Data Source│   │   Images   │
         └───────────┘   └────────────┘   └────────────┘
 
+```
+
 ## Live url -: https://odoo-x-ldce-x-globetrotter-2026-rep.vercel.app/

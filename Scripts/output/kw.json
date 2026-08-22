@@ -1,0 +1,2748 @@
+{
+  "country_code": "kw",
+  "country_name": "Kuwait",
+  "boundary_place_id": "51948f38bfbcbf47405919d8744efd453d40f00101f901cba7040000000000c0020b9203064b7577616974",
+  "count": 145,
+  "places": [
+    {
+      "place_id": "517784d382170f48405989d8bb9a97123d40f00103f901da04d5ff0000000092031e7368757761696174682068617264776172652073686f702063656e746572",
+      "name": "shuwaiath hardware shop center",
+      "city": "Fahaheel",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0726258,
+        "lon": 48.117905
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "shuwaiath hardware shop center, Fahaheel, Street 3, 30, 53302, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b898e89392e4840590dca8f53cfb73c40f00103f90142ecd4ff0000000092031d64616d6d616d20496e6469616e2070617373706f7274206f6666696365",
+      "name": "dammam Indian passport office",
+      "city": "Az Zour - Sulah",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 28.7180073,
+        "lon": 48.3611309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "dammam Indian passport office, Gate 4, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e26ad53400f484059715f62878c123d40f00103f9016c06d5ff000000009203186b7577616974206d616e67616620436976696c20776f726b",
+      "name": "kuwait mangaf Civil work",
+      "city": "Fahaheel",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0724568,
+        "lon": 48.1191506
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "kuwait mangaf Civil work, Fahaheel, Street 1, 53302, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cad46e055e0248405908d6276f36903c40f00103f901ba4a4b2502000000",
+      "name": "Wafra Farms",
+      "city": "Wafra Residential",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 28.5633306,
+        "lon": 48.0184943
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wafra Farms, Street 745, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51758057026b0b4840597c6d04db9e593d40f00102f901048cba120000000092030c44686f7720486172626f7572",
+      "name": "Dhow Harbour",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.35008019311998,
+        "lon": 48.08920316002415
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dhow Harbour, Street 2 Lane 2, 20003, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514bbb873a6200484059c058840772633d40f00103f901fa4b8ce50200000092030d2250617065722220426f617473",
+      "name": "\"Paper\" Boats",
+      "city": "Dasman",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3884587,
+        "lon": 48.0029977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "\"Paper\" Boats, Sharq, Arabian Gulf Street, 13021, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e86d8aa6e0b484059e07b24ca83593d40f00103f901bb5ee4be00000000920319d8a7d984d985d8b1d983d8b220d8a7d984d8b9d984d985d98a",
+      "name": "المركز العلمي",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3496672,
+        "lon": 48.0893148
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The Scientific Center, Street 2 Lane 2, 20003, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5106a341806e0b4840599ceb5289384d3d40f00102f90124ad210a00000000920314416c2d48617368656d692d494920285368697029",
+      "name": "Al-Hashemi-II (Ship)",
+      "city": "Salwa",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.301643927330232,
+        "lon": 48.089309722947334
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.ship"
+      ],
+      "formatted_address": "Al-Hashemi-II (Ship), Salwa, Street 34, 25409, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc91fb67170748405984a8b17389573d40f00103f9016cb700790100000092031f53696c73616e20426f617420746f7572202d20314b4420283230206d696e29",
+      "name": "Silsan Boat tour - 1KD (20 min)",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3419411,
+        "lon": 48.0554018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Silsan Boat tour - 1KD (20 min), Maidan Hawalli, Arabian Gulf Street, 35908, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516532c115f500484059b180ae22483e3d40f00103f901d8b464000100000092030c4d61696e20636f6d70616e79",
+      "name": "Main company",
+      "city": null,
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2432882,
+        "lon": 48.0074794
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Main company, Industrial Subhan, Street 2, 46010, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51891b0126ba1d484059a8b118d066ea3c40f00103f9013307d5ff0000000092030e616c207a6f75722063656e746572",
+      "name": "al zour center",
+      "city": "Shalehat Dba'ayeh",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 28.9156313,
+        "lon": 48.2322433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "al zour center, Road 238, Shalehat Dba'ayeh, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51829b7bfe6a0c484059ccc529841f5a3d40f00103f901ac35ee630000000092031356696577206f66204b75776169742043697479",
+      "name": "View of Kuwait City",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3520434,
+        "lon": 48.0970152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View of Kuwait City, Street 1, 20003, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512123a0c2110948405931783d3d5b323d40f00103f901ab02193b01000000",
+      "name": "Tank",
+      "city": "Qurain",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1967047,
+        "lon": 48.0708545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tank, Al-Qurain, Street 3, 32068, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a970c4b16b00484059ca59f8c0ce633d40f00102f901905c652500000000920317d8a3d8a8d8b1d8a7d8ac20d8a7d984d983d988d98ad8aa",
+      "name": "أبراج الكويت",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.389873562462334,
+        "lon": 48.003286572378165
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kuwait Towers, Sharq, Arabian Gulf Street, 13021 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51666f84a0fe054840596dc5a3f908533d40f00103f901ccebf5010100000092030f53616c6d69796120626c6f77657273",
+      "name": "Salmiya blowers",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3243557,
+        "lon": 48.0468331
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Salmiya blowers, Maidan Hawalli, Abu Thar Al-Ghafari Street, 32001, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c7bd7a02f0b48405969a7e67283173d40f00103f901ed6469d90100000092030cd8a7d984d8afd988d8a7d985",
+      "name": "الدوام",
+      "city": "Ahmadi",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0918495,
+        "lon": 48.087391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "الدوام, Middle Ahmadi, Hamad Al Zuwayer Street, 60012 Ahmadi, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b975de62a0f48405908a23891aa113d40f00103f901ddaad5ff000000009203116d616e67616620436976696c20776f726b",
+      "name": "mangaf Civil work",
+      "city": "Ahmadi",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0690089,
+        "lon": 48.1184967
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "mangaf Civil work, Shuaiba, Khalid Alsfaih Road, 53302 Ahmadi, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f3e027ff80f4840592189a8d3cb153d40f00103f9017db4a72601000000",
+      "name": "Fahaheel",
+      "city": "Fahaheel",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0851414,
+        "lon": 48.124771
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fahaheel, Street 22, 63008, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec0d637726e34740591491065cfc083e40f00103f901a273bde5020000009203075261636f6f6e73",
+      "name": "Racoons",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0351007,
+        "lon": 47.7746114
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Racoons, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a89e16cd1409484059790ceab69f373d40f00103f901152f98fe000000009203055175736f72",
+      "name": "Qusor",
+      "city": "Qusour",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2172808,
+        "lon": 48.0709473
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Qusor, Al-Qusour, Street 12, 35706, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165ccb8043b0f484059552e54feb5123d40f00103f9013f05d5ff000000009203146d616e6761662068617264776172652073686f70",
+      "name": "mangaf hardware shop",
+      "city": "Fahaheel",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0730895,
+        "lon": 48.1189886
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "mangaf hardware shop, Fahaheel, Street 3, 53302, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177007ad0a20648405920eba9d557333d40f00103f9015117a01f01000000",
+      "name": "Bakkar",
+      "city": "West Abu Ftirah Hirafyia",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.200559,
+        "lon": 48.0518437
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bakkar, Wista, Street 25, 32068, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bea83869750f48405918bc9e9e2d283d40f00103f901e9bd49030100000092030c313138206d61676e6f6c6961",
+      "name": "118 magnolia",
+      "city": "Mahboula",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1569461,
+        "lon": 48.1207706
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "118 magnolia, Mahboula, Street 206, 54001, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc8179234e11484059dba73eeb75183d40f00103f90179aad5ff000000009203124b7577616974206d616e67656620726f6f6d",
+      "name": "Kuwait mangef room",
+      "city": "Mangaf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.0955493,
+        "lon": 48.1351971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kuwait mangef room, Mangaf, Street 26, 63008, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c04efbf72ae34740599eba4d1311093e40f00103f901a473bde502000000920307547572746c6573",
+      "name": "Turtles",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0354168,
+        "lon": 47.7747488
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Turtles, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ccd3b9a294d147405974ebda83b5843d40f00103f9012ad4a52401000000920306524f41442d47",
+      "name": "ROAD-G",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5183947,
+        "lon": 47.6373485
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-G, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183a7902bf52e48405951966b1b90b83c40f00103f9014da9d5ff00000000920307616c207a6f7265",
+      "name": "al zore",
+      "city": "Az Zour - Sulah",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 28.7209489,
+        "lon": 48.366857
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "al zore, Gate 4, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51608b82853801484059923cd7f7e1583d40f00103f90169cddca702000000",
+      "name": "mirror house",
+      "city": "Qadsiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.347198,
+        "lon": 48.0095374
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "mirror house, Qadsiya, Street 98, 32003, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115fa52ea1cfc4740594cbcd0110a613d40f00102f901683be82800000000920311d982d8b5d8b120d8a7d984d8b3d98ad981",
+      "name": "قصر السيف",
+      "city": "Sharq",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.379059899769615,
+        "lon": 47.96963242580038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Seif Palace, Sharq, Arabian Gulf Street, 13021, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513bbfcd870cd2474059459f8f32e2863d40f00103f90128d4a52401000000920306524f41442d55",
+      "name": "ROAD-U",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.526889,
+        "lon": 47.6410074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-U, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f5ab8acc223484059a0f76b578d6e3d40f00103f901ed61f1b10000000092031246362042726f6e7a65204167652073697465",
+      "name": "F6 Bronze Age site",
+      "city": "Failaka Island",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4318442,
+        "lon": 48.2793785
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "F6 Bronze Age site, Failaka Island, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139b9dfa128d2474059310cb32b88843d40f00103f9018ad4a52401000000920306524f41442d47",
+      "name": "ROAD-G",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5177028,
+        "lon": 47.641865
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-G, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517bbe66b96c0b484059ed10ffb0a5593d40f00103f901bd5ee4be0000000092031ad8afd8a7d98820d981d8a7d8aad8ad20d8a7d984d8aed98ad8b1",
+      "name": "داو فاتح الخير",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3501845,
+        "lon": 48.0892555
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.ship"
+      ],
+      "formatted_address": "Fatih Al-Khair Dhow, Street 2 Lane 2, 20003, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d78a36c7b9fa474059305a91e22d5d3d40f00103f9013292fc3a01000000",
+      "name": "Al Maqsab Gate",
+      "city": "Shuwaikh",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3639814,
+        "lon": 47.9587945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Al Maqsab Gate, Sour Street, 12170, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516616fc917dfc474059f1f274ae285f3d40f00103f9013871031301000000920315d8b3d8a7d8add8a920d8a7d984d8b5d981d8a7d8a9",
+      "name": "ساحة الصفاة",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3717145,
+        "lon": 47.9725821
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ساحة الصفاة, Qibla, 350, 13001 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51522c126e8dd1474059279ded7662893d40f00103f90126d4a52401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5366587,
+        "lon": 47.6371286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ff27a3029d04740597de71725e88d3d40f00103f90174c0902401000000920307524f41442d4141",
+      "name": "ROAD-AA",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5543235,
+        "lon": 47.626257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-AA, Jaber Al Ahmad Al Jaber Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5184899a43adef474059f10d2a1664483d40f00103f9019e5cca010100000092030a416c20666572646f7573",
+      "name": "Al ferdous",
+      "city": "Firdous",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2827772,
+        "lon": 47.8724751
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Al ferdous, Firdous, Ebrahim Bin Al-Aghlab Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173e7d374870b484059a802493371443d40f00103f901e7e8021301000000920317d8b4d8a7d8b7d8a620d8a7d984d985d8b3d98ad984d8a9",
+      "name": "شاطئ المسيلة",
+      "city": null,
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2673523,
+        "lon": 48.0900713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "شاطئ المسيلة, Street 10, 25600, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133ce95f727cb474059c42dd5bb2e663d40f00103f901eae7452a01000000920308524f4144202d204d",
+      "name": "ROAD - M",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3991506,
+        "lon": 47.5871572
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - M, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a8cab8031d1474059eb217596b4793d40f00103f9010272c72401000000920306524f41442d48",
+      "name": "ROAD-H",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4754118,
+        "lon": 47.6343232
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-H, Road H, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb7fca4285cc47405998a7cefe9b743d40f00103f9010e72c72401000000920307524f41442d4149",
+      "name": "ROAD-AI",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4555053,
+        "lon": 47.5978168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-AI, South Mitla, Road R, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511960d50fa0c8474059a7f22cf7b86f3d40f00103f901cc72c72401000000920306524f41442d49",
+      "name": "ROAD-I",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4364161,
+        "lon": 47.5673847
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-I, Road I, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b881f1c28cc64740592999f7938c7d3d40f00103f901a23fc72401000000920306524f41442d48",
+      "name": "ROAD-H",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4904263,
+        "lon": 47.5511707
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-H, Road H, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51419880046ad1474059e57d1ccd917f3d40f00103f9019e3fc72401000000920306524f41442d42",
+      "name": "ROAD-B",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4983185,
+        "lon": 47.6360479
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-B, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf3ad8ac44cd47405931d92e23ab6f3d40f00103f901eee7452a01000000",
+      "name": "Road E",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4362051,
+        "lon": 47.6036583
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162ecce24fb8c474059a696523cd3223d40f00103f9010e402f3b01000000",
+      "name": "Sabah Al-Ahmad Heritage Village",
+      "city": "Al Shejaya - Al Dubdiba - Al Mityahah",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1360357,
+        "lon": 47.1014143
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sabah Al-Ahmad Heritage Village, Sabah Al Salem Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa168c005dfc47405921b5e44c6e3d3d40f00103f90104941be60200000092030f436865786b2d696e205a6f6e652032",
+      "name": "Chexk-in Zone 2",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2399643,
+        "lon": 47.9715882
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chexk-in Zone 2, Thru Passport Control, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51578b998e4ac64740599a492fc5b0783d40f00103f9010440c72401000000920306524f41442d4e",
+      "name": "ROAD-N",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4714473,
+        "lon": 47.5491503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-N, Road N, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a25b5430cf1248405915191d9084cd3c40f00103f9016b015b0a01000000920308d8aed8a8d8b1d8a9",
+      "name": "خبرة",
+      "city": null,
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 28.802804,
+        "lon": 48.1469479
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "خبرة, Abu Khurjeen - Al Subayhiyah, Ahmadi Governorate, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f4fa84cd6e9474059f4273b472e1b3d40f00103f901da402f3b01000000",
+      "name": "Camel Race Track",
+      "city": null,
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1061749,
+        "lon": 47.8268524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Camel Race Track, شارع المطافي, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c1d3fafd3cd474059f0f384ca64793d40f00103f9010c72c72401000000920306524f41442d52",
+      "name": "ROAD-R",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4741942,
+        "lon": 47.6080226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-R, Road R, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f30ecd56cca47405904bc163e6c513d40f00103f90182402f3b01000000",
+      "name": "Horse Racing Track",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3180579,
+        "lon": 47.5814464
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Horse Racing Track, Street 8, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511fcf786c15ff474059f1a1444b1e613d40f00103f901263dc6720100000092030e416c2048616d726120546f776572",
+      "name": "Al Hamra Tower",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3793685,
+        "lon": 47.9928413
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Al-Hamra Tower, Sharq, Shuhada'a Street, 14أ, 13009 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c88c012379fc4740596363b9008f5f3d40f00103f901d29a97e502000000",
+      "name": "Qibla",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3732758,
+        "lon": 47.9724468
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Qibla, 350, 13001 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158cb9d9960fc4740593cc90c0a393d3d40f00103f90110ba1de60200000092030d5472616e73666572204465736b",
+      "name": "Transfer Desk",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2391516,
+        "lon": 47.971698
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Transfer Desk, To customs and exit, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c7dad4b8dca474059caa8328cbb693d40f00103f90128c5452a01000000920308524f4144202d204c",
+      "name": "ROAD - L",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.413018,
+        "lon": 47.582437
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - L, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b16fe6728e347405972439d0315093e40f00103f901c473bde502000000920303456d75",
+      "name": "Emu",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0354769,
+        "lon": 47.7746706
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Emu, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c265de96bcc47405918c27b58b96f3d40f00103f901ce72c72401000000920307524f41442d4149",
+      "name": "ROAD-AI",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4364219,
+        "lon": 47.5970432
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-AI, Road I, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511820764b17c9474059f3a15577767d3d40f00103f901a33fc72401000000920306524f41442d48",
+      "name": "ROAD-H",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4900889,
+        "lon": 47.5710234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-H, Road H, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eeea556474cf474059aa656b7d91743d40f00103f9010372c72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.455345,
+        "lon": 47.6207395
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51472465e65dca4740597b38375c9a6f3d40f00103f9010472c72401000000920306524f41442d49",
+      "name": "ROAD-I",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4359491,
+        "lon": 47.5809906
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-I, Road I, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519619805715ce4740595450f63bb97b3d40f00103f901a43fc72401000000920306524f41442d52",
+      "name": "ROAD-R",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4832952,
+        "lon": 47.6100263
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-R, Road R, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517df43c6eaecc474059f2ac495c6c6f3d40f00103f901a03fc72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4352472,
+        "lon": 47.5990732
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road I, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cb521b53ffc4740592ca4575e4d3d3d40f00103f901288288e50200000092030d566973612049737375616e6365",
+      "name": "Visa Issuance",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2394618,
+        "lon": 47.9706942
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Visa Issuance, To the lounge, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2e0777874d147405966a4de5339873d40f00103f90189d4a52401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5282185,
+        "lon": 47.6363669
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51456e3c8ed5c9474059583f9182026a3d40f00103f901ece7452a01000000920308524f4144202d2051",
+      "name": "ROAD - Q",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4141008,
+        "lon": 47.5768297
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - Q, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514aa4236f6fce47405960e5d022db713d40f00103f901ca72c72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.44475,
+        "lon": 47.6127757
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159de550f98cb474059fb22a12de7763d40f00103f9011072c72401000000920306524f41442d50",
+      "name": "ROAD-P",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.464465,
+        "lon": 47.590578
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-P, South Mitla, Road P, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fe9dedd11be74740598031b66b9d253d40f00103f901661778180100000092030ad8acd8a7d8bad988d8b1",
+      "name": "جاغور",
+      "city": null,
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1469333,
+        "lon": 47.8055365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Jagoor, شارع المطافي, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f364b1300cc474059224ac5104a7d3d40f00103f9010a72c72401000000920306524f41442d48",
+      "name": "ROAD-H",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4894114,
+        "lon": 47.5937523
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-H, Road H, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180a378f06ed047405975b63643608d3d40f00103f90125d4a52401000000920306524f41442d43",
+      "name": "ROAD-C",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5522501,
+        "lon": 47.6283856
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-C, Jaber Al Ahmad Al Jaber Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed050bccafd1474059e9d7d64fff8d3d40f00103f90173c0902401000000",
+      "name": "ROAD-AA",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.554677,
+        "lon": 47.6381774
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-AA, Jaber Al Ahmad Al Jaber Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ada00ed022e34740590380be8811093e40f00103f901b973bde5020000009203054475636b73",
+      "name": "Ducks",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0354238,
+        "lon": 47.7744999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ducks, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51912749d74cc647405921fd9bbc6d793d40f00103f9010872c72401000000920306524f41442d4e",
+      "name": "ROAD-N",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4743307,
+        "lon": 47.54922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-N, Road N, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51763b5684f6cf474059f7f763a4288d3d40f00103f901f9406b2801000000920313524f41442d452046696e69736820706f696e74",
+      "name": "ROAD-E Finish point",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5514014,
+        "lon": 47.6247106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-E Finish point, Road E, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512515d742dad147405939471d1d578d3d40f00103f90111d0902401000000920306524f41442d43",
+      "name": "ROAD-C",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5521105,
+        "lon": 47.6394733
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-C, Jaber Al Ahmad Al Jaber Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2e9b12d03fb474059193735d07c5e3d40f00103f90110402f3b01000000",
+      "name": "Yaum Al Bahhar Village",
+      "city": "Shuwaikh",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.369092,
+        "lon": 47.9610345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Yaum Al Bahhar Village, Arabian Gulf Street, 12170, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b03db32440d1474059ba66f2cd367f3d40f00103f901bec4ac300100000092030f526f61642d5420636f6e6372657465",
+      "name": "Road-T concrete",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.49693,
+        "lon": 47.63477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Road-T concrete, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51892692ee6ce3474059f663f39ac5083e40f00102f9017f1c2d50000000009203044661726d",
+      "name": "Farm",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.03426521722937,
+        "lon": 47.776761838305056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Farm, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5116d5c7e82505484059732d5a80b6573d40f00103f901db7c38b001000000920328536865696b6820416264756c6c616820416c2053616c656d2043756c747572616c2043656e747265",
+      "name": "Sheikh Abdullah Al Salem Cultural Centre",
+      "city": "Salmiya",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3426285,
+        "lon": 48.0402194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sheikh Abdullah Al Salem Cultural Centre, Shaab, 35;127, 30004, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f8935a671e34740599f89552877083e40f00103f901c873bde50200000092030d506c616e74204e757273657279",
+      "name": "Plant Nursery",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0330682,
+        "lon": 47.7769058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plant Nursery, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c4597dccdc94740597b0ed18d55673d40f00103f90129c5452a01000000920308524f4144202d2051",
+      "name": "ROAD - Q",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4036492,
+        "lon": 47.5765949
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - Q, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ef4d25e8ecf47405977c47cd4ba723d40f00103f901ef2e7e2401000000920306524f41442041",
+      "name": "ROAD A",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4481633,
+        "lon": 47.6215323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD A, 635, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8cb3f9f6dd147405930dae38574863d40f00103f901edd4a52401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5252155,
+        "lon": 47.6361579
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149cf3ea07dd347405914aa40d24c863d40f00103f9016b724b7d01000000",
+      "name": "Sr",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5246097,
+        "lon": 47.6522713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sr, Jaber Al Ahmad Al Jaber Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c1e6b46068c474059e89c4429c61c3d40f00103f901750f1c720100000092031bd8a7d984d985d988d8b1d988d8ab20d8a7d984d8b4d8b9d8a8d98a",
+      "name": "الموروث الشعبي",
+      "city": "Al Shejaya - Al Dubdiba - Al Mityahah",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1123987,
+        "lon": 47.0939415
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "الموروث الشعبي, Sabah Al Salem Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c164f4ed6eda4740595c0cd41863563d40f00103f90121b52f1501000000920322d8add8afd98ad982d8a920d8a7d984d982d8b5d8b120d8a7d984d8b9d8a7d985d8a9",
+      "name": "حديقة القصر العامة",
+      "city": "Qasr",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3374496,
+        "lon": 47.7065103
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "حديقة القصر العامة, Qasr, Maskeen Al Darmi Street, 03200, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af496d9857e3474059364e548039083e40f00103f901c773bde5020000009203044261726e",
+      "name": "Barn",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0321274,
+        "lon": 47.7761107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barn, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51231faadf3bc6474059d8e95102ac733d40f00103f9010772c72401000000920306524f41442d4e",
+      "name": "ROAD-N",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4518434,
+        "lon": 47.5487022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-N, Road I, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519fd9bffc5fcb47405989a0c5addd713d40f00103f9010640c72401000000920306524f41442d50",
+      "name": "ROAD-P",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4447888,
+        "lon": 47.5888668
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-P, South Mitla, Road K, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ed72bd1fefc4740599882da1434623d40f00103f901055992e50200000092030d53686970206d6f6e756d656e74",
+      "name": "Ship monument",
+      "city": "Sharq",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3836072,
+        "lon": 47.9765264
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ship monument, Sharq, Arabian Gulf Street, 13021, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5116bf29ac54cc474059262e11b92a6c3d40f00103f9012bc5452a01000000920308524f4144202d2045",
+      "name": "ROAD - E",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4225269,
+        "lon": 47.596334
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - E, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ba180ed60d14740599e94ee53fa843d40f00103f90127d4a52401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5194447,
+        "lon": 47.6357705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c1c991297acb47405946329a4b607d3d40f00103f9010972c72401000000920306524f41442d48",
+      "name": "ROAD-H",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4897506,
+        "lon": 47.5896656
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-H, Road H, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123c0f3a202fb47405998d720fc7b5e3d40f00102f901b72246560000000092032dd982d8b1d98ad8a920d98ad988d98520d8a7d984d8a8d8add8a7d8b120d8a7d984d8aad8b1d8a7d8abd98ad8a9",
+      "name": "قرية يوم البحار التراثية",
+      "city": "Shuwaikh",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.369079359071833,
+        "lon": 47.961017960566345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Al Bahhar Entertainment Historical Village, Arabian Gulf Street, 12170, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107978e39cffb474059e1fc3cfceb5f3d40f00103f90141eaca0b01000000920311d8a8d98ad8aa20d8a7d984d8b3d8afd988",
+      "name": "بيت السدو",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3746946,
+        "lon": 47.9672615
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sadu House, Qibla, Arabian Gulf Street, 13001 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bdd616e52fc474059857b65deaa3d3d40f00103f901fe931be602000000920322436865636b2d696e205a6f6e65203120284669727374202620427573696e65737329",
+      "name": "Check-in Zone 1 (First & Business)",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2408885,
+        "lon": 47.9712656
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Check-in Zone 1 (First & Business), To check-in zone 1, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de1d19abcdf5474059a8d4db55fe413d40f00103f9012fb8fd7f0100000092030ed8a7d984d8add8b5d8a7d988d989",
+      "name": "الحصاوى",
+      "city": "Jaleeb Al Shoyoukh",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2577871,
+        "lon": 47.920339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "الحصاوى, Abbasiya, Mohammed Bin Al Qasim Road, 86355, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51196ab9d859fa474059eae74d452a5c3d40f00103f9014fdcfa3a01000000",
+      "name": "Cultural Centre Complex",
+      "city": "Shuwaikh",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.36002,
+        "lon": 47.9558669
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cultural Centre Complex, Arabian Gulf Street, 12170, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516198028871f4474059b011d264104d3d40f00103f901f59141120100000092030457696c6c",
+      "name": "Will",
+      "city": "Riggai",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3010314,
+        "lon": 47.9097147
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Will's Place, Riggai, Street 20, 85201, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea1b3d23b6ea474059e036099403623d40f00103f9015187b19602000000",
+      "name": "Doha shipwreck yard",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3828671,
+        "lon": 47.8336834
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Doha shipwreck yard, Doha Port, Sheikh Jaber Al-Ahmad Al-Sabah Causeway (Doha Link), Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51574bf03ca7fc4740591e407562c55f3d40f00103f901cd9a97e502000000920306546561706f74",
+      "name": "Teapot",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3741056,
+        "lon": 47.9738537
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Teapot, Qibla, Saud Bin Abdulaziz Street, 15005 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ff085c954c64740596bb4c12e2f7d3d40f00103f9010540c72401000000920306524f41442d4e",
+      "name": "ROAD-N",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4890012,
+        "lon": 47.5494625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-N, Road N, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e22021ca17f0474059b17e7dbe77453d40f00103f9011133ae1001000000",
+      "name": "Sabah Al Nasser",
+      "city": "Sabah Al-Nasser",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2713584,
+        "lon": 47.875726
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sabah Al Nasser, Street 30, 92400, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c2b8c88bdec474059f26492ec6c453d40f00103f901751b12840100000092030ad8a7d984d8b9d985d984",
+      "name": "العمل",
+      "city": "Sulaibiya Industrial 2",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2711933,
+        "lon": 47.8495341
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "العمل, Industrial Sulaibiya, Mother Of The Believers Aisha Bint Abi Bakr Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec6b5d6a84c6474059157fcae7cb6f3d40f00103f901b176c72401000000920306524f41442d49",
+      "name": "ROAD-I",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4367051,
+        "lon": 47.550916
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-I, Road I, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d992fa57fbcf474059d62f229bf5753d40f00103f9010240c72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4607789,
+        "lon": 47.6248579
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c06e224443ca4740596b77595d98663d40f00103f90127c5452a01000000920308524f4144202d204d",
+      "name": "ROAD - M",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4007624,
+        "lon": 47.5801778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - M, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519578e51f22e3474059f8b2a3271b093e40f00103f9017782bde502000000920305476f617473",
+      "name": "Goats",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0355706,
+        "lon": 47.7744789
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Goats, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127c929f004d14740591cebe2361a7a3d40f00103f9019f3fc72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4769625,
+        "lon": 47.6329632
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc9a58e02bcc4740597e9fbb6e5b6f3d40f00103f901a13fc72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4349889,
+        "lon": 47.595089
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road I, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178712c3938d1474059e5d8d53fe37f3d40f00103f9010172c72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4995613,
+        "lon": 47.6345283
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51610619b787d2474059c3352d67a5853d40f00103f90129d4a52401000000920306524f41442d55",
+      "name": "ROAD-U",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5220551,
+        "lon": 47.6447667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-U, Road U, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a445c71f56d1474059921914724a8d3d40f00103f90175d0902401000000920306524f41442d43",
+      "name": "ROAD-C",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.5519172,
+        "lon": 47.6354408
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-C, Jaber Al Ahmad Al Jaber Al Sabah Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4a34396bbfc474059d5f9015999603d40f00103f901cd5992e5020000009203184d7572616c20776f6d616e207769746820666c6f77657273",
+      "name": "Mural woman with flowers",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3773399,
+        "lon": 47.9744747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mural woman with flowers, Qibla, Ali Al-Salem Street, 15005 Kuwait City, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193e755f88ef84740592d8e6f9461553d40f00103f90125400cf600000000920304776f726b",
+      "name": "work",
+      "city": "Shuwaikh Industrial 1",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3335202,
+        "lon": 47.9418631
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "work, Street 8, 13003, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514510e7e104c847405906d847a7ae783d40f00103f901f908d62701000000920306526f61642d44",
+      "name": "Road-D",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.471415,
+        "lon": 47.562649
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Road-D, South Mitla, Road D, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128d3687231c64740596157ee601f703d40f00103f9010340c72401000000920306524f41442d4e",
+      "name": "ROAD-N",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4379788,
+        "lon": 47.548384
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-N, Road I, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ebd4b4e92d747405971c0536ddc6b3d40f00103f901a9b4ece50200000092031a4b696e64206f6620766965772066726f6d207468652068696c6c",
+      "name": "Kind of view from the hill",
+      "city": "Kazima",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4213322,
+        "lon": 47.6841524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kind of view from the hill, 6, 00032, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddde7f7566cc47405932923d42cd723d40f00103f901cd72c72401000000920307524f41442d4149",
+      "name": "ROAD-AI",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4484445,
+        "lon": 47.5968768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-AI, South Mitla, Road K, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51196140e54efc47405999e83ddf603d3d40f00103f901f9931be60200000092030f436865636b2d696e205a6f6e652033",
+      "name": "Check-in Zone 3",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2397594,
+        "lon": 47.9711577
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Check-in Zone 3, To the lounge, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519072e60de6cd474059a6dcd847027a3d40f00103f9010b72c72401000000920306524f41442d52",
+      "name": "ROAD-R",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4765973,
+        "lon": 47.6085832
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-R, Road R, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178094e7d20c94740596eec2301b46f3d40f00103f901cb72c72401000000920306524f41442d49",
+      "name": "ROAD-I",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4363404,
+        "lon": 47.571304
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-I, Road I, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e8210dabccb474059a1c5089744663d40f00103f901ede7452a01000000920308524f4144202d2045",
+      "name": "ROAD - E",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3994841,
+        "lon": 47.5917008
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - E, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c53c1f231f6474059ad5d24fe72453d40f00103f90103609dc602000000920311d8b5d8a7d984d988d98620d8b4d8b0d8b1",
+      "name": "صالون شذر",
+      "city": "Ardhiya 4",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2712859,
+        "lon": 47.9233993
+      },
+      "categories": [
+        "building",
+        "building.commercial",
+        "building.tourism",
+        "commercial",
+        "commercial.health_and_beauty",
+        "service",
+        "service.beauty",
+        "service.beauty.spa",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Salon shathar, Ardhiya 4, Mohammed Bin Al Qasim Road, 92400, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513dc21f3471cb474059f7d26fbac07a3d40f00103f901a53fc72401000000920306524f41442d50",
+      "name": "ROAD-P",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4795033,
+        "lon": 47.5893922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-P, South Mitla, Road P, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e019aad61fc474059fba3b95f4f3d3d40f00103f901228288e50200000092030f5669736120436f6c6c656374696f6e",
+      "name": "Visa Collection",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.2394924,
+        "lon": 47.9717309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Visa Collection, To customs and exit, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3923a014dfc474059e5b7e864a93d3d40f00103f901f5931be602000000920319436865636b2d696e205a6f6e652031202845636f6e6f6d7929",
+      "name": "Check-in Zone 1 (Economy)",
+      "city": "International Airport",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.240866,
+        "lon": 47.9711
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Check-in Zone 1 (Economy), To check-in zone 1, 81014, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f926f5b00cf4740599066d1e05b733d40f00103f901f573c72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4506207,
+        "lon": 47.6171984
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b2045a303d7474059a69293c91e593d40f00102f90117e1244e00000000920317d8a7d984d982d8b5d8b120d8a7d984d8a3d8add985d8b1",
+      "name": "القصر الأحمر",
+      "city": "Jahra",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.348126028564955,
+        "lon": 47.67979851603794
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Red Fort, Street 8 Lane 2, 00003 Jahra, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51410b09185dcb474059577c43e1b3693d40f00103f901ebe7452a01000000920308524f4144202d204c",
+      "name": "ROAD - L",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.412901,
+        "lon": 47.5887785
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - L, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc60cf8d9fcd474059ca7be6f6dc773d40f00103f9010d72c72401000000920306524f41442d52",
+      "name": "ROAD-R",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4682154,
+        "lon": 47.6064317
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-R, Road R, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5186c954c1a8d047405922d45636bd773d40f00103f901c972c72401000000920306524f41442d54",
+      "name": "ROAD-T",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4677309,
+        "lon": 47.63015
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-T, Road T, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51224ecc1f78cd47405907edd5c743773d40f00103f901dd77c72401000000920306524f41442d52",
+      "name": "ROAD-R",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.465878,
+        "lon": 47.6052284
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-R, South Mitla, Road R, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cf5d5cf45fcc4740591652d90b60713d40f00103f9010f72c72401000000920307524f41442d4149",
+      "name": "ROAD-AI",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4428718,
+        "lon": 47.5966783
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD-AI, South Mitla, Road K, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172593b40e6c94740593c7ce3b55c6f3d40f00103f901adf1452a01000000920308524f4144202d2051",
+      "name": "ROAD - Q",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4350084,
+        "lon": 47.5773392
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - Q, Road T, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51030af5f411cc474059646bc71eeb693d40f00103f9012ac5452a01000000920308524f4144202d2045",
+      "name": "ROAD - E",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4137439,
+        "lon": 47.594298
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ROAD - E, Road E, 00032 Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc3559a31ee347405910ccd1e3f7083e40f00103f901ab73bde502000000920306416c70616b61",
+      "name": "Alpaka",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0350325,
+        "lon": 47.7743725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Alpaka, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed8acf53d3d5474059e8f120e28b593d40f00103f90107d9c60d01000000",
+      "name": "jahara markaz",
+      "city": "Jahra",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3497907,
+        "lon": 47.6705117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "jahara markaz, Street 2, 00003 Jahra, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51acb47ba823e347405948bb760e0a093e40f00103f901b373bde5020000009203054475636b73",
+      "name": "Ducks",
+      "city": "Abdally",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 30.0353097,
+        "lon": 47.7745257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ducks, Abdulrahman Al-Safran Street, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e5f515b34da4740590cefcdca51553d40f00103f9012d31859d0100000092031ad985d986d8b2d98420d8a7d8a8d98820d98ad8b9d982d988d8a8",
+      "name": "منزل ابو يعقوب",
+      "city": "Qasr",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3332793,
+        "lon": 47.7047228
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "منزل ابو يعقوب, Qasr, Street 1, 03200, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2cf471971d14740597b38375c9a633d40f00103f90135412f3b01000000",
+      "name": "Jaber Al Ahmad Al Jaber Al Sabah Street",
+      "city": "Al Metlaa - Jal Al Atraf",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.3890741,
+        "lon": 47.636264
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jaber Al Ahmad Al Jaber Al Sabah Street, 00032, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c53bc09316cf47405941c120448d7b3d40f00103f9019325ca2801000000920319526f61642045206b617ac4b1206261c59f6c616e67c4b1c3a7",
+      "name": "Road E kazı başlangıç",
+      "city": "Al Mitla",
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.4826243,
+        "lon": 47.6178765
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Road E kazı başlangıç, Road E, Al Mitla, Kuwait",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51126c5cffaee64740593fada23f34253d40f00103f901cd237e0c01000000920306d8acd8a8d8af",
+      "name": "جبد",
+      "city": null,
+      "country": "Kuwait",
+      "country_code": "kw",
+      "coordinates": {
+        "lat": 29.1453285,
+        "lon": 47.8022155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "kabd, شارع المطافي, Kuwait",
+      "description": null,
+      "image": null
+    }
+  ]
+}

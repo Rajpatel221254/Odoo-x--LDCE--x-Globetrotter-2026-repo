@@ -1,0 +1,254 @@
+{
+  "country_code": "cf",
+  "country_name": "Central African Republic",
+  "boundary_place_id": "512de521f884ff33405906d26aed22211c40f00101f90116f1020000000000c0020b92031843656e7472616c204166726963616e2052657075626c6963",
+  "count": 13,
+  "places": [
+    {
+      "place_id": "51ad9a311697a234405962d0532e9edf2040f00103f9011e8984bd02000000",
+      "name": "RN 8",
+      "city": "Ndélé",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.4367537,
+        "lon": 20.6351179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RN 8, Ndélé, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2693f08b7a13440592074756ca9dc2040f00103f90151deabbc02000000",
+      "name": "office",
+      "city": "Ndélé",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.4309801,
+        "lon": 20.6316991
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "office, RN 8, Ndélé, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517cd9d1938d8834405907921c55f26e2040f00103f90116649abd02000000",
+      "name": "RN 8",
+      "city": "Kava",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.2166926,
+        "lon": 20.5334103
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RN 8, Kava, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167b34a77385d3040594b5a03a16fa20740f00102f90132079a4200000000920312447a616e676120426169204d697261646f72",
+      "name": "Dzanga Bai Mirador",
+      "city": "Bayanga",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 2.954314477839295,
+        "lon": 16.36414285253286
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dzanga Bai Mirador, Access to the Bai Hokou Camp, Bayanga, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9392f04efa634405997e5eb32fcb72040f00103f90119eeb6c00200000092030c5941464f2056494c4c414745",
+      "name": "YAFO VILLAGE",
+      "city": "Kava",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.359346,
+        "lon": 20.6520846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "YAFO VILLAGE, RN 8, Kava, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5129d7ca3ad291344059ba72ac414e822040f00103f901b90e6cc30200000092030a426973696e676f752032",
+      "name": "Bisingou 2",
+      "city": "Kava",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.2545033,
+        "lon": 20.5696141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bisinous 2, RN 8, Kava, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e852b70e690f324059ab1ed55526211040f00103f90195a82fb702000000",
+      "name": "Barthelemy Boganda memorial",
+      "city": "Botoko",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 4.0323728,
+        "lon": 18.0601968
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barthelemy Boganda memorial, RN 6, Botoko, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51993d1a98260c3240598600e0d8b37f1340f00103f901be97ce870000000092030b426f616c692066616c6c73",
+      "name": "Boali falls",
+      "city": "Bogbayo",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 4.8747095,
+        "lon": 18.0474639
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Boali falls, RN 1, Bogbayo, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e71890bddea1344059312592e865dc2040f00103f9010d9197bc02000000",
+      "name": "GozaMar 3",
+      "city": "Ndélé",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.430465,
+        "lon": 20.632305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "GozaMar 3, RN 8, Ndélé, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51945c0f705282334059857cd0b3598d1f40f00103f901512dc80802000000",
+      "name": "Bamingui-Bangoran",
+      "city": null,
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 7.8880375,
+        "lon": 19.5090704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Bamingui-Bangoran, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c25f213bd4230405907a348ade62f0740f00103f901aa25401e01000000",
+      "name": "Industrial Ruine (Forrestry)",
+      "city": "Bayanga",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 2.8983892,
+        "lon": 16.2606976
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Industrial Ruine (Forrestry), Access to the Bai Hokou Camp, Bayanga, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb7aba5faac038405931fac04472142040f00103f90183faa5a30100000092030463617665",
+      "name": "cave",
+      "city": null,
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 8.0399343,
+        "lon": 24.7525997
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "cave, Haut-Mbomou, Central African Republic",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510cec8c4a45903240596b15585b0c811140f00103f90171e707400100000092031053616c6c65206f6d6e6973706f727473",
+      "name": "Salle omnisports",
+      "city": "Bangui",
+      "country": "Central African Republic",
+      "country_code": "cf",
+      "coordinates": {
+        "lat": 4.3760237,
+        "lon": 18.5635573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Salle omnisports, Avenue des Martyrs, Bangui, Central African Republic",
+      "description": null,
+      "image": null
+    }
+  ]
+}

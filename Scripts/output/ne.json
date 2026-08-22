@@ -1,0 +1,1079 @@
+{
+  "country_code": "ne",
+  "country_name": "Niger",
+  "boundary_place_id": "516110a2c6cea5224059dc3c1faf51bc3140f00101f90112f1020000000000c0020b9203054e69676572",
+  "count": 56,
+  "places": [
+    {
+      "place_id": "51df991ab2cb010140594acc58d9e3062b40f00103f9016a61839c0100000092031b526f6e642d706f696e74205465727261696e204d7573756c6d616e",
+      "name": "Rond-point Terrain Musulman",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5134571,
+        "lon": 2.1258768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond-point Terrain Musulman, Rond-Point Ecobank, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137696608e6aa00405962039ee4d91f2b40f00102f90144130d2600000000",
+      "name": "Boulevard Tanimoune",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.562209266937945,
+        "lon": 2.083446565270744
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard Tanimoune, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d8a5a1a1daeb004059c01770e01f042b40f00103f901a831efa10000000092030d506c616365204d6f6e7465696c",
+      "name": "Place Monteil",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5080557,
+        "lon": 2.1151631
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Place Monteil, Avenue de l'Amitié, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd89c67f26c7ff3f59b8d969b5d11a2b40f00103f9015430710201000000",
+      "name": "N4",
+      "city": "Soudouré",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5523812,
+        "lon": 1.9861207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N4, Soudouré, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e5b8d91910801405910a8a388b1192b40f00103f901206d55340100000092031e506c616365204962726168696d20426172c3a9204d61696e617373617261",
+      "name": "Place Ibrahim Baré Mainassara",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5501826,
+        "lon": 2.1291839
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Place Ibrahim Baré Mainassara, Rond-Point Baré, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fa43bee97ac004059fd08097a72202b40f00102f90142130d2600000000",
+      "name": "Boulevard Tanimoune",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.563373387911719,
+        "lon": 2.0842741596175567
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard Tanimoune, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117ff2db76add00405969da0fc2ed062b40f00103f9014013300d01000000920327436f6f706572617469766520646573204d65746965727320642741727473206475204e69676572",
+      "name": "Cooperative des Metiers d'Arts du Niger",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5135327,
+        "lon": 2.1081137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Cooperative des Metiers d'Arts du Niger, Dr Boubé Gado, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149d1e97fdbb7004059f5f0195d0b212b40f00102f9019a59fc2600000000",
+      "name": "Boulevard Tanimoune",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.564539822975783,
+        "lon": 2.089774131129307
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard Tanimoune, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f76f86bb2f6004059abb9371a1b312b40f00103f901a6e2bfbb0100000092030a4b616e6761776579646f",
+      "name": "Kangaweydo",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5959099,
+        "lon": 2.1204575
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kangaweydo, N 24, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518bc80b44aa73004059d8648d7a881a2b40f00103f90178c63bbd000000009203154b6f7562696120706f7374652028616e6369656e29",
+      "name": "Koubia poste (ancien)",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5518225,
+        "lon": 2.0564771
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Koubia poste (ancien), N1, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7651b13bd270140597c49be6d01142b40f00103f901f205999901000000920316526f6e6420706f696e742053616c6f7520446a69626f",
+      "name": "Rond point Salou Djibo",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5390734,
+        "lon": 2.1444036
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond point Salou Djibo, Rond-Point Salou Djibo, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4b6c31506ab0040593369f8bb1cff2a40f00103f9011e7e462603000000920313526f6e642d706f696e7420313620706e657573",
+      "name": "Rond-point 16 pneus",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.4982661,
+        "lon": 2.0835077
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rond-point 16 pneus, Rue KR - 18, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517baea53627a50040596ad0e16b19222b40f00103f9017c63e4d402000000920313526f6e6420706f696e7420546f75726172c3a9",
+      "name": "Rond point Touraré",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5666002,
+        "lon": 2.0806412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond point Touraré, Boulevard Tanimoune, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131314c5c7d23154059c037972c38c52d40f00103f9017087603a0100000092031a4d6f6e756d656e74206465206c612052656e61697373616e6365",
+      "name": "Monument de la Renaissance",
+      "city": "Tahoua",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 14.8851942,
+        "lon": 5.2846579
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Monument de la Renaissance, Avenue Mamadou Tandja, Tahoua, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107ac66e77ea8184059d91fcdfd7a5a2f40f00103f9015d486be3020000009203054741525a4f",
+      "name": "GARZO",
+      "city": "Abalak",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 15.6767196,
+        "lon": 6.1645466
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GARZO, Abalak, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e66d421dc49034059cbe149c109ef2840f00103f9016948a625000000009203084d697261646f7265",
+      "name": "Miradore",
+      "city": "La Tapoa",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 12.4668713,
+        "lon": 2.4110644
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradore, Mékrou directe, La Tapoa, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173709f0bd98f004059a4b6c31506132b40f00103f9010dd3a1170100000092030d4e4947454c45432043454c4552",
+      "name": "NIGELEC CELER",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5371558,
+        "lon": 2.0702382
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "NIGELEC CELER, Rue KK - 63, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180b163c856dc004059b07db72f56162b40f00103f901e92624660100000092030c4761726265792048696e7a61",
+      "name": "Garbey Hinza",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5436263,
+        "lon": 2.1075874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5251a24f809004059e83d8615ba252b40f00102f901db65082600000000",
+      "name": "N1",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.573685333859387,
+        "lon": 2.0048678226928467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "N1, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f876a62b33a0144059f2930fe61b8a2b40f00103f901340b3f8c010000009203096d6f6e74616e676573",
+      "name": "montanges",
+      "city": "Birni N'Konni",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.7697441,
+        "lon": 5.1564452
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "mountain, N 1, Birni N'Konni, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51462b52bc25cc1840593c1405fa443e2f40f00103f9015e486be30200000092030c54414e41535341464f555445",
+      "name": "TANASSAFOUTE",
+      "city": "Abalak",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 15.62162,
+        "lon": 6.1993627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "TANASSAFOUTE, Abalak, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154761bdc0eda00405942599ed0300d2b40f00102f9012ee01e2600000000",
+      "name": "Boulevard du Zarmaganda",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.525763053254767,
+        "lon": 2.1064736553078465
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard du Zarmaganda, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c548e5dcdcfe0040595b51949570122b40f00103f9018d94774c01000000920318526f6e6420506f696e74204d616972696520476172616765",
+      "name": "Rond Point Mairie Garage",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5360152,
+        "lon": 2.1244447
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Rond Point Mairie Garage, Avenue de l'Azawak, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c93d5dddb1c8004059dfe7aedb56fb2a40f00102f9010fcd651300000000920314526f6e642d506f696e74204861726f62616e6461",
+      "name": "Rond-Point Harobanda",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.49089705,
+        "lon": 2.0979955
+      },
+      "categories": [
+        "leisure",
+        "leisure.park",
+        "leisure.park.garden",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rond-Point Harobanda, Pont Kennedy, Niamey, Kollo, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159d537d5ff1e0140593a9a7ee431022b40f00103f90129361f710100000092030c5361706b61204c6179697961",
+      "name": "Sapka Layiya",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5042869,
+        "lon": 2.1401364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sapka Layiya, Avenue du Damergou, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51049f3072600b154059a0788489f5c82d40f00103f901f91d8a3a01000000",
+      "name": "ROUTE BAMBAYE",
+      "city": "Tahoua",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 14.8924983,
+        "lon": 5.2611101
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ROUTE BAMBAYE, Tahoua, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117d9cef753fb1440594ccc69053ceb2c40f00103f90141a1a40f0200000092030d496c6c656c61206f756d616e69",
+      "name": "Illela oumani",
+      "city": "Illela",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 14.4594423,
+        "lon": 5.2454375
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Illela oumani, N15, Illela, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d8e1e8f86dc0040593cc20ad741042b40f00102f901908a232600000000",
+      "name": "Rue du Gawèye",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.508314819396325,
+        "lon": 2.1076785260391078
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue du Gawèye, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519027ee1dda2c0140591856968d73042b40f00103f90155fcb86201000000920319526f6e642d706f696e7420506f6c696365205365636f757273",
+      "name": "Rond-point Police Secours",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5086941,
+        "lon": 2.1469004
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond-point Police Secours, Ront Point Police Secours, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bcdfba47f9e0340593035f8b138ea2840f00103f9011314a62500000000",
+      "name": "Hôtel Tapoa",
+      "city": "La Tapoa",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 12.4574638,
+        "lon": 2.4523919
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hôtel Tapoa, La Tapoa, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51752d10f39bf8214059be94cb9074af2b40f00103f901d655df0c0100000092030c492e552e54207a696e646572",
+      "name": "I.U.T zinder",
+      "city": "Gézawa",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.8426862,
+        "lon": 8.9855648
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "I.U.T zinder, N11, Gézawa, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b94a1c1e679f004059436dc08cce1a2b40f00103f90155abd2c601000000",
+      "name": "Rue Alfa Hanafi Sekou Balibali",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5523571,
+        "lon": 2.0778334
+      },
+      "categories": [
+        "religion",
+        "religion.place_of_worship",
+        "religion.place_of_worship.islam",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights.place_of_worship"
+      ],
+      "formatted_address": "Rue Alfa Hanafi Sekou Balibali, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199f221a81af9214059ce46f8286daf2b40f00103f901a4b7de0c01000000920315556e69766572736974c3a9206465205a696e646572",
+      "name": "Université de Zinder",
+      "city": "Gézawa",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.8426297,
+        "lon": 8.9865315
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Université de Zinder, N11, Gézawa, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51294586b075d4004059e4de5740fc1f2b40f00103f901dfe0a8a0010000009203084661646120416461",
+      "name": "Fada Ada",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5624714,
+        "lon": 2.1037401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fada Ada, Boulevard Tanimoune, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117ff2db76add004059f63d8ff6e4062b40f00103f901a75087360100000092031863656e74726520646573206d657469657273206427417274",
+      "name": "centre des metiers d'Art",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5134656,
+        "lon": 2.1081137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "centre des metiers d'Art, Dr Boubé Gado, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2c9d2d8ddd9004059f9f7219ad60c2b40f00102f9012ce01e2600000000",
+      "name": "Boulevard du Zarmaganda",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.525074783941806,
+        "lon": 2.1063801707580234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard du Zarmaganda, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf0c1dff3fcf004059349946f4d5072b40f00102f901c966232600000000920314506c616365204e656c736f6e204d616e64656c61",
+      "name": "Place Nelson Mandela",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.51530421602056,
+        "lon": 2.1011962824573795
+      },
+      "categories": [
+        "leisure",
+        "leisure.park",
+        "leisure.park.garden",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Place Nelson Mandela, Kombo, Niamey, Kollo, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de98a70f03ab224059b80830cb0ee32b40f00102f901426c253300000000",
+      "name": "Baoraré",
+      "city": "Baoraré",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.943472241986782,
+        "lon": 9.334007729729304
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Baoraré, Mirriah, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512497ff907ecb1840593d49ba66f2552f40f00103f901f9476be3020000009203074249424c494c41",
+      "name": "BIBLILA",
+      "city": "Abalak",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 15.667865,
+        "lon": 6.198725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BIBLILA, Abalak, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c20a010a3f2201405987866aeff8ef2a40f00103f901cca8b58102000000920309326520436173736973",
+      "name": "2e Cassis",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.4686961,
+        "lon": 2.1417218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "2e Cassis, Avenue de l'Afrique, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51903b5bf6da220140596a98eb7e5f152b40f00103f90156db9c99010000009203094b6f6b6f726261646f",
+      "name": "Kokorbado",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5417442,
+        "lon": 2.1420192
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kokorbado, Rond-Point Koborba Do, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c2723788df7004059ddc8e13895052b40f00103f9010f249fa200000000920320506c616365204164616d6f75204d6f756d6f756e6920446a65726d616b6f7965",
+      "name": "Place Adamou Moumouni Djermakoye",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5109041,
+        "lon": 2.1208753
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Place Adamou Moumouni Djermakoye, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a015bdf84774004059e6a4411bca222b40f00103f901395907a30200000092030f506c61717565205461776169676e61",
+      "name": "Plaque Tawaigna",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.5679482,
+        "lon": 2.0567779
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plaque Tawaigna, Boulevard 3 (CS 124), Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197548bc155b10040595c919922e4202b40f00102f90147130d2600000000",
+      "name": "Boulevard Tanimoune",
+      "city": "Niamey",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.564240533109732,
+        "lon": 2.0865893479008935
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard Tanimoune, Niamey, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515135d5eeb2721c4059f502a21639f62a40f00103f901d104eaea00000000",
+      "name": "Avenue Seyni Kountche",
+      "city": "Maradi",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.4809043,
+        "lon": 7.1120107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue Seyni Kountche, Maradi, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e64760c2a7d0214059869f981b9e002a40f00102f901083f9624000000009203165265736964c3aa6e63696120646f2053756c74c3a36f",
+      "name": "Residência do Sultão",
+      "city": "May Damoussa",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.001206266766314,
+        "lon": 8.907529901745828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Residência do Sultão, N11, May Damoussa, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d5409055b9bfc3f5954d68052fe4b2a40f00103f9010bc6700201000000",
+      "name": "N6",
+      "city": "Torodi",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 13.1484247,
+        "lon": 1.7879286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N6, Torodi, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514cca38a16b2a244059b4eace6e88be3140f00103f901eaa28f1b0000000092031241726272652064752054c3a96ec3a972c3a9",
+      "name": "Arbre du Ténéré",
+      "city": "Tchirozérine",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 17.7442693,
+        "lon": 10.0828524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Tree of Ténéré, Tchirozérine, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a2986f5906e28405974df20109ef33340f00103f90117fead150100000092030e726f636b73747275637475726573",
+      "name": "rockstructures",
+      "city": "Bilma",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 19.9516306,
+        "lon": 12.2159497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "rockstructures, Bilma, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51457477d0078a28405994b7d9da13143540f00102f901ffbd692100000000920305446a616261",
+      "name": "Djaba",
+      "city": "Djaba",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 21.07842796149596,
+        "lon": 12.269590868551072
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Djaba, Bilma, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f505131fec9d284059baafcd0d18043540f00102f901f7c22d1600000000920305446a61646f",
+      "name": "Djado",
+      "city": "Djado",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 21.015992033687986,
+        "lon": 12.308442088195969
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Djado, Bilma, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4422be6d60e2040599031772d21013140f00103f9015d512b9202000000920307534f532047415a",
+      "name": "SOS GAZ",
+      "city": "Agadez",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 17.0044125,
+        "lon": 8.0289833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "SOS GAZ, X2P7+XM5, Agadez, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6b7431e1cef1f405949c961e6f1f83040f00103f901ef687d0701000000",
+      "name": "Trans-Sahara",
+      "city": "Agadez",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 16.9724411,
+        "lon": 7.9835057
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Trans-Sahara, Agadez, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc7fe6bd7be5294059edf2ad0feb2d3440f00103f901e764943001000000",
+      "name": "TAH 3",
+      "city": "Séguédine",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 20.179368,
+        "lon": 12.9482097
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "TAH 3, Séguédine, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c2e2cc94b9429405926fbe769c0d83340f00103f9011166943001000000",
+      "name": "Bilma",
+      "city": "Bilma",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 19.846686,
+        "lon": 12.7896407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bilma, Niger",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a51bc3305ba2840596f6ba86409ec3440f00102f901fdbd692100000000920306436869726661",
+      "name": "Chirfa",
+      "city": "Chirfa",
+      "country": "Niger",
+      "country_code": "ne",
+      "coordinates": {
+        "lat": 20.9220183287793,
+        "lon": 12.363320938814173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Chirfa, Bilma, Niger",
+      "description": null,
+      "image": null
+    }
+  ]
+}

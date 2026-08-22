@@ -1,0 +1,3886 @@
+{
+  "country_code": "af",
+  "country_name": "Afghanistan",
+  "boundary_place_id": "510d09cecf438f504059c64e78094ee24040f00101f90143a1040000000000c0020b92030b41666768616e697374616e",
+  "count": 199,
+  "places": [
+    {
+      "place_id": "51809707e9940d4f405976f551ee81f03e40f00102f9015a34072600000000",
+      "name": "Chehel Burj",
+      "city": "Zaranj",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 30.939482588777047,
+        "lon": 62.10610688086217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chehel Burj, historical route, Nimruz Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba6123e2a3ec4e40596e88357762b23e40f00102f901fc78661a00000000",
+      "name": "Qal-eh-i-Gawak",
+      "city": "Chahar Burjak",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 30.69681496674496,
+        "lon": 61.84875132300972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Qal-eh-i-Gawak, Chahar Burjak, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517af2ee1dbc2d4f4059488eec73e2283e40f00102f901fd78661a00000000920315d982d984d8b9db8020d9bed8a7d8afd8b4d8a7d987",
+      "name": "قلعۀ پادشاه",
+      "city": "Chahar Burjak",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 30.15970539593971,
+        "lon": 62.357303373025346
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Qala-ye Padshah, Chahar Burjak, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ad109fc3c7e504059f598edafc3fb4040f00103f901725f3e1c03000000",
+      "name": "Dahan Anbar",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9669094,
+        "lon": 65.9724722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Anbar, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6285888337b5040598871edfabbb74040f00103f90122fd811703000000",
+      "name": "Diktor sar kesaw",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.4354242,
+        "lon": 65.9250203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Diktor sar kesaw, سرک کیسو از دوراهی دهن رویان الی خیر آباد, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c014d4a6208550405905638e2febef4040f00103f90132e4f31c03000000",
+      "name": "Sar Sarma Qol",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8743648,
+        "lon": 66.0801179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sar Sarma Qol, سرک کاریزک از خوش علی الی تاله بید نو, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5174c300d3b380504059a07df66dd2f64040f00103f901805d3e1c03000000",
+      "name": "Wolangag sar ab",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9282968,
+        "lon": 66.0109756
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wolangag sar ab, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169520ababd8b5040592e5338279bf94040f00103f9019285f3f802000000",
+      "name": "Dahan gird bid",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9500474,
+        "lon": 66.183455
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan gird bid, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c40204183b8c5040595109997510f94040f00103f9017072f3f802000000",
+      "name": "Gird bid",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9458148,
+        "lon": 66.1911068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gird bid, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e42f2dea9389504059639b5434d6f54040f00103f901cc84f3f802000000",
+      "name": "Kharbidak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9205995,
+        "lon": 66.149653
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kharbidak, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f7c77bd5ca84504059617b1cbc65f74040f00103f901fae4f31c03000000",
+      "name": "Oshtur sang",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9327922,
+        "lon": 66.07488
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Oshtur sang, سرک خاک زنک از خاشمیران الی خاک زنک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51631a3c02ee715040596c578dcaf2ff4040f00103f901d20a5ff502000000",
+      "name": "Qurb ali",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9995969,
+        "lon": 65.7801519
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Qurb ali, 18 km road, Gazbire, Village of Khedir, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b08adc781c6d50405987a350bb04b44040f00103f9019649801703000000",
+      "name": "Khawja khidir",
+      "city": "Gharenj",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.4063944,
+        "lon": 65.7048628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Khawja khidir, سرک جوی غلامان از غرنج الی جوی غلامان, Gharenj, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164343c07e08c50405912d08e650bfb4040f00103f9015676f3f802000000",
+      "name": "Bidak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9612853,
+        "lon": 66.2011736
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bidak, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2fc818cd34e514059c4aabb2f81cc4040f00102f901b8a452210000000092031fd8af20daabd8b1d8afdb8cd8b220d8a8d8a7d984d8a720d8add8b5d8a7d8b1",
+      "name": "د ګردیز بالا حصار",
+      "city": "Gardez",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.597692457804015,
+        "lon": 69.23166191763042
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Gardez Bala Hesar, Gardez Chamkani Road, Gardez, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac71361d816e504059204196aa59f24040f00103f90182f8e3f502000000",
+      "name": "Kahur",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8933614,
+        "lon": 65.7266305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kahur, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51242e5b46454f514059f27dcc62bd454140f00103f90124cb3f990000000092032ed8b5d984d8ad20d8aed988d8b4d8a8d8aed8aadb8c20d8a7d8b3d8aa20506561636520697320486170696e657373",
+      "name": "صلح خوشبختی است Peace is Hapiness",
+      "city": "qali M.hasan khan Reka",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5448421,
+        "lon": 69.2386032
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "صلح خوشبختی است Peace is Hapiness, Kabul Ningarhar Road, 9th District, qali M.hasan khan Reka, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c440d7be004d514059a181583673414140f00103f901c426f096000000009203224772616666697469202c205261736f6c20416d697269206973204265747261796572",
+      "name": "Graffiti , Rasol Amiri is Betrayer",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5113285,
+        "lon": 69.2031705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Graffiti , Rasol Amiri is Betrayer, سرک کارته نو, 8th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5198796121a97351405944b3fc0ae3234140f00103f90170310d0803000000",
+      "name": "shahi kala Road شاهی کلا سرک",
+      "city": "Khudai Mir Kala",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2803663,
+        "lon": 69.8071979
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "shahi kala Road شاهی کلا سرک, Khudai Mir Kala, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f4240be84f6504059508072254c674140f00103f901e6a27cbd01000000",
+      "name": "Kakrak",
+      "city": "Bamian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8070113,
+        "lon": 67.851852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kakrak, SayedAbad Street, Bamian, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3dfc95d3acc504059283e88ae55694140f00103f901ae21d18601000000",
+      "name": "سرک پرجیک الی آب قول بالا",
+      "city": "Yakawlang",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8229273,
+        "lon": 67.1910624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "سرک پرجیک الی آب قول بالا, Bamyan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a39a572497c50405912cc8756dd204140f00103f901403c653c03000000",
+      "name": "Doldol",
+      "city": "Qal`ah-ye Sang-e Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2567547,
+        "lon": 65.9419829
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Doldol, Sarak Kotal Shahristan From Du Rahe Sangi Takht to Shina Maqbool, Qal`ah-ye Sang-e Takht, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b735d88aecc5504059c326d7b90e5d4240f00103f90176e3193801000000",
+      "name": "خانه کاکا",
+      "city": "Mazar-i-Sharif",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.7270119,
+        "lon": 67.0925624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "خانه کاکا, 6th Street, Mazar-i-Sharif, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510828c3a76f6f51405902278007ab144240f00103f901b2b3401d03000000920311d8b3db8cd8a7d98720daa9d988da86d987",
+      "name": "سیاه کوچه",
+      "city": "قریه شیخان",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.1614694,
+        "lon": 69.7411899
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "سیاه کوچه, دریا ولسوالی فرهنگ, قریه شیخان, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51391fe8b262735040590859164cfce74040f00103f901aaabd3f802000000",
+      "name": "Kata Derakht",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.812387,
+        "lon": 65.8028991
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kata Derakht, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160dff3684f825040592dcf83bbb3f54040f00103f9013a603e1c03000000",
+      "name": "Espi Sang",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9195475,
+        "lon": 66.0360968
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Espi Sang, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514bf1cef40e4a514059b351d26a79444140f00102f901eccfb54f00000000920311d982d984d8b9d98720d8a8d984d986d8af",
+      "name": "قلعه بلند",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5349553610753,
+        "lon": 69.15716285905107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Qal`ah-ye Biland, Khwaja Abdullah Ansari Avenue, 4th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51460e6cf099a7514059ae3c92dcab3b4140f00103f9010ee30d0e0300000092030145",
+      "name": "E",
+      "city": "Landa Boch",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.4661823,
+        "lon": 70.6187707
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "E, 13.841 km Shirgara Road, Landa Boch, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110c36e23aab95040599a89f42e4a624240f00102f9013cda6a5000000000",
+      "name": "Bala Hissar",
+      "city": "Balkh",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.76788889828022,
+        "lon": 66.90100942436789
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Bala Hissar, Bakhshor Muhmandan to Char sarak Balkh, Balkh, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b2b700d47f7504059c421c08ea4684140f00103f9018a1f429c02000000",
+      "name": "Abandoned btr",
+      "city": "Bamian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8175219,
+        "lon": 67.8637117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Abandoned btr, Bamyan Road from Sar Kotal Shibar to Bazar Wales Wali Yakawlang, Bamian, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511cbe3be8487e504059a8debf1eb81f4140f00103f901423c653c03000000",
+      "name": "Jawzi olya",
+      "city": "Qal`ah-ye Sang-e Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2478064,
+        "lon": 65.9731999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jawzi olya, Sarak Kotal Shahristan From Du Rahe Sangi Takht to Shina Maqbool, Qal`ah-ye Sang-e Takht, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115c67dd256094f405936ec5f82bc224140f00102f90146a4461a00000000920311d982d984d8b9db8020daa9d988d985d987",
+      "name": "قلعۀ کومه",
+      "city": "Guzara",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.27137784656263,
+        "lon": 62.072962104237526
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Qal`ah-ye Kumah, Guzara, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5181084db4c3174f4059f1f66431ca2d4140f00101f90110ef1c010000000092031a47617768617273686164204d7573616c6c6120436f6d706c6578",
+      "name": "Gawharshad Musalla Complex",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.35773293905175,
+        "lon": 62.18565992127788
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Gawharshad Musalla Complex, جاده مهتاب, 9th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169758f61621e4f4059ee7979e3e42f4140f00102f9012c375f3500000000",
+      "name": "Mirwaiz Sadeq tomb",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.37417262488803,
+        "lon": 62.23737735276047
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Mirwaiz Sadeq tomb, خیابان خواجه عبدالله انصاری, 8th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51287ff78e1a34514059a5f78daf3d574240f00103f901e41a77430000000092030848696c6c20343331",
+      "name": "Hill 431",
+      "city": "Kharuti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.68157,
+        "lon": 68.814121
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hill 431, 2.5 Km Road From Chahar Dara Main Road to Mama Khel, Kharuti, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c48dbcb274d514059c943f695d9414140f00102f9011257185900000000920318d985d8add985d8af20d986d8a7d8afd8b120d8b4d8a7d987",
+      "name": "محمد نادر شاه",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.514452691313245,
+        "lon": 69.2055539742882
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Mohammad Nadir Shah Tomb, سرک کارته نو, 8th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cea2c1b73a43514059be8d83013a164140f00102f901bcde781a00000000920311d8b4daa9d8a7d8b120d982d984d8b9d987",
+      "name": "شکار قلعه",
+      "city": "Mohammad Agha",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.173645199999996,
+        "lon": 69.05045885000001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Shikar Qal'ah, سرک شکارقلعه, Mohammad Agha, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba71e6c69e064f4059929c5d545b354140f00102f90144a4461a00000000920316d982d984d8b9db8020d8b3d98720d8a8d8b1d8acdaa9",
+      "name": "قلعۀ سه برجک",
+      "city": "Injil",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.416849656781,
+        "lon": 62.051720488092045
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Qal`a-i-Seh Burjak, Herat to Islam Qala Highway, Herat Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192369f84e3174f40592429e961682b4140f00103f901fce822e502000000920315daa9d986db8cd8b3d8a7db8c20db8cd988d8a2d988",
+      "name": "کنیسای یوآو",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.339123,
+        "lon": 62.1866308
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Yu Aw Synagogue, khyaban ebn sina, 14th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb0e1c26a11e4f4059e64f1e99f92f4140f00102f90118016135000000009203114e616d616b64616e20506176696c696f6e",
+      "name": "Namakdan Pavilion",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.3748046300896,
+        "lon": 62.23929287309689
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Namakdan Pavilion, خیابان خواجه عبدالله انصاری, 8th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f36c900dbcff4e405921440b495b6f4040f00102f90162d7661a00000000920308d8b3d8b1d8a7db8c",
+      "name": "سرای",
+      "city": "Khaki Safed",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 32.86997330713371,
+        "lon": 61.99792642166167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Saray, Khaki Safed, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510bfcf213180d4f40599b66cb03a2354140f00103f901f727e78601000000",
+      "name": "Herat to Islam Qala Highway",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.4190068,
+        "lon": 62.1022973
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Herat to Islam Qala Highway, 13th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2bd71add1ae504059c5cfdac8d00d4140f00103f90176213cb301000000",
+      "name": "Bande kosa",
+      "city": "Waras",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.1079341,
+        "lon": 66.7315477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bande kosa, Waras District Road from Qarya Tikhak to Sar Kotal Qunaq, Bamyan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e8a6544338d504059de16d11b93ed4040f00103f9019e94f7f202000000",
+      "name": "Tagag",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8560519,
+        "lon": 66.2062541
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tagag, سرک سیاه چوک از خربید الی اژدی, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51faa5a012664a5140598ddf094f18454140f00102f901fac0eb0b000000009203124b6f6c6f6c612050757368746120466f7274",
+      "name": "Kolola Pushta Fort",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.53980434400646,
+        "lon": 69.16248002708735
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kolola Pushta Fort, Taimani Street 3, 4th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140540921624f514059705a6fe5ab4d4140f00102f90142be7d1a00000000920311d982d984d8b9d98720d8b1d8b3d988d984",
+      "name": "قلعه رسول",
+      "city": "Deh Yahya",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.60680835663959,
+        "lon": 69.24036432181401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Qal`ah-ye Rasul, 11.45 km Gravel Road From Dorahi-e-Khwaja Chasht to Haji Sahib, Deh Yahya, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ce91093cb9d514059c04758af7d364140f00103f901b27fe49902000000",
+      "name": "Afghan Bacha Khan tomb",
+      "city": "Jalalabad",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.4257106,
+        "lon": 70.4655502
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Afghan Bacha Khan tomb, Jalalabad - Torkham Highway, Jalalabad, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a99d06b1589d514059d97745f0bf364140f00103f901ac42083c03000000",
+      "name": "sadam mobile",
+      "city": "Jalalabad",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.4277325,
+        "lon": 70.4585383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sadam mobile, Jalalabad - Torkham Highway, Jalalabad, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b6794d3c37f50405961ef0fa507fc4040f00103f901d55f3e1c03000000",
+      "name": "Polatak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9689833,
+        "lon": 65.9963273
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Polatak, 19.2 km Road Sangi takht ,Qala-i-Sangi to Kharparan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c367ebe0608550405974cd89e2faec4040f00103f901a992f7f202000000",
+      "name": "Kharaba Jarf Bala",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8514064,
+        "lon": 66.084038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kharaba Jarf Bala, سرک کاریزک از خوش علی الی تاله بید نو, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c97b30847777504059b9f9ebba5ce64040f00103f90115ff811703000000",
+      "name": "Allah Dad",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7997049,
+        "lon": 65.8666697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Allah Dad, سرک قولک از بله ویر الی قولک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f247ac20e184504059e31ea6d82cf84040f00103f90125e6f31c03000000",
+      "name": "Tatrangak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9388686,
+        "lon": 66.0762407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tatrangak, سرک خاک زنک از خاشمیران الی خاک زنک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f90269b57650504059040b163da6424140f00103f9017e8fd18d01000000",
+      "name": "NH67",
+      "city": "Firozkoh",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5206982,
+        "lon": 65.2572454
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "NH67, Firozkoh, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518fb6e0fb5170504059dea40e97c1214140f00103f9013e3c653c03000000",
+      "name": "Barghas",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2637204,
+        "lon": 65.7550039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Barghas, از دهن بر غس الی بر غس, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9524cc3afea504059b09c0346916a4240f00102f901a689501a0000000092030fd8b4d987d8b120d8a8d8a7d986d988",
+      "name": "شهر بانو",
+      "city": "Kholm",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.83255839516039,
+        "lon": 67.66697771504836
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Shahr-e Banu, Kholm, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9b9c4ec4076504059a63c049f300c4140f00103f901d25d653c03000000",
+      "name": "Shinia kakarak",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0952338,
+        "lon": 65.8477127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shinia kakarak, از دهن دوروب الی دهن گل خوجه, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fac962a87755040598f9d013ff4e14040f00103f901c984f3f802000000",
+      "name": "Bagh china",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7652663,
+        "lon": 65.8363749
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bagh china, سرک قولک از بله ویر الی قولک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a40bfb87be8250405950edc2c540ee4040f00103f90169e3f31c03000000",
+      "name": "Korga Kotal",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8613517,
+        "lon": 66.0428791
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Korga Kotal, سرک ولایتی از سرک شهرک الی تمزان, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515808066bf78a50405998231a93b4ef4040f00103f901b677f7f202000000",
+      "name": "Espandak",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8726982,
+        "lon": 66.1713512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Espandak, سرک سیاه چوک از خربید الی اژدی, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b971ea82e875040591f6f4d15e7f44040f00103f9010a72f3f802000000",
+      "name": "Dahan Khushkak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9133021,
+        "lon": 66.1122227
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Khushkak, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb270f0b35cd5040595f4b23c1af6b4140f00103f90176e890cc01000000",
+      "name": "سرک پرجیک الی آب قول بالا",
+      "city": "Yakawlang",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8413011,
+        "lon": 67.2063625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "سرک پرجیک الی آب قول بالا, Bamyan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4ac7d4b4a1c4f4059fa2d9512dd1c4140f00103f90185ae625601000000920315da86d987d8a7d8b1d8b3d98820daafd8b0d8b1d987",
+      "name": "چهارسو گذره",
+      "city": "Guzarah",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2254966,
+        "lon": 62.2210173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Сhahar Sou-e Gozareh, چهارسو گذره, Guzarah, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51144b8050cd214f4059d36c7940342d4140f00103f901d5806f9101000000",
+      "name": "Herat to Mazar-i-Sharif Road",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.3531571,
+        "lon": 62.2640782
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Herat to Mazar-i-Sharif Road, 11th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b60595021c7f5040590f6a7528f9ff4040f00103f901715f3e1c03000000",
+      "name": "Sar sorkhakanak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9997912,
+        "lon": 65.9860846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sar sorkhakanak, 19.2 km Road Sangi takht ,Qala-i-Sangi to Kharparan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514da7d0d4c674504059a7e617ca2eec4040f00103f901e1aad3f802000000",
+      "name": "Sewak marqoul",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8451779,
+        "lon": 65.8246357
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sewak marqoul, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b282df8698c55140591631ec3026104140f00103f9018508b0750100000092030fd8afd8b1db8220d8aedb8cd8a8d8b1",
+      "name": "درۂ خیبر",
+      "city": "Torkham",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.1261655,
+        "lon": 71.0874345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "درۂ خیبر, Jalalabad - Torkham Highway, Torkham, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5a997843084504059bb534b8457f44040f00103f90133e4f31c03000000",
+      "name": "Dahan Now dira",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9089208,
+        "lon": 66.0654613
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Now dira, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7afe76b168b504059646e089ff7f84040f00103f9019385f3f802000000",
+      "name": "Robat Olya",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9450568,
+        "lon": 66.1732435
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Robat Olya, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512601c523cc8d5040597098689082f44040f00103f9017172f3f802000000",
+      "name": "Peshdaram Olya",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9102345,
+        "lon": 66.2155847
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Peshdaram Olya, سرک سیاه چوک از خربید الی اژدی, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed97f49c99475140599a9e0b7e76444140f00103f9010821d91903000000",
+      "name": "11.3 km Asphalt road from Band-e-Qargha to Chahr Rahe Baraki",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5348661,
+        "lon": 69.1187508
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "11.3 km Asphalt road from Band-e-Qargha to Chahr Rahe Baraki, 5th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1668b5ad06e504059096b083312ee4040f00103f90111fae3f502000000",
+      "name": "Eilag",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8599304,
+        "lon": 65.7314669
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Eilag, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2f2cb600c8b5040599163eb19c2de4040f00103f901dd987e2203000000",
+      "name": "Tas Mahmood Village",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7402985,
+        "lon": 66.1726305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tas Mahmood Village, سرک دشت سنگ شانده از دشت سیاه توت الی جلگه, Nili, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f112f7b3b3184f4059fd67cd8fbf2c4140f00103f901b142083c03000000",
+      "name": "دیگ بخار شاپ",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.349596,
+        "lon": 62.1929841
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "دیگ بخار شاپ, Behzad Road, 5th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517da367c4967750405911d43abbc6e44040f00103f901b2fe811703000000",
+      "name": "Kayan",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7873148,
+        "lon": 65.8685771
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kayan, سرک قولک از بله ویر الی قولک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d1fcfd3a5ce504059f008b83187a84040f00103f901c0470e3b03000000",
+      "name": "Malestan",
+      "city": "Malestan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.3166258,
+        "lon": 67.2288713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Malestan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a1aaabde36d504059a1c9b4ecffef4040f00103f901adf9e3f502000000",
+      "name": "Dahan Kiti",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8749977,
+        "lon": 65.7170252
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Kiti, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3a7ad95083e514059df725f6df84a4140f00102f90172c7621700000000",
+      "name": "Paghman Hill Castle",
+      "city": "Paghman",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.58570639763433,
+        "lon": 68.96927396734809
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Paghman Hill Castle, 9km Sark-e-Sabiqa Paghman from Band-e-Qargha to Bazar Paghman, 14th District, Paghman, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fb37ff9bf82504059498f954edaf24040f00103f90179987e2203000000",
+      "name": "Sokhta Qol",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8972872,
+        "lon": 66.0429672
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sokhta Qol, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f306f3b2018c5040590d39115894f44040f00103f9015776f3f802000000",
+      "name": "Donalagak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9107771,
+        "lon": 66.1876037
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Donalagak, سرک علی شاهی از راه سرک الی پیشوک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51354b5d8d47725040599447dc0830f04040f00103f9011df8e3f502000000",
+      "name": "Sar Bom watma",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8764659,
+        "lon": 65.7856172
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sar Bom watma, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc3ef5592f7e50405978e45993b8fb4040f00103f901d75f3e1c03000000",
+      "name": "Giro Qol",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9665703,
+        "lon": 65.9716401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Giro Qol, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d3a986585870504059b8c60cf90cde4040f00103f90179ff811703000000",
+      "name": "Kharzar",
+      "city": "Karvansara-ye Pa'in",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7347709,
+        "lon": 65.7553922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kharzar, سرک انگورک از سر انگورک الی پای گوتل کرم سرای, Karvansara-ye Pa'in, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51530031aedd775040590f160445e2e14040f00103f9015576f3f802000000",
+      "name": "Qolak",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7647177,
+        "lon": 65.8729053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Qolak, سرک قولک از بله ویر الی قولک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ba9ec05304d51405939605793a7414140f00103f9018d66776101000000",
+      "name": "Mausoleum Sardar Sultan Mohammed Khan Telai",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5129265,
+        "lon": 69.2060561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Mausoleum Sardar Sultan Mohammed Khan Telai, سرک کارته نو, 8th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9b29068be4451405921971fb18c014140f00102f901bbde781a0000000092031cd9bed8a7d8a6db8cd98620d982d984d8b9d98720d988d8b2db8cd8b1",
+      "name": "پائین قلعه وزیر",
+      "city": "logar refugee comp",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.01210607569215,
+        "lon": 69.07412160998105
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Pa'inqal`a-i-Wazir, دمهاجرینودښارګوټی سرک نمبر09, logar refugee comp, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e53f9e81e104f4059a9143b1a872f4040f00103f9019d372efb02000000",
+      "name": "Road Sarak Marz Iran / Meel 78",
+      "city": "Farah",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 32.3713105,
+        "lon": 62.1259433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road Sarak Marz Iran / Meel 78, Farah, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51229c6049038450405988c0ecf9f5f64040f00103f90105e3f31c03000000",
+      "name": "Jim",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9293816,
+        "lon": 66.0627006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jim, سرک خاک زنک از خاشمیران الی خاک زنک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b18bfdc03085504059624f96b5a81a4140f00103f901995e653c03000000",
+      "name": "Dahan qotqoti",
+      "city": "Qal`ah-ye Sang-e Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2082736,
+        "lon": 66.0811007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan qotqoti, 18Km Road Dahane Mirdad to Qala-i-Sangi, Qal`ah-ye Sang-e Takht, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5102fc091d2a8c5040591fc99bb289f34040f00103f9019d94f7f202000000",
+      "name": "Khak Mohammad",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9026397,
+        "lon": 66.1900704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Khak Mohammad, سرک علی شاهی از راه سرک الی پیشوک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513590af60a8295140591ef012895d114140f00102f901411c771a00000000920313d8afd8b1db8cd8a7db8c20d984d988daafd8b1",
+      "name": "دریای لوگر",
+      "city": "Chaki Wardak",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.13566697525697,
+        "lon": 68.65090195793967
+      },
+      "categories": [
+        "natural.water.river_system",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "waterway",
+        "waterway.river_system"
+      ],
+      "formatted_address": "Logar River, Rehabilitaion 9.38 Km Road From Chak Main Road to Mayar Khel, Maidan Wardak Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a0d66b8a6194f4059a6e37b90af2c4140f00102f9011e51c23500000000920325d8b2d8a8d8a7d8b1d8aa20d8aed988d8a7d8acd98720d8b9d984db8c20d985d988d981d982",
+      "name": "زبارت خواجه علی موفق",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.3491078,
+        "lon": 62.20040039999999
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Tomb of Ali Mowaffaq, بلوار خواجه علی موفق, 1st District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b8fc93db84751405958e4d70fb13b4140f00103f901d165a18701000000",
+      "name": "13.4km Gulbagh Road from Chahar Rahi Pul Takhnic to Pul Gulbagh",
+      "city": "Tangi Saidan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.466341,
+        "lon": 69.1206202
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "13.4km Gulbagh Road from Chahar Rahi Pul Takhnic to Pul Gulbagh, 6th District, Tangi Saidan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199a729b88e76504059812b346b84e54040f00103f9012d85f3f802000000",
+      "name": "Dahan kayan",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7931036,
+        "lon": 65.8524609
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan kayan, سرک قولک از بله ویر الی قولک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185105be3fa4a51405992712f1b28404140f00102f9014567e40b000000009203134b6162756c204f6c6420436974792057616c6c",
+      "name": "Kabul Old City Wall",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.50122394386848,
+        "lon": 69.17156299489041
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kabul Old City Wall, Jafaria Street, 1st District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194f2ff4fea805040594d2cf015ddf24040f00103f901cde3f31c03000000",
+      "name": "Darband Bala",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.897372,
+        "lon": 66.0143013
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Darband Bala, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51076fb488cd3c514059bed5dfb746ef4040f00102f901dbe1781a00000000920308da86d988dabcdb8d",
+      "name": "چوڼۍ",
+      "city": "Qal`eh Now",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.86934565,
+        "lon": 68.95004479999999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Chawnay, از بنی سارا الی رستم خیل, Qal`eh Now, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ce8a5bd9c745040595c5a0d897beb4040f00103f9017daad3f802000000",
+      "name": "Mar Qoul",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8397075,
+        "lon": 65.8220667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mar Qoul, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51def532f97c7c51405986f0a006c0ea4040f00102f90177df701a00000000",
+      "name": "Amir Tanah",
+      "city": "پټان",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.83398516519905,
+        "lon": 69.94512777306178
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Amir Tanah, Danda Patan Gardiz Highway, پټان, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a259ea2394b5140591659141b18424140f00102f901022add0b0000000092032ad8af20d8aadb8cd985d988d8b120d8b4d8a7d98720d8afd8b1d8a7d986d98a20d985d982d8a8d8b1d987",
+      "name": "د تیمور شاه دراني مقبره",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.51636065000109,
+        "lon": 69.17539277500023
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Timur Shah Mausoleum, Andarabi Road, 2nd District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f08b4b555af450405978ca0f012c6a4140f00103f901f3dd8b070100000092032ed8aad986d8afdb8cd8b3e2808cd987d8a7db8c20d8a8d988d8afd8a720d8afd8b120d8a8d8a7d985db8cd8a7d986",
+      "name": "تندیس‌های بودا در بامیان",
+      "city": "Bamian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8294679,
+        "lon": 67.8180135
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Buddhas of Bamiyan, Bamyan Road from Sar Kotal Shibar to Bazar Wales Wali Yakawlang, Bamian, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515dc47762566a5140597172bf43514d4140f00103f901d325f2c701000000",
+      "name": "Kabul - Jalalabad Highway",
+      "city": "Surobi",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.6040425,
+        "lon": 69.6615225
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kabul - Jalalabad Highway, Kabul Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fd3403d47735040596b6a3414d2094140f00103f9010f3b653c03000000",
+      "name": "Pay kajak",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0767236,
+        "lon": 65.8012231
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pay kajak, V220730, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187dfdf666d315140597972d8aa7bf54040f00102f901dde1781a0000000092031ad8aed8b1d8a7d8a8d98720d986d988d8b120d8aed8a7d986db8c",
+      "name": "خرابه نور خانی",
+      "city": "Baraki Rijan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.91783652847966,
+        "lon": 68.77230235922444
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Kharaba-i-Nurkhanay, R.M Chahar Rahi Zaqom Khil to Topak Village, Baraki Rijan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518c6a1151cc43514059caf7318bf54f4140f00103f901bf10e38801000000",
+      "name": "سرک عمومی شمالی الی باغ اعلی حضرت",
+      "city": "Bala Karez",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.6246809,
+        "lon": 69.0593455
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "سرک عمومی شمالی الی باغ اعلی حضرت, 17th District, Bala Karez, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d8744efdcda651405998d3afbecb3b4140f00103f901d1d90d0e03000000",
+      "name": "13.841 km Shirgara Road",
+      "city": "Landa Boch",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.4671553,
+        "lon": 70.6063226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "13.841 km Shirgara Road, Landa Boch, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141a264cd23c85040592855ec7948564240f00103f9015f59fd2f01000000",
+      "name": "پارک خالد بن ولید",
+      "city": "Nahri Shahi",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.6740868,
+        "lon": 67.1271852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "پارک خالد بن ولید, Tangi Shadyan to Chowk Shama, Balkh Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6c695c423c7504059038c78fc285a4240f00103f9017114fe2f01000000",
+      "name": "کباب",
+      "city": "Mazar-i-Sharif",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.7043758,
+        "lon": 67.1115581
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "کباب, улица Шадиан, Mazar-i-Sharif, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d096275fdbe5040594ee1dedb5b554240f00102f901ebce030900000000920313d982d984d8b9d987d99020d8acd986daafdb8c",
+      "name": "قلعهِ جنگی",
+      "city": "Dehdadi",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.66686581023042,
+        "lon": 66.98421988080891
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Qala-i-Jangi, از جهارسرک-کودبرق الی پل بایو, Dehdadi, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513dfec176667850405927405e59b3f74040f00103f9019185f3f802000000",
+      "name": "Nawa Aspan",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9351608,
+        "lon": 65.8812539
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nawa Aspan, 18 km road, Gazbire, Village of Khedir, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5198384dfad672504059e0f3c308e1e44040f00103f9016f72f3f802000000",
+      "name": "Sheena kalu",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7881175,
+        "lon": 65.7943712
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sheena kalu, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5153db3cc4f5885040597959130b7cef4040f00103f9016d0a5ff502000000",
+      "name": "Koodigak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.870973,
+        "lon": 66.1400004
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Koodigak, سرک اسکان از گردن خاک الی گورزک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f88898124981504059aa189de227f24040f00103f90131e4f31c03000000",
+      "name": "Darband Payin",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8918422,
+        "lon": 66.020085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Darband Payin, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189b14699defe5040590a0a83abc1694140f00102f9019d6b811a0000000092030fd8b4d987d8b120d8b6d8add8a7daa9",
+      "name": "شهر ضحاک",
+      "city": "Bamyan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.82622283838653,
+        "lon": 67.98233634856855
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Shahr-e Zuhak, Kabul-Hajigak-Bamyan Highway, Bamyan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a6798dad26d504059464a69ec01e84040f00103f9016d72f3f802000000",
+      "name": "Siya Joy",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8125587,
+        "lon": 65.7159945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Siya Joy, Road From Bazar Waleswali Khadir to Sarhad Walayat Ghor, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c638daccfc79504059f52a323a20fe4040f00103f9017d5d3e1c03000000",
+      "name": "Sheena Jalil",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9853585,
+        "lon": 65.9060547
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sheena Jalil, Sarak Bandar Khadir From Sar Kotal Shah Tygh to Waleswali Khadir (Joy Murad), Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512db645c8514e5140594869cad32b8e4140f00102f901caa0b54f00000000",
+      "name": "Tank graveyard",
+      "city": "Jabal us Saraj",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 35.110712503274556,
+        "lon": 69.22374159629608
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tank"
+      ],
+      "formatted_address": "Tank graveyard, Kabul Mazar Highway, auto_wrecker, Jabal us Saraj, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139b9dfa1286c50405916aaf64432be4040f00103f901ce48801703000000",
+      "name": "Qazi abad",
+      "city": "Gharenj",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.4859091,
+        "lon": 65.68998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Qazi abad, Kiti Road From Dih Malek to Kotal Saybak, Gharenj, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfcc27bd20184f405917899a3d492c4140f00102f90161e224190000000092030fd8a7d8b1daaf20d987d8b1d8a7d8aa",
+      "name": "ارگ هرات",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.34598512693099,
+        "lon": 62.188499111588946
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Herat Citadel, Bazarcheh Street, 7th District, Herat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ced83cb3c9f3504059d660d0f8746a4140f00103f901fbe8ae2603000000",
+      "name": "Cave monastery 6 AD",
+      "city": "Shahidan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8316947,
+        "lon": 67.8091858
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cave monastery 6 AD, Bamyan Road from Sar Kotal Shibar to Bazar Wales Wali Yakawlang, Shahidan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515dd08c8f6050504059c203b97a04434140f00103f9014034d18d01000000",
+      "name": "NH67",
+      "city": "Firozkoh",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5235742,
+        "lon": 65.2558936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "NH67, Firozkoh, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee63ce3106465140592f0a3d9b5b3b4140f00102f901091d94500000000092032ed8add8a7d98620d985d982d8a8d8b1d98720d8b3d8b1d8afd8a7d8b120d985d8add985d8af20d8afd8a7d988d8af",
+      "name": "حان مقبره سردار محمد داود",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.46373310547312,
+        "lon": 69.09412808566387
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "The tomb of Muhammad Daud, foot path, 6th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a5f4f175be785040591074b4aa25234140f00103f9013c23653c03000000",
+      "name": "Dahan say",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.274587,
+        "lon": 65.8866248
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan say, Qrodal Road From Kotal Qrodal to Kotal Shah Tygh, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158defa55a586504059c84c58d1d51c4140f00103f901fd5e653c03000000",
+      "name": "Dahan QotQoti",
+      "city": "Qal`ah-ye Sang-e Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2252752,
+        "lon": 66.1038413
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan QotQoti, 18Km Road Dahane Mirdad to Qala-i-Sangi, Qal`ah-ye Sang-e Takht, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ff78a1384c75040594171b66fa4594240f00103f9016159fd2f01000000920325d8b2db8cd8a7d8b1d8aa20d8a7d8aed8b1db8cd98620d8a7d985db8cd8b120d8a8d984d8ae",
+      "name": "زیارت اخرین امیر بلخ",
+      "city": "Mazar-i-Sharif",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.7003307,
+        "lon": 67.1174363
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Eshane Uraq Shrine, улица Шадиан, Mazar-i-Sharif, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51223447f4039e514059420ba1ebda2e4140f00102f90124ccb41600000000920306d987da89d987",
+      "name": "هډه",
+      "city": "Ada Ahonzadah",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.36605592120624,
+        "lon": 70.46899134591561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Hadda, Jalalabad Bypass Ring Road, Ada Ahonzadah, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a5225f53317c4f4059107dd2e4bda54140f00103f901fb60bc3401000000",
+      "name": "14.4 KM Road Qala-e-Naw to tor-i-Shaikh",
+      "city": "Babulai Ziarat",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 35.2948576,
+        "lon": 62.9702553
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "14.4 KM Road Qala-e-Naw to tor-i-Shaikh, Babulai Ziarat, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a17ce651167a5040598137eede9bb84040f00103f901e9fd811703000000",
+      "name": "Khawja Jam",
+      "city": "Kiti",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.4422568,
+        "lon": 65.9076123
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Khawja Jam, سرک کیسو از دوراهی دهن رویان الی خیر آباد, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c7d426ac6ba4e40593b53f5f74c344140f00102f90147a4461a00000000920311d982d984d8b9db8020d8acd988d987d8b1",
+      "name": "قلعۀ جوهر",
+      "city": "Ghurian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.40859889487043,
+        "lon": 61.459180147614774
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Qal`eh-ye Jowhar, V300916, Herat Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140b7e1c16080504059890b40a374f14040f00103f901f9e4f31c03000000",
+      "name": "Qunagh",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.886372,
+        "lon": 66.0059056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Qunagh, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a1134207dd8a504059b6638ff579f84040f00103f9015986f3f802000000",
+      "name": "Robat Sofla",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9412219,
+        "lon": 66.1697405
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Robat Sofla, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5105dc3b9579b35040590b02d603d6874240f00102f90112f1f72700000000920308daa9d985d8b3d8b1",
+      "name": "کمسر",
+      "city": "Dowlatabad",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 37.06121871900185,
+        "lon": 66.804295834023
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Kumsar, ازدوکوچه چهارباغ سیدان الی لیسه ابونصرفارابی, Dowlatabad, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51049953b854a451405947663f9cd18e4240f00103f90170a613ce00000000920318da86d988daa920d8add8a7d8acdb8c20d982d8afdb8cd8b1",
+      "name": "چوک حاجی قدیر",
+      "city": "Argo District",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 37.1157718,
+        "lon": 70.5676709
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "چوک حاجی قدیر, Argo District, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158afaffa404c514059e886fdbfb1404140f00102f9017549d24f0000000092030b42616c6120486973736172",
+      "name": "Bala Hissar",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.50542449836013,
+        "lon": 69.19146601826412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Bala Hissar, Esteolal road, 8th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157fcc4f0371d514059b7ac11e17ac74040f00102f901aa14985000000000920311d8aad9bed98720d8b3d8b1d8afd8a7d8b1",
+      "name": "تپه سردار",
+      "city": "قلعه بهلول صاحب",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.55843747485181,
+        "lon": 68.45653933750997
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Tepe Sardar, Sarak omomi Road to wlasvali dah iak, چوک علی لالا, قلعه بهلول صاحب, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516cb823f74f73504059916e3ab82af34040f00103f901d372f3f802000000",
+      "name": "Abi gak",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8997412,
+        "lon": 65.8017557
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Abi gak, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511002976ce188504059e4326e6aa0ee4040f00103f901d10a5ff502000000",
+      "name": "Joorah qadam",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8642705,
+        "lon": 66.1387588
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Joorah qadam, سرک اسکان از گردن خاک الی گورزک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f392ffc95f71504059708d19f219e54040f00103f9018d75f3f802000000",
+      "name": "Dahan sumuchak",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7898543,
+        "lon": 65.7714715
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan sumuchak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee04fbaf7383504059606b0080adf64040f00103f9019d603e1c03000000",
+      "name": "Kotal Jim",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9271698,
+        "lon": 66.053936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kotal Jim, سرک خاک زنک از خاشمیران الی خاک زنک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ac851ca358b5040591e876643a3f24040f00103f9016b8cf7f202000000",
+      "name": "Naycha",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8956074,
+        "lon": 66.1751581
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Naycha, سرک علی شاهی از راه سرک الی پیشوک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ff4af9b888a504059b58d3f51d9f04040f00103f9017193f7f202000000",
+      "name": "Naisom",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.881632,
+        "lon": 66.1645879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Naisom, سرک علی شاهی از راه سرک الی پیشوک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51746f8fef1c7450405918601f9dba014140f00103f901990b5ff502000000",
+      "name": "Abdara",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0135075,
+        "lon": 65.8142661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Abdara, 18 km road, Gazbire, Village of Khedir, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51900942c3ac73504059f73fc05ab50c4140f00103f901d15d653c03000000",
+      "name": "Dahan dorob",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0992845,
+        "lon": 65.8074196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan dorob, V220730, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5198022db8fa7750405918e36833f3ed4040f00103f901a9abd3f802000000",
+      "name": "Chakak",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8589844,
+        "lon": 65.8746777
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chakak, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154313ac54f8c504059a215ce24a0ed4040f00103f9010d93f7f202000000",
+      "name": "Siah chobak abtu",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8564497,
+        "lon": 66.1923688
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Siah chobak abtu, سرک سیاه چوک از خربید الی اژدی, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51773a46683a815040599159620a7bf74040f00103f90139603e1c03000000",
+      "name": "Diar meyana yakawa",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9334424,
+        "lon": 66.0191899
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Diar meyana yakawa, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e97129f8377e504059b7e5c86f76014140f00103f9010d5f3e1c03000000",
+      "name": "Sorkh now",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0114269,
+        "lon": 65.9721661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sorkh now, 19.2 km Road Sangi takht ,Qala-i-Sangi to Kharparan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112ead8f7977c504059fa4a7bdee8014140f00103f901455e3e1c03000000",
+      "name": "Ranew",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0149191,
+        "lon": 65.9467754
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ranew, Sarak Bandar Khadir From Sar Kotal Shah Tygh to Waleswali Khadir (Joy Murad), Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddff1197ad7150405974379902e3084140f00103f9013d3c653c03000000",
+      "name": "Safid bid",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0694278,
+        "lon": 65.7762201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Safid bid, V220730, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ee1f72551c950405958ce39d3df5b4240f00103f9016059fd2f01000000",
+      "name": "Aslam",
+      "city": "Mazar-i-Sharif",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.7177681,
+        "lon": 67.1455779
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Aslam, میدان کامگار, Mazar-i-Sharif, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c01770e01f8a504059df628f9ac0f64040f00103f901cb84f3f802000000",
+      "name": "Dahan Nayak",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9277528,
+        "lon": 66.1581956
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Nayak, Safid Bayd Road From Kotal Gardak to Bazar Nimazan, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510661133e806f5040597a2cc7759df24040f00103f90149f9e3f502000000",
+      "name": "Espargag",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8954303,
+        "lon": 65.7422023
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Espargag, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae42c2b1096b5140597df3a3f050654140f00102f90191987d1a0000000092031fd982d984d8b9db8020d8acd8a7d98620d985d8add985d8af20d8aed8a7d986",
+      "name": "قلعۀ جان محمد خان",
+      "city": "Tagab",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.791532592825185,
+        "lon": 69.67246669741391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Qal`ah-ye Jan Muhammad-Khan, Gharghal to Masjid-e-Ahmadi, Tagab, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8a0c9b46c8250405913d78c672bf44040f00103f90115987e2203000000",
+      "name": "Sorkhi",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9075746,
+        "lon": 66.0378849
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sorkhi, Nele road from kadar to kwtal, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0494b86cd3551405922bbcf7adef84040f00102f90125e0781a00000000920318d8a7d984d98120d8aed8a7d98620d8aed8b1d8a7d8a8d987",
+      "name": "الف خان خرابه",
+      "city": "Baraki Rijan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.944289542609354,
+        "lon": 68.84066922523834
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Alef Khan Kharabah, R.M Chahar Rahi Zaqom Khil to Topak Village, Baraki Rijan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ee9e505b1f550405988ffb991ba684140f00102f9017f83583100000000920311d8b4d987d8b120d8bad984d8bad984d987",
+      "name": "شهر غلغله",
+      "city": "Bamian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.81819364149038,
+        "lon": 67.83892962887009
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Shahr-i Ghulghula, SayedAbad Street, Bamian, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b3924b5507d504059bc1ef1d01c004140f00103f9017f5d3e1c03000000",
+      "name": "Dahan Ranew",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0008794,
+        "lon": 65.958051
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Ranew, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db4fc6f8b0835040594219f4ef44214140f00103f9013d23653c03000000",
+      "name": "Sar sang",
+      "city": "Qal`ah-ye Sang-e Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2599163,
+        "lon": 66.0576765
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sar sang, Sarak Kotal Shahristan From Du Rahe Sangi Takht to Shina Maqbool, Qal`ah-ye Sang-e Takht, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac938ecde9705040594684358419ed4040f00103f90175fae3f502000000",
+      "name": "Senjid village",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8523412,
+        "lon": 65.7642702
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Senjid village, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f2ce9cd4d7050405997ebc8ec87e54040f00103f9010972f3f802000000",
+      "name": "Dahan dolana",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.7932106,
+        "lon": 65.7547488
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan dolana, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51398c4a8f8c8c504059db3aff9c127f4240f00102f901b34f531a00000000920306d8afd984db8c",
+      "name": "دلی",
+      "city": "Mingajik",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.992755531906106,
+        "lon": 66.19607908515981
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Dali, Periodic Maintenance of 12km Raoad from Shirak village to Aslam tura bab village, Jowzjan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a85fb636e450514059178c060e394e4140f00102f90143be7d1a00000000920311d982d984d8b9d98720d8b2d8b1db8cd986",
+      "name": "قلعه زرین",
+      "city": "Bakhtiaran",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.61111617393197,
+        "lon": 69.26392906007698
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Zarrin Kala, 24.9km Bagram Road from Had Bakhshi Kabul to Had Bakhshi Qarabagh, 18th District, Bakhtiaran, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba7c3551d55151405982610a2046324140f00102f9016b80072e0000000092030d47756c64617261205374757061",
+      "name": "Guldara Stupa",
+      "city": "Haji Khel",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.392765049999994,
+        "lon": 69.27864485
+      },
+      "categories": [
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Guldara Stupa, Musayi Road, Haji Khel, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ce22a059373504059929ed8f96de74040f00103f901d172f3f802000000",
+      "name": "Kharzar",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8080437,
+        "lon": 65.8058484
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kharzar, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193beb5b86b75504059ebec1ae379204140f00103f9013f3c653c03000000",
+      "name": "Ali zaban dahan shibar",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2537197,
+        "lon": 65.8346998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ali zaban dahan shibar, Qrodal Road From Kotal Qrodal to Kotal Shah Tygh, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d8f91285f1835040592970fc9af6f54040f00103f901c1e5f31c03000000",
+      "name": "Bariqol",
+      "city": "Ishtarlay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.9215883,
+        "lon": 66.0616162
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bariqol, سرک خاک زنک از خاشمیران الی خاک زنک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51746b88e0ee8a5040591f9f909db7f04040f00103f901d593f7f202000000",
+      "name": "Rizigag",
+      "city": "Nili",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.8806035,
+        "lon": 66.1708299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rizigag, سرک علی شاهی از راه سرک الی پیشوک, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f2f26474b715040594aed45b41df34040f00103f90181f8e3f502000000",
+      "name": "Dahan Watma",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 33.899344,
+        "lon": 65.7702196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dahan Watma, Asp morda road from Bazar Zagak, Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2c76ef46a0151405904fc25b4741f4240f00102f901045550570000000092030fd8aad8aed8aa20d8b1d8b3d8aad985",
+      "name": "تخت رستم",
+      "city": "Samangan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.2457490144225,
+        "lon": 68.02215300386868
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "heritage",
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Takht-e Rostam, سرک از سرقت الی کاروان سرای خواجه اسماعیل, Samangan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5138d7304363f75040593e377ef2c1684140f00103f901ed1f429c02000000",
+      "name": "Abandoned tank",
+      "city": "Bamian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8184188,
+        "lon": 67.8654335
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Abandoned tank, Bamyan Road from Sar Kotal Shibar to Bazar Wales Wali Yakawlang, Bamian, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51522635b4017450405933e774b4051b4140f00103f901d35d653c03000000",
+      "name": "Bi sarak",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2111116,
+        "lon": 65.812604
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bi sarak, Qrodal Road From Kotal Qrodal to Kotal Shah Tygh, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f174f8b5bf7d504059ad5a88c4f31f4140f00103f901413c653c03000000",
+      "name": "Jawzi sofla",
+      "city": "Sangi Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2496267,
+        "lon": 65.9648261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jawzi sofla, از نورک الی, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519512dd0ee8ae5140596243dc4191cc4240f00103f9011d7f503e03000000",
+      "name": "Raghistan",
+      "city": "Raghistan",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 37.5981829,
+        "lon": 70.7329137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Raghistan, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0a1e58a9c34514059ee1692dd16564240f00103f901813077430000000092030848696c6c20343332",
+      "name": "Hill 432",
+      "city": "Char Darah",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.6725728,
+        "lon": 68.8220546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hill 432, Sarak Naw Abad Char Darah, Char Darah, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516b3c22f051cd5040591491065cfc6b4140f00103f901d922d18601000000",
+      "name": "سرک پرجیک الی آب قول بالا",
+      "city": "Yakawlang",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8436389,
+        "lon": 67.2081261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "سرک پرجیک الی آب قول بالا, Bamyan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173d3669c4601514059d30094756e594240f00102f9011bb1501a00000000920317d8a2d8a8d8afd8a7d98620d8b4d8a8d8a7d982d984db8c",
+      "name": "آبدان شباقلی",
+      "city": "خوش توت",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.69868345,
+        "lon": 68.01993474999999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Abdan-e Shibaqli, ازسرک قیر خوش توت, خوش توت, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b63cc0212be504059286b2ffda6494140f00103f901b9935b1b02000000",
+      "name": "Shato kotal",
+      "city": "Panjab",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.5754086,
+        "lon": 66.9698493
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shato kotal, Panjab District Road from Bazar Waleswali Panjab to Bazar Waleswali Yakawlang, Bamyan Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e85f385cfa745040594ad6aa3bd5354240f00102f9014ff9591a0000000092030fd9bed8b4d98520d8b4d988db8cdb8c",
+      "name": "پشم شویی",
+      "city": "Sar-e Pol",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.42056985704092,
+        "lon": 65.82778077607475
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Pasim Sho'iy, Sar-e-Pul to Sheberghan highway, Sar-e Pol Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167c73c8c0d54514059565c2af6d9464140f00101f9015d3f1b0100000000",
+      "name": "Cemetery of military equipment",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.55352665966409,
+        "lon": 69.3133268922371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tank"
+      ],
+      "formatted_address": "Cemetery of military equipment, Kabul Ningarhar Road, 19th District, Kabul, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515822abb67678504059aec6c848ac014140f00103f901e15d3e1c03000000",
+      "name": "Ghonaghak Bala",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0130702,
+        "lon": 65.8822457
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ghonaghak Bala, Sarak Bandar Khadir From Sar Kotal Shah Tygh to Waleswali Khadir (Joy Murad), Khadir, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124e76965e7f45040590042dab5736a4140f00103f901452c6d440100000092032ed8aad986d8afdb8cd8b3e2808cd987d8a7db8c20d8a8d988d8afd8a720d8afd8b120d8a8d8a7d985db8cd8a7d986",
+      "name": "تندیس‌های بودا در بامیان",
+      "city": "Bamian",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.8316562,
+        "lon": 67.8266233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Buddhas of Bamiyan, Bamyan Road from Sar Kotal Shibar to Bazar Wales Wali Yakawlang, Bamian, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b60110d9c74504059517f620910034140f00103f901fd0b5ff502000000",
+      "name": "Dehak",
+      "city": "Khadir",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.0239269,
+        "lon": 65.8220246
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dehak, 18 km road, Gazbire, Village of Khedir, Daykundi Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e116e247eb835040597a5d75d31c244140f00103f901433c653c03000000",
+      "name": "Qawm Sawlat",
+      "city": "Qal`ah-ye Sang-e Takht",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 34.2821297,
+        "lon": 66.0612354
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Qawm Sawlat, Sarak Kotal Shahristan From Du Rahe Sangi Takht to Shina Maqbool, Qal`ah-ye Sang-e Takht, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b685e7a562b450405913c25900095f4240f00103f90119ea193801000000",
+      "name": "علم خیل",
+      "city": "Jamghurai",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.7424622,
+        "lon": 66.818521
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "علم خیل, Herat to Mazar-i-Sharif road, Jamghurai, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118963fdf960e524059e46d0091d9734240f00103f90187d73f6101000000",
+      "name": "Hajat Muard Shrine",
+      "city": "پگيش Pegish",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 36.9050771,
+        "lon": 72.2279585
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hajat Muard Shrine, پگيش Pegish, Wakhan District, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e67228e81b675040591f0eb7e8099e3f40f00103f90128b99bbc02000000",
+      "name": "Kandahar-Herat Highway",
+      "city": "کوکران",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.6173387,
+        "lon": 65.6110783
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Kandahar-Herat Highway, 7th District, کوکران, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c96c3590d3ca504059ec74d65d8f963f40f00103f901fa66852402000000",
+      "name": "Maruf",
+      "city": "Maruf",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.5881251,
+        "lon": 67.1691628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maruf, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154c026168d6750405977f217a8799c3f40f00102f901d808ec4a00000000",
+      "name": "د بالاده شېرسرخ سړک",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.61123133263251,
+        "lon": 65.61798623832993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "د بالاده شېرسرخ سړک, 7th District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a150532465e5040592e2cd06a63fc3f40f00102f9012320611a0000000092031bd8af20d8b4d8a7d98720d8a7d8bad8a720d8b2d98ad8a7d8b1d8aa",
+      "name": "د شاه اغا زيارت",
+      "city": "Karizak",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.98589198667849,
+        "lon": 65.47303438660165
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shah Agha Shrine, د خاکرېز ولسوالۍ سړک د شاآغا د زيارت څخه بيا تر شاآغا دورايي پورې, Karizak, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d99cde20b5ac504059f224e99ac9f53f40f00103f9018906dfa801000000",
+      "name": "Tower 22,1",
+      "city": "Tarnak Aw Jaldak",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.9601075,
+        "lon": 66.6985552
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tower 22,1, Ghazni to Kandahar Highway, Zabul Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce7ae706796a50405971659afa8a9d3f40f00103f9013fd787e90000000092030fda86d987d98420d8b2d98ad986db90",
+      "name": "چهل زينې",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.6154019,
+        "lon": 65.6636369
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Chilzina and the Forty Steps of Kandahar, Periodic Maintenance 3km Road from Speen Ziyarat to Wazirak village., 6th District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d92ff2e5e9a0504059e88146c79ae33f40f00102f9016d366b1a00000000920314d8af20d8bad8a7da9adb9020d8b1d8a8d8a7d8b7",
+      "name": "د غاښې رباط",
+      "city": "De Kakarano Kalay",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.88908048125623,
+        "lon": 66.514276014815
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "De Ghashe Rabat, 5.65 km gravel surfaced road from Qalat - Kandahar Highway (Foladgay) to Sanjida Kalay of, De Kakarano Kalay, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183401d450c17504059018cc28943953f40f00103f9013ece840703000000",
+      "name": "Bost Castle Road",
+      "city": "Lashkar Gah",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.5830618,
+        "lon": 64.3601239
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Bost Castle Road, Lashkar Gah, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ce10275ef6c504059dfe412a2d79c3f40f00103f901a56792e502000000920318d8af20d8b4d987d98ad8afd8a7d986d98820da86d988daa9",
+      "name": "د شهيدانو چوک",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.6126653,
+        "lon": 65.7021153
+      },
+      "categories": [
+        "tourism",
+        "tourism.sights",
+        "tourism.sights.square"
+      ],
+      "formatted_address": "2nd District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5125a2c7059661504059af1d74776ee73f40f00102f9016769601a0000000092030ad985d986da89daafdaa9",
+      "name": "منډگک",
+      "city": "Khakrez",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.904029336784955,
+        "lon": 65.52478165145347
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Mundigak, د خاکرېز - شاه اغا دورايي سړک, Kandahar Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c4002356b6d504059e5aeca2a119f3f40f00103f901976792e50200000092030fd8a7d986d8a7d8b120da86d988daa9",
+      "name": "انار چوک",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.6213557,
+        "lon": 65.7096684
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "انار چوک, Ghazni to Kandahar Highway, 14th District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167406260426b504059c8ccaa741c9e3f40f00103f901d5f5132e02000000920319da86d988daa920d8afd986d8af2044616e6420537175617265",
+      "name": "چوک دند Dand Square",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.6176217,
+        "lon": 65.6759263
+      },
+      "categories": [
+        "tourism",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "6th District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c10f4afa4f6d504059d452ad08a39e3f40f00102f901e77e0d170000000092030ad8aed990d8b1d982d987",
+      "name": "خِرقه",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.61967519980938,
+        "lon": 65.70800645096371
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque",
+        "tourism.sights.place_of_worship.shrine"
+      ],
+      "formatted_address": "خِرقه, Ghazni to Kandahar Highway, 1st District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5135c9d98530ae504059e054ff7b4bf83f40f00102f90115386b1a00000000920313d8b1d8a8d8a7d8b7db8c20d8acd984da89daa9",
+      "name": "رباطی جلډک",
+      "city": "Tarnak Aw Jaldak",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.969901800000002,
+        "lon": 66.7217116
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Rabat Joldak, Ghazni to Kandahar Highway, Zabul Province, Afghanistan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1176e52436d50405933373391a19e3f40f00102f90163282e0a00000000920326d8af20d8a7d8add985d8af20d8b4d8a7d98720d8a8d8a7d8a8d8a720d8b2d98ad8a7d8b1d8aa",
+      "name": "د احمد شاه بابا زيارت",
+      "city": "Kandahar",
+      "country": "Afghanistan",
+      "country_code": "af",
+      "coordinates": {
+        "lat": 31.61965281963712,
+        "lon": 65.70723400832391
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb",
+        "tourism.sights.place_of_worship.shrine"
+      ],
+      "formatted_address": "Ahmad Shah Baba Shrine, Ghazni to Kandahar Highway, 1st District, Kandahar, Afghanistan",
+      "description": null,
+      "image": null
+    }
+  ]
+}

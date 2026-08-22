@@ -1,0 +1,4417 @@
+{
+  "country_code": "ao",
+  "country_name": "Angola",
+  "boundary_place_id": "518dddf41db291314059e8740fbf51c127c0f00101f901c3fa020000000000c0020b920306416e676f6c61",
+  "count": 228,
+  "places": [
+    {
+      "place_id": "512ab638190ba5274059f8753b56846c30c0f00103f901c3fd7807010000009203125a6f6e6120646f20636172616e6775656a6f",
+      "name": "Zona do caranguejo",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.4238943,
+        "lon": 11.8223503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zona do caranguejo, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51468b7d1354962740594069a851482830c0f00103f901e48c780701000000920315426172636f20616c66612076616e657373696e6861",
+      "name": "Barco alfa vanessinha",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.1573535,
+        "lon": 11.7936102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barco alfa vanessinha, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dba2cc06997c2a40592856574ff7ff30c0f00103f901d451e9190200000092031551756564617320646f204d6f6e7465204e6567726f",
+      "name": "Quedas do Monte Negro",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.9998674,
+        "lon": 13.243355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Quedas do Monte Negro, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b848900024012e4059e182c71231b030c0f00103f901d5621e870000000092030b42616f6261622054726565",
+      "name": "Baobab Tree",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.6882488,
+        "lon": 15.0022278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab Tree, Cunene Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518acc5ce0f2a4274059593332c85d9e30c0f00103f90100fd78070100000092030b50657269676f2056616c61",
+      "name": "Perigo Vala",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.6186185,
+        "lon": 11.8221655
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Perigo Vala, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51203bb9f0cda4274059ead0e979379230c0f00103f9010be278070100000092030e46696d20646173206c61676f6173",
+      "name": "Fim das lagoas",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.571159,
+        "lon": 11.8218837
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fim das lagoas, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fe296ea5da72740599a91e634b0b030c0f00103f901f750790701000000920312496ec3ad63696f20646173204c61676f6173",
+      "name": "Início das Lagoas",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.6901887,
+        "lon": 11.8268884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Início das Lagoas, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154b3bdcc669c2740590b6eb598e93e30c0f00103f90135fc78070100000092030444756e61",
+      "name": "Duna",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.2457519,
+        "lon": 11.8054718
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Duna, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ffacb931071274059ac0320eeea9730c0f00103f901d71f3d9b0100000092032346c3a16272696361732064652050726f63657373616d656e746f206465205065697865",
+      "name": "Fábricas de Processamento de Peixe",
+      "city": "Baía dos Tigres",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.5934285,
+        "lon": 11.7208296
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fábricas de Processamento de Peixe, Baía dos Tigres - Limite da Baía, Baía dos Tigres, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ce98e0fc49f274059417a2f63af4a30c0f00103f901d74d790701000000920318506f6e746f20646520657370657261206461206d6172c3a9",
+      "name": "Ponto de espera da maré",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.2917387,
+        "lon": 11.8120427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ponto de espera da maré, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51332d5679a7a32740591de2c4fc816130c0f00103f901fb4779070100000092030f5a6f6e612064617320706564726173",
+      "name": "Zona das pedras",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.3808897,
+        "lon": 11.8196371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zona das pedras, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516cbbbf304fa5274059975a4af14c8f30c0f00103f901f3fe780701000000920318496ec3ad63696f206461205a6f6e6120646520526973636f",
+      "name": "Início da Zona de Risco",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.5597678,
+        "lon": 11.8228698
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Início da Zona de Risco, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ab3f798fe0b2f405928dc86acc9e830c0f00103f90119ff3e960000000092030f4f6c642054616e6b20577265636b73",
+      "name": "Old Tank Wrecks",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -16.9093273,
+        "lon": 15.5234268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.wreck"
+      ],
+      "formatted_address": "Old Tank Wrecks, EN 105, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0a744c82fca2c40590adc15551a4e31c0f00103f901f108607f02000000",
+      "name": "Cunene Province",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -17.3050893,
+        "lon": 14.3948958
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cunene Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2d47abfd158354059bd23be6e6ce11ec0f00103f9012a0d39420200000092031744657374726fc3a76f7320646520756d20617669c3a36f",
+      "name": "Destroços de um avião",
+      "city": "Luxilo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -7.7201402,
+        "lon": 21.3469505
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, EN 190, Luxilo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d6d86c0365d354059220a1cbfa6dd1ec0f00103f901290d39420200000092031744657374726fc3a76f7320646520756d20617669c3a36f",
+      "name": "Destroços de um avião",
+      "city": "Luxilo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -7.7164564,
+        "lon": 21.3641167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, EN 190, Luxilo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128deb7109a3333405955f0259efd462ec0f00103f9012e44249f01000000",
+      "name": "tank wreck - nr 2",
+      "city": "Cuito Cuanavale",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.1386537,
+        "lon": 19.2015696
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "tank wreck - nr 2, EN280, Cuito Cuanavale, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a53b0c6d93e3440594c1d3fafd38327c0f00103f9012223c37d0200000092030f466f7a20646f2072696f2044616c61",
+      "name": "Foz do rio Dala",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -11.7574744,
+        "lon": 20.2455105
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fronteira entre as comunas de Luena, Lucuse e Léua.s, Moxico Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0f595ac2fb32d40592d3d3f31579b23c0f00103f9011c10b11c0100000092030e436162757461204d697261646f72",
+      "name": "Cabuta Mirador",
+      "city": "Cabuta-Sede",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.8033996,
+        "lon": 14.8499731
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cabuta Mirador, Track to Mirador, Cabuta-Sede, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b91ad995960b324059ad133c2aa33e22c0f00103f9012454f13e0200000092031744657374726fc3a76f7320646520756d20617669c3a36f",
+      "name": "Destroços de um avião",
+      "city": "Cuango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.1223386,
+        "lon": 18.0452665
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, EN165, Cuango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f751b241cb432a4059eccec941bf9d22c0f00103f901c49c2d5f01000000",
+      "name": "Palmeirinhas-Barra do Cuanza",
+      "city": "Barra do Cuanza",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.3080998,
+        "lon": 13.1324101
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Palmeirinhas-Barra do Cuanza, Barra do Cuanza, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f2a1323f0ba3440598c75bba827e120c0f00103f901d255fa3e0200000092031344657374726fc3a76f20646520617669c3a36f",
+      "name": "Destroço de avião",
+      "city": "Lucapa",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.4397557,
+        "lon": 20.7302267
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, Lucapa, Lunda Norte Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51373fb44588492d40596ca92803ac8a23c0f00103f901dc7f809201000000",
+      "name": "Cuanza Norte Province",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.7708436,
+        "lon": 14.6436178
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cuanza Norte Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a31ba1ca67a2a40592594c83359a621c0f00102f9013215f81c00000000920329486973746f72696120646f204d504c41202d20436f6e746164612070656c61204a7576656e74756465",
+      "name": "Historia do MPLA - Contada pela Juventude",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.824899309382156,
+        "lon": 13.239548585632907
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Historia do MPLA - Contada pela Juventude, Rua Dom Manuel I, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa36b34c75bb2a4059fe3c57a53e8e21c0f00103f901fe9968020100000092031253706c61736820496e6b20436f6d70616e79",
+      "name": "Splash Ink Company",
+      "city": "Cacuaco",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.7778217,
+        "lon": 13.3661293
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Splash Ink Company, EN100, Cacuaco, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef8c5b71160d324059b34b0ae2f23a22c0f00103f9012654f13e0200000092031744657374726fc3a76f7320646520756d20617669c3a36f",
+      "name": "Destroços de um avião",
+      "city": "Cuango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.1151343,
+        "lon": 18.0511237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, EN165, Cuango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c20a0b1e54d304059b8c5a1235ec723c0f00103f90162a9c20301000000920325507261696120466c757669616c2064612043616d61c3a761202d204b616e67616e64616c61",
+      "name": "Praia Fluvial da Camaça - Kangandala",
+      "city": "Aldeia do Kwanza",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.8893901,
+        "lon": 16.3042861
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Praia Fluvial da Camaça - Kangandala, Rapidos do Kwanza, Aldeia do Kwanza, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d036ed180d7b324059e26eb5f3a2372dc0f00103f9012d44249f01000000",
+      "name": "Helicopter wreck",
+      "city": "Longa",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.6086651,
+        "lon": 18.4806686
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Helicopter wreck, EN160, Longa, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514dfb41b85d2f2f4059d6027b4ca45823c0f00103f9012b35ff1d0100000092031a5374617274206f66207061746820746f2076696577706f696e74",
+      "name": "Start of path to viewpoint",
+      "city": "Pungo Andongo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.6731285,
+        "lon": 15.5925119
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Start of path to viewpoint, Estrada para Pedras Negras de Pungo a Ndongo, Pungo Andongo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a538082bb43e2f4059ec1af8b2675923c0f00102f90186d0100c0000000092031e506564726173204e65677261732064652050756e676f20416e646f6e676f",
+      "name": "Pedras Negras de Pungo Andongo",
+      "city": "Pungo Andongo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.674619286333346,
+        "lon": 15.62246832347257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pungo Andongo Black Stones, Pungo Andongo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d9f19694e772a405993944fea26a021c0f00103f90108072b5102000000",
+      "name": "Rua Major Kanhangulo",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8127969,
+        "lon": 13.2330201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rua Major Kanhangulo, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a611004e8e52d4059f216cf9c886f23c0f00102f9011c16a11d0000000092031851756564617320646520436163756c6f2043616261c3a761",
+      "name": "Quedas de Caculo Cabaça",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.717839145926948,
+        "lon": 14.949035765647427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Quedas de Caculo Cabaça, Estrada para as Quedas de Caculo Cabaça, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512087776ffb5c2a4059ee3378a922d221c0f00103f901421fa3f500000000920315457363726974c3b372696f206461205375706d696c",
+      "name": "Escritório da Supmil",
+      "city": "Talatona Municipality",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.9104207,
+        "lon": 13.1816058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Escritório da Supmil, Rua da Marimba, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5f2dc8ce47c2a405912407b3f7fa721c0f00103f9014256ecbe00000000920326457374617475612064652044722e20416e74c3b36e696f2041676f7374696e686f204e65746f",
+      "name": "Estatua de Dr. António Agostinho Neto",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8271427,
+        "lon": 13.2439312
+      },
+      "categories": [
+        "internet_access",
+        "internet_access.free",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Estatua de Dr. António Agostinho Neto, Largo 1º de Maio, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512bca5b64f1e12a4059bf26101bd11e21c0f00103f9010ac5d37d01000000",
+      "name": "Estrada da Barra do Dande",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.5601891,
+        "lon": 13.4412948
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Estrada da Barra do Dande, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51643e20d09932334059fbdfb65b374e2ec0f00103f9019444249f01000000",
+      "name": "Tank wreck 1",
+      "city": "Cuito Cuanavale",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.1527661,
+        "lon": 19.1976595
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tank wreck 1, EN280, Cuito Cuanavale, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a87399c54772a40593901971128a021c0f00103f9010a072b5102000000",
+      "name": "Rua Major Kanhangulo",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8128057,
+        "lon": 13.2330674
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rua Major Kanhangulo, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e74fc01b77cb2a405941d47d0052d320c0f00103f901ae63fd4b01000000",
+      "name": "EN100",
+      "city": "Cambondo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.412735,
+        "lon": 13.3973931
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN100, Cambondo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c20d9d43be782c40595f2fa8ca524223c0f00103f9015166d06602000000920311466f7a20646f2052696f204c7563616c61",
+      "name": "Foz do Rio Lucala",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.6295379,
+        "lon": 14.2358266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Foz do Rio Lucala, Estrada da Foz do Rio Lucala, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b05b5f7f6d3233405968041bd7bf4b2ec0f00103f9019344249f01000000",
+      "name": "Former outpost",
+      "city": "Cuito Cuanavale",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.147948,
+        "lon": 19.1969833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Former outpost, EN280, Cuito Cuanavale, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a613da4cede2e4059ceb00749554d29c0f00103f901f0ca31410000000092030b4d6f6e74652044756e6461",
+      "name": "Monte Dunda",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6510413,
+        "lon": 15.4351703
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Dunda, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150ebec1ae3612a40593ec857a76fc621c0f00103f901d30ea712010000009203194f786967656e20496d7072657373c3a36f204469676974616c",
+      "name": "Oxigen Impressão Digital",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8875706,
+        "lon": 13.1911858
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Oxigen Impressão Digital, Rua Projectada, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179d150fc34aa3140597bdbc897c7442dc0f00102f9016120c85700000000920314466f727465204d75656e652056756e6f6e677565",
+      "name": "Forte Muene Vunongue",
+      "city": "Iaonga",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.634335273045272,
+        "lon": 17.6648709962187
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Forte Muene Vunongue, EN140, Iaonga, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5dc5acb09153240594af48d43585028c0f00103f9018da2f69101000000",
+      "name": "view to Cuemba Falls",
+      "city": "Cuemba",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.1569234,
+        "lon": 18.0821807
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "view to Cuemba Falls, EN 250, Cuemba, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a6b836e8a362f40599babe63922b329c0f00103f901c8ca1a410000000092030d4d6f6e74652043616c75687565",
+      "name": "Monte Caluhue",
+      "city": "Huambo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.8498705,
+        "lon": 15.6065249
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Caluhue, Huambo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194b60254822933405932ce3a3eb5512ec0f00103f9013ed22ee602000000",
+      "name": "EN280",
+      "city": "Cuito Cuanavale",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.1595859,
+        "lon": 19.1621449
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "EN280, Cuito Cuanavale, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d6d003620ca2b405978befad3a18626c0f00103f9013ef27a4201000000",
+      "name": "EN245",
+      "city": "Sumbe",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -11.2629534,
+        "lon": 13.894777
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.cave_entrance",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN245, Sumbe, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aedd7c1deca32b405950b86b0cbaa326c0f00102f9013894282100000000",
+      "name": "Kikombo Fort",
+      "city": "Quicombo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -11.319778812550936,
+        "lon": 13.820160790913032
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kikombo Fort, Quicombo - Rio Dui, Quicombo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d414640854f2e40596f5633219c892ec0f00103f9017eeccb0e01000000",
+      "name": "Trilho Visita Guiada / Guided Track",
+      "city": "Matala",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.2687693,
+        "lon": 15.1553135
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Trilho Visita Guiada / Guided Track, Matala, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51353a313553b7314059bea5f7e868c82dc0f00103f901b357c3120200000092030f496c686120646f204c696170656361",
+      "name": "Ilha do Liapeca",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.8914254,
+        "lon": 17.7161134
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ilha do Liapeca, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178335992f2b1334059b20d81c8c7032cc0f00103f901d90395b70200000092031e436162616e61206e6f2072696f204d6174616d6269205072696d6569726f",
+      "name": "Cabana no rio Matambi Primeiro",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.0073836,
+        "lon": 19.6951076
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cabana no rio Matambi Primeiro, Moxico Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515861b0bedc9b2f4059042f48eafd4623c0f00102f901ccedd6500000000092030e506564726173204775696e676173",
+      "name": "Pedras Guingas",
+      "city": "Pungo Andongo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.638655968963128,
+        "lon": 15.804418524771492
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pedras Guingas, Pungo Andongo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b04094092b82d4059dbbe47fdf55626c0f00103f9010aa7c2030100000092031b53616e7475c3a172696f20646f73204869706f70c3b374616d6f73",
+      "name": "Santuário dos Hipopótamos",
+      "city": "Zenguele",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -11.1698455,
+        "lon": 14.8604908
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Santuário dos Hipopótamos, Wako Kungo-Ebo, Zenguele, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a7780272dd02e405977b92d36525729c0f00103f90164cb31410000000092030d4d6f6e7465204d6275696e646f",
+      "name": "Monte Mbuindo",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6705491,
+        "lon": 15.4065945
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Mbuindo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164e60297c7ca2d40593c2d3f7095ab22c0f00103f901ccefa3a402000000",
+      "name": "Bridge",
+      "city": "N'dalatando",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.3351245,
+        "lon": 14.896054
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bridge, Maria Teresa/N'Dalatando, N'dalatando, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6f91dd48fc32a40594fc532a259a22dc0f00103f901e4951d87000000009203164d697261646f75726f2064612054756e646176616c61",
+      "name": "Miradouro da Tundavala",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.8170901,
+        "lon": 13.3819567
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro da Tundavala, EN 280-5, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f4caa1155272f4059979c24a7c03729c0f00103f9016acb31410000000092030c4d6f6e74652043617475636f",
+      "name": "Monte Catuco",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6088917,
+        "lon": 15.5768209
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Catuco, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ece739f77ae2b405948fab48afea426c0f00103f90148bf1c8700000000920311437562616c20526976657220476f726765",
+      "name": "Cubal River Gorge",
+      "city": "Sumbe",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -11.3222545,
+        "lon": 13.8407564
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cubal River Gorge, Quicombo (Cubal) River Path, Sumbe, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519587e01346fe2a4059628cfe863fd52dc0f00103f901d84ea50502000000",
+      "name": "Praça 1º de Maio",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9165003,
+        "lon": 13.4966284
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Praça 1º de Maio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51643f8ba548ee2a40593db83b6bb7d12dc0f00103f901860381d90100000092030d4a616e676f20646f204c61676f",
+      "name": "Jango do Lago",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9096025,
+        "lon": 13.465398
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jango do Lago, Rota dos Lagos, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fbdc282fba12a40597b9972cf04d42dc0f00103f9011e2071ac01000000",
+      "name": "Acesso à Cascata Katchillwa",
+      "city": "Humpata",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9140992,
+        "lon": 13.316372
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Acesso à Cascata Katchillwa, Humpata, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51daf3eb3d4bee2a4059a428e1534ae12dc0f00103f9017ed890d001000000920323436170656c696e6861206461204e6f7373612053656e686f726120646f204d6f6e7465",
+      "name": "Capelinha da Nossa Senhora do Monte",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400202,
+        "lon": 13.4654178
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Capelinha da Nossa Senhora do Monte, Escadinhas da Nossa Senhora do Monte, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e150aedf02632f4059acec16dc6af129c0f00103f9013e941d410000000092030b4d6f6e74652050696e6761",
+      "name": "Monte Pinga",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.9715184,
+        "lon": 15.6933813
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Pinga, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8ca564dc6072f405955956c2bac4a29c0f00103f901acca31410000000092030e4d6f6e7465204361737365717565",
+      "name": "Monte Casseque",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6458448,
+        "lon": 15.5151848
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Casseque, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51238cfa7f30ef2e4059772bf0ba236429c0f00103f90183ca31410000000092030b4d6f6e7465204e756e6461",
+      "name": "Monte Nunda",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6955851,
+        "lon": 15.4671669
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Nunda, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51518b03e3b0bd2e40596d1bd12dd86320c0f00102f901a9655d2f0000000092031b496772656a61204d617472697a2064652043616d61626174656c61",
+      "name": "Igreja Matriz de Camabatela",
+      "city": "Camabatela",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.195008689666532,
+        "lon": 15.370490163977282
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Igreja Matriz de Camabatela, EN140, Camabatela, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100039c397f822a4059f6f0c05b7bd62dc0f00103f901d035e37c0100000092031346656e646120646f20416c746f2042696d6265",
+      "name": "Fenda do Alto Bimbe",
+      "city": "Humpata",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9189099,
+        "lon": 13.2548769
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fenda do Alto Bimbe, Estrada da Fenda do Bimbe, Humpata, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155eb0e7393f62a4059add1bc2da2e32dc0f00103f901de951d87000000009203384d697261646f75726f20646120426f63612064612048756d70617461202f20426f63612064612048756d706174612056696577706f696e74",
+      "name": "Miradouro da Boca da Humpata / Boca da Humpata Viewpoint",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9445967,
+        "lon": 13.4815937
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro da Boca da Humpata / Boca da Humpata Viewpoint, EN280, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103250516c0f02a40598350dec7d1dc2dc0f00103f901c0f50c0c0200000092030f43617361204173736f6d6272616461",
+      "name": "Casa Assombrada",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.931288,
+        "lon": 13.4702155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Casa Assombrada, Avenida 8 de Fevereiro, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51511eccdc32b22d4059eebe19ebd19a23c0f00103f901bbe1172301000000",
+      "name": "Track to Mirador",
+      "city": "Cabuta-Sede",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.8023828,
+        "lon": 14.8480443
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Track to Mirador, Cabuta-Sede, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7ce2566071a2b40590463337678be28c0f00103f9013c5909f801000000",
+      "name": "EN 100",
+      "city": "Lobito",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.3720128,
+        "lon": 13.5508377
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "EN 100, Lobito, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f98c9f21770c2f4059b52ca924fcd429c0f00103f9014dab1b410000000092030b53657272612044756d626f",
+      "name": "Serra Dumbo",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.9159862,
+        "lon": 15.5243464
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Dumbo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bae2981bc2ef2a4059aabb0dc578e02dc0f00103f90180d890d00100000092031d436173696e6f204e6f7373612053656e686f726120646f204d6f6e7465",
+      "name": "Casino Nossa Senhora do Monte",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9384214,
+        "lon": 13.4682778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Casino Nossa Senhora do Monte, Avenida Martin Luther King, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d67db6c480732a40593995b146e29e21c0f00103f90171e5c37800000000",
+      "name": "Rua Rainha Ginga",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8103201,
+        "lon": 13.2255918
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rua Rainha Ginga, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed94b31c8d102b4059fe1f71d932d62dc0f00103f901c2aeca0c0200000092032443656d6974c3a972696f2048697374c3b37269636f20646f7320426172726163c3b56573",
+      "name": "Cemitério Histórico dos Barracões",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9183567,
+        "lon": 13.5323266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cemitério Histórico dos Barracões, Avenida Comandante Kwenha, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180c5d0a057ca2d4059d90528b27bab22c0f00103f901cdefa3a402000000",
+      "name": "the trail goes deep into the forest",
+      "city": "N'dalatando",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.3349281,
+        "lon": 14.8951998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "the trail goes deep into the forest, Maria Teresa/N'Dalatando, N'dalatando, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e83bef4f6672f40598fc536a968042ac0f00103f90126fb5b7e0000000092030453756d69",
+      "name": "Sumi",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -13.008611,
+        "lon": 15.703056
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sumi, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155e0bfd42a052b4059c3d1fa0049e12dc0f00103f9014ed17bcc0100000092030142",
+      "name": "B",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400101,
+        "lon": 13.5100924
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "B, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd491d2e83432f4059a97a432b41242ac0f00103f901d7cc1e410000000092030e5365727261204c756d62616e6469",
+      "name": "Serra Lumbandi",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -13.0708097,
+        "lon": 15.6318602
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Lumbandi, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104e5b67d8fb22d4059662bd43f2d9b23c0f00103f901330bb11c0100000092030e436162757461204d697261646f72",
+      "name": "Cabuta Mirador",
+      "city": "Cabuta-Sede",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.8030796,
+        "lon": 14.848751
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cabuta Mirador, Track to Mirador, Cabuta-Sede, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f065474f36ee2a4059d4d347e00fd32dc0f00103f901faddc3da010000009203214361736361746120646f2052696f204e27676f6c6f2065204d697261646f75726f",
+      "name": "Cascata do Rio N'golo e Miradouro",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9122305,
+        "lon": 13.4652581
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cascata do Rio N'golo e Miradouro, Rota do Rio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195eaa7a4f3ee2a40598bd4c5b7c1d22dc0f00103f90180b16fda0100000092030f50617271756520496e66616e74696c",
+      "name": "Parque Infantil",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9116342,
+        "lon": 13.4667026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque Infantil, Rota do Sol, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbefd9df7eed2a40590fdcdcf357d32dc0f00103f9015e564eda0100000092031643616e74696e686f20646f73204e616d6f7261646f73",
+      "name": "Cantinho dos Namorados",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9127804,
+        "lon": 13.4638586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cantinho dos Namorados, Rota do Rio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515993b72feeef2a40597b93865407e02dc0f00102f9018aeeb6310000000092031a4172636f732064612043696461646520646f204c7562616e676f",
+      "name": "Arcos da Cidade do Lubango",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.937555924823519,
+        "lon": 13.4686140929786
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Arcos da Cidade do Lubango, Alameda do Parque, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a05381845622a4059378b170b438c2fc0f00103f901852591810100000092030d436176656c7563616d77652032",
+      "name": "Cavelucamwe 2",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.773949,
+        "lon": 13.1919334
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cavelucamwe 2, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519669ea2bfe2d2a40591066c9d23d7122c0f00103f9017b3023fe000000009203104d697261646f75726f206461204c7561",
+      "name": "Miradouro da Lua",
+      "city": "Barra do Cuanza",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.2211748,
+        "lon": 13.0898298
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Moon Scenic Overlook, Palmeirinhas-Barra do Cuanza, Barra do Cuanza, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190bc732843a52e4059d6ac33be2f3629c0f00103f901f66631410000000092030753656d6275c3a9",
+      "name": "Sembué",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.605833,
+        "lon": 15.322778
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sembué, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fc39f3c87c52e405912a859fb963429c0f00103f901e06131410000000092030743616d756e6461",
+      "name": "Camunda",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6027144,
+        "lon": 15.3857974
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camunda, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb31b495f2892d4059f459f9c0e9e42dc0f00103f9015a24cdfb01000000920326506172717565204e6163696f6e616c20646f20426963756172202d20486f6d626f2047617465",
+      "name": "Parque Nacional do Bicuar - Hombo Gate",
+      "city": "Quipungo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9470959,
+        "lon": 14.7694289
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque Nacional do Bicuar - Hombo Gate, Entrada Parque Nacional do Bicuar, Quipungo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab278417a8402a40590213e0e960e921c0f00102f901c7c35a29000000009203104d6f72726f20646f7320566561646f73",
+      "name": "Morro dos Veados",
+      "city": "Municipality of Belas",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.955817516901792,
+        "lon": 13.126282439119526
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Morro dos Veados, Benfica-Palmeirinhas, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100daa040e9052b4059c899266c3fe12dc0f00103f901aa5e90f2010000009203334d697261646f75726f20646f2043726973746f2d526569202f2043687269737420746865204b696e672056696577706f696e74",
+      "name": "Miradouro do Cristo-Rei / Christ the King Viewpoint",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.939937,
+        "lon": 13.5115452
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Cristo-Rei / Christ the King Viewpoint, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ebeb62341ed2a405914faaaa635d32dc0f00103f901910381d901000000920312426172726167656d206461204c6576616461",
+      "name": "Barragem da Levada",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9125187,
+        "lon": 13.4633876
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barragem da Levada, Rota do Rio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51775ac86d453433405953927538ba462ec0f00103f9017351249f01000000",
+      "name": "Tank Wreck nr 3",
+      "city": "Cuito Cuanavale",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.1381395,
+        "lon": 19.2041844
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tank Wreck nr 3, EN280, Cuito Cuanavale, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0da4a5414a82e40592408fc862e5929c0f00103f9017a6231410000000092030b4d6f6e7465204c75656c61",
+      "name": "Monte Luela",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6741831,
+        "lon": 15.3282801
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Luela, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516be56f8cae642e40590b5cc3b1d37429c0f00103f901f9b620410000000092030f536572726120646f20456c656e6465",
+      "name": "Serra do Elende",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.7281776,
+        "lon": 15.1966442
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra do Elende, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e49319b5b882e405905e7429bd23c29c0f00103f901296731410000000092030b4d6f6e74652055656e676f",
+      "name": "Monte Uengo",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6187943,
+        "lon": 15.2663239
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Uengo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160c2facf82922a40590f9cb007f28b21c0f00102f90198b59c3e0000000092030842c3ba73736f6c61",
+      "name": "Bússola",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.773330917652883,
+        "lon": 13.286154269562019
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Compass, Rua do São Pedro da Barra, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510641913875ef2a40592474e15174d22dc0f00103f9012246f5d90100000092031a4d697261646f75726f20646f205265736f727420285a756c7529",
+      "name": "Miradouro do Resort (Zulu)",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9110437,
+        "lon": 13.4676912
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Resort (Zulu), Rota Zulu da Montanha, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b38995d9c29334059d6952aacaf512ec0f00103f90181e67b7a01000000",
+      "name": "EN280",
+      "city": "Cuito Cuanavale",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.1595434,
+        "lon": 19.1625422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "EN280, Cuito Cuanavale, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3316596f3ef2a40595039268bfbdf2dc0f00103f90182d890d00100000092032250697363696e612f4c61676f204e6f7373612053656e686f6120646f204d6f6e7465",
+      "name": "Piscina/Lago Nossa Senhoa do Monte",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.937466,
+        "lon": 13.4686553
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piscina/Lago Nossa Senhoa do Monte, Alameda do Parque, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162a29cc310062b4059ec7882b34ae12dc0f00102f901825b301b0000000092030a43726973746f20526569",
+      "name": "Cristo Rei",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.94002305,
+        "lon": 13.511846649999999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Cristo Rei, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185422c3ccf5e284059a9271fbff04c16c0f00102f90135a7fe0d000000009203094d6f6e756d656e746f",
+      "name": "Monumento",
+      "city": "Cabinda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -5.575137125278993,
+        "lon": 12.185174827959836
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Monumento, Av. do Duque de Chiazi, Cabinda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dafbf95ba7fa2a4059893d59d6a2d62dc0f00103f901da20f90e0300000092031b427573746f20446f75746f722041676f7374696e686f204e65746f",
+      "name": "Busto Doutor Agostinho Neto",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9192111,
+        "lon": 13.4895581
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Busto Doutor Agostinho Neto, Praça Doutor Agostinho Neto, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511bcddb227aef2a4059ec527eada6d22dc0f00103f901840eced90100000092030b416c64656961205a756c75",
+      "name": "Aldeia Zulu",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9114279,
+        "lon": 13.4677287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Aldeia Zulu, Rota Zulu da Montanha, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ca94bc631ee2a405975d5f2b9c9d22dc0f00103f901244a3fda0100000092030d436f7661206461204f6ec3a761",
+      "name": "Cova da Onça",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9116953,
+        "lon": 13.4652235
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cova da Onça, Rota Animal, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517106da780bef2a40597d16951e97d22dc0f00103f9012aa26fda010000009203104c61676f6120646f204a61636172c3a9",
+      "name": "Lagoa do Jacaré",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9113092,
+        "lon": 13.4668844
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lagoa do Jacaré, Rota do Sol, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6dac76537b22f4059d7b672405c6328c0f00103f9017d5a19da01000000",
+      "name": "Alto Hama-Bailundo",
+      "city": "Bailundo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.1940632,
+        "lon": 15.8480789
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Alto Hama-Bailundo, Bailundo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc197fec3f4e3040593599f1b6d2c723c0f00103f90163a9c2030100000092031252c3a17069646f7320646f204b77616e7a61",
+      "name": "Rápidos do Kwanza",
+      "city": "Aldeia do Kwanza",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.8902795,
+        "lon": 16.3056629
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rápidos do Kwanza, Rapidos do Kwanza, Aldeia do Kwanza, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c88f42a3850d32405950560c57073822c0f00103f9012554f13e0200000092031744657374726fc3a76f7320646520756d20617669c3a36f",
+      "name": "Destroços de um avião",
+      "city": "Cuango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.109431,
+        "lon": 18.0528204
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, EN165, Cuango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7ddfd96a5b22740590bbe1f6dd29b2fc0f00103f9013e0fcf1603000000920314457374c3a174756120646f205065736361646f72",
+      "name": "Estátua do Pescador",
+      "city": "Tômbua",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.8043398,
+        "lon": 11.8489196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Estátua do Pescador, EN 100-3, Tômbua, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167e613c31fbb344059d3a0681ec0e220c0f00103f901d355fa3e0200000092031344657374726fc3a76f20646520617669c3a36f",
+      "name": "Destroço de avião",
+      "city": "Lucapa",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.442872,
+        "lon": 20.7309534
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, Lucapa, Lunda Norte Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5147bbc09b24a82e4059601e32e5436829c0f00103f9017b6731410000000092030c53657272612043616375636f",
+      "name": "Serra Cacuco",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.703643,
+        "lon": 15.3284043
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Cacuco, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510551f7014869314059efc3e688217a26c0f00103f90141bb6d9701000000",
+      "name": "Dando",
+      "city": "Dando",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -11.2385371,
+        "lon": 17.411255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dando, Bié Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ca03193a81f2f405902c41330709b29c0f00103f90181ca1a410000000092030c4d6f6e7465204e67616e6461",
+      "name": "Monte Nganda",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.8035903,
+        "lon": 15.561833
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Nganda, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebba01b04b962e40596c770fd07d2529c0f00103f901ff6731410000000092030f4d6f6e74652054636869756e677565",
+      "name": "Monte Tchiungue",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.5732255,
+        "lon": 15.2935462
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Tchiungue, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a0eb10b50d02a4059a1061dbe96a121c0f00103f9014d90c02303000000",
+      "name": "Parque aquático de Cacuaco \"Laugorim\"",
+      "city": "Cacuaco Municipality",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8156032,
+        "lon": 13.4068607
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque aquático de Cacuaco \"Laugorim\", Avenida Comandante Fidel Castro, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111c5e40d300d32405984aff902c43a22c0f00103f9012754f13e0200000092031744657374726fc3a76f7320646520756d20617669c3a36f",
+      "name": "Destroços de um avião",
+      "city": "Cuango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.1147767,
+        "lon": 18.0515145
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plane wreck, EN165, Cuango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51935c59fd6ccf2d4059512a86504aa922c0f00103f9017d04a4a402000000",
+      "name": "Entrance 500kz",
+      "city": "N'dalatando",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.3306451,
+        "lon": 14.9051284
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Entrance 500kz, Maria Teresa/N'Dalatando, N'dalatando, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514bb5d30209622840592137204b133616c0f00102f901ed680e0e000000009203054665697261",
+      "name": "Feira",
+      "city": "Cabinda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -5.552807973710316,
+        "lon": 12.191474998801501
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Feira, Rua General Francisco Higino Craveiro Lopes, Cabinda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c09e65cc132228405940d8ce9c9a882fc0f00103f90171f673a0010000009203054172636f73",
+      "name": "Arcos",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.7668046,
+        "lon": 12.0665573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Arcos, Lagoa dos Arcos, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517239b93a5b172f4059d23a0554939f29c0f00103f90160c71a410000000092030b4d6f6e746520436175c3a9",
+      "name": "Monte Caué",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.8116709,
+        "lon": 15.5456179
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Caué, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51953ebece97142f405922725534318829c0f00103f90148ca1a410000000092030c4d6f6e746520557373657465",
+      "name": "Monte Ussete",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.7660004,
+        "lon": 15.5402207
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Ussete, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199805f2349982f40596eb99ff8d62822c0f00103f9017375fd1d0100000092030f4d757373656c656a692046616c6c73",
+      "name": "Musseleji Falls",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.0797651,
+        "lon": 15.797433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Musseleji Falls Viewpoint access track, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51637891ae3e9b2e4059c631923d421d29c0f00103f901386631410000000092030e536572726120546368696c6f6e6f",
+      "name": "Serra Tchilono",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.557146,
+        "lon": 15.3032126
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Tchilono, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516317fb8161772a405973cb587e2aa021c0f00103f90109072b5102000000",
+      "name": "Rua Major Kanhangulo",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8128242,
+        "lon": 13.2331658
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rua Major Kanhangulo, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f857eab4c98c284059835550acae6a2dc0f00103f901d33461110200000092030f4c61676f6173204e61747572616973",
+      "name": "Lagoas Naturais",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.7083639,
+        "lon": 12.2749764
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lagoas Naturais, Farol do Piambo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5175c7629b54f02a4059f73fc05ab5d32dc0f00103f901fdddc3da0100000092031b53657276616c20284c696e6365292026204368696d70616e7ac3a9",
+      "name": "Serval (Lince) & Chimpanzé",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.913493,
+        "lon": 13.4693955
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Serval (Lince) & Chimpanzé, Rota Animal, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177baf3c473ee2a40594b61945632d22dc0f00103f901850381d90100000092031a4e617363656e746520646520c38167756120506f74c3a176656c",
+      "name": "Nascente de Água Potável",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9105403,
+        "lon": 13.465727
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nascente de Água Potável, Rota dos Lagos, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ddb7c6d47722a40590f59ee16929d21c0f00103f9010b05f0af01000000920322466f7274616c657a612064652053c3a36f204d696775656c206465204c75616e6461",
+      "name": "Fortaleza de São Miguel de Luanda",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8077552,
+        "lon": 13.2232012
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Luanda Saint Miguel Fortress, Avenida Agostinho Neto, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d84a43e8fb442f405971242b1ac64829c0f00103f901103832410000000092030e4d6f6e746520436173736f6e676f",
+      "name": "Monte Cassongo",
+      "city": "Huambo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6421364,
+        "lon": 15.6347344
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Cassongo, Huambo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512cf587c1570f2b405990604fe0429722c0f00103f901b9859c4e01000000",
+      "name": "Estrada Pra Quiissama",
+      "city": "Mucolo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.2954321,
+        "lon": 13.5299664
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Estrada Pra Quiissama, Mucolo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51374f1a0f5b772a40598065a54929a021c0f00103f9010b072b5102000000",
+      "name": "Rua Major Kanhangulo",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.812815,
+        "lon": 13.2331166
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rua Major Kanhangulo, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec32fca71b382f405906d5ab6d2f9629c0f00103f90127c31a410000000092030e4d6f6e74652043616c696f6e676f",
+      "name": "Monte Caliongo",
+      "city": "Huambo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.7933306,
+        "lon": 15.609586
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Caliongo, Huambo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5b1f1dd847e2a40595a39d53431a821c0f00102f90195079709000000009203114c6172676f2064612046616dc3ad6c6961",
+      "name": "Largo da Família",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.82850041487534,
+        "lon": 13.247107444528277
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Largo da Família, Avenida Deolinda Rodrigues, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc9c6dc905fa2c4059d471eb24117c23c0f00103f9011dfe5ea502000000",
+      "name": "9 Old Soviet Tanks",
+      "city": "Cambambe",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.7423183,
+        "lon": 14.4883254
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "9 Old Soviet Tanks, Alto Dondo/Quibala, Cambambe, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f52aa8e66562840591e47bdf1ffb02ec0f00103f9017ea31987020000009203194d697261646f75726f20646f204d6f6e7465206465204c797a",
+      "name": "Miradouro do Monte de Lyz",
+      "city": "Moçâmedes",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.3457027,
+        "lon": 12.1687512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Monte de Lyz, EN 100, Moçâmedes, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e64416c49b942e40594145d5af744e29c0f00103f9013f6531410000000092030c4d6f6e7465204d756e616e61",
+      "name": "Monte Munana",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.653234,
+        "lon": 15.2902509
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Munana, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb2a114d45fb2e405910f1c5cd5f2329c0f00103f901c5ca31410000000092030e4d6f6e7465204361706163617461",
+      "name": "Monte Capacata",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.5690903,
+        "lon": 15.4907631
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Capacata, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4f281d37193314059cc7f48bf7d612cc0f00103f9019544249f01000000",
+      "name": "Tank Wreck",
+      "city": "Iaonga",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.1904125,
+        "lon": 17.5759556
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tank Wreck, EN140, Iaonga, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d3189c44ece2a405971491f042e2929c0f00103f9015578dab201000000",
+      "name": "Rua Comandante Kassangi",
+      "city": "Benguela",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.5804292,
+        "lon": 13.4029447
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rua Comandante Kassangi, Benguela, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510bb6114f76ef2a4059e769656776de2dc0f00103f90120c257cf01000000920329436972637569746f20557262616e6f206461204e6f7373612053656e686f726120646f204d6f6e7465",
+      "name": "Circuito Urbano da Nossa Senhora do Monte",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9344971,
+        "lon": 13.4676995
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Circuito Urbano da Nossa Senhora do Monte, Avenida Senhora do Monte, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dddfc179991b2b4059ead9ea1846ae28c0f00102f90171d8670b0000000092030d506f7274617320646f204d6172",
+      "name": "Portas do Mar",
+      "city": "Lobito",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.340378550213206,
+        "lon": 13.553905301014249
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Portas do Mar, Avenida da Independência, Lobito, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7344af2b7102f4059837c1a4174b629c0f00103f9018e1a089f0200000092030f4d6f6e7465204d62616e646a656c61",
+      "name": "Monte Mbandjela",
+      "city": "Caála",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.8563557,
+        "lon": 15.5326534
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Mbandjela, EN 260, Caála, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517879df9d21052b405952723dc049e12dc0f00102f901fadd52310000000092030c4c7562616e676f205369676e",
+      "name": "Lubango Sign",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.940015800000001,
+        "lon": 13.5100221
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Lubango Sign, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519aad612b0d052b4059f6bea7284de12dc0f00103f9014ad17bcc010000009203014f",
+      "name": "O",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400418,
+        "lon": 13.5098661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "O, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b94b99e8d792a4059a8cfc42a949f21c0f00103f9010bd3e4250100000092031647756e6f73636f20496e7465726e6163696f6e616c65",
+      "name": "Gunosco Internacionale",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8116773,
+        "lon": 13.2374086
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gunosco Internacionale, Rua Rainha Jinga, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5130849cf7ffc1294059fecbfff51bef11c0f00103f9016e2e5c8d02000000920318517565646120646520c38167756120646f205265736f7274",
+      "name": "Queda de Água do Resort",
+      "city": "Miconge",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -4.4835051,
+        "lon": 12.878906
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Queda de Água do Resort, Miconje - Miconje Velho, Miconge, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51252026e142c22e4059d588aaa9765f29c0f00103f901786331410000000092030f4d6f6e7465204c6f7373656e677565",
+      "name": "Monte Lossengue",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6864522,
+        "lon": 15.3794165
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Lossengue, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176f7a52325ca2e405921cced5eee2729c0f00103f901506831410000000092030d4d6f6e7465204c75706f6e6465",
+      "name": "Monte Luponde",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.5779905,
+        "lon": 15.3948146
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Luponde, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510788388c38272f4059afdd2c149f5123c0f00103f901dbf1a9060100000092030d506564726173204e6567726173",
+      "name": "Pedras Negras",
+      "city": "Pungo Andongo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.6594168,
+        "lon": 15.5766033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Black Rock, Estrada para Pedras Negras de Pungo a Ndongo, Pungo Andongo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e4397265b3b2f405985ca64dde4d829c0f00103f9010dad1b410000000092030e4d6f6e7465204c75717569737361",
+      "name": "Monte Luquissa",
+      "city": "Luquissa",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.9236211,
+        "lon": 15.6159298
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Luquissa, Luquissa, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af95d05d129b2a4059d2aa9674941b2ec0f00103f9017fc4ff8f02000000",
+      "name": "Caminho às Cascatas de Katchuvila",
+      "city": "Humpata",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.053867,
+        "lon": 13.3028745
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Caminho às Cascatas de Katchuvila, Humpata, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51907758f2c26728405965074b2b741c2fc0f00103f9019123cff70200000092031257656c77697473636869612067617264656e",
+      "name": "Welwitschia garden",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.5555738,
+        "lon": 12.2026592
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Welwitschia garden, EN 100, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a9658198dc42e4059ae47e17a142e29c0f00103f901c56231410000000092030d4d6f6e7465204c75636f737369",
+      "name": "Monte Lucossi",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.59,
+        "lon": 15.383889
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Lucossi, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a2ed8576841284059425c397b677c2fc0f00103f90105bc455a01000000920312436f6c696e617320646f2054c3b46d627561",
+      "name": "Colinas do Tômbua",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.742977,
+        "lon": 12.1277492
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Colinas do Tômbua, Estrada dos Morros Vermelos, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f9d013ff4ee2a4059d87047ee9fd12dc0f00103f901cd34a5d901000000920307416e696d616973",
+      "name": "Animais",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9094233,
+        "lon": 13.4667072
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Animais, Rota dos Lagos, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae30d86894ed2a405921167b794bd32dc0f00103f9013b564eda010000009203104d697261646f75726f20646f2052696f",
+      "name": "Miradouro do Rio",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9126852,
+        "lon": 13.4640229
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Miradouro do Rio, Rota do Rio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d824e428e5c22a4059ef2076a6d0a12dc0f00103f90125e69b67000000009203164d697261646f75726f2064612054756e646176616c61",
+      "name": "Miradouro da Tundavala",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.816045,
+        "lon": 13.3806546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro da Tundavala, EN 280-5, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f8dfd7623052b40592d54a3fc49e12dc0f00103f9014dd17bcc0100000092030141",
+      "name": "A",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400176,
+        "lon": 13.5100362
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "A, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51693a3b191c052b405986c77e164be12dc0f00103f9014cd17bcc010000009203014e",
+      "name": "N",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.940026,
+        "lon": 13.50998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "N, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177f52a323a182e4059970f5201417e2dc0f00103f901d502fc3b03000000920304496c6861",
+      "name": "Ilha",
+      "city": "Matala",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.7465897,
+        "lon": 15.047319
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ilha, EN280, Matala, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519605137f14052b4059eb44381c4ce12dc0f00103f9014bd17bcc0100000092030147",
+      "name": "G",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400338,
+        "lon": 13.509922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "G, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fdcdcf357c32a405976f1c86999a22dc0f00103f901dfa0c9d30100000092032046656e64612064612054756e646176616c612f54756e646176616c6120476170",
+      "name": "Fenda da Tundavala/Tundavala Gap",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.8175767,
+        "lon": 13.3815304
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fenda da Tundavala/Tundavala Gap, EN 280-5, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51330a383a9d2e2f4059b30a9b012e5823c0f00103f9014dc0368c0200000092031e506564726173204e65677261732064652050756e676f20416e646f6e676f",
+      "name": "Pedras Negras de Pungo Andongo",
+      "city": "Pungo Andongo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -9.672226,
+        "lon": 15.5910433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pedras Negras de Pungo Andongo, Estrada para Pedras Negras de Pungo a Ndongo, Pungo Andongo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51710b4c5de8102b405941f0f8f6aed52dc0f00103f901a3ad0db101000000920314426172726163c3b56573206461204875c3ad6c61",
+      "name": "Barracões da Huíla",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9173505,
+        "lon": 13.5330228
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barracões da Huíla, Praça dos Barracões da Huíla, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51075a266838ee2a40594d6ac3bc22d32dc0f00103f901ffddc3da01000000920318506f6e746520536f627265206f2052696f204e27676f6c6f",
+      "name": "Ponte Sobre o Rio N'golo",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9123744,
+        "lon": 13.4652741
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ponte Sobre o Rio N'golo, Rota do Rio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155455d1036ed2a405993f8815083d22dc0f00103f9017bf7a5d90100000092030d416c64656961204d75686f6c6f",
+      "name": "Aldeia Muholo",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9111581,
+        "lon": 13.4633031
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Aldeia Muholo, Rota do Sol, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ee3a6069a772f405973767cc5644729c0f00103f901b1383241000000009203104d6f6e746520546368696c656e677565",
+      "name": "Monte Tchilengue",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6394407,
+        "lon": 15.733597
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Tchilengue, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a28fb9ddcf92e40595f16c90d753229c0f00103f90129ca3141000000009203104d6f6e74652043616e646a616e677569",
+      "name": "Monte Candjangui",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.5985493,
+        "lon": 15.4880113
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Candjangui, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a25ba1dd0202f40593aec191debdd29c0f00103f901abab1b410000000092030f4d6f6e74652043617373656e646a69",
+      "name": "Monte Cassendji",
+      "city": "Calenguele I",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.9334344,
+        "lon": 15.5640878
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Cassendji, Calenguele I, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e496a0d0fccf2a4059a033695375af2dc0f00103f901d3c4f2a901000000",
+      "name": "Estrada do Miradouro da Cascata",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.842692,
+        "lon": 13.4062257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Estrada do Miradouro da Cascata, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b12b51bfccfb2a405937d2186c7bd92dc0f00101f901f91fbf0000000000920315507261c3a761204a6fc3a36f205061756c6f204949",
+      "name": "Praça João Paulo II",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.924769762067724,
+        "lon": 13.49179647317746
+      },
+      "categories": [
+        "tourism",
+        "tourism.sights",
+        "tourism.sights.square"
+      ],
+      "formatted_address": "Lucrécia Paim, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103931b45d61e2f40591563aaaae13829c0f00103f901a9ca31410000000092030d4d6f6e74652043617373756d61",
+      "name": "Monte Cassuma",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6110967,
+        "lon": 15.5602285
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Cassuma, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bee8dc646052b405969f68ab84ae12dc0f00103f901ab5e90f2010000009203114c7562616e676f2056696577706f696e74",
+      "name": "Lubango Viewpoint",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400232,
+        "lon": 13.5103056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lubango Viewpoint, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e55e70764d52e405933068ce4e16329c0f00103f9016bca31410000000092030c4d6f6e746520546368696c61",
+      "name": "Monte Tchila",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6950828,
+        "lon": 15.4167788
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Tchila, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db02f85dc7162b4059fc5c2338e4b128c0f00103f9017d774c7800000000920311436f6c696e612064612053617564616465",
+      "name": "Colina da Saudade",
+      "city": "Lobito",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.3474443,
+        "lon": 13.5444898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Colina da Saudade, Rua Marechal Gomes da Costa, Lobito, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4d26f4caa282b40590d0ee00c19a328c0f00102f90127d9670b0000000092030b5a6169726520426172636f",
+      "name": "Zaire Barco",
+      "city": "Lobito",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.318550493574572,
+        "lon": 13.579424275064817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zaire Barco, Largo 28 de Agosto, Lobito, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518acd226f14642f4059ad9c627a677529c0f00103f9010b1c1941000000009203124d6f6e7465205361746368696e6f6e677565",
+      "name": "Monte Satchinongue",
+      "city": "Huambo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.7293051,
+        "lon": 15.6954684
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Satchinongue, Huambo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd12edcfeaad2d405925adf886c2332ec0f00103f901554e1dfc0100000092032e506172717565204e6163696f6e616c20646f20426963756172202d2047616e646f20486561647175617274657273",
+      "name": "Parque Nacional do Bicuar - Gando Headquarters",
+      "city": "Quipungo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.1010935,
+        "lon": 14.8396821
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque Nacional do Bicuar - Gando Headquarters, Trilho Auto Visita / Self Drive Track, Quipungo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6aa1ace46282f405902171a3ed87429c0f00103f901f8c01a410000000092030d4d6f6e746520546368696dc3b3",
+      "name": "Monte Tchimó",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.7282123,
+        "lon": 15.5786652
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Tchimó, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a97416b345b2f4059ed2708c325a829c0f00103f901b01719410000000092030d4d6f6e7465204c7563756e6761",
+      "name": "Monte Lucunga",
+      "city": "Huambo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.8284131,
+        "lon": 15.6781343
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Lucunga, Huambo, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516af1ce4653f22a4059eaca0cc0abde2dc0f00103f90117cc50940000000092031f506172717565206465204665697261732065204578706f7369c3a7c3b56573",
+      "name": "Parque de Feiras e Exposições",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9349041,
+        "lon": 13.4732916
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque de Feiras e Exposições, Rua da Feira Popular, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51505daf9fb4ee2a40594402a150aad02dc0f00103f90129a26fda010000009203134d697261646f75726f20646f205265736f7274",
+      "name": "Miradouro do Resort",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9075494,
+        "lon": 13.4662218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Resort, Rota Animal, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126b094c041222840598f3dd6e7c5882fc0f00103f901d9ed73a0010000009203054172636f73",
+      "name": "Arcos",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.7671349,
+        "lon": 12.0669079
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Arcos, Lagoa dos Arcos, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176d1a11d8105284059f573f9c55b452fc0f00103f901a7ba0f7d01000000",
+      "name": "Road to canyon",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.6354658,
+        "lon": 12.0107507
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Road to canyon, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513200f9b770fd2a405941db78e0dad32dc0f00102f9012bd5b036000000009203084772c3a166696361",
+      "name": "Gráfica",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.913779272797571,
+        "lon": 13.495000600000001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Gráfica, Rua 29 de Novembro, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9d946f24bd72e405965fcfb8c0b5728c0f00103f901a6e440410000000092030b53657272612048756d6269",
+      "name": "Serra Humbi",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.17001,
+        "lon": 15.4205013
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Humbi, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc23e53801bf2a40591c7a8b87f7d021c0f00103f90133c0b5b301000000",
+      "name": "Rua 11 de Novembro",
+      "city": "Viana Municipality",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.9081385,
+        "lon": 13.3730562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rua 11 de Novembro, Viana Municipality, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f4311f10e8942e4059a5677a89b14429c0f00103f901376831410000000092030c5365727261204d616c696361",
+      "name": "Serra Malica",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.634167,
+        "lon": 15.290833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Malica, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514126be7f98ed2a40598c135fed28d22dc0f00103f901870381d9010000009203124c61676f6120646f73204361747569746573",
+      "name": "Lagoa dos Catuites",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9104685,
+        "lon": 13.4640541
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lagoa dos Catuites, Rota dos Lagos, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba6ea532208a2e4059d2c19f86144829c0f00103f901c7663141000000009203115365727261204c656d62652d4c656d6265",
+      "name": "Serra Lembe-Lembe",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6407816,
+        "lon": 15.2697769
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serra Lembe-Lembe, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e93ea5efda0e2e4059ba11161571ea2dc0f00103f9015b24cdfb0100000092032a506172717565204e6163696f6e616c20646f20426963756172202d20436170656c6f6e676f2047617465",
+      "name": "Parque Nacional do Bicuar - Capelongo Gate",
+      "city": "Matala",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.957894,
+        "lon": 15.0290141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque Nacional do Bicuar - Capelongo Gate, Entrada Parque Nacional do Bicuar, Matala, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166406d34ec062b4059aec2ec8553ce2dc0f00102f901fdf86a310000000092030f4c6172676f20646f732050414c4f50",
+      "name": "Largo dos PALOP",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.902980981017517,
+        "lon": 13.513520849548694
+      },
+      "categories": [
+        "tourism",
+        "tourism.sights",
+        "tourism.sights.square"
+      ],
+      "formatted_address": "Bula Matadi, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0de516342782a4059839b317150272ec0f00103f901dd951d87000000009203134c65626120506173732056696577706f696e74",
+      "name": "Leba Pass Viewpoint",
+      "city": "Humpata",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.0767856,
+        "lon": 13.2348815
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Leba Pass Viewpoint, Leba Viewpoint, Humpata, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e871ce3e459c2a40598b8285387ba02fc0f00103f901e9259181010000009203074d756375617961",
+      "name": "Mucuaya",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.8134401,
+        "lon": 13.3052158
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mucuaya, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ed3878961f22a4059067069eb96df2dc0f00103f901dd97f611020000009203144665697261204167726f2d70656375c3a1726961",
+      "name": "Feira Agro-pecuária",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9366983,
+        "lon": 13.4734004
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Feira Agro-pecuária, Rua da Cooperativa dos Criadores de Gado do Sul de Angola, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c07166b54f02a40590b2bcd7af5db2dc0f00102f90109718031000000009203164d6f6e756d656e746f20c3a0204c6962657264616465",
+      "name": "Monumento à Liberdade",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.929607236428202,
+        "lon": 13.469394060553462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Monumento à Liberdade, Largo Augusto Ngangula, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c8d4e4ccdb0284059fb88a93ea1882dc0f00103f90159e0731102000000",
+      "name": "Furado Soba",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.7668552,
+        "lon": 12.3453163
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Furado Soba, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51851acfb1cdef2a4059c0385dbb59e02dc0f00103f90181d890d00100000092031d506172717565204e6f7373612053656e686f726120646f204d6f6e7465",
+      "name": "Parque Nossa Senhora do Monte",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9381846,
+        "lon": 13.4683662
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque Nossa Senhora do Monte, Alameda do Parque, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5163f030ed9bef2a4059a0275426ebd22dc0f00103f9012346f5d90100000092031a4d697261646f75726f2064612043696461646520285a756c7529",
+      "name": "Miradouro da Cidade (Zulu)",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9119503,
+        "lon": 13.4679865
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro da Cidade (Zulu), Rota Zulu da Montanha, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce59fa2bbfeb2a4059a1d05735add12dc0f00103f901b94dc4da010000009203125175696e7461205065646167c3b367696361",
+      "name": "Quinta Pedagógica",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9095246,
+        "lon": 13.4604429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Quinta Pedagógica, Pululukwa Resort, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51deaa9097da772a4059cfa4a88eb09b2fc0f00103f901492f91810100000092030759756d62696c6f",
+      "name": "Yumbilo",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.8040814,
+        "lon": 13.2340896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Yumbilo, Namibe Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51515b34aec94c2e4059239573733b892ec0f00103f9017feccb0e01000000",
+      "name": "Trilho Visita Guiada / Guided Track",
+      "city": "Matala",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.2680317,
+        "lon": 15.1499762
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Trilho Visita Guiada / Guided Track, Matala, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd772f5283f02a405970e01f0082df2dc0f00103f90184d890d001000000920322457374c3a164696f206461204e6f7373612053656e686f726120646f204d6f6e7465",
+      "name": "Estádio da Nossa Senhora do Monte",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9365387,
+        "lon": 13.4697519
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Estádio da Nossa Senhora do Monte, Travessa do Estádio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b4e7adff8ee2a405922ad8ca1f7d12dc0f00103f901cc34a5d90100000092030a417665737472757a6573",
+      "name": "Avestruzes",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9100924,
+        "lon": 13.4667425
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Avestruzes, Rota dos Lagos, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187c6b88729f82a4059e5bace2b43db2dc0f00102f901a902cf2d00000000",
+      "name": "Praça 17 de Setembro",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.928246850000003,
+        "lon": 13.484691850000003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Praça 17 de Setembro, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fca3e7e25022b405968b922e7b3da2dc0f00102f90165a82f3800000000",
+      "name": "Avenida 4 de Fevereiro",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9271538,
+        "lon": 13.504192299999998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Avenida 4 de Fevereiro, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d2f359df8052b40590c68d8de5de12dc0f00103f9016584c9d30100000092032643726973746f20526569202f2043687269737420746865204b696e6720284c7562616e676f29",
+      "name": "Cristo Rei / Christ the King (Lubango)",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9401693,
+        "lon": 13.5116624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cristo Rei / Christ the King (Lubango), Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d188e30a39f02e40596e81a90b1d4c29c0f00103f9014fca31410000000092030f4d6f6e74652043616e68616e656c61",
+      "name": "Monte Canhanela",
+      "city": "Ecunha",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6486591,
+        "lon": 15.4691852
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Canhanela, Ecunha, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e48ae65ce5ec2a4059443b021313d32dc0f00103f901900381d901000000920311426172726167656d20436f6c6f6e69616c",
+      "name": "Barragem Colonial",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9122549,
+        "lon": 13.4626874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barragem Colonial, Rota do Rio, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a52e7f637052b4059caae0f4647e12dc0f00103f90150d17bcc010000009203014c",
+      "name": "L",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9399969,
+        "lon": 13.5101926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "L, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5122380d209a62284059d3351df2ba3b16c0f00102f901286a0e0e000000009203114c6172676f20506564726f2042656e6765",
+      "name": "Largo Pedro Benge",
+      "city": "Cabinda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -5.5583303289726755,
+        "lon": 12.192582131971054
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Largo Pedro Benge, Rua GEN. Francisco Higino Craveiro Lopes, Cabinda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e7e8b4e96ee2a40590aeeac82bdd22dc0f00103f901b51088da01000000920311416c64656961204d6164656972656e7365",
+      "name": "Aldeia Madeirense",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9116021,
+        "lon": 13.4659905
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Aldeia Madeirense, Rota do Sol, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e9512dd0ef82e4059cf392e99195029c0f00103f901bbca31410000000092030c4d6f6e746520436f6d626575",
+      "name": "Monte Combeu",
+      "city": "Ecunha",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.6564453,
+        "lon": 15.4844884
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Combeu, Ecunha, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8250cb908da2e4059e012807f4a3d29c0f00103f9017dca31410000000092030e4d6f6e74652043616e68616d6961",
+      "name": "Monte Canhamia",
+      "city": null,
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.619709,
+        "lon": 15.4258478
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Canhamia, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104dc3d8a84202b405922cd0ea782dc2dc0f00103f90185355e0f02000000",
+      "name": "Sentido Chibia",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9306843,
+        "lon": 13.5635112
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentido Chibia, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7cf697121ca2a4059485744a8add420c0f00103f901dd06fef50100000092030f507261696120646f204c6966756e65",
+      "name": "Praia do Lifune",
+      "city": "Cerámica",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.4153874,
+        "lon": 13.3947864
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lifune Beach, Estrada pro N'zeto, Cerámica, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110f1c5cd5fcb2a40598d21a57e832729c0f00103f90147b7028b0200000092031650616cc3a163696f20646f20476f7665726e61646f72",
+      "name": "Palácio do Governador",
+      "city": "Benguela",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.5771751,
+        "lon": 13.3972153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palácio do Governador, Rua Comandante Kassangi, Benguela, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e37ddb2437c2a40595949d0042fa721c0f00103f901eddef61901000000",
+      "name": "Maison de Costa",
+      "city": "Luanda",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -8.8265306,
+        "lon": 13.242704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison de Costa, Rua Nicolau Gomes Spencer, Luanda, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140c7a244a69f2d40591e5a1aaec4662ec0f00103f9018b7d63d20100000092031a506c617461666f726d61206465204f627365727661c3a7c3a36f",
+      "name": "Plataforma de Observação",
+      "city": "Quipungo",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.2007193,
+        "lon": 14.8118154
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Plataforma de Observação, Trilho Auto Visita / Self Drive Track, Quipungo, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d219187959ef2a40598b2194522bd32dc0f00103f901feddc3da01000000920314426172726167656d20646f205065736361646f72",
+      "name": "Barragem do Pescador",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9124399,
+        "lon": 13.4674795
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barragem do Pescador, Rota Animal, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cec9e60533ed2a4059557b22991fd12dc0f00103f901c898a5d90100000092031a456e7472616461202d2050756c756c756b7761205265736f7274",
+      "name": "Entrada - Pululukwa Resort",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9084442,
+        "lon": 13.4632799
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Entrada - Pululukwa Resort, Rota do Sol, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104bfb277eb7d2840597bff7ae0be3d16c0f00102f901ba393f4900000000",
+      "name": "Cabassango - Lelo Mau",
+      "city": "Simulambuco",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -5.56029845,
+        "lon": 12.245937099999999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Cabassango - Lelo Mau, Simulambuco, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168ba8dbc62202f4059659b65602eeb29c0f00103f901d9911d41000000009203104d6f6e74652043616c656e6775656c65",
+      "name": "Monte Calenguele",
+      "city": "Sipiti",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -12.9593382,
+        "lon": 15.5632533
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.fell",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Calenguele, Sipiti, Huambo Province, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6194119994a284059e08096ae606b2ec0f00103f901039bf6260200000092031b44722e20416e74c3b36e696f2041676f7374696e686f204e65746f",
+      "name": "Dr. António Agostinho Neto",
+      "city": "Moçâmedes",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.209722,
+        "lon": 12.1456993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Dr. António Agostinho Neto, EN 100, Moçâmedes, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5130c099f3e7ee2a4059eb80351834d22dc0f00103f901af34a5d9010000009203114c61676f6120646f7320416e696d616973",
+      "name": "Lagoa dos Animais",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9105537,
+        "lon": 13.4666134
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lagoa dos Animais, Rota Animal, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512eaa454431052b4059a043cf1c48e12dc0f00103f9014fd17bcc0100000092030155",
+      "name": "U",
+      "city": "Lubango",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -14.9400033,
+        "lon": 13.5101415
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "U, Rua do Cristo Rei, Lubango, Angola",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b6b9be27189274059f7a45d96c0e72fc0f00103f9013f5cd9780100000092030756616e65737361",
+      "name": "Vanessa",
+      "city": "Tômbua",
+      "country": "Angola",
+      "country_code": "ao",
+      "coordinates": {
+        "lat": -15.9526412,
+        "lon": 11.768447
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vanessa, Estrada do Vanessa, Tômbua, Angola",
+      "description": null,
+      "image": null
+    }
+  ]
+}

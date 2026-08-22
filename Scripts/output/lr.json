@@ -1,0 +1,434 @@
+{
+  "country_code": "lr",
+  "country_name": "Liberia",
+  "boundary_place_id": "5183537a0151bb22c05957a6a9aff8ff1640f00101f9010cf1020000000000c0020b9203074c696265726961",
+  "count": 22,
+  "places": [
+    {
+      "place_id": "516d4eca49cd5f23c0593c331c2a21832040f00103f901928d3a1f0100000092030e426f616b61692056696c6c616765",
+      "name": "Boakai Village",
+      "city": "Voinjama",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 8.2561124,
+        "lon": -9.6871131
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Boakai Village, Voinjama, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518c0fb3976d9b25c059c790ad78348f1940f00103f9010225dcf801000000920312486f74656c20416672696361207275696e73",
+      "name": "Hotel Africa ruins",
+      "city": "Hotel Africa Road/Plu",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.3898486,
+        "lon": -10.8035705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hotel Africa ruins, Hotel Africa Road, 1001 Hotel Africa Road/Plu, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516b91fea8974520c0590f266a0eb53a1840f00103f9011089f920010000009203195a7765647275205374616469756d205669657720506f696e74",
+      "name": "Zwedru Stadium View Point",
+      "city": "Tchien",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.0573313,
+        "lon": -8.1359227
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Zwedru Stadium View Point, Doe Street, Tchien, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131b84148719d25c059eeae58688c4b1940f00103f901169325670000000092030b436f74746f6e2054726565",
+      "name": "Cotton Tree",
+      "city": "Monrovia",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.3237778,
+        "lon": -10.8075049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cotton Tree, West Point Road, Monrovia, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f26080db3f221c05907431d56b8dd1c40f00103f901ea83382c01000000",
+      "name": "Saclepea Road",
+      "city": "Garr-Bain",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.2165235,
+        "lon": -8.9740223
+      },
+      "categories": [
+        "catering",
+        "catering.fast_food",
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights"
+      ],
+      "formatted_address": "Saclepea Road, Garr-Bain, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178e68af7880921c059fb253d6766391e40f00103f901f22fd1700100000092030b5069636e69632061726561",
+      "name": "Picnic area",
+      "city": "Yekepa",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.5560547,
+        "lon": -8.5186231
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Picnic area, Red Sea Road, Yekepa, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c47663ca524120c059c85a9965b14d1840f00102f9017c91191d00000000",
+      "name": "Lasanna Street",
+      "city": "Tchien",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.07587202785971,
+        "lon": -8.12758476699981
+      },
+      "categories": [
+        "building",
+        "building.catering",
+        "building.tourism",
+        "catering",
+        "catering.fast_food",
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights"
+      ],
+      "formatted_address": "Lasanna Street, Tchien, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176f464a3180924c059e350bf0b5b531740f00103f90139b557110100000092030c53756e736574204265616368",
+      "name": "Sunset Beach",
+      "city": "Buchanan",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 5.831402,
+        "lon": -10.0177661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sunset Beach, Gbegar Village Road, 4000 Buchanan, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511db4b2d881ce1ec059473a03232f931140f00103f9013b80e27f01000000920317506c6f742064656d6f6e7374726174696f6e2073697465",
+      "name": "Plot demonstration site",
+      "city": "Harper",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 4.3937345,
+        "lon": -7.7016672
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Plot demonstration site, Maryland Avenue, Harper, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f436363b52a121c059ed9925016a6a1540f00103f90101ce3a420000000092031f5361706f204e6174696f6e616c205061726b20486561647175617274657273",
+      "name": "Sapo National Park Headquarters",
+      "city": "Jalay",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 5.35392,
+        "lon": -8.8150805
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sapo National Park Headquarters, Jalay, Wedjah, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a04e7974234823c059d9e2bfe5567d1c40f00103f9018c63ec6a010000009203114b70617461776520776174657266616c6c",
+      "name": "Kpatawe waterfall",
+      "city": "Gborsihi Ta",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.1224018,
+        "lon": -9.6408955
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kpatawe waterfall, Gborsihi Ta, Suakoko, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510877c2a6290121c05973f22213f0231e40f00103f9018131d170010000009203094c616b652076696577",
+      "name": "Lake view",
+      "city": null,
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.5350955,
+        "lon": -8.5022709
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lake view, Nimba County, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113060a61da0021c059b6aee29ef8231e40f00103f901c518a5700100000092030e4c616b6520626573742076696577",
+      "name": "Lake best view",
+      "city": null,
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.5351281,
+        "lon": -8.5016661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lake best view, Nimba County, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f29a5775567720c05930455e7b0bb81240f00103f901eb6a857f01000000920318424152434c415956494c4c4520434954592043454e544552",
+      "name": "BARCLAYVILLE CITY CENTER",
+      "city": "Barclayville",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 4.6797313,
+        "lon": -8.2330815
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BARCLAYVILLE CITY CENTER, Barclayville, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d5f58a3c3fc21c0597c197be530f61c40f00103f9017921172c01000000",
+      "name": "Benedick Flomo Street",
+      "city": "Ganta",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.2404209,
+        "lon": -8.9936801
+      },
+      "categories": [
+        "catering",
+        "catering.bar",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Benedick Flomo Street, Ganta, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141199936d21024c05966bbe765b9911740f00103f901633b47270200000092031942756368616e616e205468652043697479206f66204c6f7665",
+      "name": "Buchanan The City of Love",
+      "city": "Buchanan",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 5.8923088,
+        "lon": -10.0328538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Buchanan The City of Love, Stadium Road, 4000 Buchanan, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e876e569afa025c0599fb4cb12f8461940f00103f9015f5a970e01000000",
+      "name": "Benson Street",
+      "city": "Monrovia",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.3193057,
+        "lon": -10.8138383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Benson Street, Monrovia, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5106572f75469625c0599b2b39dd682e1940f00103f901dbe007390100000092030e4369747920546f776e2048616c6c",
+      "name": "City Town Hall",
+      "city": "Monrovia",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.2953219,
+        "lon": -10.7935063
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "City Town Hall, Tubman Boulevard, Monrovia, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51794611082a4520c05929d8351081411840f00103f9018125d12401000000",
+      "name": "Father Fenny Street",
+      "city": "Zwedru",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.0639689,
+        "lon": -8.1350863
+      },
+      "categories": [
+        "catering",
+        "catering.bar",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Father Fenny Street, Zwedru, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d4210d6b5f821c05928846973f7ec1c40f00103f901bf6f1a2c01000000",
+      "name": "George Dunbar Street",
+      "city": "Garr-Bain",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 7.2314127,
+        "lon": -8.9857623
+      },
+      "categories": [
+        "catering",
+        "catering.bar",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "George Dunbar Street, Garr-Bain, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3507cc6cf4420c05949658a3908521840f00103f901c3bb1a390000000092031253616d75656c20446f65277320486f757365",
+      "name": "Samuel Doe's House",
+      "city": "Tchien",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.0801095,
+        "lon": -8.1343977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Samuel Doe's House, Tapita-Monrovia Highway, Tchien, Liberia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51291b7b9ba30724c059423f53af5b3c1840f00103f90115d0ff240100000092030d57696c636f20416e64726f6964",
+      "name": "Wilco Android",
+      "city": "BIA",
+      "country": "Liberia",
+      "country_code": "lr",
+      "coordinates": {
+        "lat": 6.0589435,
+        "lon": -10.0149201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wilco Android, BIA, St. John River City, Liberia",
+      "description": null,
+      "image": null
+    }
+  ]
+}

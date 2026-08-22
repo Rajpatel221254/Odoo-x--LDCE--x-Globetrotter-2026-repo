@@ -1,0 +1,83 @@
+{
+  "country_code": "kn",
+  "country_name": "St. Kitts & Nevis",
+  "boundary_place_id": "512c45f29540624fc0591478279f1e573140c0020b9203155361696e74204b6974747320616e64204e65766973e2031c77686f736f6e66697273743a636f756e7472793a3835363332353531",
+  "count": 4,
+  "places": [
+    {
+      "place_id": "51ba5c0e057d664fc059c23c1a3d6d533140f00103f9015128623d0100000092030b506574726f676c79706873",
+      "name": "Petroglyphs",
+      "city": "Wingfield",
+      "country": "Saint Kitts and Nevis",
+      "country_code": "kn",
+      "coordinates": {
+        "lat": 17.3258856,
+        "lon": -62.8006903
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Petroglyphs, Wingfield's Road, Wingfield, Saint Thomas Middle Island, Saint Kitts and Nevis",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133d6a31584664fc0592ce79ce96f533140f00103f9014b4a8fcd00000000",
+      "name": "Wingfield's Road",
+      "city": "Wingfield",
+      "country": "Saint Kitts and Nevis",
+      "country_code": "kn",
+      "coordinates": {
+        "lat": 17.3259264,
+        "lon": -62.8009059
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wingfield's Road, Wingfield, Saint Thomas Middle Island, Saint Kitts and Nevis",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512905dd5ed2664fc0598539e6e1a9523140f00103f9017afd0397020000009203164b616c696e61676f20526f636b2064726177696e6773",
+      "name": "Kalinago Rock drawings",
+      "city": "Old Road Town",
+      "country": "Saint Kitts and Nevis",
+      "country_code": "kn",
+      "coordinates": {
+        "lat": 17.3229047,
+        "lon": -62.803295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kalinago Rock drawings, Wingfield's Road, Old Road Town, Saint Thomas Middle Island, Saint Kitts and Nevis",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dab749fbd5644fc0594199ebd9184e3140f00103f901a15d053a0100000092030c426c6f6f647920506f696e74",
+      "name": "Bloody Point",
+      "city": "Challengers",
+      "country": "Saint Kitts and Nevis",
+      "country_code": "kn",
+      "coordinates": {
+        "lat": 17.3050667,
+        "lon": -62.7877802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bloody Point, Island Main Road, Challengers, Trinity Palmetto Point, Saint Kitts and Nevis",
+      "description": null,
+      "image": null
+    }
+  ]
+}

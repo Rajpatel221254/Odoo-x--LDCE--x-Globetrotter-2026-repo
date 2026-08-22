@@ -1,0 +1,1581 @@
+{
+  "country_code": "mr",
+  "country_name": "Mauritania",
+  "boundary_place_id": "518ce6b79ed77a22c05949efc0a508413440f00101f901fbf0020000000000c0020b92030a4d6175726974616e6961",
+  "count": 84,
+  "places": [
+    {
+      "place_id": "5159e7ce02a3f52cc059a11342075dee3040f00103f901f605f5d101000000",
+      "name": "ol edhima",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.931107,
+        "lon": -14.4797593
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ol edhima, Brakna, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197d74936b0182ac05991c3510552813440f00102f901f6b1f61e00000000",
+      "name": "Route de l'EMIA طريق المدرسة العسكرية مجتمعة",
+      "city": "Atar",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.505157787763498,
+        "lon": -13.048219391359266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route de l'EMIA طريق المدرسة العسكرية مجتمعة, Atar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa995a5b1d2d2ac05928b682a625843140f00103f901c6541e3b01000000",
+      "name": "Magtaa lahjar",
+      "city": "Ouad Amour",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.5161995,
+        "lon": -13.0881146
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Magtaa lahjar, Hope Road, Ouad Amour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516254089a85442ac05943931f4ce50e3440f00103f901f01c567601000000",
+      "name": "Oasis Toungad",
+      "city": "Aoujeft",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.0581863,
+        "lon": -13.1338318
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Oasis Toungad, Aoujeft, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d0e057d337328c05958e1968fa4663240f00103f90172a9f60c020000009203214b73617220656c204261726b6120d982d8b5d8b120d8a7d984d8a8d8b1d983d8a9",
+      "name": "Ksar el Barka قصر البركة",
+      "city": "Ksar el Barka",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4009485,
+        "lon": -12.2250022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ksar el Barka قصر البركة, Ksar el Barka, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab3dec85023e28c05951de228b8f743240f00103f901465e160002000000",
+      "name": "أقوديت",
+      "city": "Aghaoudit",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4553153,
+        "lon": -12.121113
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "أقوديت, Aghaoudit, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515da04907900631c05956f4e21f110a3540f00103f901907810c500000000",
+      "name": "Nouakchott-Nouadhibou نواكشوط-نواذيبو",
+      "city": "Nouadhibou",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 21.0393238,
+        "lon": -17.0256352
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nouakchott-Nouadhibou نواكشوط-نواذيبو, Nouadhibou, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a2794cf3c362ac0593c6304f97e913440f00103f90122c5e88800000000920312417a6f7567756920d8a2d8b2d988d983d98a",
+      "name": "Azougui آزوكي",
+      "city": "Atar",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.5683437,
+        "lon": -13.1059327
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Azougui آزوكي, Foum Chouer, Atar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187759950772c21c0594966f50eb7353a40f00103f90172712a5c02000000",
+      "name": "حجرت 169 كلم",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 26.2098245,
+        "lon": -8.5868478
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "حجرت 169 كلم, Tiris Zemmour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d558c4ef1ff30c05948043e9a450d3540f00103f901f4a40dc50000000092031d537068696e78206465206c612062616965206465206c2745746f696c65",
+      "name": "Sphinx de la baie de l'Etoile",
+      "city": "Nouadhibou",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 21.0518433,
+        "lon": -16.9997758
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sphinx de la baie de l'Etoile, Nouakchott-Nouadhibou نواكشوط-نواذيبو, Nouadhibou, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519333b9bd491630c05920c3746be3d53040f00103f90116bb1e2f01000000",
+      "name": "الهناء",
+      "city": "Tigomatin",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.8355014,
+        "lon": -16.0870627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "الهناء, Autoroute Rosso الطريق السريع روصو, Tigomatin, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a0e338f57df2fc059ce7d288705233240f00103f9019a1de14e01000000",
+      "name": "دار الشيخ ولد فتى",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1368031,
+        "lon": -15.9362149
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "دار الشيخ ولد فتى, Route Soukouk طريق صكوك, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f4401a040c3928c059c5ef5cce5b6f3240f00103f901ded0150002000000",
+      "name": "طريق بحيرة كابو",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4349946,
+        "lon": -12.1114198
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "طريق بحيرة كابو, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec134031b2cc28c059587d642948603440f00103f90116561c03010000009203054f61736973",
+      "name": "Oasis",
+      "city": "Chinguetti",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.3761011,
+        "lon": -12.399797
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Oasis, Chinguetti, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3cd4eab8df228c0598d599b6b3dba3640f00103f9014c058b7f01000000",
+      "name": "cheikh",
+      "city": "Zouérat",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 22.7274997,
+        "lon": -12.4737371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "cheikh, RN1, Zouérat, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51165e937f773c21c059ede181b7f6243a40f00103f90171712a5c02000000",
+      "name": "مجهر لربط",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 26.1443896,
+        "lon": -8.6180992
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "مجهر لربط, Tiris Zemmour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51228d0a9c6c1325c05935de0ced522b3840f00103f9014b058b7f01000000920319426972204e617220d8a8d8a6d8b120d8a7d984d986d8a7d8b1",
+      "name": "Bir Nar بئر النار",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 24.1692341,
+        "lon": -10.537938
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bir Nar, Tiris Zemmour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51573728ab333c21c05909d7edfd57bf3a40f00103f9017d53470602000000",
+      "name": "شانطي لكماين تل البكريات",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 26.7474364,
+        "lon": -8.6175817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "شانطي لكماين تل البكريات, Tiris Zemmour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1bfec9e3cb428c059f5a67dce38463240f00103f901d389150002000000",
+      "name": "بحيرة كابو",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.2743043,
+        "lon": -12.352025
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "بحيرة كابو, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef5f0fdc373928c0593518d9846a6f3240f00103f901dfd0150002000000",
+      "name": "طريق بحيرة كابو",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4352191,
+        "lon": -12.1117543
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "طريق بحيرة كابو, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c117cb9992e12fc059b0d69af749dd3040f00103f901f142641202000000",
+      "name": "tendalha",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.8644099,
+        "lon": -15.9405716
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "tendalha, Trarza, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515852938554622bc0590191346e204b3540f00103f90171608cd3010000009203125363756c70747572657320616e2032303030",
+      "name": "Sculptures an 2000",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 21.2934636,
+        "lon": -13.6920511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Sculptures an 2000, Piste non marquée pour Ben Amira, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51450191346ea828c059ee77280af42f3740f00103f9016187c78902000000",
+      "name": "انجولية اصالحة",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 23.1873175,
+        "lon": -12.3289658
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "انجولية اصالحة, Tiris Zemmour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113df3fcc143d27c05942a90716d1be3040f00103f90169edb1620200000092031c5361666120416e6a617920d8b5d981d8a720d8a3d986d8acd8a7d98a",
+      "name": "Safa Anjay صفا أنجاي",
+      "city": "Taief",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.7453779,
+        "lon": -11.6192993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Safa Anjay صفا أنجاي, Route de l’Espoir طريق الأمل, Taief, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518367e7d951b128c0598fe046ca16773440f00103f90188d2f87e02000000",
+      "name": "Chinguetti",
+      "city": "Chinguetti",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.4651915,
+        "lon": -12.3463276
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chinguetti, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b91781e81442ac05974ac9c07c10e3440f00103f90120b4567601000000",
+      "name": "Toungad oasis",
+      "city": "Aoujeft",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.0576329,
+        "lon": -13.1337976
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Toungad oasis, Aoujeft, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192e7fa3e1cf42fc0593bd164b5af143240f00103f90105b3cd8201000000",
+      "name": "ابرتماه",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0808061,
+        "lon": -15.976778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ابرتماه, Dy Ould Zeine, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d78d15790ee28c059e0055b3684bc3640f00103f901f6128b7f010000009203264d656420436865696b686520d985d8add985d8af20d988d984d8af20d8a7d984d8b4d98ad8ae",
+      "name": "Med Cheikhe محمد ولد الشيخ",
+      "city": "Zouérat",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 22.7363924,
+        "lon": -12.465945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Med Cheikhe, RN1, Zouérat, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd4ffae70e3f27c059efb902c067ee3440f00103f9017ba5a90e01000000920319d8a7d984d982d8b5d8b120d8a7d984d983d98ad8a7d984d98a",
+      "name": "القصر الكيالي",
+      "city": "Ouadane",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.9312706,
+        "lon": -11.6231606
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "القصر الكيالي, Ouadane, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51634639303be126c059c4f619bd86ff3440f00102f90113f94b250000000092030841676f7561646972",
+      "name": "Agouadir",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.998149699057436,
+        "lon": -11.4399046964565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Agwedir, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c5cfba7c0e62fc059e7db27ec47093240f00103f90106b3cd8201000000",
+      "name": "ملح",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0362537,
+        "lon": -15.9506886
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ملح, Autoroute Rosso الطريق السريع روصو, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190a6d5eb717228c0598ece54e300673240f00103f90155b6f60c02000000",
+      "name": "قصر البركة",
+      "city": "Ksar el Barka",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4023573,
+        "lon": -12.2235254
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "قصر البركة, Ksar el Barka, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51648511b177dd2fc05969c93e236c253240f00103f9013b5f3834010000009203314568656c2044696464616820426169626120d8a3d987d98420d8afd98ad8afd8a7d98720d988d984d8af20d8a8d98ad8a8",
+      "name": "Ehel Diddah Baiba أهل ديداه ولد بيب",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1461813,
+        "lon": -15.9325538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ehel Diddah Baiba, Rue Tintane شارع الطينطان, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d3fb3dab2ba2fc0591e26d016c6d63140f00103f90175444eb802000000",
+      "name": "آبلاغ",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.8389601,
+        "lon": -15.8646458
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "آبلاغ, Trarza, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133bd699f330a31c0594c3b90508eef3440f00103f9012f7f052b0100000092031e45686c206c656b686465796d20d8a3d987d98420d984d8aed8afd98ad985",
+      "name": "Ehl lekhdeym أهل لخديم",
+      "city": "Nouadhibou",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.9357653,
+        "lon": -17.0398502
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ehl lekhdeym أهل لخديم, Nouakchott-Nouadhibou نواكشوط-نواذيبو, Nouadhibou, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e070b8c03bf26c059b2eb2748731f3540f00102f90155464f250000000092031e466f7274657265737365206f7269656e74616c6520646520526963686174",
+      "name": "Forteresse orientale de Richat",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 21.12285281157137,
+        "lon": -11.373073936792732
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort Richat East, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518455ab6521f42fc059e38c614ed0163240f00103f901a1b2cd8201000000",
+      "name": "الخيمه",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.089116,
+        "lon": -15.9768173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "الخيمه, Mamadou Konaté نهج مامادو كوناتي, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a326553607a728c059cc7a3194137d3440f00103f901117023b702000000",
+      "name": "أهل محمد الولي",
+      "city": "Chinguetti",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.48858,
+        "lon": -12.3262269
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "أهل محمد الولي, Chinguetti, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e12a68350ad2bc0595538dd0dfde43140f00103f901d9c7d1f601000000",
+      "name": "Alain",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.8944863,
+        "lon": -13.8385049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Alain, Trarza, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517905a227657227c0595ca0ee4d1dd33040f00103f9011d2e323f03000000920322d985d986d8b9d8b1d8ac20d8b7d8b1d98ad98220d8a7d986d8aad8a7d983d8a7d8aa",
+      "name": "منعرج طريق انتاكات",
+      "city": "Taief",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.8246659,
+        "lon": -11.723428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "منعرج طريق انتاكات, Route de l’Espoir طريق الأمل, Taief, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123e29cc717f32fc0595cd94f1086193240f00103f901bb170e6b01000000",
+      "name": "Work",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0997019,
+        "lon": -15.9747908
+      },
+      "categories": [
+        "office",
+        "office.non_profit",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Work, Rue Mamadou Konaté نهج مامادو كوناتي, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51872c770bc92a2ac059289364671b413440f00103f901b9cae66f0000000092030e4f6173697320d988d8a7d8add987",
+      "name": "Oasis واحه",
+      "city": "Terjit",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.2543244,
+        "lon": -13.0835651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Oasis, Route d'Aoujeft طريق اوجفت, Terjit, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ffe501f370e28c0594209336dff783240f00103f90142d1150002000000",
+      "name": "ازرايب",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4726475,
+        "lon": -12.0277643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ازرايب, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a61d4828c70e28c059b56be7a0f0763240f00103f901d089150002000000",
+      "name": "ازرايب",
+      "city": "Ed Dendane",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4646092,
+        "lon": -12.0288632
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ازرايب, Ed Dendane, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c51561d4ff332ac05942b9c898168e3440f00103f901b9f303a102000000",
+      "name": "Route vers Azougui الطريق في آزوكي",
+      "city": "Atar",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.5550323,
+        "lon": -13.1015612
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route vers Azougui الطريق في آزوكي, Atar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149a93a9ad9f52fc059e531b907d71a3240f00103f9013209cbfe01000000",
+      "name": "جمعية خيرية قلوب محسنة",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1048436,
+        "lon": -15.9801758
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "جمعية خيرية قلوب محسنة, Rue Ahmed Ould Mohamed Salem شارع أحمد ولد محمد سالم, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511950148d5ae22fc059c389439149213240f00103f901426af76a01000000",
+      "name": "Mosqué",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1300288,
+        "lon": -15.9420971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mosqué, Route Soukouk طريق صكوك, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb7ec575e72c2ac059d9767f619e403440f00103f901bacae66f000000009203234f61736973206465205465726a697420d988d8a7d8add98720d8aad8b1d8acd98ad8aa",
+      "name": "Oasis de Terjit واحه ترجيت",
+      "city": "Terjit",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.2524167,
+        "lon": -13.0877034
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Oasis de Terjit واحه ترجيت, Route d'Aoujeft طريق اوجفت, Terjit, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114ef5b08cdc92fc0595f3efe77e9273240f00103f90111d2361101000000",
+      "name": "Chez Alioune",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1559062,
+        "lon": -15.8941424
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chez Alioune, Route d'Akjoujt طريق أكجوجت, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b02d8dbc1f32fc0590c34e900d2e03040f00103f901b943641202000000",
+      "name": "ziret lehwar",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.8782044,
+        "lon": -15.9760884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ziret lehwar, Trarza, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51203e552a4dbf24c059f3d94b64302a3040f00103f901d920f65502000000",
+      "name": "Agharghar",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.1648009,
+        "lon": -10.3736356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Agharghar, Hodh El Gharbi, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131a715f07c1028c0594c265de96b783240f00103f9017bd0150002000000",
+      "name": "Ez Zrâyeb",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4703966,
+        "lon": -12.0322032
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ez Zrâyeb, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51082c6ffdaafe2fc059fd6662ba101d3240f00103f901ed8d166801000000",
+      "name": "K P T L Office",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1135365,
+        "lon": -15.9973983
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "K P T L Office, Rue Mohamed Salem Ould Adoud شارع محمد سالم ولد عدود, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a406f850bf42fc05964cf9ecbd4163240f00103f9014166e74d01000000",
+      "name": "الخيمة",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0891845,
+        "lon": -15.9766504
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "الخيمة, Mamadou Konaté نهج مامادو كوناتي, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5148a1d1c20aac2cc059ee3724ffddd03040f00103f9018a3700d901000000",
+      "name": "Ahmed elbo",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.8158874,
+        "lon": -14.3360196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ahmed elbo, Brakna, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518bc404357c1728c059f7521d177a753240f00103f901c11b140002000000",
+      "name": "الخشباية",
+      "city": "Ed Dendane",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4588942,
+        "lon": -12.0458695
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "الخشباية, Ed Dendane, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115c4e51d4c0330c059957f2daf5c193240f00103f9012d8d4f41010000009203185361636f67656d206620d8b3d8a7d983d988d8acd98ad985",
+      "name": "Sacogem f ساكوجيم",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0990705,
+        "lon": -16.0128802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sacogem f ساكوجيم, Rue Mohamed Mahmoud Ould Ahmed Louly شارع محمد محمود ولد أحمد لولي, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff8c77ec0ce82fc059c0304f9dfd1d3240f00103f90115e66fd401000000",
+      "name": "Ahmed ou",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1171511,
+        "lon": -15.9532236
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ahmed ou, Hassan ould Cheikh ould Ahmed Salem, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ff2d9f0aaad28c05958f32dbd47473240f00103f901c21b140002000000",
+      "name": "بحيرة كبو",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.2784384,
+        "lon": -12.3391948
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "بحيرة كبو, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51efacdd76a1ad28c059b55f88e64b473240f00103f9014796150002000000",
+      "name": "بحيرة كابو",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.2785019,
+        "lon": -12.3391225
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "بحيرة كابو, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9fa95ce871728c059e728f686b1753240f00103f901d289150002000000",
+      "name": "طريق إلى كابو",
+      "city": "Ed Dendane",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4597401,
+        "lon": -12.045958
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "طريق إلى كابو, Ed Dendane, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e11d2ad725c02fc05938b23c597b113240f00103f90151c4529b01000000",
+      "name": "الكزر دبي",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0682884,
+        "lon": -15.8752887
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "الكزر دبي, Route de la Résistance شارع عزيز, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b9b60ee491626c059aa132bfe4a643140f00103f901710a122c02000000",
+      "name": "خيمة لعزيب",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.3917693,
+        "lon": -11.0435328
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "خيمة لعزيب, Assaba, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133a9fcc632b42fc05949ca277513103240f00103f901a1fe443703000000",
+      "name": "بلاه امبيريك تنويش",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.0627969,
+        "lon": -15.8519499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "بلاه امبيريك تنويش, Tariq al-Amal, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51506ad4e87a1728c059c918c4acbc753240f00103f901d189150002000000",
+      "name": "الخشباية مشتق طريق إلى كابو",
+      "city": "Ed Dendane",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4599102,
+        "lon": -12.0458596
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "الخشباية مشتق طريق إلى كابو, Ed Dendane, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146cec29e76c830c0590613dacde7eb3440f00103f90175c1f5c400000000920314436170206f6620746865206f7374726963686573",
+      "name": "Cap of the ostriches",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.9215058,
+        "lon": -16.78306
+      },
+      "categories": [
+        "populated_place",
+        "populated_place.unpopulated_locality",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dakhlet Nouadhibou, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dbd491d332e826c05903c8d6b72e173540f00102f90153cd123a0000000092031a466f727465726573736520646520526963686174204f75657374",
+      "name": "Forteresse de Richat Ouest",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 21.090556611954536,
+        "lon": -11.453512774993603
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort Richat West, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167e77e98ce181cc059a0e7aad4474b3140f00103f901f7cfd70a02000000",
+      "name": "Walatah",
+      "city": "Walatah",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.2940648,
+        "lon": -7.0242256
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Walatah, Hodh Ech Chargui, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514dc34bcba30630c0592e162b0f771a3240f00103f901270ad57201000000920315d985d98ad986d8a7d8a120d8a7d984d8b5d98ad8af",
+      "name": "ميناء الصيد",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1033792,
+        "lon": -16.0259368
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ميناء الصيد, Avenue Abdel Nasser شارع عبد الناصر, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51360b0ff516ea29c059620dbcff34243140f00103f90187cb588602000000",
+      "name": "أم أوروار",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.1414337,
+        "lon": -12.9572064
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "أم أوروار, Brakna, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179420af9fb3c27c059f5a512f989be3040f00103f901f907b2620200000092031c5361666120416e6a617920d8b5d981d8a720d8a3d986d8acd8a7d98a",
+      "name": "Safa Anjay صفا أنجاي",
+      "city": "Taief",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.7442928,
+        "lon": -11.6191099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Safa Anjay صفا أنجاي, Route de l’Espoir طريق الأمل, Taief, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fbb3b34abc029c0596268e4ca83aa2e40f00102f9010cc1e43a000000009203056469616b61",
+      "name": "diaka",
+      "city": "Waly Djahtang والي",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 15.333036747342877,
+        "lon": -12.876306183139262
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "diaka, Secondaire, Waly Djahtang والي, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f588341e37b25c0592459d130c6893040f00103f901e13bd2ba01000000",
+      "name": "Matraucha Crocodiles",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.5381804,
+        "lon": -10.7419682
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Matraucha Crocodiles, Tariq al-Amal, Assaba, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51881a3b9798d126c059dd4598a25c7a3540f00103f90181395a7a02000000",
+      "name": "أهل أواه",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 21.477976,
+        "lon": -11.4093673
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "أهل أواه, Tiris Zemmour, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107f5882c2d3e27c059e805e973ffee3440f00103f901052c57f501000000",
+      "name": "Mosque",
+      "city": "Ouadane",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.9335854,
+        "lon": -11.6214384
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mosque, Ouadane, Adrar, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb2477d8443e28c059effa71a02c713240f00103f901df1b160002000000",
+      "name": "أقوديت",
+      "city": "Aghaoudit",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4420872,
+        "lon": -12.121619
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "أقوديت, Aghaoudit, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c13cbf83fa3528c059e7734930308e3240f00103f901e11e140002000000",
+      "name": "انواشيد",
+      "city": "Nouachid",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.5554228,
+        "lon": -12.1054269
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "انواشيد, Nouachid, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5182df2b5f3cd82fc05959a725b1ff6b3240f00103f9019b8f72fc000000009203165461736961737420d8aad8a7d8b2d98ad8a7d8b2d8aa",
+      "name": "Tasiast تازيازت",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4218703,
+        "lon": -15.9223356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tasiast تازيازت, Trarza, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5182d4dcc0d3e62fc059b9556bbccf1e3240f00103f901c9571c2202000000",
+      "name": "Ehletjani not",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1203573,
+        "lon": -15.9508343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ehletjani not, Hassan ould Cheikh ould Ahmed Salem, Nouakchott, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190db2f9facf827c05982c24593307a3240f00103f901cf89150002000000",
+      "name": "ازويرة",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.4773037,
+        "lon": -11.985692
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ازويرة, Tagant, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddeba4be2c0730c0592fb99bf1c71e3240f00103f9012d05ad3d01000000",
+      "name": "Nouakchott Beach",
+      "city": "Tafragh Zaynah",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 18.1202384,
+        "lon": -16.0280265
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nouakchott Beach, Beach Trail, Tafragh Zaynah, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154b7692222c72bc059b3d6ab23a2433140f00103f9016daedf3b02000000",
+      "name": "blelbl",
+      "city": null,
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 17.2641928,
+        "lon": -13.8889323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "blelbl, Brakna, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51675023e307212ac0595a2668380ab93440f00103f9019d4a933601000000",
+      "name": "RN1",
+      "city": "Kseïr et Torchâne",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 20.7228122,
+        "lon": -13.0645133
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RN1, Kseïr et Torchâne, Mauritania",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195e93ccf44b127c05964833b061ad83040f00103f9010d5ee39c02000000",
+      "name": "Route de l’Espoir طريق الأمل",
+      "city": "Guerou",
+      "country": "Mauritania",
+      "country_code": "mr",
+      "coordinates": {
+        "lat": 16.8441471,
+        "lon": -11.8462281
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route de l’Espoir طريق الأمل, Guerou, Mauritania",
+      "description": null,
+      "image": null
+    }
+  ]
+}

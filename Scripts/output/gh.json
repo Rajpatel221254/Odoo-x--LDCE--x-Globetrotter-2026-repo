@@ -1,0 +1,2882 @@
+{
+  "country_code": "gh",
+  "country_name": "Ghana",
+  "boundary_place_id": "5115b3147fca47f1bf5905e7e7e15f0f2040f00101f9010df1020000000000c0020b9203054768616e61",
+  "count": 149,
+  "places": [
+    {
+      "place_id": "510cee62f5a211e43f596f3b7eb9601a1740f00103f9013cebb43500000000920313726f616420696e746f20746865206f6365616e",
+      "name": "road into the ocean",
+      "city": "Ada Foah",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.7757596,
+        "lon": 0.6271529
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "road into the ocean, Kerker Zomabi, Ada Foah, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fc12e6cbfa1ef3f5992d66a335c951740f00102f90116dccc110000000092030d53706f727473204d757365756d",
+      "name": "Sports Museum",
+      "city": "Dzelukope",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.895859530826458,
+        "lon": 0.9884945977155776
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sports Museum, Appian Way, Dzelukope, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9ba6e00ec12db3f59a48f543ab3881740f00103f9013629043b00000000920310436f6666696e73204b6f6c7565646f72",
+      "name": "Coffins Koluedor",
+      "city": "Koluedor",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8834962,
+        "lon": 0.4230299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coffins Koluedor, N1, Koluedor, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5134bff5bc76c4d83f5907019e59b79e1b40f00103f9016eeef36a00000000920324546166692041746f6d652057696c646c696665204d6f6e6b65792053616e637475617279",
+      "name": "Tafi Atome Wildlife Monkey Sanctuary",
+      "city": "Woadze",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.9049963,
+        "lon": 0.3869912
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tafi Atome Wildlife Monkey Sanctuary, N2, Woadze, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51496760e4654dac3f5949fb7a1920bc1640f00103f9014a774a06010000009203124b706f6e65204265616368205265736f7274",
+      "name": "Kpone Beach Resort",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6837162,
+        "lon": 0.055278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kpone Beach Resort, Kpone Road, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511596d3f94ba6ec3f59e9ba4b3d66ab1840f00103f901e9c1365a0200000092030b426f616261702074726565",
+      "name": "Boabap tree",
+      "city": "Ketu North Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.1673822,
+        "lon": 0.8952999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boabap tree, Akatsi - Dzodze Road, Ketu North Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7a7f5c83038843f59e61599caece51640f00103f9019a7becac01000000920306636875726368",
+      "name": "church",
+      "city": "Kpone-Katamanso Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.7245361,
+        "lon": 0.0098728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "church, Queens 6 Street, Kpone-Katamanso Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c2eff0e89065de3f59a2f54b1f15aa1740f00103f901dc899f360200000092031c416e6365737472616c2056656e65726174696f6e2047726f756e6473",
+      "name": "Ancestral Veneration Grounds",
+      "city": "Hwakpo",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.9160962,
+        "lon": 0.4749491
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Ancestral Veneration Grounds, N1, Hwakpo, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51523162b61dcbef3f59a574a3ff03b01740f00102f9014104bc0e00000000920311466f7274205072696e7a656e737465696e",
+      "name": "Fort Prinzenstein",
+      "city": "Abutiakope",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.921890253402272,
+        "lon": 0.9935444414309507
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort Prinzenstein, R11, Abutiakope, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f385cf5ca06b13f59ec8e20f01b9a1740f00103f901ed68094b00000000",
+      "name": "N2",
+      "city": "Manya-Jorpanya",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.9004972,
+        "lon": 0.0665099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N2, Manya-Jorpanya, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4cc22145b41bd3f599184d8f4fbd11640f00103f901eae0a0d60000000092030b466f7274205665726e6f6e",
+      "name": "Fort Vernon",
+      "city": "Prampram",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.7050627,
+        "lon": 0.1142785
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fort Vernon, R13, Prampram, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5982cee3f324d3f59cc8179234e921640f00103f901aa42e24001000000920332477265656e77696368204d6572696469616e204d6f6e756d656e742061742050726573626974617269616e20436875726368",
+      "name": "Greenwich Meridian Monument at Presbitarian Church",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6428762,
+        "lon": 0.000891
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Greenwich Meridian Monument at Presbitarian Church, Presby Close, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51885cba93999cd73f59ca0a8f47ba801740f00103f901922a043b0000000092030c436f6666696e732053656765",
+      "name": "Coffins Sege",
+      "city": "Koluedor",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8757106,
+        "lon": 0.3689331
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coffins Sege, N1, Koluedor, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51162b0f779a71b73f59cee38b5132f41840f00103f90123121d9802000000",
+      "name": "N2",
+      "city": "Dzodzekope",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.2384732,
+        "lon": 0.0915772
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N2, Dzodzekope, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b7c88fce9f5a93f59318793eaf1191940f00103f901a530a01a010000009203176d61726b657420616e6420746178692073746174696f6e",
+      "name": "market and taxi station",
+      "city": "Akosombo",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.2753369,
+        "lon": 0.0507043
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "market and taxi station, R21, Akosombo, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518dddf41db237e93f5924c09fd0a1721840f00103f90129603c350100000092030c6472697665727320746f776e",
+      "name": "drivers town",
+      "city": "Torve",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.1119454,
+        "lon": 0.7880488
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "drivers town, Akatsi By-pass, Torve, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51642c89a2f6d1e13f5944b3a151701f1c40f00103f90156ade495000000009203194d742e20416661646a61746f2048696b696e6720547261696c",
+      "name": "Mt. Afadjato Hiking Trail",
+      "city": "Liati Wote",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.0307019,
+        "lon": 0.5568803
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mt. Afadjato Hiking Trail, Footpath to Mt. Afadjato, Liati Wote, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162cfe858ef41e33f59732ec55565a71c40f00103f9011c57303402000000",
+      "name": "Wli Likpe Road",
+      "city": "Wli Afegame",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.1634725,
+        "lon": 0.6017987
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wli Likpe Road, Wli Afegame, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6d3ba0d6a7fe33f59a8bbfc98206c1c40f00103f90190e55acb0000000092030e43687574657320642759696b7061",
+      "name": "Chutes d'Yikpa",
+      "city": "Wli Afegame",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.1055931,
+        "lon": 0.6093035
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chutes d'Yikpa, Wli Falls - Upper Falls Track, Wli Afegame, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a93c7084fb37e33f5966cc13bead6a1c40f00103f901f1dcca2501000000",
+      "name": "The Loop",
+      "city": "Wli Afegame",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.1041784,
+        "lon": 0.6005838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "The Loop, Wli Afegame, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146fb69edc7f7e03f59c270091bf98f2040f00103f901a3fdf980000000009203154b7961626f626f204e6174696f6e616c205061726b",
+      "name": "Kyabobo National Park",
+      "city": "Nkwanta",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 8.2811974,
+        "lon": 0.5302467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kyabobo National Park, N2, Nkwanta, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dcfc755dae34d33f5917abbcd353421c40f00103f9013fbda236020000009203134f7572204c616479206f66204c6f7572646573",
+      "name": "Our Lady of Lourdes",
+      "city": "Kpando Fesi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.0647729,
+        "lon": 0.3000904
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Our Lady of Lourdes, R26, Kpando Fesi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c2ac0617e19ce9bf59c1f80e23295e2540f00103f90176413fa701000000",
+      "name": "Shia - Tongo Road",
+      "city": "Yinduri",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.6839076,
+        "lon": -0.8004003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shia - Tongo Road, Yinduri, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6a1a1da3bbee8bf59d65af33ee9932540f00103f901ea14e7a601000000",
+      "name": "Zuarungu - Namolgo Road",
+      "city": "Zuarungu",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.7888889,
+        "lon": -0.7732219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Zuarungu - Namolgo Road, Zuarungu, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513673edb02e4306c059ac7aaf100c762340f00103f901c203ac13000000009203175765636869617520486970706f2053616e637475617279",
+      "name": "Wechiau Hippo Sanctuary",
+      "city": "Wa West District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.7305608,
+        "lon": -2.7828039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wechiau Hippo Sanctuary, Wa West District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51802d0a16e22ce8bf59c063d3a5da922540f00103f9018614c5ab01000000",
+      "name": "Zuarungu - Namolgo Road",
+      "city": "Kpatia",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.7868244,
+        "lon": -0.7554789
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Zuarungu - Namolgo Road, Kpatia, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c95a43a9bd88b8bf59e045048827381840f00103f90108946ed900000000",
+      "name": "R42",
+      "city": "Bepowasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.0548383,
+        "lon": -0.0958365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "R42, Bepowasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190db2f9fac98e9bf5985991139d85e2540f00103f9016e0a31a701000000",
+      "name": "Shia - Tongo Road",
+      "city": "Yinduri",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.6852434,
+        "lon": -0.799887
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shia - Tongo Road, Yinduri, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149ca27751326f9bf593de64d8fb7be1a40f00103f9010247eb4d0200000092031844722e204b77616d65204e6b72756d616820537461747565",
+      "name": "Dr. Kwame Nkrumah Statue",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6862471,
+        "lon": -1.5717959
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dr. Kwame Nkrumah Statue, Osei Tutu II Boulevard, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb3967fadbd4f9bf59032269dc40be1a40f00103f901c887505b010000009203255061737420507265736964656e7473206f66204768616e612057616c6c20417274776f726b",
+      "name": "Past Presidents of Ghana Wall Artwork",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6857943,
+        "lon": -1.6144676
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Past Presidents of Ghana Wall Artwork, Afia Kobi Ampem Avenue, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510df560f7c289f6bf59b56b425a63e01b40f00103f901425b46710100000092030a526f636b792056696577",
+      "name": "Rocky View",
+      "city": "Abaasua",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.969129,
+        "lon": -1.4086332
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rocky View, Nsuta Effiduasi Road, Abaasua, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139961c1c91f4f8bf593a36a737489d2140f00103f9013eb06df70200000092031d4e646577757261204a616b706120526f79616c204d6175736f6c65756d",
+      "name": "Ndewura Jakpa Royal Mausoleum",
+      "city": "Old Buipe",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 8.8071916,
+        "lon": -1.5597087
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ndewura Jakpa Royal Mausoleum, Old Buipe, Central Gonja District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165389ecf801af9bf596a38c02731bb1a40f00103f90186ac825b010000009203144b4e55535420506f6f6c73696465204d7572616c",
+      "name": "KNUST Poolside Mural",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6828047,
+        "lon": -1.5689705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "KNUST Poolside Mural, Osei Tutu II Boulevard, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7c3b3041941eabf596ff59cf4bed52240f00103f901c6e5be020100000092034054686520436875726368206f66204a6573757320436872697374206f66204c617474657220446179205361696e74202d204b616c706f68696e204272616e6368",
+      "name": "The Church of Jesus Christ of Latter Day Saint - Kalpohin Branch",
+      "city": "Sagnarigu Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.4174725,
+        "lon": -0.8204465
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The Church of Jesus Christ of Latter Day Saint - Kalpohin Branch, Dagomba Road, Sagnarigu Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519bee2bc54499f5bf59d97ff854a9541440f00103f901ceb38b820200000092030b46697368206d61726b6574",
+      "name": "Fish market",
+      "city": "Essaman",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.0826772,
+        "lon": -1.3499191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fish market, J.J. Rawlings High Street, Essaman, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51561234c1cb07f6bf59932e47d96c5e1540f00103f90102fba79101000000920322496e7465726e6174696f6e616c205374696e676c657373204265652043656e747265",
+      "name": "International Stingless Bee Centre",
+      "city": "Jukwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.3422121,
+        "lon": -1.3769033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "International Stingless Bee Centre, Cape Coast - Twifo Praso Road, Jukwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fd344b0d005cbbf59247eb86e8b221640f00102f901a26f9b0a0000000092030a4a616d657320466f7274",
+      "name": "James Fort",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.533735017786544,
+        "lon": -0.21111496550442907
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "James Fort, Harbour Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b6732d2418de4bf5917fcec365e881540f00103f9011cdaa576020000009203105065616365206172742070616c616365",
+      "name": "Peace art palace",
+      "city": "Winneba",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.3831719,
+        "lon": -0.6422433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Peace art palace, Windy Bay Avenue, Winneba, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51740cc85eef3efcbf593c2f151bf39a1340f00103f901aaa379bd0200000092031043686565702063696761726574746573",
+      "name": "Cheep cigarettes",
+      "city": "Takoradi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 4.901318,
+        "lon": -1.765365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cheep cigarettes, Liberation Road, Takoradi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a16abbcd3d3d0bf59ec7eba26492c1640f00103f9010210df1701000000920318537465726c696e2041727420616e64205465636820687562",
+      "name": "Sterlin Art and Tech hub",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5432478,
+        "lon": -0.2629289
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sterlin Art and Tech hub, Adotei Otswi Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dcff32293511fabf59b4d55b110a0b1440f00102f9011615e92100000000920312466f72742053616e2053656261737469616e",
+      "name": "Fort San Sebastian",
+      "city": "Shama",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.010780593137884,
+        "lon": -1.6292010888428115
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort San Sebastian, Shama Road, Shama, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516142bbf9fce6c7bf59cceb2d8ac3561640f00103f901020a29be02000000",
+      "name": "Old Grip Road",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5847303,
+        "lon": -0.1867367
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Old Grip Road, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c62ef603c35e9dbf597fcb52a170741640f00103f90132d36b200100000092030f53616b6f756d6f6e6f206265616368",
+      "name": "Sakoumono beach",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6137109,
+        "lon": -0.0286818
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sakoumono beach, Accra-Tema Beach Road, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f8ccedb9a706c0bf59bcef73d76d672040f00103f901a299a49501000000",
+      "name": "Old State Farm Road",
+      "city": "Zongo Macheri",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 8.2020099,
+        "lon": -0.1252031
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Old State Farm Road, Zongo Macheri, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5122ac21cc4858fabf59d471eb2411d01a40f00103f90170aa1e2003000000",
+      "name": "Kumasi",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.7031904,
+        "lon": -1.6465538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5105508c2c9963ebbf5977cdf5c7c5962540f00103f901e6158aa401000000",
+      "name": "Akanyene Street",
+      "city": "Bolgatanga",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.7944777,
+        "lon": -0.855908
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Akanyene Street, Bolgatanga, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed48c61bdca0c8bf59241dbe53982f1640f00102f9018af31f0a00000000920311496e646570656e64656e63652041726368",
+      "name": "Independence Arch",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5464795193468355,
+        "lon": -0.192409051477234
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Independence Arch, Black Star Square, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51648d0d213f70f1bf594305f501d3c92540f00102f90164113a2e00000000",
+      "name": "Palace Avenue",
+      "city": "Navrongo",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.894187985572563,
+        "lon": -1.0899039546137255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Palace Avenue, Navrongo, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51064e113bae41f0bf592d3b6986f98f1740f00103f901783f181c03000000",
+      "name": "R62",
+      "city": "Oda",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8906003,
+        "lon": -1.0160353
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "R62, Oda, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d91df7521dd7fdbf59186d9f9ff3702240f00103f901d061dd480100000092030c4d79737469632053746f6e65",
+      "name": "Mystic Stone",
+      "city": "Larabanga",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.2206087,
+        "lon": -1.8650182
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.shrine"
+      ],
+      "formatted_address": "Mystic Stone, Damongo - Sawla Road, Larabanga, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e46abf10cd57e7bf5942d2a755f47f1a40f00103f9017e7949620100000092031053742e20506574657220436c61766572",
+      "name": "St. Peter Claver",
+      "city": "Kwahu East District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6249555,
+        "lon": -0.7294679
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "St. Peter Claver, Kwahu East District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518cc5257d10d8fbbf59615fa1c508cf1a40f00103f901b2ab02e70100000092030446414249",
+      "name": "FABI",
+      "city": "Sepaase",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.7021819,
+        "lon": -1.7402501
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "FABI, Bibiani - Nyinahin - Kumasi Road, Sepaase, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172666089ac5afabf59249ddc4a0acf1a40f00103f9012eb0f12003000000",
+      "name": "Kumasi",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.7021877,
+        "lon": -1.6471372
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eefb81bc687903c05900659d3b0b3c1740f00103f901d68721850100000092030e4d617820456d62726f6964657279",
+      "name": "Max Embroidery",
+      "city": "Sureso",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8086366,
+        "lon": -2.4342818
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Max Embroidery, Enchi - Tarkwa, Sureso, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aac18fc59122f6bf599e95b4e21b6a1540f00103f901e4ca4a21000000009203224b616b756d204e6174696f6e616c205061726b2043616e6f70792057616c6b776179",
+      "name": "Kakum National Park Canopy Walkway",
+      "city": "Jukwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.353622,
+        "lon": -1.3834398
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kakum National Park Canopy Walkway, Cape Coast - Twifo Praso Road, Jukwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516758d647f13bc6bf590ab144b126681740f00103f901307ed41a0100000092030d53696b6f72736b7920482d3139",
+      "name": "Sikorsky H-19",
+      "city": "Aburi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8517101,
+        "lon": -0.1737043
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.aircraft"
+      ],
+      "formatted_address": "Sikorsky H-19, Botanical Gardens Avenue, Aburi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f030242902879bf59336e6aa0f9941640f00103f90176eae90a020000009203144b77616d65204e6b72756d616820537461747565",
+      "name": "Kwame Nkrumah Statue",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6454835,
+        "lon": -0.0061422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Kwame Nkrumah Statue, Baba Yara Avenue, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c499eebfbf0d1bf59f3f631303c501640f00103f9017413f60401000000920318576f7264206f662054657374696d6f6e7920436875726368",
+      "name": "Word of Testimony Church",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5783546,
+        "lon": -0.2803335
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Word of Testimony Church, Mawoshie Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5da2967391aeabf593df9aa4b7c582540f00103f901fb6d41010100000092030a4f6c64205363686f6f6c",
+      "name": "Old School",
+      "city": "Yinduri",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.6728233,
+        "lon": -0.8157012
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Old School, Shia - Tongo Road, Yinduri, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e95f3711a221eebf597f901b34aaea2540f00103f901e0c826d60100000092031d536972696775204d7572616c7320616e6420417274732043656e747265",
+      "name": "Sirigu Murals and Arts Centre",
+      "city": "Sirigu",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.9583298,
+        "lon": -0.9416056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sirigu Murals and Arts Centre, Sirigu, Kassena-Nankana West District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e052848a6092eabf593333333333332340f00103f9018edb100701000000",
+      "name": "Savelugu Southern Highway",
+      "city": "Kanshegu",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.6,
+        "lon": -0.8303683
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Savelugu Southern Highway, Kanshegu, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3dfc95d3adc00c059c4e8b985aef41e40f00103f90124d7c4d602000000",
+      "name": "N12",
+      "city": "Wenchi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.738947,
+        "lon": -2.1075332
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N12, Wenchi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b35bade910c74bf598216b77647931640f00103f9010252d97c01000000",
+      "name": "Baba Yara Avenue",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6438273,
+        "lon": -0.0048948
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Baba Yara Avenue, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114fc805193eafabf59f398dc836bc91a40f00103f90139c0709d0100000092030c554557204b2043616d707573",
+      "name": "UEW K Campus",
+      "city": "Kwadaso Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6966992,
+        "lon": -1.6822694
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "UEW K Campus, Sunyani Road, Kwadaso Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519042a38515b8fdbf59ebbcd75aa9a91e40f00103f90111cf245c0200000092032154616e6f626f617365205361637265642047726f766520616e6420536872696e65",
+      "name": "Tanoboase Sacred Grove and Shrine",
+      "city": "Tanoboase",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.6656851,
+        "lon": -1.8574424
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tanoboase Sacred Grove and Shrine, Techiman - Tamale Road, Tanoboase, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b97981d9852ebbf59f30f11ed19d82240f00103f901576ec94003000000",
+      "name": "Choggu Roundabout",
+      "city": "Sagnarigu Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.4220728,
+        "lon": -0.8538323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Choggu Roundabout, Sagnarigu Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160512a332edef2bf59f93475289da31a40f00102f9019eb2a04b000000009203145061747269656e736120526f756e6461626f7574",
+      "name": "Patriensa Roundabout",
+      "city": "Patriensa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.659779197839492,
+        "lon": -1.179243278374166
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Patriensa Roundabout, Konongo - Agogo Road, Patriensa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a933524a638ffdbf590821205f42051640f00103f901827b5a0101000000",
+      "name": "Tarkwa-Damang Road",
+      "city": "Huni Valley",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.505136,
+        "lon": -1.8475068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarkwa-Damang Road, Huni Valley, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161e8c715cd39e8bf593c81559a39952540f00103f901c60f2eac01000000",
+      "name": "N11",
+      "city": "Katanga",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.7914551,
+        "lon": -0.7570558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N11, Katanga, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51713d659016c2c6bf59a20ff16a14a51840f00103f9010b5ee78000000000920312487568756e796120576174657266616c6c73",
+      "name": "Huhunya Waterfalls",
+      "city": "Huhunya",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.1612107,
+        "lon": -0.1777981
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Huhunya Waterfalls, N3, Huhunya, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126b506a51e58fabf598e75711b0dd01a40f00103f901a93ca3790100000092031454686520556e6b6e6f776e20416d616e666fc994",
+      "name": "The Unknown Amanfoɔ",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.703175,
+        "lon": -1.6465136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "The Unknown Amanfoɔ, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa57a027afdff1bf59e2783e03eaed2540f00103f901e99f9a710100000092031250696b776f726f20536c6176652043616d70",
+      "name": "Pikworo Slave Camp",
+      "city": "Paga",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.964676,
+        "lon": -1.1171104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pikworo Slave Camp, Navrongo-Paga Road, Paga, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510beb6b02b1b1fdbf5935c1262147852240f00103f90115e05d7900000000",
+      "name": "Mole Park Road",
+      "city": "Mole Village",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.2603083,
+        "lon": -1.8558817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mole Park Road, Mole Village, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5198a3c7ef6d7addbf59bdb32c4e6b111940f00103f901558e6af80000000092031142756e736f2043616e6f70792077616c6b",
+      "name": "Bunso Canopy walk",
+      "city": "Osiem",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.2670109,
+        "lon": -0.4605975
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bunso Canopy walk, N4, Osiem, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136e9b6442e3801c059cb4f0537ad0f1c40f00103f9013d23f1ef01000000",
+      "name": "Nana Aeyenaa P. Avenue",
+      "city": "Tepa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.0153092,
+        "lon": -2.152432
+      },
+      "categories": [
+        "catering",
+        "catering.bar",
+        "man_made",
+        "man_made.water_tower",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights"
+      ],
+      "formatted_address": "Nana Aeyenaa P. Avenue, Tepa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512431b0468bafc8bf59d28295b32c321640f00102f9018ef31f0a0000000092030f426c61636b20537461722047617465",
+      "name": "Black Star Gate",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.548998647690228,
+        "lon": -0.19285717917990397
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Black Star Gate, 28th February Roundabout, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164004d2954dc00c059290fc1278cf41e40f00103f90125d7c4d602000000",
+      "name": "N12",
+      "city": "Wenchi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.7388159,
+        "lon": -2.1075824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N12, Wenchi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd440a0a28f9f9bf5982397afcdec61a40f00103f90110111649010000009203204d616e205374616e64696e67206f6e2061204c696f6e205363756c7074757265",
+      "name": "Man Standing on a Lion Sculpture",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.69421,
+        "lon": -1.6233292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Man Standing on a Lion Sculpture, Nyarko Kusi Amoah Street, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51483bc9b15026f9bf59ef8e8cd5e6b71a40f00103f9010fae1a510200000092030a41626f61677965776161",
+      "name": "Aboagyewaa",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6795915,
+        "lon": -1.5718543
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Aboagyewaa, Osei Tutu II Boulevard, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d39a8b643497c9bf59fb62a538fd2f1640f00103f901864565820200000092031a43726166747320776f726b73686f7020616e64206d61726b6574",
+      "name": "Crafts workshop and market",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5468644,
+        "lon": -0.1999269
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Crafts workshop and market, Prof. Atta Mills High Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176e3dd91b1dac9bf59529e7939ec2e1640f00103f901568b3e160000000092032d4e6174696f6e616c2043656e74657220666f72204172747320616e642043756c74757265206f66204768616e61",
+      "name": "National Center for Arts and Culture of Ghana",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.545823,
+        "lon": -0.2019865
+      },
+      "categories": [
+        "entertainment",
+        "entertainment.culture",
+        "entertainment.culture.arts_centre",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "National Center for Arts and Culture of Ghana, Prof. Atta Mills High Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51552bb8c4362ef9bf59bd3ac780ecb51a40f00103f901fe0616540200000092031652657075626c69632048616c6c20436f636b6572656c",
+      "name": "Republic Hall Cockerel",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.67766,
+        "lon": -1.5737827
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Republic Hall Cockerel, Osei Tutu II Boulevard, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141de061099cdd3bf594d9b16612ff91940f00103f901c5994fc00200000092030d4172746875727320706c616365",
+      "name": "Arthurs place",
+      "city": "Adyakwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.4933448,
+        "lon": -0.3094237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Arthurs place, R32, Adyakwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143ae2f6d93c5fbbf59605793a7acce1340f00103f9014891c41e010000009203134461636f486f75736542556a756e6374696f6e",
+      "name": "DacoHouseBUjunction",
+      "city": "Sekondi-Takoradi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 4.9518305,
+        "lon": -1.7357363
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "DacoHouseBUjunction, Poppet Street, Sekondi-Takoradi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516207df45a9ceebbf592beff494e6d42240f00103f901a555be020100000092034754686520436875726368206f66204a6573757320436872697374206f66204c617474657220446179205361696e74202d20456475636174696f6e205269646765204272616e6368",
+      "name": "The Church of Jesus Christ of Latter Day Saint - Education Ridge Branch",
+      "city": "Sagnarigu Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.4158217,
+        "lon": -0.8689772
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "The Church of Jesus Christ of Latter Day Saint - Education Ridge Branch, Education Ridge Road, Sagnarigu Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51274469a99d90fdbf5973d0e84f2f051640f00102f9019442cc1900000000",
+      "name": "Tarkwa-Damang Road",
+      "city": "Huni Valley",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.505063294014792,
+        "lon": -1.8478066079735613
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarkwa-Damang Road, Huni Valley, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0e11060471201c05925b78196092a1340f00103f901bc06a39e000000009203145072696e6365277320546f776e277320466f7274",
+      "name": "Prince's Town's Fort",
+      "city": "Awiabo Aiyinase",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 4.7910522,
+        "lon": -2.1339252
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Prince's Town's Fort, R86, Awiabo Aiyinase, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b04390decbd8e7bf59ec905154ecb61a40f00103f901f3e7bd3c02000000",
+      "name": "Meteo Street",
+      "city": "Abetifi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6786359,
+        "lon": -0.7452144
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Meteo Street, Abetifi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d37e0f3c3e8fabf59c528be90c4b91b40f00103f901bba0693203000000",
+      "name": "St. Patrick Road",
+      "city": "Dome",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.9314139,
+        "lon": -1.6818275
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "St. Patrick Road, Dome, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514d3e8743801db3bf598956389380921640f00103f901955f4f2001000000",
+      "name": "Guava Street",
+      "city": "Sakumono",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6430686,
+        "lon": -0.0746689
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Guava Street, Sakumono, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517cfdffeed37703c059c7af69ef9d3a1740f00103f901d6232185010000009203075443204c696e6b",
+      "name": "TC Link",
+      "city": "Sureso",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8072431,
+        "lon": -2.4335097
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "TC Link, Enchi - Tarkwa, Sureso, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e1e21b9eb5be7bf59cd6559e663d52540f00103f901d7a95bf801000000920317426f6e676f2070686f746f766f6c746169632073697465",
+      "name": "Bongo photovoltaic site",
+      "city": "Bongo District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.9167778,
+        "lon": -0.7299708
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bongo photovoltaic site, Bongo District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb760e0aef97efbf5977483140a2a91740f00103f9015d26b2d602000000",
+      "name": "R62",
+      "city": "Akim Oda",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.915658,
+        "lon": -0.9872966
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "R62, Akim Oda, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51034356b77a4ee7bf59f7c77bd5ca941740f00103f90131613f2b0100000092031752554242455220504c414e544154494f4e2d454b4f534f",
+      "name": "RUBBER PLANTATION-EKOSO",
+      "city": "Nkwanta Awaham",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.895305,
+        "lon": -0.72833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "RUBBER PLANTATION-EKOSO, R64, Nkwanta Awaham, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c170335c6d8e7bf59ac0b2e0c47b61a40f00103f9016144be3c02000000",
+      "name": "Meteo Street",
+      "city": "Abetifi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6780054,
+        "lon": -0.7452117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Meteo Street, Abetifi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fab102bb88fcf3bf5906c225a75b6d1440f00102f9010db38b1f0000000092030d466f727420566963746f726961",
+      "name": "Fort Victoria",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.1067949406428905,
+        "lon": -1.2491538338755377
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort Victoria, Beulah Avenue, Cape Coast, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195850a69e8facabf59cc0fb79e7c251640f00103f90175f368aa01000000920325e2809c44656f2047726174696173e2809d2050686f746f6772617068792041726368697665",
+      "name": "“Deo Gratias” Photography Archive",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5366082,
+        "lon": -0.2107821
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "“Deo Gratias” Photography Archive, 146 High Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0b380bf4ea0c5bf5998adabb8277e1640f00103f901bc9139a001000000",
+      "name": "Spintex Road",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6231984,
+        "lon": -0.1689547
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Spintex Road, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fdf50a0bee07c9bf596cc6b31545591640f00103f90173f876a20100000092030c4d6177756b6f277320417274",
+      "name": "Mawuko's Art",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5871776,
+        "lon": -0.1955545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mawuko's Art, Al-Waleed Bin-Talal Highway, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e2507472465c3bf59cd1dfd2fd76a1640f00103f90160b0108801000000",
+      "name": "Treasure Avenue",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6043365,
+        "lon": -0.1515241
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Treasure Avenue, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e9ffaacd77905c059f553d27943a82340f00103f901a78fde6a01000000920330486970706f20536163747561727920636f6d6d756e6974792063656e7465722028746f75726973742063656e74657229",
+      "name": "Hippo Sactuary community center (tourist center)",
+      "city": "Wechiau",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 9.8286398,
+        "lon": -2.6844934
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hippo Sactuary community center (tourist center), IR11, Wechiau, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f9402c1d2afc8bf5991f870242b321640f00103f901ef80accd01000000",
+      "name": "28th February Roundabout",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5489927,
+        "lon": -0.1928657
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "28th February Roundabout, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51882b67ef8c8600c059ef71a609db5f1540f00103f9015bd12ce600000000920310416a6f7061205669657720506f696e74",
+      "name": "Ajopa View Point",
+      "city": "Tarkwa-Nsuaem Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.343609,
+        "lon": -2.0656985
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ajopa View Point, Ajopa Haul Road, Tarkwa-Nsuaem Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519cdb847b65fef5bf59893a1856964d1440f00103f9015de3189d02000000",
+      "name": "J.J. Rawlings High Street",
+      "city": "Essaman",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.0757688,
+        "lon": -1.3746085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "J.J. Rawlings High Street, Essaman, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51873f790e1b1bc9bf596b7583b23ab31840f00103f901b75caea60000000092030a416b61612046616c6c73",
+      "name": "Akaa Falls",
+      "city": "Odokrom",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.1750286,
+        "lon": -0.1961397
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Akaa Falls, N3, Odokrom, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5144c2f7fe06adfebf59e375583c50d21440f00103f9018e2e7d6c00000000",
+      "name": "Esuaso",
+      "city": "Esuaso",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.2053842,
+        "lon": -1.917243
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Esuaso, Tarkwa-Nsuaem Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b665c0594af6f9bf5979df42684ec81a40f00103f901fffd505f01000000",
+      "name": "Asomfo Road",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.6956116,
+        "lon": -1.6226295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Asomfo Road, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ecc8ec87335afabf5969cf1bddf7ce1a40f00103f9012db0f12003000000",
+      "name": "Kumasi",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.7021174,
+        "lon": -1.6470218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e69b3a0e63a00c05942ad0e25ff301540f00103f9014cd80e9d00000000",
+      "name": "Mine Haul Road",
+      "city": "Tarkwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.2978483,
+        "lon": -2.0287602
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mine Haul Road, Tarkwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c00c2142b7d2ffbf59aefb7db559331540f00103f901ffc188310100000092030f5175616c6974656b205072696e7473",
+      "name": "Qualitek Prints",
+      "city": "Tarkwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.3001469,
+        "lon": -1.9889443
+      },
+      "categories": [
+        "commercial",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Qualitek prints, Osagyefo Enimil Avenue, Tarkwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c2e96ee877abc8bf59c2b81b446b311640f00102f9015983721f000000009203174c696265726174696f6e20446179204d6f6e756d656e74",
+      "name": "Liberation Day Monument",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.548260749999999,
+        "lon": -0.19273279999999998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Liberation Day Monument, Black Star Square, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51919fe815aaf6b0bf595186aa984a871640f00103f90151fe02010100000092030d477265656e20466d2038382e39",
+      "name": "Green Fm 88.9",
+      "city": "Sakumono",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6321205,
+        "lon": -0.0662638
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Green Fm 88.9, Nungua Ashaiman Road, Sakumono, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a63627e5a4e6c7bf5902507b0041571640f00103f901010a29be02000000",
+      "name": "Old Grip Road",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5852089,
+        "lon": -0.1867262
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Old Grip Road, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aef4da6cacc4d3bf594c2256da3d441640f00103f90196a5c41e0100000092031e50726570616964456c656374726963546f70426173655461786952616e6b",
+      "name": "PrepaidElectricTopBaseTaxiRank",
+      "city": "Gbawe",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5666422,
+        "lon": -0.308879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "PrepaidElectricTopBaseTaxiRank, Top Base Road, Gbawe, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bcd5ce8b6e98d3bf59c09657aeb74d1640f00103f9015a37be09010000009203135072657061696420456c656374726963697479",
+      "name": "Prepaid Electricity",
+      "city": "Gbawe",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.575896,
+        "lon": -0.3061787
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Prepaid Electricity, Blue Cross, Gbawe, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b47405db8827c6bf590509409248391640f00103f9015c1824040100000092031056696c6c6120506f6e746520526f7361",
+      "name": "Villa Ponte Rosa",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5559409,
+        "lon": -0.1730815
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Villa Ponte Rosa, Oshie Road, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51983be9335651cfbf59c34da14ed48d1640f00103f901c1c1007a01000000",
+      "name": "Nsawam Road",
+      "city": "Dome",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6385052,
+        "lon": -0.2446697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Nsawam Road, Dome, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5e85784acb8f1bf59be61478897f82540f00103f9013daa3f3d0100000092030b4172742056696c6c616765",
+      "name": "Art Village",
+      "city": "Paga",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 10.9855311,
+        "lon": -1.1075864
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Art Village, N10, Paga, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2c9d1e3c99cf5bf596cc9bc98dd561440f00102f90185fcc01e00000000920312466f727420436f656e726161647362757267",
+      "name": "Fort Coenraadsburg",
+      "city": "Elmina",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.084829699061043,
+        "lon": -1.3507784747313107
+      },
+      "categories": [
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort Coenraadsburg, Benya Street, Elmina, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118d57d5b0b8ee4bf59a8c5e061da871540f00103f9011bdaa57602000000920314426520676c616420617274207365727669636573",
+      "name": "Be glad art services",
+      "city": "Winneba",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.382669,
+        "lon": -0.6423394
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Be glad art services, Windy Bay Avenue, Winneba, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d0dddec0f94ccbf5910a26b15b33c1640f00103f90189540c08010000009203114748204f6e652054562053747564696f73",
+      "name": "GH One TV Studios",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5592769,
+        "lon": -0.2232685
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "GH One TV Studios, Adjuma Crescent, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100b672e5a210c8bf59ed5e93da30bf1640f00103f90175df49250100000092030c59656c6c6f7720486f757365",
+      "name": "Yellow House",
+      "city": "La-Nkwantanang-Madina Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6867098,
+        "lon": -0.1880077
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Yellow House, Ecowas Road, La-Nkwantanang-Madina Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514072c68be0fafebf59a19dd32cd0ce1440f00103f901602e7d6c00000000",
+      "name": "Prestea-Huni Valley Municipal District",
+      "city": "Prestea-Huni Valley Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.201966,
+        "lon": -1.9362493
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Prestea-Huni Valley Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a2cebb71242fabf59e08b4a5e81da1a40f00102f90191e3942c0000000092031256697375616c20417274732053747564696f",
+      "name": "Visual Arts Studio",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 6.713384125995589,
+        "lon": -1.641131132538027
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Visual Arts Studio, Abrepo Road, Kumasi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d2f3b8b9426979bf59a9e8fea0e4941640f00103f90179eae90a0200000092030d44616e63657220537461747565",
+      "name": "Dancer Statue",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6454034,
+        "lon": -0.0062039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dancer Statue, Baba Yara Avenue, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5148bd4cb96702c9bf598d203aa9d4991640f00103f901f9cbd3050100000092031c556e6976657273697479206f66204768616e61205265676973747279",
+      "name": "University of Ghana Registry",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6502253,
+        "lon": -0.1953859
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "UG Registry, Vice Chancellor's Crescent, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b73709efbc9e79bf59353b9c0a02951640f00103f9017aeae90a020000009203134d616e207769697468204174656e746562656e",
+      "name": "Man wiith Atenteben",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6455156,
+        "lon": -0.0062549
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Man wiith Atenteben, Baba Yara Avenue, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7f07d16f0d7c3bf5945ad7a0aca761640f00103f901f50d1a880100000092030c4d616a6f72204d6168616d61",
+      "name": "Major Mahama",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6160051,
+        "lon": -0.1550274
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Major Mahama Roundabout, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519182024a9ee6f3bf59697f564f9c6a1440f00103f9014ed162ee01000000920310456d707265737320566963746f726961",
+      "name": "Empress Victoria",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.1041119,
+        "lon": -1.2438033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Empress Victoria, Garden Street, Cape Coast, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513dbbd7a4360ceabf59ece703b80fdf1f40f00103f9016dfe40ac0100000092031453656c612031202620322076696577706f696e74",
+      "name": "Sela 1 & 2 viewpoint",
+      "city": "Sene West District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 7.9678334,
+        "lon": -0.8139909
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sela 1 & 2 viewpoint, Sene West District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196163fd7082ef6bf5986938f38bf6c1540f00103f9012bf9b171000000009203084269672054726565",
+      "name": "Big Tree",
+      "city": "Jukwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.3561982,
+        "lon": -1.3862389
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Big Tree, Cape Coast - Twifo Praso Road, Jukwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac3b7194170400c0597a4e1f2686311540f00103f901b14a3f4102000000",
+      "name": "North Tarkwa Highway",
+      "city": "Tarkwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.2983633,
+        "lon": -2.0019981
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "North Tarkwa Highway, Tarkwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a72720c1cdbf3bf598a39e19f286a1440f00102f9017515ed0c000000009203114361706520436f61737420436173746c65",
+      "name": "Cape Coast Castle",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.103670595285061,
+        "lon": -1.2409935461247437
+      },
+      "categories": [
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Cape Coast Castle, Castle Road, Cape Coast, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161f998b44e01f6bf597058bf3edf431540f00103f9012b87e07f0100000092030d4d6f6e6b657920666f72657374",
+      "name": "Monkey forest",
+      "city": "Jukwa",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.3162813,
+        "lon": -1.3753192
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Monkey forest, Cape Coast - Twifo Praso Road, Jukwa, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f60027254e38c6bf59ef4d1df521691740f00103f901337ed41a01000000",
+      "name": "Botanical Gardens Avenue",
+      "city": "Aburi",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.8526686,
+        "lon": -0.1735933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Botanical Gardens Avenue, Aburi, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51002b9a8d21adfebf59cf24c723134c1340f00102f901a824111d0000000092030f466f727420426174656e737465696e",
+      "name": "Fort Batenstein",
+      "city": "Busua",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 4.8242917623803825,
+        "lon": -1.9172683268868127
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort Batenstein, R85, Busua, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167c0b40309e578bf596c4320f2f1941640f00103f90177eae90a0200000092030d44616e63657220537461747565",
+      "name": "Dancer Statue",
+      "city": "Tema",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.6454542,
+        "lon": -0.0060778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dancer Statue, Baba Yara Avenue, Tema, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5f0faeeffa5c8bf590ecb76d793301640f00102f90163ecaf0000000000920311426c61636b205374617220537175617265",
+      "name": "Black Star Square",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.547438971162377,
+        "lon": -0.19256591004330584
+      },
+      "categories": [
+        "highway",
+        "highway.pedestrian",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.square"
+      ],
+      "formatted_address": "Black Star Square, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51adfdf8a6442dfebf59deedd522fde11740f00103f901ed22353d0100000092030e45534e205669657720506f696e74",
+      "name": "ESN View Point",
+      "city": "Ayanfuri",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.9706922,
+        "lon": -1.8860518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ESN View Point, Mine Access, Ayanfuri, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fa186ca1ad0d9bf5977e569aff4281640f00103f90167c0d37f01000000920316546563686e69637320417274205075626c6963697479",
+      "name": "Technics Art Publicity",
+      "city": "Ga South Municipal District",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5399959,
+        "lon": -0.4033267
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Technics Art Publicity, Winneba Road, Ga South Municipal District, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5129a03f23c78cc6bf596d5e3013a0491640f00103f90177724a03010000009203084d6574726f205456",
+      "name": "Metro TV",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5718997,
+        "lon": -0.1761712
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Metro TV, Ndabaningi Sithole Road, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f05e0fa0bf8e1bf5908b13385ceeb1540f00102f901350eee3d00000000",
+      "name": "N1",
+      "city": "Fete Kraba",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.4802800000000005,
+        "lon": -0.56152915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N1, Fete Kraba, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce28a787b241febf59518df22785c41740f00103f901c5c7fd3d0100000092030e43484e205669657720506f696e74",
+      "name": "CHN View Point",
+      "city": "Ayanfuri",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.9419142,
+        "lon": -1.8910394
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CHN View Point, Mine Access, Ayanfuri, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b17499f5bde1c8bf5987e354c61a411640f00103f901e5ce79ff00000000920312576f6e646120576f726c6420457374617465",
+      "name": "Wonda World Estate",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5635787,
+        "lon": -0.1943891
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wonda World Estate, Independence Avenue, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a17efc7ed97d3bf59484f9143c4451640f00103f90195a5c41e0100000092030f50726570616964456c656374726963",
+      "name": "PrepaidElectric",
+      "city": "Gbawe",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.5681315,
+        "lon": -0.306148
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "PrepaidElectric, Blue Cross, Gbawe, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51781df58f0f52cdbf59b3bdb5d4d6851640f00102f9012d024d24000000009203204768616e6120536f757468204166726963612043756c7475726520436c756d70",
+      "name": "Ghana South Africa Culture Clump",
+      "city": "Accra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.630702327339736,
+        "lon": -0.22906679658101914
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ghana South Africa Culture Clump, Golf Street, Accra, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0ec20c0334bffbf596e9681b9ccd71440f00103f901052f7d6c00000000",
+      "name": "Akyim Road",
+      "city": "Akyem",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.2107419,
+        "lon": -1.9558599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Akyim Road, Akyem, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51639119b20492f5bf59cfcb9303a7541440f00102f90117862908000000009203175361696e742047656f726765e280997320436173746c65",
+      "name": "Saint George’s Castle",
+      "city": "Elmina",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 5.08266835774971,
+        "lon": -1.348149009421001
+      },
+      "categories": [
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Saint George’s Castle, J.J. Rawlings High Street, Elmina, Ghana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df2ea0bc34cafbbf5961dee34c13d61340f00103f9015da6c41e01000000920303565241",
+      "name": "VRA",
+      "city": "Adiembra",
+      "country": "Ghana",
+      "country_code": "gh",
+      "coordinates": {
+        "lat": 4.959058,
+        "lon": -1.7368667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "VRA, Ketan Road, Adiembra, Ghana",
+      "description": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,1708 @@
+{
+  "country_code": "cg",
+  "country_name": "Congo - Brazzaville",
+  "boundary_place_id": "514a97fe25a9482f4059dfd627caef3ee7bff00101f9011af1020000000000c0020b920311436f6e676f2d4272617a7a6176696c6c65",
+  "count": 92,
+  "places": [
+    {
+      "place_id": "51c5347804dc2231405939471d1d57e3ebbff00103f90142377dca02000000",
+      "name": ".",
+      "city": "Loukoléla",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -0.8715015,
+        "lon": 17.1361697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "., Loukoléla, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df6dde38291631405977bcc96fd1c962bff00103f90149377dca02000000",
+      "name": ".",
+      "city": "Loukoléla",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -0.0022935,
+        "lon": 17.0865665
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "., Loukoléla, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee258dd13a9c3140599aab8b80af4de5bff00103f9010ef773c2010000009203074c6972616e6761",
+      "name": "Liranga",
+      "city": "Liranga",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -0.6657331,
+        "lon": 17.6102725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Liranga, Impfondo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a7fad010024314059910bcee0efd7ebbff00103f90109387dca02000000",
+      "name": "BIRD WATCHING",
+      "city": "Loukoléla",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -0.8701095,
+        "lon": 17.1406251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BIRD WATCHING, Loukoléla, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bbe188ff85f72d4059717a72a83a5712c0f00103f901d8856ec400000000920316436875746573206475204c6f75666f756c616b617269",
+      "name": "Chutes du Loufoulakari",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5851847,
+        "lon": 14.9834442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Loufoularaki Waterfalls (upper), Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154f4d1f3b8912e40598d6ac7c3311911c0f00103f901fa514cff0000000092031446726573717565206465206c2741667269717565",
+      "name": "Fresque de l'Afrique",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2746039,
+        "lon": 15.2846142
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fresque de l'Afrique, Avenue du Camp, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518664b7859df82d4059b6bf0ef7ec5412c0f00103f901da856ec400000000920316436875746573206475204c6f75666f756c616b617269",
+      "name": "Chutes du Loufoulakari",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5829352,
+        "lon": 14.9855768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Loufoulakari Waterfalls (lower), Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c85d8429ca05284059c132dbba401e14c0f00103f901fa1c17c60000000092030d506f696e7465205469616d6261",
+      "name": "Pointe Tiamba",
+      "city": "District de Tchiamba-Nzassi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -5.0295438,
+        "lon": 12.011308
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pointe Tiamba, District de Tchiamba-Nzassi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b262b83a00b22740593fadfdf8a67412c0f00103f901b01617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6139182,
+        "lon": 11.847658
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a65e5f27a4f294059d96212899d8411c0f00103f901fa0e17c60000000092030e4163636964656e7420547261696e",
+      "name": "Accident Train",
+      "city": "Mvouti",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.3795072,
+        "lon": 12.6552349
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Accident Train, Mvouti, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f08403c69f992740592fca22032f3112c0f00103f901b41617c600000000920314476f7267657320646520546368697373616e6761",
+      "name": "Gorges de Tchissanga",
+      "city": "Tchissinango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5480309,
+        "lon": 11.8000471
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Tchissanga, RN4, Tchissinango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51281b20e2309a2740599a5c8c81754412c0f00103f901f01c17c60000000092030e506c6167652064652042696d6261",
+      "name": "Plage de Bimba",
+      "city": "Tchissinango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5668545,
+        "lon": 11.8011542
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Plage de Bimba, RN4, Tchissinango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196ccb1bcab3a2f4059f8e351859afc08c0f00103f901523654cb02000000",
+      "name": "LESIO LOUNA ROUTE",
+      "city": "Moembe",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.1233416,
+        "lon": 15.6145915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "LESIO LOUNA ROUTE, RN 2, Moembe, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51494101254fef2c405907301b5366d9f5bff00103f901807966750200000092030b43616e796f6e2056657274",
+      "name": "Canyon Vert",
+      "city": "Okoyo",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -1.3655761,
+        "lon": 14.4674007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Canyon Vert, Okoyo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5144c02154a9a9274059f7c2ae377b4912c0f00103f901161517c60000000092031043697271756520646520426f75657469",
+      "name": "Cirque de Boueti",
+      "city": "Tchissinango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5717591,
+        "lon": 11.83137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cirque de Boueti, RN4, Tchissinango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c07c0d1c2b982c4059de87cd11438c0ec0f00103f9014af8d5cb02000000",
+      "name": "THE FALLS NGAHOU",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8184873,
+        "lon": 14.2972039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "THE FALLS NGAHOU, Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51228d0a9c6ce7284059e9d495cff22c11c0f00103f9011c2317c600000000",
+      "name": "RN 1",
+      "city": "Mpounga",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.293895,
+        "lon": 12.4520005
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RN 1, Mpounga, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51938e72309bac274059e9595a57166612c0f00103f901ac1617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5996946,
+        "lon": 11.8371215
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1144bdb09b02740591c3cb8e0b17412c0f00103f901dc035a4b0100000092030f436c75622064657320676f72676573",
+      "name": "Club des gorges",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6139598,
+        "lon": 11.8438252
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Club des gorges, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115f18c6c9db22740595a51de228b7712c0f00103f901b11617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6167417,
+        "lon": 11.8488573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514781f4030d7c2c4059e26135f169190fc0f00103f90112f9d5cb02000000",
+      "name": "Turning point to overgrown path to NGAHOU",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8874091,
+        "lon": 14.2422868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Turning point to overgrown path to NGAHOU, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d8e3744820902c40596cb5e276c3b10ec0f00103f90178f9d5cb02000000",
+      "name": "GATE 6",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8367986,
+        "lon": 14.2814963
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GATE 6, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d7217618ab22740596f9ba9108f7c12c0f00103f901b21617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6216395,
+        "lon": 11.848712
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cd49deef060b2f4059fe2f325c780909c0f00103f901533654cb02000000",
+      "name": "Gorile 1",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.1296241,
+        "lon": 15.5215373
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gorile 1, Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f628b93b1ec284059ae0095e0c37b0dc0f00103f901821817c6000000009203104d6f6e7473206465206c61204c756e65",
+      "name": "Monts de la Lune",
+      "city": "Mila Mila",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.6854322,
+        "lon": 12.4622923
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monts de la Lune, P1, Mila Mila, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516105aee1d8ad2740591659219b9a7212c0f00103f901ae1617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6119179,
+        "lon": 11.8395453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dfa46950344f2a40596127abd84eba0fc0f00103f901be2017c600000000",
+      "name": "P5",
+      "city": "Lissiemi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.9659707,
+        "lon": 13.154696
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "P5, Lissiemi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c79052bfc1092840596c2810d1431813c0f00103f901b81617c600000000920306476f72676573",
+      "name": "Gorges",
+      "city": "Nkata",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.7736962,
+        "lon": 12.0190563
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges, Nkata, District de Tchiamba-Nzassi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51080841a264e928405908a5d4ca293e11c0f00103f901041d17c600000000920310506f727465206475204d61796f6d6265",
+      "name": "Porte du Mayombe",
+      "city": "Mpounga",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.3107063,
+        "lon": 12.4558459
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porte du Mayombe, RN 1, Mpounga, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b48179b560e294059d4f434bb49df10c0f00103f901f82017c600000000",
+      "name": "RN 1",
+      "city": "Dolisie",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2180547,
+        "lon": 12.5280045
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RN 1, Dolisie, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef9c1cf45b8e2e405920e6dc37080411c0f00103f90119f73ca00200000092030a436166c3a920436f636f",
+      "name": "Café Coco",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2539376,
+        "lon": 15.2780453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Café Coco, Rue Djambala, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a515df50f8a8274059b0592e1b9d7b12c0f00103f901f60e17c600000000",
+      "name": "RN4",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6207165,
+        "lon": 11.8300195
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c3d66fbebe4274059d2904ce2076a12c0f00103f901b61617c600000000920306476f72676573",
+      "name": "Gorges",
+      "city": "District de Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6035457,
+        "lon": 11.9471129
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges, Pont Plaques Metal, Kouilou Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515374c9dd8cf3284059e6c699cbb28c0cc0f00103f901301d17c60000000092030d52697669c3a8726520426c6575",
+      "name": "Rivière Bleu",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.5687004,
+        "lon": 12.4756841
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rivière Bleu, Niari Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119479b994fb8274059b0d293e81b2f13c0f00103f901a67aff740100000092030b52697475656c2074686169",
+      "name": "Rituel thai",
+      "city": "Pointe-Noire",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.7960049,
+        "lon": 11.8599823
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rituel thai, Avenue Stéphane Tchichellé, Pointe-Noire, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ff1136289f6284059399105f126740cc0f00103f901701717c6000000009203084c616320426c6575",
+      "name": "Lac Bleu",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.5567149,
+        "lon": 12.4815169
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lac Bleu, Niari Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e2228c819882c405945aee5df78f80ec0f00103f9013efad5cb02000000",
+      "name": "GATE 3",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8713243,
+        "lon": 14.2658217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GATE 3, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc15d79d93872d4059a8284d39155f13c0f00103f90115031bc902000000",
+      "name": "Bela Falls ( LOUVOUBI)",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.8428544,
+        "lon": 14.7647981
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bela Falls ( LOUVOUBI), Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e667d9493318284059b3ad0be47ebc12c0f00103f901b71617c600000000920306476f72676573",
+      "name": "Gorges",
+      "city": "District de Tchiamba-Nzassi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6840778,
+        "lon": 12.0472663
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges, District de Tchiamba-Nzassi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51deca129d653a2e4059e415889e94a911c0f00103f901191c26c902000000",
+      "name": "LINZOLO MISSION",
+      "city": "Linzolo",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.415606,
+        "lon": 15.1140565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "LINZOLO MISSION, Linzolo, Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51452dcdad10b2284059eb67fba1e3740cc0f00103f901711717c6000000009203084c616320426c6575",
+      "name": "Lac Bleu",
+      "city": "Pont du Niari",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.5570748,
+        "lon": 12.3477835
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lac Bleu, RN 3, Pont du Niari, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515bfff85cb77a2b4059119c44ce0c4c0ec0f00103f9014b1517c60000000092031b44616c6c65206465204772c3a8732051756172747a697469717565",
+      "name": "Dalle de Grès Quartzitique",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.7871338,
+        "lon": 13.7396802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dalle de Grès Quartzitique, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab668cc525b128405994b0259af69312c0f00103f901141517c60000000092030e436972717565204e73656e7ac3a9",
+      "name": "Cirque Nsenzé",
+      "city": "Mvouti",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6444954,
+        "lon": 12.3459913
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cirque Nsenzé, Mvouti, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d820dd19b73e284059df03cf1841de12c0f00103f9016f1717c6000000009203094c61632042696e6469",
+      "name": "Lac Bindi",
+      "city": "Hinda",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.7170452,
+        "lon": 12.1224907
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lac Bindi, Hinda, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5109c4ebfa0547274059f9aef7d15f7e11c0f00103f901b51617c600000000920306476f72676573",
+      "name": "Gorges",
+      "city": "Madingo-Kayes",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.3734124,
+        "lon": 11.6387175
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges, Pont Bois, Kouilou Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d714e91e8a6274059dec66647aa4712c0f00103f901151517c60000000092031043697271756520646520426f75657469",
+      "name": "Cirque de Boueti",
+      "city": "Tchissinango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.5699855,
+        "lon": 11.8259931
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cirque de Boueti, RN4, Tchissinango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51135f926f5bc827405913cf7e49cf7112c0f00103f901a91617c60000000092030747656f72676573",
+      "name": "Georges",
+      "city": "District de Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6111423,
+        "lon": 11.8913226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Georges, District de Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f437fcc973882e405952a7f22cf71811c0f00103f901d5100460010000009203195265736964656e6365204c657320466c616d626f79616e7473",
+      "name": "Residence Les Flamboyants",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2743804,
+        "lon": 15.2665084
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Residence Les Flamboyants, Avenue de la 2ème Division Blindée, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516090f46915752840598209922d81ca0fc0f00103f901011d17c60000000092030b506f6e74204d696b61646f",
+      "name": "Pont Mikado",
+      "city": "Bouala Bantou",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.9738792,
+        "lon": 12.228679
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pont Mikado, RN6, Bouala Bantou, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511dc3088618982c4059022b8716d98e0ec0f00103f90107fbd5cb02000000",
+      "name": "forest",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.81975,
+        "lon": 14.2970621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "forest, Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514df96b0d00b42b4059d8536122949510c0f00103f901adf8d5cb02000000",
+      "name": "CEMENT FACTORY",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.1460729,
+        "lon": 13.8515629
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "CEMENT FACTORY, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2bedc8200882c405943e7357689ca0ec0f00103f90106fbd5cb02000000",
+      "name": "Gate 5",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.848895,
+        "lon": 14.2656289
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gate 5, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b25da9fd5e7274059862cc198e39b13c0f00103f901231517c600000000920315436f6c6c696e65202d2056756520737572206c6163",
+      "name": "Colline - Vue sur lac",
+      "city": "Ngoyo (arrondissement 6)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.9022354,
+        "lon": 11.9528017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Colline - Vue sur lac, RN4, Pointe-Noire (département), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d46531b1f9842c40594a1b58d81d0c0fc0f00103f90105fbd5cb02000000",
+      "name": "GATE",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8809163,
+        "lon": 14.2597175
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GATE, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a93121e692322c4059847b0a25386a0ec0f00103f901b1f8d5cb02000000",
+      "name": "Turn to NGAHOU FALLS",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8018649,
+        "lon": 14.098777
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Turn to NGAHOU FALLS, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51813bf5edc9982c4059ada00ed022900ec0f00103f901dcf9d5cb02000000",
+      "name": "The River",
+      "city": null,
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8203789,
+        "lon": 14.2984156
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The River, Pool Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518963b895b9882e405958c3ea34772911c0f00103f901859b30c400000000",
+      "name": "Route de la Corniche",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2904938,
+        "lon": 15.2670409
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route de la Corniche, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a82eb408c6e2c405998f6724463120fc0f00103f901dbf9d5cb02000000",
+      "name": "CHEF DU VILLAGE",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8839784,
+        "lon": 14.2159138
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "CHEF DU VILLAGE, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51097c348b06ab274059e374ed66a16812c0f00103f901ad1617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6021782,
+        "lon": 11.8340343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b5a50ce06072f40593813d385589d0cc0f00103f90160d2fb470100000092030b3130304b6d204f64696261",
+      "name": "100Km Odiba",
+      "city": "Ingha",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.576829,
+        "lon": 15.5137238
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "100Km Odiba, RN 2, Ingha, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c5b125619942e405970a7be3d191511c0f00103f901a68e14de0000000092031c53746174756573206465732066616d65757820636f6e676f6c616973",
+      "name": "Statues des fameux congolais",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2706041,
+        "lon": 15.2892558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Statues des fameux congolais, Rue Louis Trichot, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a487461c57ac274059137530ac2c7312c0f00103f901af1617c600000000920310476f726765732064652044696f73736f",
+      "name": "Gorges de Diosso",
+      "city": "Loango",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.6124751,
+        "lon": 11.8366021
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Diosso, RN4, Loango, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113ae916e95a52b4059d146640e38c110c0f00103f90149f8d5cb02000000",
+      "name": "NIARI BRIDGE",
+      "city": "Kimbedi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.1886904,
+        "lon": 13.8234057
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "NIARI BRIDGE, RN 1, Kimbedi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f144b52d6f872c4059f5a0a014addc0ec0f00103f90169fbd5cb02000000",
+      "name": "GATE 4",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.857752,
+        "lon": 14.2645201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GATE 4, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f7a287eb62cc274059b492567c436113c0f00103f901973dd24b01000000920307506f696e742045",
+      "name": "Point E",
+      "city": "Ngoyo (arrondissement 6)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.844984,
+        "lon": 11.8991922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Point E, RN4, Ngoyo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e1794e1f264a284059fb4cac42b95310c0f00103f901b31617c600000000920310476f7267657320646520536f756e6461",
+      "name": "Gorges de Sounda",
+      "city": "Manzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.0817614,
+        "lon": 12.1448221
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges de Sounda, RN6, Manzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e770481df842e4059f4d6659d96cc10c0f00103f90171fda06701000000920329526176696e207072c3a873206465206c612053746174696f6e2064652054c3a96cc3a9766973696f6e",
+      "name": "Ravin près de la Station de Télévision",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.1997933,
+        "lon": 15.2595177
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ravin près de la Station de Télévision, RN 2, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e95212c8db642c40592781728005650dc0f00103f901a7ba2da80100000092031e43656e74726520746f757269737469717565206465205473617473616c61",
+      "name": "Centre touristique de Tsatsala",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.6743269,
+        "lon": 14.1969893
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tsatsala, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512000828307bb274059c207c08932dd12c0f00103f9013ac8f418020000009203086368616e74696572",
+      "name": "chantier",
+      "city": "Siafoumou",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.7160131,
+        "lon": 11.8652917
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "chantier, RN4, Siafoumou, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8770dfad27f2c40590b2a053818150fc0f00103f901b3f8d5cb02000000",
+      "name": "GATE",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8853001,
+        "lon": 14.2496565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GATE, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519cd1a0b2ab922c4059e38e92b2a08b0ec0f00103f9013ffad5cb02000000",
+      "name": "walking path",
+      "city": "Mouyondzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.8181776,
+        "lon": 14.2864662
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "walking path, Mouyondzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5106065acbae812e405969b004ad1b8ae83ff00103f90101a6daca02000000",
+      "name": "BAI",
+      "city": "Zalangoye",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 0.7668589,
+        "lon": 15.2532867
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BAI, RN 2, Zalangoye, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51923188597933284059737a83d4926310c0f00103f901911617c600000000920310466f726574206475204d61796f6d6265",
+      "name": "Foret du Mayombe",
+      "city": "Manzi",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.0972398,
+        "lon": 12.1005352
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Foret du Mayombe, RN6, Manzi, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511538d906ee70284059ef2df6a809ec0fc0f00103f9019b1817c6000000009203054e69617269",
+      "name": "Niari",
+      "city": "Mvouti",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -3.9902528,
+        "lon": 12.220566
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Niari, RN6, Kouilou Department, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51553a0e72cdcb274059a814e060147113c0f00103f901f18efbcb0200000092030e56696c6c61204553534552454b45",
+      "name": "Villa ESSEREKE",
+      "city": "Ngoyo (arrondissement 6)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.8604293,
+        "lon": 11.8980518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Villa ESSEREKE, 001, RN4, Ngoyo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172045f8720b9274059abf70ac1604513c0f00103f901ad7d170c0100000092030d526f78616e65204265686f6d65",
+      "name": "Roxane Behome",
+      "city": "Pointe-Noire",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.8177519,
+        "lon": 11.8615763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Roxane Behome, Rue Mpinda, Pointe-Noire, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107ebff1ce68b2e4059c9e4d4ce301d11c0f00103f901a58e14de0000000092031c53746174756573206465732066616d65757820616672696361696e73",
+      "name": "Statues des fameux africains",
+      "city": "Brazzaville (municipality)",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": -4.2785065,
+        "lon": 15.27324
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Statues des fameux africains, Route du Cimetière, Brazzaville (municipality), Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51835b2d663a343040595a3f47f5e7dc0140f00103f901bafdacca02000000",
+      "name": "OUALI BAI",
+      "city": "Bon Coin",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 2.2328643,
+        "lon": 16.2040161
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "OUALI BAI, Bon Coin, District de Kabo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c5837de1d17314059a27f828b1535583ff00103f9014a377dca02000000",
+      "name": ".",
+      "city": "Loukoléla",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 0.0014775,
+        "lon": 17.0902995
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "., Loukoléla, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc07c5fb161231405900b848900024ce3ff00103f9019e397dca02000000",
+      "name": "Pecheurs",
+      "city": "Loukoléla",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 0.2354737,
+        "lon": 17.0706632
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pecheurs, Loukoléla, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514744e7ebe816314059d0e8b3a8f4b8243ff00103f90148377dca02000000",
+      "name": "EQUATOR",
+      "city": "Loukoléla",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 0.0001581,
+        "lon": 17.0894916
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "EQUATOR, Loukoléla, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa882e032934304059ade8c53f22dc0140f00103f901a61817c60000000092030c4f627365727661746f697265",
+      "name": "Observatoire",
+      "city": "Bon Coin",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 2.2324872,
+        "lon": 16.2037508
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Observatoire, Bon Coin, District de Kabo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a27a6b60ab7e3040593d601e32e583f23ff00103f9014c377dca02000000",
+      "name": "BALOUMA PYGMY VILLAGE",
+      "city": "District de Pikounda",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.157201,
+        "lon": 16.4948025
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BALOUMA PYGMY VILLAGE, District de Pikounda, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51479a2e7a5d033240598cec9458638a0640f00103f901e998f8140100000092031872c3a9736964656e63652048454e52494520646a6f6d626f",
+      "name": "résidence HENRIE djombo",
+      "city": "Enyellé",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 2.8175723,
+        "lon": 18.0131451
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Henri DJOMBO House, P45, Enyellé, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6027b4ca40c3040591419671d9fdaf93ff00103f9014d4026cb02000000",
+      "name": "MARCHE",
+      "city": "Ouésso",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.6158744,
+        "lon": 16.049382
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "MARCHE, N2, Ouésso, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da7d7d63be0a30405906e5c7a9e7aef93ff00103f901d9b965a101000000",
+      "name": "WSC. Org. Headquarters Nouabale-Ndoki",
+      "city": "Ouésso",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.6052014,
+        "lon": 16.0419676
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "WSC. Org. Headquarters Nouabale-Ndoki, RN 2, Ouésso, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51075449aeac0c30405932e36da5d7c6f93ff00103f9019da5daca02000000",
+      "name": "MARCHE DE VIEND",
+      "city": "Ouésso",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.6110455,
+        "lon": 16.0495099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "MARCHE DE VIEND, N2, Ouésso, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f47f588000753040598014d09f9183f43ff00103f901311d17c60000000092030e52697669c3a87265204e6f697265",
+      "name": "Rivière Noire",
+      "city": "District de Kabo",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.2821213,
+        "lon": 16.4570389
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rivière Noire, District de Kabo, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aaad22ed90a2304059ed90ac0d5fb0e13ff00103f901633a7dca02000000",
+      "name": "Chief yard",
+      "city": "Pikounda",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 0.5527797,
+        "lon": 16.6350239
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chief yard, Pikounda, District de Pikounda, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b629c35d620b304059293fa9f6e9b8f93ff00103f90155b665a1010000009203124166726963616e205061726b73204f666669",
+      "name": "African Parks Offi",
+      "city": "Ouésso",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.607645,
+        "lon": 16.0444697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "African Parks Office. Otzala-Kokoua National Park, RN 2, Ouésso, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff8bb15deb5a314059aaf644323fb2fb3ff00103f901f5937c80010000009203054d626f7561",
+      "name": "Mboua",
+      "city": "Epéna",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.7310173,
+        "lon": 17.3551539
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mboua, Epéna, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c8e18e2fd81304059001de6cb0b90f33ff00103f90137f625c902000000",
+      "name": "Sangha-Ndoki",
+      "city": "District de Mokeko",
+      "country": "Congo-Brazzaville",
+      "country_code": "cg",
+      "coordinates": {
+        "lat": 1.2226675,
+        "lon": 16.5077802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sangha-Ndoki, District de Mokeko, Congo-Brazzaville",
+      "description": null,
+      "image": null
+    }
+  ]
+}

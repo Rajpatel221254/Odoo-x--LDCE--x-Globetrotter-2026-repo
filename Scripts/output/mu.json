@@ -1,0 +1,4424 @@
+{
+  "country_code": "mu",
+  "country_name": "Mauritius",
+  "boundary_place_id": "516407f07101c94c4059d0fd8b56a44634c0f00101f901142d080000000000c0020b9203094d6175726974697573",
+  "count": 233,
+  "places": [
+    {
+      "place_id": "511777cdf5c7c24c4059e60d8bac908534c0f00103f9015e56345e0200000092031454656c66616972205075626c6963204265616368",
+      "name": "Telfair Public Beach",
+      "city": "Souillac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5217388,
+        "lon": 57.5217273
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Telfair Public Beach, Black River Savanne Coast Road, Souillac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51217be49308bf4c4059c59e8c39946a34c0f00102f901be6eef070000000092030e4d616e67616c204d616861646576",
+      "name": "Mangal Mahadev",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.416324230986692,
+        "lon": 57.49244927078531
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Mangal Mahadev, Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eff8403c5cc44c4059bedc2747018634c0f00103f9017646c980000000009203116c6120726f6368657320646520626f6973",
+      "name": "la roches de bois",
+      "city": "Souillac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.523457,
+        "lon": 57.5340648
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "la roches de bois, Avenue Vicompte de Souillac, Souillac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51856863db58bc4c4059d1a5c9d6445834c0f00103f901fe32ad330000000092031954616d6172696e642046616c6c73205669657720506f696e74",
+      "name": "Tamarind Falls View Point",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3448004,
+        "lon": 57.4714617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tamarind Falls View Point, Caldwell – Henrietta Road, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108dd6ffe70b54c4059cceac2b4146d34c0f00103f901cca1dc4e0000000092031256696577706f696e74204368616d6172656c",
+      "name": "Viewpoint Chamarel",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4260972,
+        "lon": 57.4175108
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint Chamarel, Plaine Champagne Road, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180b09d3935de4c4059c685a867e65634c0f00103f901603dae1600000000920313446f6d61696e6520596c616e6720596c616e67",
+      "name": "Domaine Ylang Ylang",
+      "city": "Old Grand Port VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3394532,
+        "lon": 57.7359993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Domaine Ylang Ylang, Yellow/Red route, Old Grand Port VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51303573573bb04c4059f9a5815e6c7034c0f00102f901a0968d3500000000",
+      "name": "to Seven Coloured Earth at Chamarel",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.439153582241463,
+        "lon": 57.37681096196536
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "to Seven Coloured Earth at Chamarel, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511580d49b4ac14c4059f6907adc552b34c0f00102f901488e4d2c00000000",
+      "name": "Pope Hennessy Street",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.169278888629343,
+        "lon": 57.5100893771743
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Pope Hennessy Street, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6a0fbcd1fbf4c40596fc04241846b34c0f00103f9013ce1592a03000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4199868,
+        "lon": 57.4931581
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178488cf914da4c4059a8af4225096b34c0f00103f901f4650dc402000000",
+      "name": "Royal Road Plaine Magnien – Mahebourg",
+      "city": "Mahébourg VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4181083,
+        "lon": 57.7037651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Road Plaine Magnien – Mahebourg, Mahébourg VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb097f2b7eaf4c40594425bf8fb47d34c0f00103f901a2d47066000000009203074d61636f6e6465",
+      "name": "Maconde",
+      "city": "Baie du Cap VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4910364,
+        "lon": 57.3710379
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maconde, Coastal Road Baie du Cap, Baie du Cap VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebd3e06c29e34c4059efdbb529c34734c0f00103f90106daa73c00000000",
+      "name": "Grand River South East waterfall trail",
+      "city": "Grand River South East VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2803217,
+        "lon": 57.7747017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Grand River South East waterfall trail, Grand River South East VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51918543caaade4c40590d3be702f25634c0f00103f9010644ae160000000092030e4b65737472656c2056616c6c6579",
+      "name": "Kestrel Valley",
+      "city": "Bois des Amourettes VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3396303,
+        "lon": 57.7395871
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kestrel Valley, Royal Road Flacq – Mahebourg, Bois des Amourettes VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517acd06f41db14c405910e3daf5777134c0f00103f901ea240b5d0200000092031c56696577706f696e74204368616d6172656c20576174657266616c6c",
+      "name": "Viewpoint Chamarel Waterfall",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4432367,
+        "lon": 57.3837266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Viewpoint Chamarel Waterfall, to Seven Coloured Earth at Chamarel, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a09c5b189ba4c4059126cb7b8216f34c0f00103f9014a5bad160000000092030f416c6578616e6472612046616c6c73",
+      "name": "Alexandra Falls",
+      "city": "Chamarel VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4341083,
+        "lon": 57.4573271
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Alexandra Falls, Plaine Champagne Road, Chamarel VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e46d8a667ca4c4059563bd400ef1a34c0f00103f901521cf641020000009203144f6c64205375676172204d696c6c204d6f64656c",
+      "name": "Old Sugar Mill Model",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1052094,
+        "lon": 57.5812882
+      },
+      "categories": [
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Old Sugar Mill Model, Avenue Mon Plaisir, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124e7696567b94c405982340818028134c0f00103f9019dbc60310000000092030f496c6f74206175782053616e63686f",
+      "name": "Ilot aux Sancho",
+      "city": "Bel Ombre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5039382,
+        "lon": 57.4484679
+      },
+      "categories": [
+        "island",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bel Ombre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea831bdfcdc94c405967e03609941b34c0f00103f90152e4651c010000009203105061756c2065742056697267696e6965",
+      "name": "Paul et Virginie",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1077276,
+        "lon": 57.5765952
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Paul et Virginie, Poivre Road, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a241afe4cfae4c4059e1a7bbfc984e34c0f00103f9013e210b5d02000000920313576f6c6d6172205075626c6963204265616368",
+      "name": "Wolmar Public Beach",
+      "city": "Flic en Flac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3070219,
+        "lon": 57.3657194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wolmar Public Beach, Coastal Road, Flic en Flac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51acfcd75eb0d14c405916eea6a503ff33c0f00103f901ea8b8d620200000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Cap Malheureux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9961494,
+        "lon": 57.6381949
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Route Mon Choisy Cap Malheureux, Cap Malheureux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5145dd9fc050c14c40593c5d88c5ea2934c0f00102f90168b7f9010000000092030d466f7274204164656c61696465",
+      "name": "Fort Adelaide",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.16373858050541,
+        "lon": 57.510276868876225
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort Adelaide, Sebastopol Street, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc683e8cf5be4c4059a1808da1526a34c0f00102f90150c65a3e000000009203094475726761204d6161",
+      "name": "Durga Maa",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.415323349997042,
+        "lon": 57.491868525002786
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Durga Maa, Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae9ffeb3e6af4c40592a3bfda02e6e34c0f00103f9019bd8260f0100000092030c5375626c696d20506f696e74",
+      "name": "Sublim Point",
+      "city": "La Gaulette VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.430399,
+        "lon": 57.374228
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sublim Point, Piton du Canot Trail, La Gaulette VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513addc36f54bf4f405917e98f7a99b633c0f00103f90182d4367502000000",
+      "name": "Coromandel Road",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7132794,
+        "lon": 63.4947643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coromandel Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf0a952474be4c40590d6c3aa7fe8434c0f00103f9014456345e020000009203145269616d62656c205075626c6963204265616368",
+      "name": "Riambel Public Beach",
+      "city": "Surinam VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5195107,
+        "lon": 57.4879194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Riambel Public Beach, Coastal Road Surinam, Surinam VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff017bf1eae64c4059720399f8fe3b34c0f00103f901085ee75c0200000092030f4f7574206f662074686520426c7565",
+      "name": "Out of the Blue",
+      "city": "Trou d’Eau Douce VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2343593,
+        "lon": 57.8040449
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Out of the Blue, Belle Mare Palmar Trou d'Eau Douce Road, Trou d’Eau Douce VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb01f39029d54c4059fb7376d77e0134c0f00103f9017cc2df5c020000009203184772616e64204761756265205075626c6963204265616368",
+      "name": "Grand Gaube Public Beach",
+      "city": "Grand Gaube VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0058417,
+        "lon": 57.665331
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grand Gaube Public Beach, Grand Gaube Coast Road, Grand Gaube VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513be702f280bf4c4059a68d34023b2034c0f00103f90124668d620200000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Baie du Tombeau VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1259004,
+        "lon": 57.4961226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Rue des Tourterelles, Baie du Tombeau VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abd61de626c04f40591deed9290cb633c0f00103f901e068e97301000000",
+      "name": "Coromandel Road",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7111231,
+        "lon": 63.5011871
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coromandel Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f8676a96cc24c4059186e0a75a21034c0f00103f901dc89265d0200000092031f506f696e7465206175782050696d656e7473205075626c6963204265616368",
+      "name": "Pointe aux Piments Public Beach",
+      "city": "Pointe aux Piments VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0649789,
+        "lon": 57.5189411
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pointe aux Piments Public Beach, Solitude Road, Pointe aux Piments VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c54840964fc04c40599c74b6db895334c0f00103f9018be4781701000000",
+      "name": "Mamma sabrina",
+      "city": "Curepipe",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3263223,
+        "lon": 57.5024288
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mamma sabrina, Robinson Lane, Curepipe, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d142cd672ab24c40592093db20047134c0f00102f901c8e43e51000000009203144c6120566965696c6c65204368656d696ec3a965",
+      "name": "La Vieille Cheminée",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.441469243628603,
+        "lon": 57.391919112420176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La Vieille Cheminée, B104, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51046be6da61b64c40595486167e157534c0f00103f9012e65d99e00000000",
+      "name": "walkway",
+      "city": "Bel Ombre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4573592,
+        "lon": 57.4248613
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "walkway, Bel Ombre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0879bf80fdb4c40596bc1e677f51d34c0f00103f90146c6e45c02000000920316526f636865204e6f697265204c617661205475626573",
+      "name": "Roche Noire Lava Tubes",
+      "city": "Roches Noires VCA, North",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1170268,
+        "lon": 57.7114249
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Roche Noire Lava Tubes, Kalimaye Road, Roches Noires VCA, North, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dafa8e86f8c14c4059f03fe88f1f1e34c0f00103f90120e1389602000000920305486f727365",
+      "name": "Horse",
+      "city": "Baie du Tombeau VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1176691,
+        "lon": 57.5153969
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Horse, Silk Road, Baie du Tombeau VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f0bb5a679c04c405992cf2b9e7a2434c0f00103f901a80e775e02000000920322526976756c657420546572726520526f75676520426972642053616e637475617279",
+      "name": "Rivulet Terre Rouge Bird Sanctuary",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.142496,
+        "lon": 57.5037125
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rivulet Terre Rouge Bird Sanctuary, Des Bouchers Road, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51402663c625b64f40597880272d5cae33c0f00103f9013e81680401000000",
+      "name": "Maison Ben Gontran",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.681094,
+        "lon": 63.4230278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison Ben Gontran, Rue Max Lucchesi, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ea4ee14bcb64f40590f208d5429ad33c0f00103f90198cee80001000000",
+      "name": "Route de l'autonomie",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.6764119,
+        "lon": 63.4276148
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route de l'autonomie, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51490158d3abb94f4059cd9ce4fd6eb833c0f00103f9014296f95d02000000",
+      "name": "Mon Plaisir Road",
+      "city": "Saint Gabriel",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7204436,
+        "lon": 63.4505562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mon Plaisir Road, Saint Gabriel, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cef4b7a926b44f40590ebc5aeeccb433c0f00103f9010671c93b03000000",
+      "name": "Montagne Tonnerre",
+      "city": "Baie Aux Huîtres",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.706252,
+        "lon": 63.4074299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Montagne Tonnerre, Island Road, Baie Aux Huîtres, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108abb184b5b34c4059f9c0e9b8754a34c0f00103f901052fc62402000000",
+      "name": "Casela Road",
+      "city": "Cascavelle VCA West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2908588,
+        "lon": 57.403977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Casela Road, Cascavelle VCA West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce80c4c084ca4c40598d367d2c331b34c0f00103f901dc8f67ee00000000",
+      "name": "Avenue Sir John Pope Hennessy",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1062496,
+        "lon": 57.5821763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Avenue Sir John Pope Hennessy, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1eae40cc5d74c40598efa35a3300934c0f00103f901f9c4e45c0200000092031a456d6261726b6164657220746f20416d6265722049736c616e64",
+      "name": "Embarkader to Amber Island",
+      "city": "Goodlands VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0358984,
+        "lon": 57.685701
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Embarkader to Amber Island, Kalimaye Road, Goodlands VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bbf2b4577aca4c40592c346b84d90134c0f00103f90158ad9c1301000000",
+      "name": "Luigi ristorante g.baie",
+      "city": "Grand Baie VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0072253,
+        "lon": 57.5818586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Luigi ristorante g.baie, Mon Choisy Cap Malheureux Road, Grand Baie VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7e6334525bc4c40591117258d765734c0f00103f901d96155e10200000092031254616d6172696e642056696577706f696e74",
+      "name": "Tamarind Viewpoint",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3416527,
+        "lon": 57.4698874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tamarind Viewpoint, Caldwell – Henrietta Road, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f73582b24bf4c40595be443f57b6b34c0f00103f9013fe1592a03000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4198602,
+        "lon": 57.4932913
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51382c0dfca8b44c4059eb1791cdfa6934c0f00103f901d56953af02000000",
+      "name": "View of valley and 4 waterfalls",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4139832,
+        "lon": 57.411407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View of valley and 4 waterfalls, Piton de la petite riviere noire trail, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a157f25a1ba4c4059ff2b8606bd7034c0f00103f9011eb2e04e00000000",
+      "name": "Mount Cocotte trail",
+      "city": "Bel Ombre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4403843,
+        "lon": 57.4580428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mount Cocotte trail, Bel Ombre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ca1d79fc4af4c4059e4558ca9aa7034c0f00103f901322d6d5a02000000",
+      "name": "to Seven Coloured Earth at Chamarel",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4401041,
+        "lon": 57.373188
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "to Seven Coloured Earth at Chamarel, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee540acbe9da4c4059db656435026834c0f00103f901729d47ee00000000",
+      "name": "Rue Shivananda",
+      "city": "Mahébourg VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4062837,
+        "lon": 57.7102598
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue Shivananda, Mahébourg VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e88731e5fb84c405964085b47b06434c0f00103f901933e3cd9000000009203134d6163686162c3a9652056696577706f696e74",
+      "name": "Machabée Viewpoint",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3933148,
+        "lon": 57.4404028
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Machabée Viewpoint, Machabée Trail, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ff4eed984b64c405960973cf94f6c34c0f00103f901519ed8db02000000",
+      "name": "Piton de la petite riviere noire trail",
+      "city": "Chamarel VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4230953,
+        "lon": 57.4259293
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Piton de la petite riviere noire trail, Chamarel VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c29779fe3ce4c4059b728b341265934c0f00103f9017f2d83070100000092030f4f737465726c6f672056616c6c6579",
+      "name": "Osterlog Valley",
+      "city": "St. Hubert VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.34824,
+        "lon": 57.6163215
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Osterlog Valley, Cascade Tortue trail, St. Hubert VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc076a42a4bb4f4059ae6cd5647cb433c0f00103f9011914ea2e02000000",
+      "name": "Coromandel Road",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7050231,
+        "lon": 63.4659503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coromandel Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb35a33039c64c4059324ff8b6aa0634c0f00103f901c889265d0200000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0260424,
+        "lon": 57.5486203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7ecd1c034b94c405996c4a39e4f6434c0f00103f9015c91bd3d00000000",
+      "name": "Machabee Forest Loop Trail",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3918399,
+        "lon": 57.4469224
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Machabee Forest Loop Trail, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4a99ecc3faa4c4059281884a8b17334c0f00103f901e49e7f070100000092030f4e6f7274682056696577706f696e74",
+      "name": "North Viewpoint",
+      "city": "Le Morne VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4519296,
+        "lon": 57.330072
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "North Viewpoint, Avenue Accacia, Le Morne VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddbb61365cb24c4059b42c4e6b896934c0f00103f90198432be800000000",
+      "name": "Black River Peak Trail",
+      "city": "Case Noyale VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4122531,
+        "lon": 57.3934391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Black River Peak Trail, Case Noyale VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51376046674fbe4c405997e13fdd407534c0f00103f9015ac2582a03000000",
+      "name": "La Marie – Le Pétrin – Chamouny Road",
+      "city": "Chamouny VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.458021,
+        "lon": 57.4867982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "La Marie – Le Pétrin – Chamouny Road, Chamouny VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a208b7e7ec04c405969ab92c83e3834c0f00103f9013c8eef150100000092030f436861746561752056616c2d4f7279",
+      "name": "Chateau Val-Ory",
+      "city": "Moka VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.219708,
+        "lon": 57.5038603
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chateau Val-Ory, Bois Cheri Road, Moka VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f513fb9b7ca4c40594bcb48bda7fe33c0f00103f90132210b5d0200000092030e506f696e7465204567696c697365",
+      "name": "Pointe Egilise",
+      "city": "Grand Baie VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.994747,
+        "lon": 57.5837318
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pointe Egilise, Eden Rock Lane, Grand Baie VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee5234208ce34c405991ed7c3f355634c0f00103f9015034193b00000000920310506f696e746520647520446961626c65",
+      "name": "Pointe du Diable",
+      "city": "Grand Sable VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.33675,
+        "lon": 57.7777138
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pointe du Diable, Grand Sable VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5152a3eb1dc9da4c4059b8d6cd7b526834c0f00103f90192d4e0ee0000000092032b4d6f6e756d656e7420696e204d656d6f7279206f66204669736865726d656e206c6f737420617420536561",
+      "name": "Monument in Memory of Fishermen lost at Sea",
+      "city": "Mahébourg VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4075086,
+        "lon": 57.7092626
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Monument in Memory of Fishermen lost at Sea, Rue des Hollandais, Mahébourg VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157ff8c77ecc04c40593a9c0a02752834c0f00102f9017027e63b0000000092030e4368696e61746f776e2041726368",
+      "name": "Chinatown Arch",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.158035399999996,
+        "lon": 57.5072164
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Chinatown Arch, Royal Street, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51221add41ecc24c4059c1afecdd7a5234c0f00103f901bafcb31601000000",
+      "name": "graffiti ltd.",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3221873,
+        "lon": 57.522835
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "graffiti ltd., no 8, Avrillon Street, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da14d91885e64c4059858c91369f3834c0f00103f901025ee75c0200000092031b5075626c69632042656163682c2050616c6d61722c20466c616371",
+      "name": "Public Beach, Palmar, Flacq",
+      "city": "Trou d’Eau Douce VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2211794,
+        "lon": 57.8009368
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Palmar, Flacq, Belle Mare Palmar Trou d'Eau Douce Road, Trou d’Eau Douce VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51179f02603cb94c40592e628ed4314f34c0f00103f9015208a7700000000092031356696577706f696e74206f6e20536164646c65",
+      "name": "Viewpoint on Saddle",
+      "city": "Cascavelle VCA West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3093541,
+        "lon": 57.447155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint on Saddle, Trois Mamelles trail, Cascavelle VCA West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4aae6de68bb4c4059eee1dc70698234c0f00103f901946479620200000092031553742046656c6978205075626c6963204265616368",
+      "name": "St Felix Public Beach",
+      "city": "Chemin Grenier VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5094214,
+        "lon": 57.4641379
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "St Felix Public Beach, Coastal Road Rivière des Galets, Chemin Grenier VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515808066bf7d34c4059ee76bd34450a34c0f00103f901cf230e9b0000000092031a486973746f726963204d6172696e6520536869706d6f64656c73",
+      "name": "Historic Marine Shipmodels",
+      "city": "Goodlands VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0401185,
+        "lon": 57.6559881
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Historic Marine Shipmodels, Pivert Avenue, Goodlands VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eaffc12c59b94c4059999b6f44f78034c0f00103f901f6bc60310000000092030d50697261746520416e63686f72",
+      "name": "Pirate Anchor",
+      "city": "Bel Ombre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.503773,
+        "lon": 57.4480339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Pirate Anchor, Coastal Road Rivière des Galets, Bel Ombre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d78e3dd6e7c24c4059c5f53988e70c34c0f00103f901d689265d02000000920321506f696e7465206175782050696d656e7473205075626c69632042656163682032",
+      "name": "Pointe aux Piments Public Beach 2",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0504079,
+        "lon": 57.5227001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pointe aux Piments Public Beach 2, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7936c7539c44c40591bb2cb01cc0834c0f00103f901a075164201000000",
+      "name": "Snorkelling Spot",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0343629,
+        "lon": 57.5330035
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Snorkelling Spot, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bcc90cfd0ce4c40598eda0e57181234c0f00103f90171058f4a02000000",
+      "name": "Quartier des Serres",
+      "city": "Mapou VCA, North",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0706839,
+        "lon": 57.6157474
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Quartier des Serres, Rue de Labourdonnais, Mapou VCA, North, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5135dbcb6c46b94c40590211e2cad96534c0f00103f901dae1051a03000000",
+      "name": "Piste Machabée / Machabée Trail",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3978545,
+        "lon": 57.4474617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Piste Machabée / Machabée Trail, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127e9503c1db64f405907a6e4e665ae33c0f00103f9016b82680401000000",
+      "name": "Compagnie des Artisans Rodriguais",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.6812424,
+        "lon": 63.4227672
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Compagnie des Artisans Rodriguais, Rue François Leguat, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed09b7216be44c405949b31e63933334c0f00103f901fa5de75c0200000092031350616c6d6172204265616368205075626c6963",
+      "name": "Palmar Beach Public",
+      "city": "Quatre Cocos VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2014677,
+        "lon": 57.7845194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palmar Beach Public, Belle Mare Palmar Trou d'Eau Douce Road, Quatre Cocos VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a0aaafc21bf4c4059bfe5fbf37e6b34c0f00103f90140e1592a03000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4199059,
+        "lon": 57.4932247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519603e21a44c14c405965f217c4515134c0f00103f90116370c2600000000",
+      "name": "George V Avenue",
+      "city": "Curepipe",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3176539,
+        "lon": 57.5098909
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "George V Avenue, Curepipe, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9a1d28899dc4c4059b620a523ca6c34c0f00103f901b028712a0200000092031b496c652061757820416967726574746573202d20426f6f6b696e67",
+      "name": "Ile aux Aigrettes - Booking",
+      "city": "Beau Vallon VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4249594,
+        "lon": 57.7234355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ile aux Aigrettes - Booking, Pointe d'Esny Road, Beau Vallon VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51085740a19ed34c40592f055a70f57c34c0f00103f901166af34e0000000092030c4c6520536f7566666c657572",
+      "name": "Le Souffleur",
+      "city": "Trois Boutiques VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4881201,
+        "lon": 57.6532785
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le Souffleur Road, Trois Boutiques VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cebbfb2d4bda4c40591b081390405534c0f00103f901ae87d14d02000000",
+      "name": "Yellow/Red route",
+      "city": "Sébastopol VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3330164,
+        "lon": 57.7054193
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Yellow/Red route, Sébastopol VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5188b77306ebb94f405989ff852f5db633c0f00103f9010582680401000000",
+      "name": "Vannerie frères Leopold",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7123594,
+        "lon": 63.4524849
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vannerie frères Leopold, Royal Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae4dbe34a0bf4c405930b88bd58b4834c0f00103f9019330f49400000000920327496e646972612047616e6468692043656e74726520666f7220496e6469616e2043756c74757265",
+      "name": "Indira Gandhi Centre for Indian Culture",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2833837,
+        "lon": 57.4970766
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Indira Gandhi Centre for Indian Culture, Closel Road, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f8ba548bec74c4059601e32e5433234c0f00103f9011e845d3c000000009203124e6f72746865726e2056696577706f696e74",
+      "name": "Northern Viewpoint",
+      "city": "Crève Coeur VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1963485,
+        "lon": 57.5604945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Northern Viewpoint, B19, Crève Coeur VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51017f9d407dc04c4059c9224dbc032a34c0f00103f901c8a29c2201000000",
+      "name": "Cafe du vieux conseil",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1641195,
+        "lon": 57.5038224
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Cafe du vieux conseil, Rue du Vieux Conseil, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d017c520f4b14c405901c7da42607034c0f00102f9017d485f200000000092030e437572696f757320436f726e6572",
+      "name": "Curious Corner",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.43896882859463,
+        "lon": 57.390262695538354
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Curious Corner, B104, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128b7ed7bd4c94c4059a80826edfc2d34c0f00103f90132750ada020000009203095065746572626f7468",
+      "name": "Peterboth",
+      "city": "Crève Coeur VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1796406,
+        "lon": 57.576797
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Peterboth, Terre Rouge – Verdun Motorway (Southbound), Crève Coeur VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c6d8ae754ec24c4059c9d4134ceb4734c0f00103f901b3c5fa1801000000",
+      "name": "Shakeel home",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2809341,
+        "lon": 57.5180194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shakeel home, Chemin Bassin, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177e3930497b64c40598d3d2075e02d34c0f00103f901022fbd39010000009203104d6f6e7461676e65204a616371756f74",
+      "name": "Montagne Jacquot",
+      "city": "Pointe aux Sables",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1792062,
+        "lon": 57.4264837
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.cliff",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mount Jacquot, Pointe aux Sables, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51afe309ce2ab94f4059a27a10a738b533c0f00103f901a4bed2480200000092030b536f757468207669737461",
+      "name": "South vista",
+      "city": "Saint Gabriel",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7078957,
+        "lon": 63.4466188
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "South vista, Royal Road, Saint Gabriel, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b94ec87322c94c4059c3a9c596d40334c0f00103f9011efab47c01000000",
+      "name": "Mascareignes Diving Center",
+      "city": "Grand Baie VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0149626,
+        "lon": 57.5713639
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mascareignes Diving Center, Mon Choisy Cap Malheureux Road, Grand Baie VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aad2bb1d86bf4c405920ad7b759f2b34c0f00103f90112387b38010000009203164d61726965205265696e65206465206c612050616978",
+      "name": "Marie Reine de la Paix",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1704019,
+        "lon": 57.4962804
+      },
+      "categories": [
+        "religion",
+        "religion.place_of_worship",
+        "religion.place_of_worship.christianity",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture",
+        "tourism.sights.place_of_worship"
+      ],
+      "formatted_address": "Marie Reine de la Paix, Monseigneur Leen Avenue, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126aab706b6b34f405921ea3e00a9b333c0f00103f901c09bc83b03000000",
+      "name": "North and Northwest",
+      "city": "Baie Aux Huîtres",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7017975,
+        "lon": 63.4039925
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "North and Northwest, Island Road, Baie Aux Huîtres, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3261aff99b74c405925636b6c656434c0f00103f9012d5c541900000000",
+      "name": "Machabée Trail",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3921726,
+        "lon": 57.4343871
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Machabée Trail, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51810c78f41aaf4c40592dd21ff5326f34c0f00103f901c93910bc02000000",
+      "name": "Le Morne Viewpoint",
+      "city": "La Gaulette VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4343713,
+        "lon": 57.3680101
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le Morne Viewpoint, Piton du Canot Trail, La Gaulette VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513cc2c47afed24c40595fbde545817d34c0f00103f90171c7b4ac01000000",
+      "name": "natural pool",
+      "city": "Trois Boutiques VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4902538,
+        "lon": 57.6483911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "natural pool, Le Souffleur Road, Trois Boutiques VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e4f0a4ed8af4c4059a1c6736cf37334c0f00103f901c3a744cb020000009203104c6520626f7574206475206d6f6e6465",
+      "name": "Le bout du monde",
+      "city": "Le Morne VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4529331,
+        "lon": 57.3737886
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le bout du monde, Endemic Forest - short trail, Le Morne VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d95fa6827b14c40594d744ccc697134c0f00103f9013d7204e300000000",
+      "name": "Chamarel Waterfalls Viewpoint",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4430206,
+        "lon": 57.3840152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chamarel Waterfalls Viewpoint, to Seven Coloured Earth at Chamarel, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a22d0435eed44c40596930daa9ba6b34c0f00102f9014d2aec4e00000000",
+      "name": "Royal Road Plaine Magnien – Mahebourg",
+      "city": "Plaine Magnien VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4208170087517,
+        "lon": 57.66351950363175
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Road Plaine Magnien – Mahebourg, Plaine Magnien VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e259d931edd54c4059d2f943432d6c34c0f00102f9014e2aec4e00000000",
+      "name": "Royal Road Plaine Magnien – Mahebourg",
+      "city": "Plaine Magnien VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.422565654845876,
+        "lon": 57.67130110848281
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Road Plaine Magnien – Mahebourg, Plaine Magnien VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514031b2648ec04c40592f4c4b51d32934c0f00103f901c4b59d2201000000",
+      "name": "Craft Market",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1633807,
+        "lon": 57.5043455
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Craft Market, Rue du Vieux Conseil, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fbf6bf6db7df4c40590db045c1421c34c0f00103f90165c6e45c02000000",
+      "name": "Coastal Road",
+      "city": "Poste de Flacq VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1103936,
+        "lon": 57.7477853
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coastal Road, Poste de Flacq VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aed3ed9172cc4c4059ea20544e208134c0f00103f901475ee75c0200000092030d42656e61726573204265616368",
+      "name": "Benares Beach",
+      "city": "Bénarès VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5043992,
+        "lon": 57.5972464
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Benares Beach, Bananas Road, Bénarès VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4d64922a0bd4f405992f1de07d6b533c0f00103f9019583680401000000",
+      "name": "Coromandel Road",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7102971,
+        "lon": 63.4814494
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coromandel Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510703740415cf4c405955682096cd1234c0f00103f901d8b71a4b0200000092031843686174656175206465204c61626f7572646f6e6e616973",
+      "name": "Chateau de Labourdonnais",
+      "city": "Mapou VCA, North",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0734495,
+        "lon": 57.6178289
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chateau de Labourdonnais, Beau Plateau Road, Mapou VCA, North, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e582c8f7fbe4c40595c6f40f09d3134c0f00103f9014514d45c0200000092031e547261696e205269646520446f6d61696e65206c6573205061696c6c6573",
+      "name": "Train Ride Domaine les Pailles",
+      "city": null,
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1938162,
+        "lon": 57.4882678
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Train Ride Domaine les Pailles, Jade Avenue, Pailles, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111ca56f20cbf4c4059e954e872395e34c0f00103f9013ba3f8a101000000",
+      "name": "Réservoire de Vacoas",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3680641,
+        "lon": 57.4925826
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Réservoire de Vacoas, La Marie – Le Pétrin – Chamouny Road, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed2eab0bd3ba4c4059f7b990fde26634c0f00103f90125626ed002000000",
+      "name": "Piste Machabée / Machabée Trail",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4019011,
+        "lon": 57.4595656
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Piste Machabée / Machabée Trail, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b648da8d3ec54c4059be1017258d0a34c0f00103f901d289265d0200000092031450696d656e7473205075626c6963204265616368",
+      "name": "Piments Public Beach",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0412162,
+        "lon": 57.5409715
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piments Public Beach, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0cfb87020bf4c4059167ebacb8f6b34c0f00103f9013be1592a03000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4201629,
+        "lon": 57.4931775
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e70c0f8b3b44c4059b0c4a810348134c0f00103f901a95a30be02000000",
+      "name": "Place du Moulin",
+      "city": "Bel Ombre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5047007,
+        "lon": 57.4117423
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Place du Moulin, B9, Bel Ombre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5145c659c7a7d54c40591435e213fc7a34c0f00103f9010f6af34e0000000092030c506f6e74204e61747572616c",
+      "name": "Pont Natural",
+      "city": "Trois Boutiques VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4804089,
+        "lon": 57.6691827
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pont Natural, Mon Desert Road, Trois Boutiques VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51758e01d9ebc34c40599311610d618634c0f00103f9019da5981901000000",
+      "name": "Avenue Vicompte de Souillac",
+      "city": "Souillac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5249184,
+        "lon": 57.530635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Avenue Vicompte de Souillac, Souillac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517963f7d335c14c4059acdcb012988534c0f00103f9014356345e020000009203145269616d62656c205075626c6963204265616368",
+      "name": "Riambel Public Beach",
+      "city": "Surinam VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5218517,
+        "lon": 57.5094552
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Riambel Public Beach, Coastal Road Surinam, Surinam VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cde26a099ecb4c40594348cca266fe33c0f00103f901da8b8d6202000000920316506572657962657265205075626c6963204265616368",
+      "name": "Pereybere Public Beach",
+      "city": "Grand Baie VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9937536,
+        "lon": 57.5907604
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pereybere Public Beach, Route Mon Choisy Cap Malheureux, Grand Baie VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2372adc97c64c405907730525168434c0f00103f901f556345e02000000",
+      "name": "Royal Road St Aubin",
+      "city": "St. Aubin VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5159629,
+        "lon": 57.5515094
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Road St Aubin, St. Aubin VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137e0f3c308d14c4059b203f8b880fd33c0f00103f90152c2df5c02000000920319416e7365206c612052616965205075626c6963204265616368",
+      "name": "Anse la Raie Public Beach",
+      "city": "Cap Malheureux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9902454,
+        "lon": 57.63308
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Anse la Raie Public Beach, Route Mon Choisy Cap Malheureux, Cap Malheureux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51106f42c648b04c4059466172fe815334c0f00103f90151210b5d0200000092031454616d6172696e205075626c6963204265616368",
+      "name": "Tamarin Public Beach",
+      "city": "Tamarin VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3262023,
+        "lon": 57.3772209
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tamarin Public Beach, Avenue Rose, Tamarin VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f583ba48a1c04c40591de56036013634c0f00103f901432002a400000000",
+      "name": "Moka range ridge track",
+      "city": null,
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.210956,
+        "lon": 57.504922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Moka range ridge track, Moka, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515479f1344fb04c4059807b4386fa5434c0f00103f90145e92bcf0200000092031853616c696e65732064652059656d656e2d54616d6172696e",
+      "name": "Salines de Yemen-Tamarin",
+      "city": "Tamarin VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3319477,
+        "lon": 57.3774172
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Salines de Yemen-Tamarin, La Falaise, Tamarin VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192b476363fda4c4059522976340e6b34c0f00103f901cb350dc402000000",
+      "name": "Alleedes Roses",
+      "city": "Beau Vallon VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4181855,
+        "lon": 57.7050541
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Alleedes Roses, Beau Vallon VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0089cb690d74c40592dc7d056ca1f34c0f00103f9014351a4650000000092030f536b7964697665204175737472616c",
+      "name": "Skydive Austral",
+      "city": "Belle Vue Maurel VCA, South",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1241812,
+        "lon": 57.6841038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Skydive Austral, B22, Belle Vue Maurel VCA, South, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51520dfb3db1db4c4059d5c7e8256b7134c0f00103f9013a5ee75c02000000920315426c756520426179205075626c6963204265616368",
+      "name": "Blue Bay Public Beach",
+      "city": "Beau Vallon VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4430412,
+        "lon": 57.7163465
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Blue Bay Public Beach, Residence Lagon Bleu, Beau Vallon VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9ddaf027cb74c4059c972124a5f4434c0f00103f90140f41d060100000092031a4d6f756e742053742e205069657272652056696577706f696e74",
+      "name": "Mount St. Pierre Viewpoint",
+      "city": "Bambous VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.267079,
+        "lon": 57.433472
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mount St. Pierre Viewpoint, Mount St. Pierre path, Bambous VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5181f2d2a81baa4c4059be6fd7a60c7534c0f00103f901835484bc02000000",
+      "name": "Le Morne Road",
+      "city": "Le Morne VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4572243,
+        "lon": 57.3289691
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le Morne Road, Le Morne VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514cbe7e2d54aa4c40594ac5104aa97334c0f00103f901bd1082cf02000000",
+      "name": "Avenue Accacia",
+      "city": "Le Morne VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4518019,
+        "lon": 57.3306939
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Avenue Accacia, Le Morne VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ef4f52114be4c40593896c1621e7534c0f00103f901590c4b4f010000009203234c612056616c6cc3a9652064657320436f756c65757273204e6174757265205061726b",
+      "name": "La Vallée des Couleurs Nature Park",
+      "city": "Chamouny VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4574949,
+        "lon": 57.4849894
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La Vallee des Couleurs Nature Park, La Marie – Le Pétrin – Chamouny Road, Chamouny VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510822e6ed63bb4c4059885d8022bb5934c0f00103f901cb432be800000000",
+      "name": "Tamarind Falls Reservoir Access Road",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3505117,
+        "lon": 57.4639871
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tamarind Falls Reservoir Access Road, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518edce40176b14c4059a57cadf0d36b34c0f00103f901e9b1e06a0000000092031256696577706f696e74204368616d6172656c",
+      "name": "Viewpoint Chamarel",
+      "city": "La Gaulette VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4212027,
+        "lon": 57.3864138
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint Chamarel, Baie du Cap Chamarel Case Noyale Road, La Gaulette VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b36bf3b03bd4c40599799395ec23834c0f00102f901dfe5582d00000000920314436173636164656c6c652076696577706f696e74",
+      "name": "Cascadelle viewpoint",
+      "city": "Beau Bassin / Rose Hill",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.22171582132577,
+        "lon": 57.47666117512207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cascadelle viewpoint, Nemour Decotter street, Beau Bassin / Rose Hill, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fbf087fab8b84c4059a428e1534a6534c0f00103f901122c061a03000000",
+      "name": "Piste Machabée / Machabée Trail",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3956654,
+        "lon": 57.4431451
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Piste Machabée / Machabée Trail, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51193c4cfbe6be4c4059f1bdbf417b6b34c0f00103f901aa33ad3300000000",
+      "name": "Hanuman Mandir Path",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4198495,
+        "lon": 57.491424
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hanuman Mandir Path, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511217c0c314bf4c4059f56b29b0846b34c0f00102f901ea8f601e000000009203094475726761204d6161",
+      "name": "Durga Maa",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.419993410217973,
+        "lon": 57.492821186822894
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Durga Maa, Hanuman Mandir Path, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f18fa7145b94f405995bd0056a2ab33c0f00103f90199cee80001000000",
+      "name": "Allée des Begonias",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.6704458,
+        "lon": 63.4474318
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Allée des Begonias, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c971a774b0c44c405914eef0321e8634c0f00103f90165bb6031000000009203134c6120526f6368652071756920506c65757265",
+      "name": "La Roche qui Pleure",
+      "city": "Souillac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5238983,
+        "lon": 57.536635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "La Roche qui Pleure, Avenue Vicompte de Souillac, Souillac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110dc92663dda4c40595736bdd5845834c0f00103f9018794524e02000000",
+      "name": "Yellow/Red route",
+      "city": "Old Grand Port VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3457769,
+        "lon": 57.7049988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Yellow/Red route, Old Grand Port VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fada23f34bd4c4059236b0da5f63a34c0f00103f901eb03883c00000000",
+      "name": "Rue de la Grande Riviere",
+      "city": "Moka VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.230326,
+        "lon": 57.478157
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue de la Grande Riviere, Moka VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f32b8ce376dc4c405956e2f038fb1b34c0f00103f90164c6e45c0200000092030c42617373696e204c61766572",
+      "name": "Bassin Laver",
+      "city": "Roches Noires VCA, North",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1093021,
+        "lon": 57.7223782
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bassin Laver, Trou Diable Trail, Roches Noires VCA, North, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef343e3844c34c405911f3f631303434c0f00103f901f2a0d05c02000000",
+      "name": "Le Pouce track",
+      "city": "St. Pierre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2038604,
+        "lon": 57.5255194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le Pouce track, St. Pierre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aeb84e2c3aca4c4059a8e9c3f8e11a34c0f00102f9019c6621120000000092030c546f72746f6973652050656e",
+      "name": "Tortoise Pen",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.10501055510545,
+        "lon": 57.5799003013975
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tortoise Pen, Avenue Mon Plaisir, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146e7a15b54cd4c40595ff9e24169fc33c0f00103f9013bc2df5c020000009203174261696e20426f657566205075626c6963204265616368",
+      "name": "Bain Boeuf Public Beach",
+      "city": "Cap Malheureux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9859811,
+        "lon": 57.6041369
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bain Boeuf Public Beach, Coastal Road, Cap Malheureux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf25a54522b94f405985043175fcb433c0f00103f901f987a62f02000000",
+      "name": "Royal Road",
+      "city": "Saint Gabriel",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7069772,
+        "lon": 63.4463584
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Road, Saint Gabriel, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a275f97bcec64c40592eb022febc8434c0f00103f90199bcf40801000000",
+      "name": "Big Foot Aventure",
+      "city": "St. Aubin VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5185088,
+        "lon": 57.5531764
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Big Foot Aventure, Royal Road St Aubin, St. Aubin VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169c306b06db94c405921c77b7a116634c0f00103f901f9e4051a03000000",
+      "name": "Piste Machabée / Machabée Trail",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3987042,
+        "lon": 57.4486599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Piste Machabée / Machabée Trail, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b666c4320b14c405988765fdf987134c0f00103f901099f0c1900000000",
+      "name": "Chamarel Waterfalls Viewpoint",
+      "city": "Chamarel VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4437389,
+        "lon": 57.3837971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chamarel Waterfalls Viewpoint, to Seven Coloured Earth at Chamarel, Chamarel VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2eafc80acae4c4059e2c96e66f44734c0f00103f9013d210b5d02000000920319466c696320656e20466c6163205075626c6963204265616368",
+      "name": "Flic en Flac Public Beach",
+      "city": "Flic en Flac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.281073,
+        "lon": 57.3646394
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Flic en Flac Public Beach, Coastal Road, Flic en Flac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51397b67b455ba4f40598c8e9a6505b933c0f00103f9013d6710010100000092030a5479726f6c69656e6e65",
+      "name": "Tyrolienne",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7227386,
+        "lon": 63.4557405
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tyrolienne, Royal Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f8c3cf7f0fdf4c405952126d228e2434c0f00103f901fee6e65c0200000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Poste de Flacq VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1427938,
+        "lon": 57.7426605
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Coastal Road, Poste de Flacq VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510354edd31ebf4c4059e0bade7c806b34c0f00102f9014fc65a3e00000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.419929317834317,
+        "lon": 57.49312829101839
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca94c5b3baaf4c405950bc6f21347334c0f00103f901fb097f4b01000000",
+      "name": "Lavillion Natural Forest",
+      "city": "Le Morne VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4500142,
+        "lon": 57.3728852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lavillion Natural Forest, Endemic Forest - short trail, Le Morne VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4ade820f9e14c4059b8c205eade4a34c0f00103f90142e5dc6901000000",
+      "name": "Royal Road Flacq – Mahebourg",
+      "city": "Grand River South East VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2924639,
+        "lon": 57.7654153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Road Flacq – Mahebourg, Grand River South East VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f183f3a963d04c4059941e3cc90c1e34c0f00103f901f9b40e3c000000009203124d74205069746f6e2056696577706f696e74",
+      "name": "Mt Piton Viewpoint",
+      "city": "Piton VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1173826,
+        "lon": 57.6280415
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mt Piton Viewpoint, Mon Piton-Riviere du Remoart Road, Piton VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51694991c6b2bf4c40590aa9914c3d2934c0f00103f901a715b9b001000000",
+      "name": "Caudan Waterfront Road",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1610916,
+        "lon": 57.4976433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Caudan Waterfront Road, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3d17c8450d74c4059c7d79e59120434c0f00103f901fd658d620200000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Grand Gaube VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.015905,
+        "lon": 57.6821447
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Chemin Hollandais Coast Road, Grand Gaube VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d5d8f37bac04c4059edc4b348d62834c0f00102f9017127e63b0000000092030e4368696e61746f776e2041726368",
+      "name": "Chinatown Arch",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.159519714249587,
+        "lon": 57.505682892801566
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Chinatown Arch, Royal Street, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516995ae5c4cc04c4059a99b57cfaf2334c0f00102f901fbcc901d00000000920322526976756c657420546572726520526f75676520426972642053616e637475617279",
+      "name": "Rivulet Terre Rouge Bird Sanctuary",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.139401396645244,
+        "lon": 57.50233038448898
+      },
+      "categories": [
+        "natural",
+        "natural.protected_area",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rivulet Terre Rouge Bird Sanctuary, Des Bouchers Road, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ae2ad1d2dae4c4059a2a286424e5f34c0f00102f901fdc22910000000009203194c61206261747465726965206465206c276861726d6f6e6965",
+      "name": "La batterie de l'harmonie",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.37228790080065,
+        "lon": 57.3607518290557
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "La batterie de l'harmonie, Les Salines Pilote Road, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c623a7655ac14c4059696dbf21f92934c0f00103f90104f5617c01000000",
+      "name": "Sebastopol Street",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1639577,
+        "lon": 57.5105712
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sebastopol Street, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517280aa1b39b44c40599ced1ba9084b34c0f00103f901c124c6240200000092030c4d697261646f722056696577",
+      "name": "Mirador View",
+      "city": "Cascavelle VCA West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2931009,
+        "lon": 57.4079928
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mirador View, Path to Bus stop, Cascavelle VCA West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164ca87a06abe4c40599163eb19c27534c0f00103f9014dc2582a03000000",
+      "name": "La Marie – Le Pétrin – Chamouny Road",
+      "city": "Chamouny VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.459993,
+        "lon": 57.487629
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "La Marie – Le Pétrin – Chamouny Road, Chamouny VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6c3584ba6bf4c40596f8a22ff274634c0f00103f90151aaae170300000092031252656e616953656e73657320537461747565",
+      "name": "RenaiSenses Statue",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2740478,
+        "lon": 57.4972624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "RenaiSenses Statue, Pont Fer Roundabout, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d734ef3845b94f4059490389377cb633c0f00103f9013d81680401000000",
+      "name": "Tyrolienne Tyrodrig",
+      "city": "Saint Gabriel",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7128329,
+        "lon": 63.447425
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tyrolienne Tyrodrig, Royal Road, Saint Gabriel, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9b770c56ad74c4059e0cb8e9e6c0234c0f00103f901d0c4e45c0200000092030e506f696e7465204f73636f726e65",
+      "name": "Pointe Oscorne",
+      "city": "Grand Gaube VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0094699,
+        "lon": 57.6829459
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pointe Oscorne, Chemin Hollandais Coast Road, Grand Gaube VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd16f8e527af4c405963d75130be6734c0f00103f901dff678890000000092031543617365204e6f79616c652056696577706f696e74",
+      "name": "Case Noyale Viewpoint",
+      "city": "Case Noyale VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4052458,
+        "lon": 57.3684051
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Case Noyale Viewpoint, Coastal Road Case Noyale, Case Noyale VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5e7ecaefdbb4c4059ebe0606f623434c0f00103f901c7703b4d01000000",
+      "name": "Salim Pokun architecte dplg pa",
+      "city": "Beau Bassin / Rose Hill",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.204627,
+        "lon": 57.4686793
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Salim Pokun architecte dplg pa, Badamier Avenue, Beau Bassin / Rose Hill, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5da68a5b5bf4c4059023e89192b2934c0f00103f901a815b9b00100000092030e4e69636f6c61732042617564696e",
+      "name": "Nicolas Baudin",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1608139,
+        "lon": 57.4977309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nicolas Baudin, Caudan Waterfront Road, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4450a65e1da4c40590dc51d6ff27134c0f00103f901756aa97a01000000920314426c756520426179204d6172696e65205061726b",
+      "name": "Blue Bay Marine Park",
+      "city": "Beau Vallon VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4451055,
+        "lon": 57.7100035
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Blue Bay Marine Park, Blue Bay NCG Road, Beau Vallon VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f74e16084ce04c4059b8ec6bb8235534c0f00103f901bbf22657010000009203204c61204d65756c65203a204665726d6520656e205065726d6163756c74757265",
+      "name": "La Meule : Ferme en Permaculture",
+      "city": "Bambous Virieux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3325763,
+        "lon": 57.7523203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La Meule Permaculture Farm, Royal Road Flacq – Mahebourg, Bambous Virieux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5f87c7929bf4c40590d4f3dcc186b34c0f00102f901a7d9c419000000009203144d616e61766972205377616d7920537461747565",
+      "name": "Manavir Swamy Statue",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4183471345596,
+        "lon": 57.49345320322167
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Manavir Swamy Statue, Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519abcb7d8a3cf4c4059855b3e9292fc33c0f00103f90195a83f280100000092030442656c6c",
+      "name": "Bell",
+      "city": "Cap Malheureux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9866115,
+        "lon": 57.6221877
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bell, Route Mon Choisy Cap Malheureux, Cap Malheureux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a217a4cffdb64c40593473373e496c34c0f00103f901a794f59e00000000920310476f726765732056696577706f696e74",
+      "name": "Gorges Viewpoint",
+      "city": "Chamarel VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4229926,
+        "lon": 57.4296207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorges Viewpoint, Plaine Champagne Road, Chamarel VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518fe8f92e00b64c40598974e4edad7934c0f00103f9012965d99e00000000",
+      "name": "Bon Courage",
+      "city": "Bel Ombre VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4753102,
+        "lon": 57.4218806
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bon Courage, Bel Ombre VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5411fd1a9c04c4059ba38e0a9362834c0f00103f9019d8bc43303000000",
+      "name": "Local market",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1570841,
+        "lon": 57.5051824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Local market, Port-Louis - the North Motorway, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c06be1c336c04f4059212fb5ef9bb633c0f00103f901a43c5f240200000092031b4561737465726e6d6f737420706f696e74206f6620416672696361",
+      "name": "Easternmost point of Africa",
+      "city": "Grande Montagne",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7133169,
+        "lon": 63.5016713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Easternmost point of Africa, Teller Road, Grande Montagne, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51587d642948c04c4059044c2a64f82934c0f00103f90197b49d22010000009203114cc3a96f76696c6c65204c27486f6d6d65",
+      "name": "Léoville L'Homme",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1639464,
+        "lon": 57.5022022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Léoville L'Homme, Allée des Voyageurs, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51676e7484c2bf4c4059fe9eb3603d2934c0f00103f90131a0be8102000000",
+      "name": "Umbrella Square",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1610928,
+        "lon": 57.4981237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Umbrella Square, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51441f871cb6b34c4059684705a96f4a34c0f00103f901042fc62402000000",
+      "name": "Casela Road",
+      "city": "Cascavelle VCA West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2907663,
+        "lon": 57.4039951
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Casela Road, Cascavelle VCA West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a48c4ef01bf4c405903160a229c2c34c0f00103f90131cdb0650000000092030f5369676e616c204d6f756e7461696e",
+      "name": "Signal Mountain",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1742574,
+        "lon": 57.4922466
+      },
+      "categories": [
+        "man_made",
+        "man_made.tower",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "Signal Mountain Road, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f27e37386cb74c405981d2ab5c036c34c0f00103f90101a9d56302000000",
+      "name": "Trochetia trail",
+      "city": "Chamarel VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4219263,
+        "lon": 57.4329901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Trochetia trail, Chamarel VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51385f910486c94c4059af87e5852a1934c0f00103f9018138832602000000",
+      "name": "Powder Mills Road",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0983051,
+        "lon": 57.5744024
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Powder Mills Road, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513da1325937e64c405908a3a366594134c0f00103f9018d13ddfd02000000",
+      "name": "Patiroo Road",
+      "city": "Trou d’Eau Douce VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2552704,
+        "lon": 57.7985641
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Patiroo Road, Trou d’Eau Douce VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a288fb7e20bf4c40597fc39f3c876b34c0f00103f9013ee1592a03000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4200323,
+        "lon": 57.4931792
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4e2c0502cdd4c4059d8971183656d34c0f00103f901395ee75c0200000092031c506f696e74652064e2809945736e79205075626c6963204265616368",
+      "name": "Pointe d’Esny Public Beach",
+      "city": "Beau Vallon VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4273302,
+        "lon": 57.7279149
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pointe d’Esny Public Beach, Pointed d'Esny Road, Beau Vallon VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dfc4909c4cb54f40598450943ab7b933c0f00103f901d581693002000000",
+      "name": "Route de L'autonomie",
+      "city": "Marechal",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7254521,
+        "lon": 63.4164005
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route de L'autonomie, Marechal, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176eff2be3ba84c4059fd56a137cb7334c0f00103f901ae25e03e02000000",
+      "name": "Le Morne Road",
+      "city": "Le Morne VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4523196,
+        "lon": 57.3143233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Le Morne Road, Le Morne VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbceec0445b34c4059d8fa7d5aa06834c0f00103f90197432be800000000",
+      "name": "Black River Peak Trail",
+      "city": "Case Noyale VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4086968,
+        "lon": 57.4005438
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Black River Peak Trail, Case Noyale VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123884e2a75bb4c4059d6adf94c515934c0f00103f901f1432be800000000",
+      "name": "Tamarind Falls Reservoir Access Road",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3488968,
+        "lon": 57.4645131
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tamarind Falls Reservoir Access Road, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b65623aa98af4c405919a86d5ae56f34c0f00102f901c9ea5b1b0000000092030c45626f6e7920466f72657374",
+      "name": "Ebony Forest",
+      "city": "La Gaulette VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.437093402644766,
+        "lon": 57.371846453910095
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ebony Forest, 7, Flycather raised walkway, La Gaulette VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee9e97e546be4c40591e7123c0447534c0f00103f9015d9cfb6b00000000",
+      "name": "La Marie – Le Pétrin – Chamouny Road",
+      "city": "Chamouny VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4580803,
+        "lon": 57.4865386
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "La Marie – Le Pétrin – Chamouny Road, Chamouny VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbf1af8adcda4c4059588cbad6de6734c0f00103f901719d47ee00000000920311537461747565206f66204861726d6f6e79",
+      "name": "Statue of Harmony",
+      "city": "Mahébourg VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.405744,
+        "lon": 57.7098554
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Statue of Harmony, Rue Shivananda, Mahébourg VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f68887e6f0d54c4059581d39d2190234c0f00103f90187c2df5c0200000092031b4772616e64204761756265205075626c6963204265616368204949",
+      "name": "Grand Gaube Public Beach II",
+      "city": "Grand Gaube VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0082065,
+        "lon": 57.6714142
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grand Gaube Public Beach II, Nelson Road, Grand Gaube VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dab342eca7c54c4059dcd5abc8e80834c0f00103f901c989265d0200000092031c54726f752061757820426963686573205075626c6963204265616368",
+      "name": "Trou aux Biches Public Beach",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.034802,
+        "lon": 57.5441871
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trou aux Biches Public Beach, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d1afa27b8ca4c405964737a83d40234c0f00103f901d18b8d62020000009203174772616e642042616965205075626c6963204265616368",
+      "name": "Grand Baie Public Beach",
+      "city": "Grand Baie VCA, East",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0110552,
+        "lon": 57.583745
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grand Baie Public Beach, Mon Choisy Cap Malheureux Road, Grand Baie VCA, East, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7dea7aad0c94c405965f61ed37f1b34c0f00103f90121e3651c0100000092032a4265727472616e642d4672616ec3a76f6973204d6168c3a9206465204c6120426f7572646f6e6e616973",
+      "name": "Bertrand-François Mahé de La Bourdonnais",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1074192,
+        "lon": 57.5766805
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bertrand-François Mahé de La Bourdonnais, Cere Road, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107712f7ab8e24c405958fe21a23d2b34c0f00103f901a25de75c020000009203174c6f6e67204265616368205075626c6963204265616368",
+      "name": "Long Beach Public Beach",
+      "city": "Poste de Flacq VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1689092,
+        "lon": 57.7712548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Long Beach Public Beach, B59, Poste de Flacq VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abc0da62c8e24c4059a1dba6d3152b34c0f00103f901995de75c02000000",
+      "name": "B59",
+      "city": "Poste de Flacq VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1683018,
+        "lon": 57.7717403
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "B59, Poste de Flacq VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512250fd8348d74c4059448f73f6290434c0f00103f901d5fc353e02000000",
+      "name": "Melville Public Beach",
+      "city": "Grand Gaube VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0162653,
+        "lon": 57.6819005
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Melville Public Beach, Chemin Hollandais Coast Road, Grand Gaube VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112d4957439c54c4059f44185d9ba0a34c0f00103f901114f8e9201000000",
+      "name": "Atlantis Diving Center",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0419136,
+        "lon": 57.5408159
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Atlantis Diving Center, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517abf76d5a8e64c4059043e9a45834134c0f00103f9012913ddfd02000000",
+      "name": "Patiroo Road",
+      "city": "Trou d’Eau Douce VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2559093,
+        "lon": 57.8020274
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Patiroo Road, Trou d’Eau Douce VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149caccbba0de4c40597aebb24e4b5e34c0f00103f9013934193b00000000",
+      "name": "Jetty",
+      "city": "Bois des Amourettes",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3683366,
+        "lon": 57.7392802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jetty, Bois des Amourettes, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5109b99c5c9db24f4059879e39909ac133c0f00103f90154da6298010000009203134361727269c3a8726520646520436f7261696c",
+      "name": "Carrière de Corail",
+      "city": "Marechal",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7562647,
+        "lon": 63.3954273
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carrière de Corail, Island Road, Marechal, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab68627083b84f40596f0f4240beb233c0f00103f9016a82680401000000",
+      "name": "Roland Meunier Charcutier",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.6982155,
+        "lon": 63.4415112
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Roland Meunier Charcutier, Route de l'autonomie, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6cbcc7113b44c4059578627aa6d4b34c0f00103f901b924c6240200000092031554756c6177616b6120476f6c6420436f6173746572",
+      "name": "Tulawaka Gold Coaster",
+      "city": "Cascavelle VCA West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2946421,
+        "lon": 57.4068434
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tulawaka Gold Coaster, Path to Bus stop, Cascavelle VCA West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51174a26a776b64f40597d2079e750ae33c0f00103f901d59cc9980100000092030d506f696e74652043616e6e6f6e",
+      "name": "Pointe Cannon",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.680922,
+        "lon": 63.425496
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Pointe Cannon, Route de l'autonomie, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2ef8ee78edc4c40591a8c6c42b56c34c0f00103f901c532706e01000000",
+      "name": "Pointe Jerome Embarkation",
+      "city": "Beau Vallon VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4246408,
+        "lon": 57.7231111
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pointe Jerome Embarkation, Pointe d'Esny Road, Beau Vallon VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131fac04472dd4c4059660811ba955d34c0f00103f9019325023c000000009203114561737465726e2056696577706f696e74",
+      "name": "Eastern Viewpoint",
+      "city": "Bois des Amourettes VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3655659,
+        "lon": 57.7300497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Eastern Viewpoint, Lion Mountain track, Bois des Amourettes VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515264ada1d4da4c4059edfc91d8a46734c0f00103f9013158638800000000920314576174657266726f6e74204d616865626f757267",
+      "name": "Waterfront Mahebourg",
+      "city": "Mahébourg VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4048591,
+        "lon": 57.709614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterfront Mahebourg, Parking Road, Mahébourg VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b03a72a433d74c40598236dec25f7834c0f00103f9013d5ee75c020000009203174c6520426f7563686f6e205075626c6963204265616368",
+      "name": "Le Bouchon Public Beach",
+      "city": "Camp Carol VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4702112,
+        "lon": 57.6812635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Le Bouchon Public Beach, Mon Desert Road, Camp Carol VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173f7393e5ac04c405994dffd4c182a34c0f00103f901c5b59d22010000009203104d61726965204261727468656c656d79",
+      "name": "Marie Barthelemy",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1644333,
+        "lon": 57.502754
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Marie Barthelemy, Allée des Voyageurs, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ad50a4fb39e34c4059feb38b0eed3034c0f00103f901d15de75c0200000092031742656c6c65204d617265205075626c6963204265616368",
+      "name": "Belle Mare Public Beach",
+      "city": "Quatre Cocos VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1911172,
+        "lon": 57.775207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Belle Mare Public Beach, Belle Mare Palmar Trou d'Eau Douce Road, Quatre Cocos VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea69d14c41c14c405936cd3b4ed12934c0f00103f90177db501600000000",
+      "name": "Sebastopol Street",
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.16335,
+        "lon": 57.5098053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sebastopol Street, Port Louis, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f9d3c7661c54c4059bd2bcc8cc80534c0f00103f901fb73164201000000",
+      "name": "Snorkelling Spot",
+      "city": "Trou aux Biches VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0225914,
+        "lon": 57.5420368
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Snorkelling Spot, Pointe Aux Priment Mon Choisy Coast Road, Trou aux Biches VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f31b261aa4bf4c40595eee38ea8d1f34c0f00103f90123668d620200000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Baie du Tombeau VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1232592,
+        "lon": 57.4971955
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Lemon Street, Baie du Tombeau VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd7a4d0f0abc4c405974ea6fae065734c0f00103f9016190e87d02000000",
+      "name": "Camp Mapou Lane II",
+      "city": "Vacoas-Phoenix",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3399457,
+        "lon": 57.469057
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Camp Mapou Lane II, Vacoas-Phoenix, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4839ac69bdd4c4059a0432ad6ba5e34c0f00103f901836bff4d00000000",
+      "name": "Lion Mountain Road",
+      "city": "Bois des Amourettes VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3700384,
+        "lon": 57.7313164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lion Mountain Road, Bois des Amourettes VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51353c629923c44c4059550960144e8634c0f00103f9016756345e02000000920316477269732047726973205075626c6963204265616368",
+      "name": "Gris Gris Public Beach",
+      "city": "Souillac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.5246289,
+        "lon": 57.5323364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gris Gris Public Beach, Avenue Vicompte de Souillac, Souillac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a00f99650ae4c4059599a89c1ca5a34c0f00102f90103bce23b000000009203104c6120546f7572204d617274656c6c6f",
+      "name": "La Tour Martello",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.354656311125243,
+        "lon": 57.361834403593846
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "La Tour Martello, La Preneuse Branch Road, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51319f07d220ae4c4059e0c61cba8f5a34c0f00103f901e5240b5d020000009203184c61205072656e65757365205075626c6963204265616368",
+      "name": "La Preneuse Public Beach",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3537556,
+        "lon": 57.3603766
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La Preneuse Public Beach, La Preneuse Branch Road, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9be750f1ab74c405932c5c14aaa6534c0f00103f90163dd78e400000000920310506c61746561752052656d6f75737365",
+      "name": "Plateau Remousse",
+      "city": "Grande Rivière Noire VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3971297,
+        "lon": 57.4304828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Plateau Remousse, Machabée Trail, Grande Rivière Noire VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51618a7269fcdb4c405994d0a79f811c34c0f00103f9010fc6e45c0200000092030e4c612043617665204d6164616d65",
+      "name": "La Cave Madame",
+      "city": "Roches Noires VCA, North",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1113529,
+        "lon": 57.7186405
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La Cave Madame, Bras D’Eau Road, Roches Noires VCA, North, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7a205685bc14c40593561fbc9185134c0f00103f9018512b11903000000",
+      "name": "George V Avenue",
+      "city": "Curepipe",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3167845,
+        "lon": 57.510602
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "George V Avenue, Curepipe, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511428bdca35cd4c4059ad133c2aa3fc33c0f00103f901b725d71403000000",
+      "name": "Just Diving In Mauritius",
+      "city": "Cap Malheureux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9868647,
+        "lon": 57.6032041
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Just Diving In Mauritius, Coastal Road, Cap Malheureux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fe14ed834cf4c405908c14fc1862a34c0f00103f901c328aa420000000092031656696577706f696e74204c61204e69636f6c69657265",
+      "name": "Viewpoint La Nicoliere",
+      "city": "Villebague VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.1661187,
+        "lon": 57.6188002
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint La Nicoliere, B49, Villebague VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c102983270ba4c40591cb1169f024434c0f00103f90104d0a87000000000920321436f72707320646520476172646520736f75746865726e2076696577706f696e74",
+      "name": "Corps de Garde southern viewpoint",
+      "city": "Quatre Bornes",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.265665,
+        "lon": 57.456549
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Corps de Garde southern viewpoint, Corps de Garde trail, Quatre Bornes, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aeecbdbad1be4c4059645a8b84bd3134c0f00102f901e7a0870c00000000920313446f6d61696e65204c6573205061696c6c6573",
+      "name": "Domaine Les Pailles",
+      "city": null,
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.194298061391592,
+        "lon": 57.49077543519648
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Domaine Les Pailles, Bengali 4, Pailles, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f1e98ed54b04f405958440367dfb333c0f00103f901d143cca702000000",
+      "name": "Pointe au diable",
+      "city": "La Ferme",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.7026276,
+        "lon": 63.3775918
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pointe au diable, Island Road, La Ferme, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae13f29c88ca4c4059ce5ec7c90e1b34c0f00102f90178ace6160000000092031343686174656175204d6f6e20506c6169736972",
+      "name": "Chateau Mon Plaisir",
+      "city": "Pamplemousses VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.105694399999997,
+        "lon": 57.5822941
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chateau Mon Plaisir, Avenue Sir John Pope Hennessy, Pamplemousses VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160fb13a639c74c4059db526232b00334c0f00103f9014054265d020000009203184d6f6e742043686f697379205075626c6963204265616368",
+      "name": "Mont Choisy Public Beach",
+      "city": "Grand Baie VCA, West",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.0144073,
+        "lon": 57.5564468
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mont Choisy Public Beach, Grand Baie VCA, West, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f585ebac71cf4c4059b94ec87322fc33c0f00103f90146c2df5c0200000092030e4b6170204d616c68657572657578",
+      "name": "Kap Malheureux",
+      "city": "Cap Malheureux VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.9849007,
+        "lon": 57.6206566
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kap Malheureux, Coastal Road, Cap Malheureux VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199261186a6b04c4059f8a2e2a4d54134c0f00103f90101111f2902000000",
+      "name": "Bassin Vert",
+      "city": "Flic en Flac VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.2571662,
+        "lon": 57.3800819
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bassin Vert, Avenue Souffleur, Flic en Flac VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120de29d31ebf4c4059a098068f806b34c0f00103f9013de1592a03000000",
+      "name": "Grand Bassin Road",
+      "city": "Bois Chérie VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.4199304,
+        "lon": 57.4931282
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Grand Bassin Road, Bois Chérie VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f7be8cc87dc4c4059ebd9bd26b55d34c0f00103f9017d6bff4d00000000920317536f7574682d4561737465726e2056696577706f696e74",
+      "name": "South-Eastern Viewpoint",
+      "city": "Old Grand Port VCA",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -20.3660454,
+        "lon": 57.7228943
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "South-Eastern Viewpoint, Lion Mountain Path, Old Grand Port VCA, Mauritius",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51efffe38409b84f4059c740e8ead8b233c0f00103f9016982680401000000",
+      "name": "Valérie's",
+      "city": "Port Mathurin",
+      "country": "Mauritius",
+      "country_code": "mu",
+      "coordinates": {
+        "lat": -19.6986224,
+        "lon": 63.4377905
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Valérie's, Route de l'autonomie, Port Mathurin, Mauritius",
+      "description": null,
+      "image": null
+    }
+  ]
+}

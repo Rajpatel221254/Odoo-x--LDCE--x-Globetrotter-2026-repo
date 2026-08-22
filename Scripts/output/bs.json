@@ -1,0 +1,2702 @@
+{
+  "country_code": "bs",
+  "country_name": "Bahamas",
+  "boundary_place_id": "5183ad6de5008053c0596466553a0ec63840f00101f9018d5a080000000000c00201920307426168616d6173",
+  "count": 142,
+  "places": [
+    {
+      "place_id": "51463f5e7b5ea052c0590fac0be339233840f00102f90134d6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13760203394855,
+        "lon": -74.50576671794724
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0c42a943b5d53c05969931ee10f023940f00103f9012423eb030100000092031d5072696d6576616c20466f72657374204e6174696f6e616c205061726b",
+      "name": "Primeval Forest National Park",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0080548,
+        "lon": -77.4567614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Primeval Forest National Park, Coral Harbour Road, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519047156a72b153c059bcce86fc33853a40f00103f901f43098a802000000",
+      "name": "Queen's Highway",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5203245,
+        "lon": -78.7726083
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Queen's Highway, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8f9cf3f665853c059a36cdb41360a3940f00103f901caf9ea0301000000920324486172726f6c6420262057696c736f6e20506f6e6473204e6174696f6e616c205061726b",
+      "name": "Harrold & Wilson Ponds National Park",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0398904,
+        "lon": -77.3812408
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Harrold & Wilson Ponds National Park, Milo Butler Highway, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517085c4aa25a453c05974ee0570d38e3a40f00102f90110baf5260000000092030a436f72616c2056697461",
+      "name": "Coral Vita",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.557913781593427,
+        "lon": -78.56479901496436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coral Vita, Magellan Street 1, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162e7b7f9101653c0599278793a57d63840f00103f901f03078fd0100000092030c506f77656c6c20506f696e74",
+      "name": "Powell Point",
+      "city": "South Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.8372685,
+        "lon": -76.3447861
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Powell Point, South Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f597a3a9423d53c059290a3a9a76893a40f00102f9012ac6d60b0000000092031e46726f6767696573204f75742049736c616e6420416476656e7475726573",
+      "name": "Froggies Out Island Adventures",
+      "city": "Hope Town",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.53696597973809,
+        "lon": -76.95719376541076
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Froggies Out Island Adventures, Queen's Highway, Hope Town, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149522d7d43cd53c059ceb1721e046b3940f00103f901ec57861e03000000",
+      "name": "Walking pathway",
+      "city": null,
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4180316,
+        "lon": -79.2072442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Walking pathway, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51813bf5edc9aa53c0597c5f5caad2843a40f00103f901bc4c460602000000",
+      "name": "East Sunrise Highway",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5188395,
+        "lon": -78.6685748
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "East Sunrise Highway, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f471346aba052c059ee45ad731e1e3840f00102f901b8b1c70f000000009203087365616772617373",
+      "name": "seagrass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.117652158549326,
+        "lon": -74.51045371897338
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "seagrass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51194c0d7eac8153c0599f831db5782d3940f00103f90172007b670100000092031e436f6e636820536f756e6473204f6365616e696320426c756520486f6c65",
+      "name": "Conch Sounds Oceanic Blue Hole",
+      "city": "North Andros",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.1776231,
+        "lon": -78.0261531
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Conch Sounds Oceanic Blue Hole, Morgan's Bluff Drive, North Andros, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cd469d6f7a6553c059d251b3aca02c3840f00103f901000af3ae0100000092031e456e64206f6620426c756520486f6c65732068696b696e6720747261696c",
+      "name": "End of Blue Holes hiking trail",
+      "city": "South Andros",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.1743267,
+        "lon": -77.5855979
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "End of Blue Holes hiking trail, South Andros, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c4215ac81a052c059def3ee1559223840f00102f90156e3c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.134171839559592,
+        "lon": -74.5079145629499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197e315881ecd53c05980ee70e07a6b3940f00103f901b298861e03000000",
+      "name": "Walking pathway",
+      "city": null,
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4198437,
+        "lon": -79.2049885
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Walking pathway, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f98747280a052c059e1cb7cf1a7233840f00102f901dce5c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.139281361549255,
+        "lon": -74.50783978830462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51000572e4dc5d53c059ed28ce51470d3940f00103f901608c299001000000920318506c6179696e672057697468207468652053706972697473",
+      "name": "Playing With the Spirits",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0518695,
+        "lon": -77.4666072
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Playing With the Spirits, Lynden Pindling International Airport, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2bb404981d253c0597484679d4cb53940f00103f90128d435a402000000920311466f756e7461696e206f6620596f757468",
+      "name": "Fountain of Youth",
+      "city": "Buccaneer",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.7082003,
+        "lon": -79.289141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fountain of Youth, Air Port Road, Buccaneer, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51287ff78e9a7c53c0593ac9fbdde0d03940f00103f901d4ae04ae00000000",
+      "name": "Nature Trail",
+      "city": "Berry Islands",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.8159312,
+        "lon": -77.9469335
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nature Trail, Berry Islands, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d65240daff7b53c0598807dedad3d13940f00102f9010496534500000000920307436f636f436179",
+      "name": "CocoCay",
+      "city": "Berry Islands",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.8196389,
+        "lon": -77.937491
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "CocoCay, Nature Trail, Berry Islands, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f818648970d53c059b6dac35e28303940f00103f9017ca6faee0000000092031f4c656f6e204c657679204e617469766520506c616e74205072657365727665",
+      "name": "Leon Levy Native Plant Preserve",
+      "city": "Central Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.188116,
+        "lon": -76.2123586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Leon Levy Native Plant Preserve, Main Driveway, Central Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d44b64023d0b53c0596d6c885d57a33840f00102f901ccbc7312000000009203145072696e636573732043617973205265736f7274",
+      "name": "Princess Cays Resort",
+      "city": "South Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.638051839643982,
+        "lon": -76.17559871477653
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Princess Cays Resort, Queen's Highway, South Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fde5b1ec545653c059796446400d133940f00101f901a2e12a01000000009203194a6f686e205761746c696e6727732044697374696c6c657279",
+      "name": "John Watling's Distillery",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.074420945344603,
+        "lon": -77.34893338559046
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "John Watling's Distillery, Augusta Street, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160cf32e609cd53c059b24ef0a88c6c3940f00103f901d298861e03000000",
+      "name": "Walking pathway",
+      "city": null,
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4240213,
+        "lon": -79.2037292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Walking pathway, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121dfef61402653c059f9f5436cb06e3940f00103f901da65353b0100000092030e517565656ee28099732042617468",
+      "name": "Queen’s Bath",
+      "city": "Central Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4323795,
+        "lon": -76.5976796
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Queen’s Bath, Queen's Highway, Central Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d2b826d28caa53c05930ebb950907f3a40f00102f90138054b290000000092031b4d61787869277320426168616d69616e20426561636820436c7562",
+      "name": "Maxxi's Bahamian Beach Club",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.498295827284153,
+        "lon": -78.66484502583924
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maxxi's Bahamian Beach Club, Silver Point Drive, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517369155e69a052c059a4b47c2200233840f00102f9012ad6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.136720805593214,
+        "lon": -74.50643112269408
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51626fbd01416353c05975bf547df8013940f00103f901d8e9c1d30200000092030b4f6365616e2041746c6173",
+      "name": "Ocean Atlas",
+      "city": "New Providence",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0076979,
+        "lon": -77.5508427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Ocean Atlas, Southwest Road, New Providence, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ee1b4e0c55d53c059399a232bbf0c3940f00103f901a45064a701000000",
+      "name": "Lynden Pindling International Airport",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.049792,
+        "lon": -77.4652025
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lynden Pindling International Airport, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516503a1c43da052c05959261fad24233840f00102f90128d6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.137278385262423,
+        "lon": -74.50377002452804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5102ad3743f65653c05992e49f1db6133940f00102f901786300120000000092030e466f727420436861726c6f747465",
+      "name": "Fort Charlotte",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.07699761537203,
+        "lon": -77.35878067433444
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.military",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort Charlotte, West Bay Street, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f362784ad33353c0598f77c4222d983840f00102f90190e682380000000092031c4375727469737320432d3436412d34352d435520436f6d6d616e646f",
+      "name": "Curtiss C-46A-45-CU Commando",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.59443871780928,
+        "lon": -76.80977117306229
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.wreck"
+      ],
+      "formatted_address": "Curtiss C-46A-45-CU Commando, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511874e72e2eaf53c059fd3d67c17a863a40f00103f9015095ef6a01000000",
+      "name": "Queen's Highway",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5253106,
+        "lon": -78.7371938
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Queen's Highway, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc4685fb12a953c059824c7cff30833a40f00103f901c459cf7502000000",
+      "name": "Seahorse Road",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5124664,
+        "lon": -78.6417836
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Seahorse Road, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108f0ccbab5a453c059b1ec93ed8d8d3a40f00103f9019a5b7af201000000",
+      "name": "Ensign Drive",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5529469,
+        "lon": -78.5735919
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ensign Drive, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5116e23202b3a052c059acbd8d1f26233840f00102f901a0e5c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13730046472999,
+        "lon": -74.51092581719453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51997bed3e6c2853c059840948a066813940f00103f901a62e4b4a0100000092030f50696e6b2073616e64206265616368",
+      "name": "Pink sand beach",
+      "city": "Harbour Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.5054722,
+        "lon": -76.6316068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pink Sands Beach, Chapel Street, Harbour Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c4382f3f35653c059d74bf84ac5133940f00103f901fa27a17800000000",
+      "name": "Fort Charlotte Circle",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0772292,
+        "lon": -77.3586396
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fort Charlotte Circle, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa21bb1c402853c059d53cec2a49653840f00103f9015245d90b0200000092030b426f6f626f6f2048696c6c",
+      "name": "Booboo Hill",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.3956477,
+        "lon": -76.6289131
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Booboo Hill, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a256e24b72ab53c05901028c1d438a3a40f00103f901e24f575f0100000092031254686520476f6c64656e204b6e6967687473",
+      "name": "The Golden Knights",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5400866,
+        "lon": -78.6788511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "The Golden Knights, Coral Road, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb56cf49effc52c0594ba71a6261933840f00103f901cc243b5200000000920320492057697368204920436f756c642053746179204865726520466f7265766572",
+      "name": "I Wish I Could Stay Here Forever",
+      "city": "Cat Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.5757047,
+        "lon": -75.952105
+      },
+      "categories": [
+        "catering",
+        "catering.bar",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "I Wish I Could Stay Here Forever, Forbidden path, Cat Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519da644f0b5a052c0594619817272223840f00102f9015ae4c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13455882694077,
+        "lon": -74.5111046476763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518985104622da52c059f0976082644b3840f00103f901928b2f6d00000000",
+      "name": "Cat Island",
+      "city": "Cat Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.2945024,
+        "lon": -75.4083419
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cat Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d67fe728d15d53c059f9c500e4df0c3940f00103f901384364a701000000",
+      "name": "Lynden Pindling International Airport",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0502913,
+        "lon": -77.4658911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Lynden Pindling International Airport, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d12e956d96ac53c05977e1bd5939843a40f00103f9019af5bc1202000000",
+      "name": "West Sunrise Highway",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5165001,
+        "lon": -78.6966814
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "West Sunrise Highway, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a990e16792ac53c05989df032ad2873a40f00103f901e4787b9202000000",
+      "name": "York Street",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5305506,
+        "lon": -78.6964359
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "York Street, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec08f192c95553c05925e2523afd133940f00103f901fb97a55e02000000920318536972204d696c6f20426f756768746f6e204275746c6572",
+      "name": "Sir Milo Boughton Butler",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0780827,
+        "lon": -77.3404281
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sir Milo Boughton Butler, Rawson Square, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511bac3d33c5a152c059ec2fc27e740d3840f00102f901bb13e21200000000",
+      "name": "Queen's Highway",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.05255882492922,
+        "lon": -74.52766114256558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9a280aba95553c059c51c5aeed6123940f00102f901379f4e4c00000000",
+      "name": "Greenwich Street",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.073592087745755,
+        "lon": -77.33848083078432
+      },
+      "categories": [
+        "highway",
+        "highway.footway",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Greenwich Street, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51438f48b6a5a052c0591016592648233840f00102f90111e5c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.137819668530994,
+        "lon": -74.51011426053905
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178352f3dd09153c0591332eb200a9f3a40f00103f9010f7445f701000000",
+      "name": "Emmanuel Way",
+      "city": "East Grand Bahama",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.6212483,
+        "lon": -78.2783349
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Emmanuel Way, East Grand Bahama, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169e21de0c95d53c05910801365ca0c3940f00103f9013e4364a701000000",
+      "name": "Lynden Pindling International Airport",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0499633,
+        "lon": -77.4654465
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Lynden Pindling International Airport, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155c3d9081f4e53c059d2510e6613163940f00103f901d1ed998b02000000920316526f73652049736c616e6420536e6f726b656c696e67",
+      "name": "Rose Island Snorkeling",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0862335,
+        "lon": -77.2206442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rose Island Snorkeling, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512be8ac05ac8153c0590f7b46c77a2d3940f00103f901d9297b670100000092030a53686970777265636b73",
+      "name": "Shipwrecks",
+      "city": "North Andros",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.1776547,
+        "lon": -78.0261244
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shipwrecks, Morgan's Bluff Drive, North Andros, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e68013c0036353c05914d67c4bef013940f00103f9016ab523a80100000092031e436c6966746f6e204865726974616765204e6174696f6e616c205061726b",
+      "name": "Clifton Heritage National Park",
+      "city": "New Providence",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0075576,
+        "lon": -77.5471039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Clifton Heritage National Park, Southwest Road, New Providence, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f6b62812fd353c05937d263a593b43940f00103f901f40736a4020000009203115468652050697261746527732057656c6c",
+      "name": "The Pirate's Well",
+      "city": "Buccaneer",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.7053779,
+        "lon": -79.2997745
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The Pirate's Well, Bimini Nature Trail, Buccaneer, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510abe66ef7ba052c059cd713506cb223840f00102f9012ed6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13591040425108,
+        "lon": -74.50756440194542
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ad9bc60a68153c0598c2bd3d4572c3940f00103f901da297b670100000092030f53686970777265636b204265616368",
+      "name": "Shipwreck Beach",
+      "city": "North Andros",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.1732152,
+        "lon": -78.0257799
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shipwreck Beach, Morgan's Bluff Drive, North Andros, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516de2e47e076353c0595a17128b73033940f00103f9014998eb0301000000920315436c6966746f6e204e6174696f6e616c205061726b",
+      "name": "Clifton National Park",
+      "city": "New Providence",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0134818,
+        "lon": -77.5473325
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Clifton National Park, Western Road, New Providence, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518227551b295753c0599dd43237c00e3940f00102f9014a8d741a00000000920318536972204861727279204f616b6573204d6f6e756d656e74",
+      "name": "Sir Harry Oakes Monument",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.057620477590365,
+        "lon": -77.36188395801403
+      },
+      "categories": [
+        "no_fee",
+        "no_fee.no",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Sir Harry Oakes Monument, Hawthorn Road, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51353bf7c374b753c059d1eb4fe273953a40f00103f90162bc0ead0200000092030d4372797374616c204265616368",
+      "name": "Crystal Beach",
+      "city": "West Grand Bahama",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5837995,
+        "lon": -78.8665018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Crystal Beach Road, West Grand Bahama, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3cc759548a753c0594512e0f98b863a40f00102f9011c57970a0000000092031654686520446f6c7068696e20457870657269656e6365",
+      "name": "The Dolphin Experience",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.525573365406917,
+        "lon": -78.61380516532772
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The Dolphin Experience, West Beach Drive, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b0ce46dfdb053c0594d399219e1833a40f00102f9017c85b52700000000",
+      "name": "Queen's Highway",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.51515350170057,
+        "lon": -78.76546809454219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Queen's Highway, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9f523eaaa5353c059040f1d4cd4123940f00103f9013bd6b05101000000",
+      "name": "Montague Bay Drive",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0735519,
+        "lon": -77.3073068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Montague Bay Drive, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f233e48eed5353c059e4a1ef6e65153940f00103f901850c37a9020000009203104f6365616e20436c7562204472697665",
+      "name": "Ocean Club Drive",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.083579,
+        "lon": -77.3113744
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ocean Club Drive, One And Only Ocean Club, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d9dc948079553c05938e22428d99d3a40f00103f901047445f701000000",
+      "name": "Grand Bahama Highway",
+      "city": "East Grand Bahama",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.6165948,
+        "lon": -78.3285696
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Grand Bahama Highway, East Grand Bahama, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ffbf323b4ac53c059b9ef07f2a2893a40f00103f901f5bfb64c02000000",
+      "name": "West Atlantic Road",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5376426,
+        "lon": -78.6984949
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "West Atlantic Road, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f71a6cd54a052c0592c900f3bba223840f00102f90131d6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13565415506325,
+        "lon": -74.5051759839457
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8150cf8465153c059473f75070c153940f00103f9019de28b6402000000920317506561726c2049736c616e6420536e6f726b656c696e67",
+      "name": "Pearl Island Snorkeling",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0822148,
+        "lon": -77.2699566
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pearl Island Snorkeling, Island End, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd32ee4fc5d253c059931504b290a63940f00102f901cb6cc8380000000092030b532e532e205361706f6e61",
+      "name": "S.S. Sapona",
+      "city": "Buccaneer",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.650645376202714,
+        "lon": -79.29329298268881
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "building",
+        "building.historic",
+        "building.sport",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.wreck"
+      ],
+      "formatted_address": "S.S. Sapona, Port Royale, Buccaneer, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167a1f88c1f5453c0597bd976da1a153940f00103f90113a541350300000092030c547572746c6520506f696e74",
+      "name": "Turtle Point",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.082441,
+        "lon": -77.3144257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Turtle Point, Tourist Sidewalk, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f9763c3645553c05962dfa9db34133940f00103f901c73aaa5e0200000092031243656e74726576696c6c6520457374617465",
+      "name": "Centreville Estate",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0750253,
+        "lon": -77.3342751
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.manor"
+      ],
+      "formatted_address": "Centreville Estate, Shirley Street, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517bc102f36b6253c059b0e42a16bf153a40f00103f901fd9f3d4d0200000092030e4d6f756e7420527573746d6f7265",
+      "name": "Mount Rustmore",
+      "city": "South Abaco",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.084947,
+        "lon": -77.5378387
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Mount Rustmore, Castaway Cay, South Abaco, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e4ccb257fa052c059d00941d2e9223840f00102f9012cd6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13638032996988,
+        "lon": -74.50776047566634
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c82e07301ba953c059a2cb400a43833a40f00103f9016901dc6f01000000",
+      "name": "Seahorse Road",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5127417,
+        "lon": -78.6422844
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Seahorse Road, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518854072fb02b53c059478fdfdbf4793940f00103f901c1fb6b400200000092031457686974652043726f776e204176696174696f6e",
+      "name": "White Crown Aviation",
+      "city": "North Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4763925,
+        "lon": -76.6826284
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "White Crown Aviation, Queen's Highway, North Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ef85bf1430b53c05968bc6367c0a33840f00103f901b9a18d2e03000000920314436f6e6368205368656c6c205472656520617274",
+      "name": "Conch Shell Tree art",
+      "city": "South Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.6396546,
+        "lon": -76.1760219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Conch Shell Tree art, Queen's Highway, South Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136f128d298a052c059bd8c2198cd233840f00102f90100e7c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13985586947523,
+        "lon": -74.50932744978203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146b98f37d45d53c059509b8246fa0c3940f00103f9015f8c299001000000",
+      "name": "Lynden Pindling International Airport",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0506939,
+        "lon": -77.4660777
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture",
+        "tourism.attraction.fountain"
+      ],
+      "formatted_address": "Lynden Pindling International Airport, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d44e680135953c0593f2ebb719cff3840f00103f90139f8ea030100000092031b426f6e656669736820506f6e64204e6174696f6e616c205061726b",
+      "name": "Bonefish Pond National Park",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.9984809,
+        "lon": -77.3918154
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bonefish Pond National Park, Cow Pen Road, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f07dbb3665ac53c0591d99a2b7d3873a40f00103f90198ec6b2803000000",
+      "name": "Pioneer's Way",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5305743,
+        "lon": -78.6936776
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Pioneer's Way, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e44a10dca5553c05998e37b750b143940f00102f9018f05f30d0000000092030d526177736f6e20537175617265",
+      "name": "Rawson Square",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.07829984926829,
+        "lon": -77.34045735119454
+      },
+      "categories": [
+        "highway",
+        "highway.pedestrian",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rawson Square, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164d5d63e53b753c059b03e79b361943a40f00103f901f1301b6502000000920318506172616469736520436f766520536e6f726b656c696e67",
+      "name": "Paradise Cove Snorkeling",
+      "city": "West Grand Bahama",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5796158,
+        "lon": -78.8644559
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Paradise Cove Snorkeling, Crystal Beach Road, West Grand Bahama, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ecfe27bb5ac53c059457f68e6c9873a40f00103f901931b08cd02000000",
+      "name": "Pioneer's Way",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5304245,
+        "lon": -78.6985769
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Pioneer's Way, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518edf803b75a853c0596dc26279fc833a40f00103f9017510f82702000000920312426168616d617320416476656e7475726573",
+      "name": "Bahamas Adventures",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5155712,
+        "lon": -78.6321553
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bahamas Adventures, Jolly Roger Drive, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb4edda6099553c05930197dbbdb9d3a40f00103f901097445f701000000",
+      "name": "Grand Bahama Highway",
+      "city": "East Grand Bahama",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.6166341,
+        "lon": -78.3287141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Grand Bahama Highway, East Grand Bahama, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51390111ae52a052c059020b3db660233840f00102f9012fd6c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.13819445600803,
+        "lon": -74.5050463834822
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b9821feb8a052c059b6fa494b41223840f00102f9015be4c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.133808808862078,
+        "lon": -74.51129105835768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e257ace1228d53c059895a3fa2ae003b40f00103f90199ed863d0100000092030e47726561742053616c6520436179",
+      "name": "Great Sale Cay",
+      "city": "Grand Cay",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 27.0026647,
+        "lon": -78.205254
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Great Sale Cay, Grand Cay, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfbf5df66b2853c0593c73c57bc47c3940f00103f901c9b76b400200000092031c50696e6b2053616e6473204265616368204163636573732050617468",
+      "name": "Pink Sands Beach Access Path",
+      "city": "Harbour Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4873731,
+        "lon": -76.6315895
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pink Sands Beach Access Path, Alice Street, Harbour Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e21d859098ac53c059385ac46636843a40f00103f9019bf5bc1202000000",
+      "name": "West Sunrise Highway",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5164551,
+        "lon": -78.6968118
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "West Sunrise Highway, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51558539eeafa052c0591953e0434a223840f00102f90159e4c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.133945696131466,
+        "lon": -74.51073794953602
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2575128f07b53c0596e2f698cd6d13940f00102f901059653450000000092030b5065726665637420446179",
+      "name": "Perfect Day",
+      "city": "Berry Islands",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.819679999999998,
+        "lon": -77.93653305000001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Perfect Day, Nature Trail, Berry Islands, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a43fea65ca5553c059e208ade2e8133940f00103f901091cb15e0200000092030e517565656e20566963746f726961",
+      "name": "Queen Victoria",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0777723,
+        "lon": -77.3404784
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Queen Victoria, Parliament Square, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514d7b945b24cd53c0595015f82fb56a3940f00103f9017dde1766020000009203194f6365616e20436179204d5343204372756973652050696572",
+      "name": "Ocean Cay MSC Cruise Pier",
+      "city": null,
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.4168272,
+        "lon": -79.2053441
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ocean Cay MSC Cruise Pier, Walking pathway, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d16e99782c1a53c0593af6a22c32563940f00103f9010db9353b0100000092030a54686520436c69666673",
+      "name": "The Cliffs",
+      "city": "Central Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.3367031,
+        "lon": -76.4089643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The Cliffs, Fisherman's Drive, Central Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce31c5c14a2153c05942846ee5db5d3940f00103f901e9be353b0100000092031048617463686574204261792043617665",
+      "name": "Hatchet Bay Cave",
+      "city": "Central Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.3666366,
+        "lon": -76.5201878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hatchet Bay Cave, Queen's Highway, Central Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51316dee9ef25553c059b9c3263273133940f00103f90137ae45c701000000",
+      "name": "Prince Street",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.0759765,
+        "lon": -77.3429334
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Prince Street, Nassau, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514113bc7c460b53c0595d8132d7b3a33840f00103f9011da28d2e03000000",
+      "name": "Queen's Highway",
+      "city": "South Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.6394629,
+        "lon": -76.1761772
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Queen's Highway, South Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180eb2f60eea853c059d731aeb838843a40f00103f90155f100ca02000000",
+      "name": "Kings Road",
+      "city": "City of Freeport",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.5164905,
+        "lon": -78.6395493
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kings Road, City of Freeport, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51211109956e5453c0596b18f4948bc13a40f00103f901516a7551010000009203054265616368",
+      "name": "Beach",
+      "city": "Green Turtle Cay",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.7560361,
+        "lon": -77.3192494
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gilliam Bay Beach, Lisa Lane, Green Turtle Cay, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518870b97624a052c0598f532d3508233840f00102f901dbd3c00f00000000920309736561206772617373",
+      "name": "sea grass",
+      "city": "San Salvador",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.136843989912048,
+        "lon": -74.5022255717214
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sea grass, Queen's Highway, San Salvador, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a92883abdfc52c059453d8e3056953840f00103f901415b1b4201000000",
+      "name": "Forbidden path",
+      "city": "Cat Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.5833464,
+        "lon": -75.9490496
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Forbidden path, Cat Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511652d90be00a53c05923fb7b84f5a03840f00103f901c5ac9dbb01000000",
+      "name": "Goombay Arrival Area",
+      "city": "South Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.6287463,
+        "lon": -76.1699247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Goombay Arrival Area, South Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516b39e16fc5d253c059183037ce5cc63940f00103f90167c402f70000000092030b42696d696e6920526f6164",
+      "name": "Bimini Road",
+      "city": "Bimini Bay",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 25.7748536,
+        "lon": -79.2933006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bimini Road, Kings's Highway (Upper Road), Bimini Bay, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba2d910b4e0b53c059fd35b45c91a33840f00103f901c50fd201030000009203245072696e6365737320437275697365732d5072696e63657373204361792054656e646572",
+      "name": "Princess Cruises-Princess Cay Tender",
+      "city": "South Eleuthera",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 24.6389368,
+        "lon": -76.1766385
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Princess Cruises-Princess Cay Tender, Queen's Highway, South Eleuthera, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51725de795215553c059431f2c6343c93a40f00103f901318075510100000092030c5075626c6963204265616368",
+      "name": "Public Beach",
+      "city": "Green Turtle Cay",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 26.7861845,
+        "lon": -77.3301749
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public Beach, Lisa Lane, Green Turtle Cay, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5109490b3c9cef52c0597048febb99843740f00103f90198ce31ae01000000",
+      "name": "Ladies Path",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5179708,
+        "lon": -75.7439108
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ladies Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cf5b864982ef52c05963c3899e4a843740f00103f90172c330ae01000000",
+      "name": "Art Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5167636,
+        "lon": -75.7423271
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Art Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c261b36d62d152c0594b146b02569a3740f00103f901c27331700100000092030d436f72616c2047617264656e73",
+      "name": "Coral Gardens",
+      "city": "Long Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.6028749,
+        "lon": -75.2716326
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coral Gardens, Adderly's Plantation Ruins Trail, Long Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51857e01182ac652c059f7f8ce79d74e3740f00103f901aeffee0b010000009203094775616e6120436179",
+      "name": "Guana Cay",
+      "city": "Long Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.3079754,
+        "lon": -75.0963192
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Guana Cay, Shrimp Hotel Trail, Long Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157099572b7fa52c05980a5d9af769f3740f00102f90180285d2700000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.62290476859698,
+        "lon": -75.91744675211281
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a68812c7aef52c0593e4cb159e4833740f00103f90164c330ae01000000",
+      "name": "Art Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5152031,
+        "lon": -75.7418319
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Art Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2282fe8f3ef52c0595cbfaac486843740f00103f9017c0396b10100000092030a546964616c20506f6e64",
+      "name": "Tidal Pond",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5176814,
+        "lon": -75.7492619
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tidal Pond, Trail P, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4dbb7ff6df152c0599558631a97893740f00103f9012015d4b10100000092030953686f652054726565",
+      "name": "Shoe Tree",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5374619,
+        "lon": -75.7723388
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Shoe Tree Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f4f690edaf052c0593aa5cd829a873740f00103f901d0908dae01000000",
+      "name": "Intrepid Path",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5297014,
+        "lon": -75.7633091
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Intrepid Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5138f4eb4db6fa52c059ef36e94c779f3740f00102f9017e285d2700000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.622914130150942,
+        "lon": -75.91737697641736
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a0d2abbaad552c059c194dcbccca13740f00103f9010e7831700100000092030e6fe280997a6f6e6520686f757365",
+      "name": "o’zone house",
+      "city": "Long Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.6320303,
+        "lon": -75.3385456
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "o’zone house, Busted Bridge, Long Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ea46c91b49452c0595ded725b6c983640f00103f901f8f7fb300000000092030f466c616d696e676f20436f6c6f6e79",
+      "name": "Flamingo Colony",
+      "city": "Crooked Island and Long Cay",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 22.5954034,
+        "lon": -74.323521
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Flamingo Colony, Crooked Island and Long Cay, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b657feae9f052c05950ff59f3e3873740f00103f90108918dae01000000",
+      "name": "Intrepid Path",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.530822,
+        "lon": -75.7642771
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Intrepid Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51705177afa4ef52c0593297af26aa843740f00103f9019ece31ae01000000",
+      "name": "Ladies Path",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5182213,
+        "lon": -75.7444266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ladies Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511fdcc1e6b5fa52c05976e0f8f1769f3740f00102f9017c285d2700000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.62290870977491,
+        "lon": -75.9173523801005
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a35e1a8a6ef52c0590f4e9f7829843740f00103f901188525b00100000092031150697261746573204c6169722043617665",
+      "name": "Pirates Lair Cave",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5162578,
+        "lon": -75.7445471
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pirates Lair Cave, Pirates Lair Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149ccfd1ff1d152c059b2d991ea3ba33740f00103f9010d7831700100000092030e506f736569646f6e206265616368",
+      "name": "Poseidon beach",
+      "city": "Long Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.637633,
+        "lon": -75.2803421
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Poseidon beach, Busted Bridge, Long Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199bc01663ef052c0598f2caa8fd1853740f00103f901f5ed40c100000000",
+      "name": "Main Path",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5227289,
+        "lon": -75.7538085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Main Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f77f183b8fa52c0592271da1b789f3740f00102f9015a41152500000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.622926464872883,
+        "lon": -75.9175119264671
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143d02c6409ed52c0591d2be74130773740f00103f901f6810b8002000000920311526f6c6cc3a820546f776e20546f6d6273",
+      "name": "Rollè Town Tombs",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.4655801,
+        "lon": -75.7036982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rollè Town Tombs, Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5175e4e581b5fa52c05992c176cc769f3740f00102f9017b285d2700000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.622906474106976,
+        "lon": -75.91732833338195
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9de75911df152c059e996c228ad883740f00103f901c968d6ad00000000",
+      "name": "Nev's Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5338922,
+        "lon": -75.7674297
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nev's Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bbfbd291929452c0590a16e2ec31d63640f00103f90109fbfb300000000092030947756e20426c756666",
+      "name": "Gun Bluff",
+      "city": "Crooked Island and Long Cay",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 22.8366993,
+        "lon": -74.3214459
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gun Bluff, Palm Street, Crooked Island and Long Cay, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb624a7f0af152c059017f9d407d883740f00103f9010a918dae01000000",
+      "name": "Nev's Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5331612,
+        "lon": -75.7662657
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nev's Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c2eaa45447452c0590f4757e9eeae3540f00103f90198f6b4300000000092030b486f677374792052656566",
+      "name": "Hogsty Reef",
+      "city": null,
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 21.683333,
+        "lon": -73.816667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hogsty Reef, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516375f574bfef52c0597bcc519154843740f00103f9012fd26db201000000",
+      "name": "Pirates Lair Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5169154,
+        "lon": -75.7460606
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pirates Lair Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514599b278d6d552c059617715ad37ad3740f00103f90105549ab001000000",
+      "name": "Busted Bridge",
+      "city": "Long Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.6766308,
+        "lon": -75.3412153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Busted Bridge, Long Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4efc2d6ecf052c059b3ea18fca2873740f00103f9018768d6ad000000009203084d6f6e756d656e74",
+      "name": "Monument",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5298307,
+        "lon": -75.7644555
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monument, Intrepid Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514cb7369e19ef52c05934fc02d59a833740f00103f901ade731ae01000000",
+      "name": "Art Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5140813,
+        "lon": -75.7359386
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Art Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a5df19c88ef352c0596a108bbdbc873740f00103f9012d1e7aa70100000092030b486f707065727320426179",
+      "name": "Hoppers Bay",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5302237,
+        "lon": -75.8055897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hoppers Bay, Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b62b990840e452c0599a3fa6b5696e3740f00103f901e968799f01000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.4313005,
+        "lon": -75.5664083
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180188795b4fa52c059d63db4ad769f3740f00102f90179285d2700000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.622904640678676,
+        "lon": -75.91727197831096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb5cac03fbcc52c0598b7fe9fefb6f3740f00103f901dfa376b00100000092031754726f706963206f662043616e636572206d61726b6572",
+      "name": "Tropic of Cancer marker",
+      "city": "Long Island",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.4374389,
+        "lon": -75.2028207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tropic of Cancer marker, Long Island, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e824a5ea68ef52c05941e1a24918843740f00103f9019fe731ae01000000",
+      "name": "Art Trail",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5159956,
+        "lon": -75.7407786
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Art Trail, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b715b13ed4f052c05922b193b025863740f00103f90107918dae01000000",
+      "name": "Tiki Path",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.5240126,
+        "lon": -75.7629544
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tiki Path, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9d971f5b4fa52c059a9def22a789f3740f00102f9015941152500000000",
+      "name": "Queen's Highway",
+      "city": "Exuma",
+      "country": "Bahamas",
+      "country_code": "bs",
+      "coordinates": {
+        "lat": 23.622927364630105,
+        "lon": -75.91729484670863
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Queen's Highway, Exuma, Bahamas",
+      "description": null,
+      "image": null
+    }
+  ]
+}

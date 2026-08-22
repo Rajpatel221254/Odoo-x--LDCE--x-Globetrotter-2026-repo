@@ -1,0 +1,2459 @@
+{
+  "country_code": "ng",
+  "country_name": "Nigeria",
+  "boundary_place_id": "5157a6a9aff8ff1f405913dacde737332340f00101f90113f1020000000000c0020b9203074e696765726961",
+  "count": 131,
+  "places": [
+    {
+      "place_id": "51f7c4df9b4baa204059000d2549c6e81340f00103f901a631b01b01000000920308434552434f50414e",
+      "name": "CERCOPAN",
+      "city": "Calabar",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9773189,
+        "lon": 8.3326081
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "CERCOPAN, Murtala Mohammed Highway, Calabar 540222, Cross River State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ea8d5a1e4af204059b216fabbd2ed1340f00103f9015a1eb01b0100000092030a50616e6472696c6c7573",
+      "name": "Pandrillus",
+      "city": "Calabar",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9822492,
+        "lon": 8.3435412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pandrillus, Ndidem Usong Iso, Calabar 540281, Cross River State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ac40776fca3204059d7cba5a77ed41340f00103f901dfcd985a020000009203124261737365792044756b6520537461747565",
+      "name": "Bassey Duke Statue",
+      "city": "Duke Town",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9575144,
+        "lon": 8.3202855
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Bassey Duke Statue, Hewett St, Duke Town 540271, Cross River State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5182f79f466ba220405956d28a6f28dc1340f00103f9011cdb981b0100000092030d4d6172696e61205265736f7274",
+      "name": "Marina Resort",
+      "city": "Duke Town",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.964998,
+        "lon": 8.3172247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marina Resort, Garden St, Duke Town 540271, Cross River State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1ee6998eb2a2040592260be068e4d1940f00103f90124c3ee610100000092031950726573636f204a756e6374696f6e204162616b616c696b69",
+      "name": "Presco Junction Abakaliki",
+      "city": "Abakaliki",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3257371,
+        "lon": 8.0838287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Presco Junction Abakaliki, A343, Abakaliki, Ebonyi State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f30b19effaf20405994f36a2519ee1340f00103f901e16bac820100000092030a50616e6472696c6c7573",
+      "name": "Pandrillus",
+      "city": "Calabar",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9825178,
+        "lon": 8.3437471
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pandrillus, Ndidem Usong Iso, Calabar 540281, Cross River State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51542179420a3520405954cac6dee6501940f00103f901dce1ee610100000092030e616d7573656d656e74207061726b",
+      "name": "amusement park",
+      "city": "Abakaliki",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3290057,
+        "lon": 8.1035939
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "amusement park, Ezza Road, Abakaliki, Ebonyi State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51544a19822d582440591f85eb51b8de1c40f00103f901d76fa45b010000009203074b776573617469",
+      "name": "Kwesati",
+      "city": "Ussa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.2175,
+        "lon": 10.1722222
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kwesati, Ussa, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa754c82dc4a134059a3a94313cd681c40f00103f901decd985a0200000092031b427269676164696572204164656d756c6567756e20537461747565",
+      "name": "Brigadier Ademulegun Statue",
+      "city": "Ondo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.1023448,
+        "lon": 4.8231068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Brigadier Ademulegun Statue, F209, Ondo, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f58a02d8db79124059c065040aabe71a40f00103f901984592f50000000092030a416b696e666f73696c65",
+      "name": "Akinfosile",
+      "city": "Omotosho",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.7262384,
+        "lon": 4.6190027
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Akinfosile, Benin-Sagamu Expressway, Omotosho, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510abfd4cf9bfa124059daeca3ae10a11c40f00103f90118743ada0100000092030448696c6c",
+      "name": "Hill",
+      "city": "Okeigbo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.1572902,
+        "lon": 4.744735
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hill, F207, Okeigbo, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516244471740ad164059bb95ca8058a31940f00103f901a288eb93010000009203054f52696f6e",
+      "name": "ORion",
+      "city": "Oria",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4095173,
+        "lon": 5.6691898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ORion, Iwogban-Omoregie-Ute Road, Oria 300001, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101625cbbfe8616405949e30632f1251940f00103f9016150f39a010000009203104c6165736d6120736170656c65207264",
+      "name": "Laesma sapele rd",
+      "city": "Okha",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2870529,
+        "lon": 5.6318311
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Laesma sapele rd, A2, Okha 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9f4d89601cf1a40596b48dc63e9f31840f00103f901b43d114d02000000920314446561642074616c6c2074726565206173616261",
+      "name": "Dead tall tree asaba",
+      "city": "Asaba",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.238195,
+        "lon": 6.7021545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dead tall tree asaba, Ifeanyichukwu Nwagbo Street, Asaba, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136c016050b611a40590ffdc9ce916b1940f00103f9015e703fb9010000009203104d416e676f20616e6967656e65207264",
+      "name": "MAngo anigene rd",
+      "city": "Akwukwu Igbo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3550484,
+        "lon": 6.5947686
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "MAngo anigene rd, Akwukwu Igbo, Oshimili North, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5175183845ec581640596f2d93e178261940f00103f90152db3d80010000009203084d7920626f756e64",
+      "name": "My bound",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2875705,
+        "lon": 5.5868388
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "My bound, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f9ea74b10cf1a40599bfcbbe3b9f31840f00103f901d83e114d0200000092031d53756e6e792057454c4445522069626f726920676f6c66204173616261",
+      "name": "Sunny WELDER ibori golf Asaba",
+      "city": "Asaba",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2380138,
+        "lon": 6.7022106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sunny WELDER ibori golf Asaba, Ifeanyichukwu Nwagbo Street, Asaba, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a6d5512d9cf1a405975633035f8f11840f00103f901956248190200000092031d474420504f5354204e554d424552203220474154452054414e474f2034",
+      "name": "GD POST NUMBER 2 GATE TANGO 4",
+      "city": "Asaba",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2362984,
+        "lon": 6.7029765
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GD POST NUMBER 2 GATE TANGO 4, Isiaye Drive, Asaba, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e4efbdfe86e164059c7401cc1b2481940f00102f901086fa7020000000092030b476c61737320486f757365",
+      "name": "Glass House",
+      "city": "Benin City",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.320994393681935,
+        "lon": 5.608310222352541
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Glass House, Airport Road, Benin City 300102, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c6980524ab041e4059fddafae93fb31940f00103f901aa2a6f5f010000009203194472204e6e6e616d646920417a696b69776520537461747565",
+      "name": "Dr Nnnamdi Azikiwe Statue",
+      "city": "Enugu South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4250485,
+        "lon": 7.5045591
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dr Nnnamdi Azikiwe Statue, Ikenga Crescent, 400251, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515656e4219d2b204059c82cd6cb4a4e1940f00103f901e5c8ee610100000092030a54726164652046616972",
+      "name": "Trade Fair",
+      "city": "Abakaliki",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3264572,
+        "lon": 8.0851832
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trade Fair, Ezza Road, Abakaliki, Ebonyi State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f07101c34d9d2040590044b060d1ab1840f00103f901333827620100000092030c4f66666961204d6b70756d61",
+      "name": "Offia Mkpuma",
+      "city": "Ndiofutu Echara",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.1677909,
+        "lon": 8.3072339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Offia Mkpuma, Azumpuma Elekpe Road, Ndiofutu Echara, Ebonyi State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139e7f1c52859164059149bea24b6261940f00103f901c3d93d800100000092030e47756c6c7920656e7472616e6365",
+      "name": "Gully entrance",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2878042,
+        "lon": 5.5870696
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gully entrance, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51648b4924765a164059fd378a07ef261940f00103f90139df3d8001000000920309524f41442047554c59",
+      "name": "ROAD GULY",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2880212,
+        "lon": 5.5883413
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ROAD GULY, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515977e511a09814405974d29c59c72f1d40f00102f90157cf492f00000000",
+      "name": "Oduduwa Road",
+      "city": "Akure",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.296658897587452,
+        "lon": 5.149048118238931
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Oduduwa Road, Akure 340252, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108fc862e4dfe1d405925b9b2fad9b61940f00103f901f46fbc0403000000920310554e4543204c696f6e20537461747565",
+      "name": "UNEC Lion Statue",
+      "city": "Enugu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4285659,
+        "lon": 7.4983413
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "UNEC Lion Statue, UNEC Road, Enugu 400251, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab7246393dec1d4059664b5645b8a91940f00103f90180e9b9110100000092030741677561677761",
+      "name": "Aguagwa",
+      "city": "Enugu South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.415742,
+        "lon": 7.4807023
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Aguagwa, 6 Dr Ifeanyi Eze Street, 400251, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b6fc22a5fb1154059a017fd21f1db1d40f00102f90106e6d4200000000092030b526f756e642041626f7574",
+      "name": "Round About",
+      "city": "Ise - Ekiti",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.464787036011245,
+        "lon": 5.423214595906539
+      },
+      "categories": [
+        "highway",
+        "highway.roundabout",
+        "highway.secondary",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Round About, Ise - Ekiti, Ekiti State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196671481a05a164059b6d03a4fe1251940f00103f90165e03d8001000000920308436172207061726b",
+      "name": "Car park",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2869923,
+        "lon": 5.5885029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Car park, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194cacae5f5661440594e6f905a725e1940f00103f90101633d800100000092030f4a756e6374696f6e206d61646f7469",
+      "name": "Junction madoti",
+      "city": "Gbelemotin",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3422331,
+        "lon": 5.1005474
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Junction madoti, Gbelemotin, Ovia South-West, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f0dafdaeb33134059beb964c1697e1c40f00103f901a17e3ada0100000092030548696c6c73",
+      "name": "Hills",
+      "city": "Ondo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.1234503,
+        "lon": 4.8007044
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hills, F207, Ondo, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2c28cdfca78164059091fa56d57431940f00103f901a9ecfecb0200000092030e5154522047442048512034424445",
+      "name": "QTR GD HQ 4BDE",
+      "city": "Benin City",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3157632,
+        "lon": 5.6179614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "QTR GD HQ 4BDE, Central Road, Benin City 300102, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51beb1b15c802f1240596de525ff93171f40f00103f901c3e4df600200000092031c4166726963616e204865726974616765204172742047616c6c657279",
+      "name": "African Heritage Art Gallery",
+      "city": "Osogbo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.7730255,
+        "lon": 4.5463881
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "African Heritage Art Gallery, College Road, 230261, Osun State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51229518bac87b164059326596f37b591940f00103f901b1a903810200000092030f45646f67756e206f662042656e696e",
+      "name": "Edogun of Benin",
+      "city": "Benin City",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3373869,
+        "lon": 5.6208829
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Edogun of Benin, 1st Ibiwe Street, Benin City 300241, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c182458f2959164059c971a774b0261940f00103f901e2b63b8001000000920314415245412047554c59204e5044432042454e494e",
+      "name": "AREA GULY NPDC BENIN",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2877825,
+        "lon": 5.5870726
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "AREA GULY NPDC BENIN, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512646e059ccc11440590097b66e39051d40f00103f901159a01d201000000920310486f6c79204d61727920537461747565",
+      "name": "Holy Mary Statue",
+      "city": "Akure",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.2551019,
+        "lon": 5.1892561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Holy Mary Statue, Oba Adesida Road, Akure 340021, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170592a148e5d1340599561dc0da2451c40f00103f901215b3ada0100000092030448696c6c",
+      "name": "Hill",
+      "city": "Asewele",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.068001,
+        "lon": 4.8413623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hill, Ore - Ondo, Asewele, Ondo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51677c04a337e91d405964b14d2a1aa31940f00103f901990d881401000000",
+      "name": "House 5 Chigbo Lane Upper Chime",
+      "city": "Enugu South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4092795,
+        "lon": 7.4777513
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "House 5 Chigbo Lane Upper Chime, 400107, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515044752964251c4059bd4d243db1e31540f00103f9017ecfa26001000000",
+      "name": "Aba - Owerri Road",
+      "city": "Owerri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.4723558,
+        "lon": 7.0365149
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Aba - Owerri Road, Owerri 460242, Imo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515393e00d69d41a4059d0ffbcba742d1940f00103f901dded21b60100000092030f6e6f7273776f727468792048696c6c",
+      "name": "norsworthy Hill",
+      "city": "Oshimili North",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2943906,
+        "lon": 6.707432
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "norsworthy Hill, Oshimili North, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce78115c9b8c1c405934e900d248fd1840f00103f9016112a08002000000920312436174746c65204d61726b65742041776b61",
+      "name": "Cattle Market Awka",
+      "city": "Amansee",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2473481,
+        "lon": 7.1373114
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cattle Market Awka, Old Enugu Road, Amansee, Anambra State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e71996aae121e4059aea8a421b8c11940f00102f9010165715500000000",
+      "name": "Presidential Road",
+      "city": "Enugu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.439178968119604,
+        "lon": 7.518243470778797
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Presidential Road, Enugu 400261, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51054d4bac8cce1a405906b3ae76b9f51840f00103f9017146c42e020000009203083734204153414241",
+      "name": "74 ASABA",
+      "city": "Asaba",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2399653,
+        "lon": 6.7017085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "74 ASABA, Ifeanyichukwu Nwagbo Street, Asaba, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515fb12bd2699a1a4059c130aa5670b11940f00103f9018dc23a4d02000000920305494c4c4148",
+      "name": "ILLAH",
+      "city": "Illah",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4232801,
+        "lon": 6.6507943
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ILLAH, Illah, Oshimili North, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516330da3e3f6f18405914df9a85874a1a40f00103f901414c01980100000092030a446f776e207761746572",
+      "name": "Down water",
+      "city": "Esan West",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.5727826,
+        "lon": 6.1086397
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Down water, Esan West, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f9182024a5e1640595a57bbdc16831940f00103f901c550f39a0100000092030b5577656c7520776b73702e",
+      "name": "Uwelu wksp.",
+      "city": "Evbogida",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3780169,
+        "lon": 5.5920792
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Uwelu wksp., Uwelu Road, Evbogida 300001, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c47263bc81141e40598f140e048ec51940f00102f9012bb85a3f00000000",
+      "name": "Independence Avenue",
+      "city": "Enugu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.442924559935945,
+        "lon": 7.520026153154223
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Independence Avenue, Enugu 400102, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bff6bacef1151e4059aa1fecd7f2c31940f00102f90115b85a3f0000000092030b4c696f6e20537461747565",
+      "name": "Lion Statue",
+      "city": "Enugu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4413560617321455,
+        "lon": 7.52143023506295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lion Statue, Okpara Square Road, Enugu 400261, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa23ec8090411c40591211a38c5d4f1340f00103f90162bf004d010000009203064c6f756e6765",
+      "name": "Lounge",
+      "city": "Elelenwo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.8275053,
+        "lon": 7.0640278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lounge, Trans Woji Road, Elelenwo 500211, Rivers State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193a751ed78101c40595c60ea4207581340f00103f901145b3ada010000009203045061726b",
+      "name": "Park",
+      "city": "Rumuomasi",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.8359652,
+        "lon": 7.0160863
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Park, Port Harcourt - Aba Expressway, Rumuomasi 500211, Rivers State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146e059cc199b1c40597cdc6dcd0cd91240f00103f9016cbe237c01000000",
+      "name": "Onne Junction - FOT Road",
+      "city": "Onne",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.7119629,
+        "lon": 7.1514656
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Onne Junction - FOT Road, Onne, Rivers State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183caae6aff59164059c8e248b1ed261940f00103f9019ddf3d800100000092030d50415041204a554e4354494f4e",
+      "name": "PAPA JUNCTION",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2880161,
+        "lon": 5.5878884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "PAPA JUNCTION, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518791b98d61611a40591805c1e3db6b1940f00103f901753223b6010000009203144e4f5253574f52544859204641524d204c414e44",
+      "name": "NORSWORTHY FARM LAND",
+      "city": "Akwukwu Igbo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.355331,
+        "lon": 6.5950987
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NORSWORTHY FARM LAND, Akwukwu Igbo, Oshimili North, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5145dcf7037979164059d482177d05511940f00103f901716ecf800000000092031053656d6f204172742047616c6c657279",
+      "name": "Semo Art Gallery",
+      "city": "Benin City",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3291225,
+        "lon": 5.6186257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Semo Art Gallery, Airport Road, Benin City 300102, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51640223d4b14f1540594435255987731540f00103f901bc500ec30200000092030f54616d69656e676f205265736f7274",
+      "name": "Tamiengo Resort",
+      "city": "Burutu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.362821,
+        "lon": 5.3278268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tamiengo Resort, Burutu, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141c92e62e9fd164059e8082af40b201640f00103f9012109bf4c0100000092031f4a616e657420536f6369616c20436c756220666f722047656e746c656d616e",
+      "name": "Janet Social Club for Gentleman",
+      "city": "Warri South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5312956,
+        "lon": 5.7479606
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Janet Social Club for Gentleman, Idiaregbe Street, Warri South 332104, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517765170cae39124059c8b02f7ebfd51d40f00103f901c5b0128f010000009203194f524f4c455945204a554e4354494f4e204d4f44414b454b45",
+      "name": "OROLEYE JUNCTION MODAKEKE",
+      "city": "Moro",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.4587383,
+        "lon": 4.556328
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "OROLEYE JUNCTION MODAKEKE, F207, Moro 220282, Osun State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113f9895ea1e2164059b48295f9fd911940f00103f901a188eb930100000092031457656464696e67205243432052642042656e696e",
+      "name": "Wedding RCC Rd Benin",
+      "city": "Edopa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3925704,
+        "lon": 5.7213187
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wedding RCC Rd Benin, Benin City Bypass, Edopa, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f22554707859164059b13cfec176261940f00103f90101e03d800100000092030547756c6c79",
+      "name": "Gully",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2875624,
+        "lon": 5.5873735
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gully, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189c5b997450217405951267f411c1d1640f00103f9011d31c94c01000000920312526f79616c204576656e742043656e746572",
+      "name": "Royal Event Center",
+      "city": "Warri South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5284281,
+        "lon": 5.7522186
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Royal Event Center, 12 Otomi Street, Warri South 332104, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139a16bbaf959164059e9c028f7f1261940f00103f901b9a63c800100000092031850415041204a554e4354494f4e204e5044432042454e494e",
+      "name": "PAPA JUNCTION NPDC BENIN",
+      "city": "Egbiri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2880324,
+        "lon": 5.5878667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PAPA JUNCTION NPDC BENIN, Irhirhi Road, Egbiri 300252, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed2708c325041e4059c7f65ad07bb31940f00103f90125336f5f01000000920311537461747565206f66204861726d6f6e79",
+      "name": "Statue of Harmony",
+      "city": "Enugu South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.425277,
+        "lon": 7.5040503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Statue of Harmony, Ikenga Crescent, 400251, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc3324383faf164059544e20915ba01740f00103f901d13b8d96010000009203115741544552205349444520534150454c45",
+      "name": "WATER SIDE SAPELE",
+      "city": "Ogun-Aja",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.9065993,
+        "lon": 5.6711396
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "WATER SIDE SAPELE, Mission Road, Ogun-Aja 331101, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a814e06014e91d40596bc317dcc5a21940f00103f901ff779e12010000009203095a494f4e2048494c4c",
+      "name": "ZION HILL",
+      "city": "Enugu South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4089579,
+        "lon": 7.4776168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ZION HILL, 0/201 Chigbo Lane Upper Chime, 400107, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165941dd1f3b51b4059465046a68db41340f00103f90189f05d8f02000000",
+      "name": "Institute of Petroleum Studies Road",
+      "city": "Omuoko",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9263216,
+        "lon": 6.9276879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Institute of Petroleum Studies Road, Omuoko 511101, Rivers State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f24ef4af9b201740593bcf8e0a522f1640f00103f9011da8074701000000920314527566657320416d7573656d656e74205061726b",
+      "name": "Rufes Amusement Park",
+      "city": "Warri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5462114,
+        "lon": 5.7818439
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rufes Amusement Park, 68 Enerhen Road, Warri 330102, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff59f3e32f1d074059bfb44d96ffa51940f00103f90156d5873f0300000092032946726565646f6d205374617475652061742042616461677279204865726974616765204d757365756d",
+      "name": "Freedom Statue at Badagry Heritage Museum",
+      "city": "Badagry",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4121078,
+        "lon": 2.8892515
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Freedom Statue at Badagry Heritage Museum, Marina Road, Badagry, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51148cef3092220b40592668380ab5931940f00103f9017212791b010000009203104c69676874686f757365204265616368",
+      "name": "Lighthouse Beach",
+      "city": "Eti Osa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3942453,
+        "lon": 3.3918804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lighthouse Beach, Avenue 1, 500001, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128017b9631771d4059cc02379c43531b40f00103f901e9b5daed02000000920331434c4f55442d392041504152544d454e542c204a756467657320456e636c6176652c204168696e7361204b68616e642032",
+      "name": "CLOUD-9 APARTMENT, Judges Enclave, Ahinsa Khand 2",
+      "city": "Nsukka",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.8313126,
+        "lon": 7.3664001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CLOUD-9 APARTMENT, Judges Enclave, Ahinsa Khand 2, F116, Nsukka 410101, Enugu State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a3629bb4f1c1c40590852cebcc1541340f00103f901a2d0534d010000009203114b61726973204576656e7420706c616365",
+      "name": "Karis Event place",
+      "city": "Rumuomasi",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.8327703,
+        "lon": 7.0276479
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Karis Event place, 1 Bende Street, Rumuomasi 500211, Rivers State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5186c77e164b29154059215f9dbef9681340f00103f9013d50db19010000009203084541206669656c64",
+      "name": "EA field",
+      "city": null,
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.8525152,
+        "lon": 5.2903255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EA field, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa1496d3f97b1940595c49e130876b1340f00103f9013d8f39da01000000920318496d6972696e676920436f6d6d756e697479204669656c64",
+      "name": "Imiringi Community Field",
+      "city": "Ogbia",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.8550079,
+        "lon": 6.3710702
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Imiringi Community Field, Imiringi Road, Bayelsa State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f245525dbfa1640598cf7e3f6cb471640f00103f901ede97944010000009203184561676c6520436c617373204576656e742043656e746572",
+      "name": "Eagle Class Event Center",
+      "city": "Warri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.570114,
+        "lon": 5.7449766
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Eagle Class Event Center, Effurun, Warri to Shell Ogunu, Warri 332271, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170ce88d2de100740598b8054d4aaa71940f00103f9018c0c0936020000009203134c617369736920456c656a6120537461747565",
+      "name": "Lasisi Eleja Statue",
+      "city": "Badagry",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4137376,
+        "lon": 2.8832375
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lasisi Eleja Statue, Hospital Road, Badagry, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159e02bbaf5f21640597c8560b076971740f00103f901dd84ed86010000009203074d6f736f676172",
+      "name": "Mosogar",
+      "city": "Akpobome",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.8979137,
+        "lon": 5.7372655
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mosogar, Warri Benin Rd, Akpobome, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba5f4f8589001740591c2ecd08ca201640f00103f901f0d98c4c0100000092030c4576656e742043656e746572",
+      "name": "Event Center",
+      "city": "Warri South",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5320207,
+        "lon": 5.7505246
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Event Center, Okere Ugborikoko Street, Warri South 332104, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51213a048e04621a4059d6ebccf396711940f00103f901dced21b6010000009203144e757273657279204e6f72736520776f72746879",
+      "name": "Nursery Norse worthy",
+      "city": "Akwukwu Igbo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.3609274,
+        "lon": 6.5957205
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nursery Norse worthy, Akwukwu Igbo, Oshimili North, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fcc762a85bd1b40593737a6272cb11340f00103f901b5f15d8f0200000092030a41747472616374696f6e",
+      "name": "Attraction",
+      "city": "Omuoko",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.92302,
+        "lon": 6.9350783
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Attraction, Institute of Petroleum Studies Road, Omuoko 511101, Rivers State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51640e38013c901a4059994baab69be81640f00103f90109d7cfa80100000092030b4f47575520494b50455245",
+      "name": "OGWU IKPERE",
+      "city": "Akri Ogidi",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.7271565,
+        "lon": 6.6408539
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "OGWU IKPERE, uncommon path in forest, Akri Ogidi, Anambra State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c470f8d385e19405970873c388ece1340f00103f901a5a2d7480100000092031d476f6c64656e2047617465204d756c7469707572706f73652048616c6c",
+      "name": "Golden Gate Multipurpose Hall",
+      "city": "Yenegoa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9517144,
+        "lon": 6.3420126
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Golden Gate Multipurpose Hall, 666 Mbiama – Yenagoa – Tombia Junction, Yenegoa 569101, Bayelsa State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a240440f211b174059c493821376461640f00103f9016bff3944010000009203194f646a656762612052656372656174696f6e616c2048616c6c",
+      "name": "Odjegba Recreational Hall",
+      "city": "Effurun",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5688098,
+        "lon": 5.7764933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Odjegba Recreational Hall, 101 Refinery Road, Effurun 330102, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b784d78926cb0a4059d8aa1386b76d1a40f00103f9015188605f01000000",
+      "name": "Obafemi Awolowo Way",
+      "city": "Ikeja",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.6071454,
+        "lon": 3.3491946
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Obafemi Awolowo Way, Ikeja 100282, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51446b459be344194059e25aed612fb41340f00103f9010d1e8e460100000092030d4e656e6769277320506c616365",
+      "name": "Nengi's Place",
+      "city": "Yenegoa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.925962,
+        "lon": 6.3172745
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nengi's Place, 93 Inec Road, Yenegoa 569101, Bayelsa State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e65b1fd61b15164059fffb9d375f1e1940f00103f9017dc29a870100000092032041524d592043414e54205044452047524420454b4548554e57412042454e494e",
+      "name": "ARMY CANT PDE GRD EKEHUNWA BENIN",
+      "city": "Iguhie",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.2796601,
+        "lon": 5.520614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ARMY CANT PDE GRD EKEHUNWA BENIN, Omokaro Street, Iguhie, Edo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f1ea6690ccf40a405991d03bbab62c1a40f00103f9019ed3900002000000",
+      "name": "Akinsanya St",
+      "city": "Shomolu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.5436658,
+        "lon": 3.3695308
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Akinsanya St, 100231, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5db7179620c174059dc15551a8c4c1640f00103f901d56a30480200000092030d33424e20545247205348414445",
+      "name": "3BN TRG SHADE",
+      "city": "Effurun",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5747532,
+        "lon": 5.7620944
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "3BN TRG SHADE, NPA-DSC Express, Effurun 332271, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51134bd31373bc0a405911cfb184dfaa1c40f00102f9013207d5560000000092031a4f6c756d6f20526f636b20546f757269737420436f6d706c6578",
+      "name": "Olumo Rock Tourist Complex",
+      "city": "Abeokuta",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 7.166868279793349,
+        "lon": 3.342016367803248
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Olumo Rock Tourist Complex, Ikija Road, Abeokuta 111101, Ogun State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e51e0f835dd0a4059451b36806d9b1940f00103f901959be3a102000000920307636c7573746572",
+      "name": "cluster",
+      "city": "Ilado",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4017849,
+        "lon": 3.3580131
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "cluster, Snake Island - Victoria Island Tunnel, Ilado 100242, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51616413aae5e80a405975d7c86427821a40f00103f901013bf88a00000000",
+      "name": "Lagos-Ibadan Expressway",
+      "city": "Ikeja",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.6271034,
+        "lon": 3.3637193
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lagos-Ibadan Expressway, Ikeja 100248, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2b7393a530d174059658a39083a421640f00103f901fb202c4b0100000092030e53796e657267792043656e746572",
+      "name": "Synergy Center",
+      "city": "Warri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5646745,
+        "lon": 5.7630128
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Synergy Center, 188 Effurun, Warri to Shell Ogunu, Warri 330102, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513731c96da0550940596f87e17e1b9d1940f00103f9019535224a0100000092030b4167616a61206265616368",
+      "name": "Agaja beach",
+      "city": "Igbede",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.4034252,
+        "lon": 3.1668099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Agaja beach, Adediran Street, Igbede, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee1e454200950c405955fbcff5d8d91a40f00103f901ea1d4baa01000000",
+      "name": "Abiodun Street",
+      "city": "Shagamu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.7127417,
+        "lon": 3.5727544
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Abiodun Street, Shagamu, Ogun State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd8c66c0b4e30b405953d4f434bb691a40f00103f9012200db760100000092030b546865204472756d6d6572",
+      "name": "The Drummer",
+      "city": "Ikorodu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 6.6032532,
+        "lon": 3.4861846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "The Drummer, F270, Ikorodu 104213, Lagos State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e250747241517405929d3c32ba43f1640f00103f901b772554b010000009203144576756f766f20536f6369616c2043656e746572",
+      "name": "Evuovo Social Center",
+      "city": "Warri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 5.5621497,
+        "lon": 5.7706462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Evuovo Social Center, 200 Effurun, Warri to Shell Ogunu, Warri 330102, Delta State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfa0e0bdfe271f405924720ba7169b1340f00103f901a1462949020000009203163620424e2052414e47452047524f554e44204142414b",
+      "name": "6 BN RANGE GROUND ABAK",
+      "city": "Abak",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 4.9014536,
+        "lon": 7.7890577
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "6 BN RANGE GROUND ABAK, F232, Abak, Akwa Ibom State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9e1ba18b905114059822e2b5e76512040f00103f9013e773ada010000009203184f67626f6d6f736f2052656372656174696f6e20436c7562",
+      "name": "Ogbomoso Recreation Club",
+      "city": "Ogbomosho",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 8.1591062,
+        "lon": 4.2555889
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ogbomoso Recreation Club, Ogbomoso Ilorin Road, Ogbomosho 210271, Oyo State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513beb0901af351d405920724408d98b2240f00103f901bbd2e2c201000000",
+      "name": "Railway Road",
+      "city": "Azu",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.2731402,
+        "lon": 7.3024254
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Railway Road, Azu, Niger State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f181d35cb021e405912e62ca2dcf82140f00103f901ae4299350100000092032c537461746520747261666669632044657074226d6f746f706f6c22464354204162756a61204e696765726961",
+      "name": "State traffic Dept\"motopol\"FCT Abuja Nigeria",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 8.9860583,
+        "lon": 7.5027283
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "State traffic Dept\"motopol\"FCT Abuja Nigeria, Murtala Mohammed Expressway, Abuja 900110, Federal Capital Territory, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51326c393c29101d4059cb45216ef3872240f00103f90174b8e2c201000000",
+      "name": "Abuja-Kaduna Highway",
+      "city": "Gwagwalada",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.2655291,
+        "lon": 7.2657823
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Abuja-Kaduna Highway, Gwagwalada, Niger State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d896a6adb6e71c405993b6a79a0f9a2240f00103f90180cbe1c201000000",
+      "name": "Abuja-Kaduna Highway",
+      "city": "Iddah",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.3009003,
+        "lon": 7.2262828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Abuja-Kaduna Highway, Iddah, Niger State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca1f67f569e81c4059ede98fd552992240f00103f90165cbe1c201000000",
+      "name": "Abuja-Kaduna Highway",
+      "city": "Iddah",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.2994601,
+        "lon": 7.2269667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Abuja-Kaduna Highway, Iddah, Niger State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154bf77407efb1d40594b28d8da56262240f00103f90176e49392020000009203076f62656c69736b",
+      "name": "obelisk",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.0748814,
+        "lon": 7.4955988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "obelisk, 1 Usuma Street, Abuja 900001, Federal Capital Territory, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff380609f6641a40592d70c339341e2340f00103f90160dc100102000000",
+      "name": "Federal Road F.126 Zungeru - Izom",
+      "city": "Bosso",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.5589922,
+        "lon": 6.5985948
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Federal Road F.126 Zungeru - Izom, Niger State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a5c6cff6f091e405985e8b57e9f1e2240f00103f901a9825d8400000000",
+      "name": "Independence Avenue",
+      "city": "Municipal Area Council",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.0598106,
+        "lon": 7.5092163
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Independence Avenue, 900247, Federal Capital Territory, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c043ac59c27d1d405988eb62e476492240f00103f901456fa5680100000092030a4573752050616c616365",
+      "name": "Esu Palace",
+      "city": "Dutsen Alhaji",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.1434852,
+        "lon": 7.3728117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Esu Palace, Koro Rd, Dutsen Alhaji 901101, Federal Capital Territory, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515fa1c50897b41e40597cc15dac5e602740f00103f901592d34710100000092030d556e6775776172204261696475",
+      "name": "Unguwar Baidu",
+      "city": "Kafur",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.6882223,
+        "lon": 7.6763574
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Unguwar Baidu, Kafur, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51703491e398ae1e40590ce544bb0a652740f00103f901922c3471010000009203125361626f6e206269726e696e206b61667572",
+      "name": "Sabon birnin kafur",
+      "city": "Kafur",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.6973475,
+        "lon": 7.6705051
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sabon birnin kafur, Kafur, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f4e38ae65ca51e40597ccb417518b42940f00103f9011d289b58010000009203104b617473696e612057696e646d696c6c",
+      "name": "Katsina Windmill",
+      "city": "Abukur",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 12.8517491,
+        "lon": 7.6614872
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Katsina Windmill, Kano - Katsina, Abukur, Katsina State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512082058b1edb254059ceb1721e04b72a40f00103f901fdd0a90d01000000",
+      "name": "Tulotulo",
+      "city": "Tulotulo",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 13.3574533,
+        "lon": 10.9279674
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tulotulo, Yusufari, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185b93885f0af2a4059e4ee18c341732640f00103f90103abcfa80100000092030170",
+      "name": "p",
+      "city": "Gwoza",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.2251111,
+        "lon": 13.3436319
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PLANTAIN, Gwoza, Bita Izge, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515234c5d2765a13405990c07a3771b52a40f00103f901f9f12b9c0100000092030754657374696e67",
+      "name": "Testing",
+      "city": "Tangaza",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 13.3543794,
+        "lon": 4.8383439
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Testing, Tangaza, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51331b44f88359264059b52ef238cc9c2440f00102f9015aa2c33800000000",
+      "name": "Gombe state university road",
+      "city": "Arawa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.306245593608176,
+        "lon": 11.174834974588157
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Gombe state university road, Arawa 123456, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51efa42a12b80e214059bdb7d8a326f02740f00103f90144ac47e10000000092031c4b616e6f205374617465205a6f6f6c6f676963616c2047617264656e",
+      "name": "Kano State Zoological Garden",
+      "city": "Gandu Albasa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.9690448,
+        "lon": 8.5287481
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kano State Zoological Garden, Zoo Road, Gandu Albasa 700224, Kano State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7e5acf47fc721405970d63b37c8d72340f00103f901f0a29f8300000000",
+      "name": "Amado-Bello Way",
+      "city": "Jos",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.9214494,
+        "lon": 8.8896481
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Amado-Bello Way, Jos 930214, Plateau State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113921678385b264059e24680892e862440f00103f90161a0809902000000920321456d2d62656c69206c7562726963616e7420616e64207370617265207061727473",
+      "name": "Em-beli lubricant and spare parts",
+      "city": "Pantame",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.2620738,
+        "lon": 11.1781652
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Em-beli lubricant and spare parts, Sabon Line Street, Pantame 756023, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d139e40bffc62140590f13680b63d22340f00103f901c407988900000000",
+      "name": "Sarki Mangu Street",
+      "city": "Jos",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.9109119,
+        "lon": 8.8886646
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Sarki Mangu Street, Jos 930214, Plateau State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c82cd6cb4a4e2a4059ed985f7248af2740f00103f901adbf221b0100000092030474657374",
+      "name": "test",
+      "city": "Maiduguri",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.8423496,
+        "lon": 13.1529144
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "test, A3, Maiduguri 600282, Borno State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5184f9861d21062a40593016e1815c252740f00103f90165abcfa8010000009203144e4152524f57204252494447452044414e474552",
+      "name": "NARROW BRIDGE DANGER",
+      "city": "Dalwa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.5729714,
+        "lon": 13.0119714
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NARROW BRIDGE DANGER, A4, Dalwa, Borno State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6df35430552264059003ed3a6457c2440f00103f9018dcebafd010000009203074669656c642031",
+      "name": "Field 1",
+      "city": "Akko",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.2427189,
+        "lon": 11.1601964
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Field 1, BYE PASS ROAD, 760252, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515053cbd6fa3e264059f2272a1bd68c2440f00103f901fb469b2b01000000",
+      "name": "A345",
+      "city": "Akko",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.275071,
+        "lon": 11.1230075
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A345, 760252, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51086c7308c10b21405960c9552c7ef72740f00103f901e7fb6e150000000092030d456d697227732050616c616365",
+      "name": "Emir's Palace",
+      "city": "Dan Agundi",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.9833845,
+        "lon": 8.5229571
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Emir's Palace, Dan Agundi Road, Dan Agundi 700271, Kano State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a976027abd02040597edbb86a437e2640f00103f901492dd62101000000",
+      "name": "245 Rahama to Kafin Mayaki Road",
+      "city": "Tsohon Gari",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 11.2466081,
+        "lon": 8.4075558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "245 Rahama to Kafin Mayaki Road, Tsohon Gari 700, Kano State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fa2f19fc9c1214059b862354c23c82340f00103f9019707988900000000",
+      "name": "A236",
+      "city": "Jos",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.8908943,
+        "lon": 8.8784914
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "A236, Jos 930253, Plateau State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eab8759208c4214059c1012d5dc1ca2340f00103f901b707988900000000",
+      "name": "A236",
+      "city": "Jos",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.8960065,
+        "lon": 8.8828779
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "A236, Jos 930253, Plateau State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160e40a94b9062640595e4df96b0d942440f00103f9019945f7b40100000092031d57454c434f4d4520544f20474f4d42452043454e5452414c2047415445",
+      "name": "WELCOME TO GOMBE CENTRAL GATE",
+      "city": "Lariski",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.2891649,
+        "lon": 11.0131346
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "WELCOME TO GOMBE CENTRAL GATE, A345, Lariski, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513427d4788e592640597ed069ccda9c2440f00103f901bd56a698020000009203225352432047617264656e2c20476f6d626520537461746520556e6976657273697479",
+      "name": "SRC Garden, Gombe State University",
+      "city": "Arawa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.3063568,
+        "lon": 11.1749151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "SRC Garden, Gombe State University, Gombe state university road, Arawa 760253, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126a8e15b58c3214059c99d8834e0ca2340f00103f901055e3b9800000000",
+      "name": "Wase Close",
+      "city": "Jos",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 9.8962418,
+        "lon": 8.8815335
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Wase Close, Jos 930253, Plateau State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169beef84035a264059aacf7a9d799e2440f00103f9019902709702000000",
+      "name": "W/KESA-M/INNA ROAD",
+      "city": "Arawa",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.3095216,
+        "lon": 11.1758081
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "W/KESA-M/INNA ROAD, Arawa 105100, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b47b0ccb616264059a35c757863942440f00103f901f980f7b40100000092031b474f4d424520494e5420434f4e464552454e43452043454e544552",
+      "name": "GOMBE INT CONFERENCE CENTER",
+      "city": "Lariski",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.2898214,
+        "lon": 11.0443634
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GOMBE INT CONFERENCE CENTER, A345, Lariski, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ddd2f551f522640594a552470357c2440f00103f9018ecebafd010000009203074669656c642032",
+      "name": "Field 2",
+      "city": "Akko",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.2425952,
+        "lon": 11.1603953
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Field 2, BYE PASS ROAD, 760252, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6df354305522640597ed23f77387c2440f00103f901f1cebafd010000009203074669656c642033",
+      "name": "Field 3",
+      "city": "Akko",
+      "country": "Nigeria",
+      "country_code": "ng",
+      "coordinates": {
+        "lat": 10.2426183,
+        "lon": 11.1601964
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Field 3, BYE PASS ROAD, 760252, Gombe State, Nigeria",
+      "description": null,
+      "image": null
+    }
+  ]
+}

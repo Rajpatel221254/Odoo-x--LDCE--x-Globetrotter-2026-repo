@@ -1,0 +1,3875 @@
+{
+  "country_code": "bf",
+  "country_name": "Burkina Faso",
+  "boundary_place_id": "5101f099362d02fbbf59163c3bcf8e262840f00101f9010ff1020000000000c0020b92030c4275726b696e61204661736f",
+  "count": 205,
+  "places": [
+    {
+      "place_id": "51c4dca45824dcd53f59b01bb62dca302840f00103f9017c297b380100000092030f436f6c6c696e652073616372c3a965",
+      "name": "Colline sacrée",
+      "city": "Fada N'Gourma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0952925,
+        "lon": 0.3415614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Colline sacrée, N 18, Fada N'Gourma, Gourma, East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fe9e280a7dad83f599f07d22060202840f00103f901e8ad4234010000009203124d61726368c3a920c3a02062c3a97461696c",
+      "name": "Marché à bétail",
+      "city": "Fada N'Gourma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0632334,
+        "lon": 0.3883456
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marché à bétail, N 4, Fada N'Gourma, Gourma, East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bee1992bdea3d83f59462575029a002840f00103f9019e116c3a010000009203174a617264696e20426f74616e697175652042616e746961",
+      "name": "Jardin Botanique Bantia",
+      "city": "Fada N'Gourma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.001175,
+        "lon": 0.3850017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jardin Botanique Bantia, N 18, Fada N'Gourma, Gourma, East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51346a1904b1c7cb3f599ef7b5e4a71f2840f00103f90182c9b6f70000000092031456696c6c6167652064652050616d70616e676f75",
+      "name": "Village de Pampangou",
+      "city": "Kouloungou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0618278,
+        "lon": 0.2170316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Village de Pampangou, N 4, Kouloungou, Gourma, East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5181c93269f8bbca3f59a64984a169202840f00103f901845eb6f700000000920314426172726167652064652050616d70616e676f75",
+      "name": "Barrage de Pampangou",
+      "city": "Kouloungou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0633059,
+        "lon": 0.2088614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Barrage de Pampangou, N 4, Kouloungou, Gourma, East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cedbce88601da3f597e4b4a8b44122840f00103f901e9ad42340100000092030662616f626162",
+      "name": "baobab",
+      "city": "Fada N'Gourma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0356792,
+        "lon": 0.4063432
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "baobab, N 4, Fada N'Gourma, Gourma, East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511359b5b5cff4e33f59e05e3efe77512640f00103f901e10fa23a0100000092031343616d70656d656e7420646520546869616c79",
+      "name": "Campement de Thialy",
+      "city": "Tagou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1591186,
+        "lon": 0.6236342
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Campement de Thialy, Tagou, Kompienga, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51efce35278aabe0bf5990f7aa9509132940f00103f90192c98fb102000000920306536974652032",
+      "name": "Site 2",
+      "city": "Niéga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.5371825,
+        "lon": -0.5209399
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site 2, N 15, Niéga, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517cd7fbe82f6ff6bf59fd8282f7fae72840f00103f9013a14397c020000009203024333",
+      "name": "C3",
+      "city": "Gampéla",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4530866,
+        "lon": -1.4021453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C3, Contournement de Ouagadougou, Gampéla, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c9db1d41fe6f6bf59c2f0b677b26c2840f00103f9013c14397c020000009203024336",
+      "name": "C6",
+      "city": "Koubri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2122991,
+        "lon": -1.4311827
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C6, Autoroute de contournement de Ouagadougou, Koubri, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517df5a7435dfaf6bf59b62e35423f0b2840f00103f9017036e7560100000092030953656c6f6e6768696e",
+      "name": "Selonghin",
+      "city": "Toundou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.021967,
+        "lon": -1.4361241
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Selonghin, D47, Toundou, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51753348669ab5f9bf5950b637ae35762840f00103f901d279645a020000009203144e6f6e206c6f7469206465206461796f75627369",
+      "name": "Non loti de dayoubsi",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2308783,
+        "lon": -1.6068367
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Non loti de dayoubsi, Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168757286e24ef8bf594a6e032d13e42840f00103f9011690e727020000009203076c69746869756d",
+      "name": "lithium",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4454588,
+        "lon": -1.519259
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "lithium, RP, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51daf68777cab4ccbf5989377c1c17132c40f00103f901c697db7a010000009203184a617264696e206465204e4f554754415241204164616d61",
+      "name": "Jardin de NOUGTARA Adama",
+      "city": "Djigo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 14.0372857,
+        "lon": -0.2242673
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Jardin de NOUGTARA Adama, N 23, Djigo, Séno, Sahel, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51102b92657737c5bf59a9520ec1cc722b40f00103f9012a77353c010000009203115275696e65206465206d6f737175c3a965",
+      "name": "Ruine de mosquée",
+      "city": "Bani",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 13.7242184,
+        "lon": -0.1657552
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ruine de mosquée, N 3, Bani, Séno, Sahel, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea0198d7b6bd02c059f768bb534b842840f00103f9019c91df9000000000",
+      "name": "Rue 4.03",
+      "city": "Koudougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2583872,
+        "lon": -2.3426339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 4.03, Koudougou, Boulkiemdé, Central-West, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ddce742f68be7bf59869ad7c7f9692840f00103f90156c99277010000009203194c6120636f7572206475206368656620646520426f75647279",
+      "name": "La cour du chef de Boudry",
+      "city": "Zempassogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2069838,
+        "lon": -0.7358352
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La cour du chef de Boudry, N 4, Zempassogo, Ganzourgou, Central-Plateau, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af78ea9106d702c059abbaa2efc95e2840f00103f9019e301ba70100000092032050c3a86c6572696e61676520436f6c6c696e652064652053616d6269736f676f",
+      "name": "Pèlerinage Colline de Sambisogo",
+      "city": "Rogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.1851344,
+        "lon": -2.354993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Pèlerinage Colline de Sambisogo, D 43, Rogo, Boulkiemdé, Central-West, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df008e983401fbbf59fc784375cee22840f00103f9019e14397c02000000920303433236",
+      "name": "C26",
+      "city": "Sabtenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4429814,
+        "lon": -1.6877943
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C26, Contournement de Ouagadougou, Sabtenga, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc8a355ce49edfbf59c8105bd5ed132940f00103f901c8c88fb102000000920306536974652031",
+      "name": "Site 1",
+      "city": "Niéga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.5389239,
+        "lon": -0.494073
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site 1, N 15, Niéga, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154d856fd5b33f6bf59cb08b99c5c6d2840f00103f901c8a3bf2a03000000920328416c6cc3a965206465732062616f62616273206465204e6170616774696e672d476f756e6768696e",
+      "name": "Allée des baobabs de Napagting-Gounghin",
+      "city": "Koubri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2135972,
+        "lon": -1.3875389
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Allée des baobabs de Napagting-Gounghin, R33, Koubri, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6903a4bda7ef8bf59ed003e2e60bc2840f00103f901bec976cc00000000920312506c6163652064752032204f63746f627265",
+      "name": "Place du 2 Octobre",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3679213,
+        "lon": -1.5309699
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Place du 2 Octobre, Avenue du Yatenga, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a1a6f86765913c0596a93799a824b2540f00103f901bafd393b0000000092030f4c61632064652054656e6772656c61",
+      "name": "Lac de Tengrela",
+      "city": "Tengréla",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.6474808,
+        "lon": -4.8373662
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lac de Tengrela, Tengréla, Comoé, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110c41e7f0e78f8bf59c91d3691994f2640f00103f90122f8363b00000000",
+      "name": "Main road",
+      "city": "Nahouri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1554685,
+        "lon": -1.5293107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Main road, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d87624a82be9f1bf599c19fd6838312740f00103f901b6fe285001000000920307736f75676f7572",
+      "name": "sougour",
+      "city": "Sougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5961335,
+        "lon": -1.1194264
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "sougour, Sougou, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e0df560f742f2bf59a741d13c804d2740f00103f9011a08295001000000920305424f555241",
+      "name": "BOURA",
+      "city": "Larga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.651369,
+        "lon": -1.1413492
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "BOURA, Nicolás, Larga, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51847b2cc111a710c059d2e07b1313222740f00101f90178b4be00000000009203164d617272652061757820686970706f706f74616d6573",
+      "name": "Marre aux hippopotames",
+      "city": "Houet",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.56655178916154,
+        "lon": -4.163153665866847
+      },
+      "categories": [
+        "natural",
+        "natural.wetland",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Marre aux hippopotames, Houet, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194d519845e84f2bf59ccfff51b37ca2740f00103f90142d1d2510100000092030a626f6e6f6d746f72c3a9",
+      "name": "bonomtoré",
+      "city": "Nini Nobere",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.8949517,
+        "lon": -1.1573167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "bonomtoré, Nini Nobere, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514141cea046c6f2bf594e4b0746b9132740f00103f901e218295001000000920306546f6773c3a9",
+      "name": "Togsé",
+      "city": "Nobéré",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5385229,
+        "lon": -1.1734072
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Togsé, N 5, Nobéré, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517715527e52edf2bf5996f37b5171162740f00103f9011808295001000000920309736f756c656772c3a9",
+      "name": "soulegré",
+      "city": "Nobéré",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5438333,
+        "lon": -1.18294
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "soulegré, N 5, Nobéré, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb7b80eecb79fbbf59914d4dddf0a62840f00103f90108bccf730000000092031d42617a6f756c65205361637265642043726f636f64696c6520506f6f6c",
+      "name": "Bazoule Sacred Crocodile Pool",
+      "city": "Bazoulé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3260564,
+        "lon": -1.7172355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bazoule Sacred Crocodile Pool, R 34, Bazoulé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513782f9d0aa1bf8bf597927fad74dbc2840f00103f90132ecdb0301000000920316526f6e642d706f696e74206465206c612046656d6d65",
+      "name": "Rond-point de la Femme",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3677814,
+        "lon": -1.5067547
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond-point de la Femme, Rue 14.54, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a7d59daa979f9bf5942e8a04b38782840f00103f901d813397c02000000920303433135",
+      "name": "C15",
+      "city": "Kogononghin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2348045,
+        "lon": -1.592203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C15, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ca4f55c4b6df8bf592f91668753bd2840f00103f9017c2a50da00000000",
+      "name": "Avenue Nelson Mandela",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3697779,
+        "lon": -1.5266832
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue Nelson Mandela, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f245d67503e0fabf59c2dec4909ce82840f00103f901aa2b397c02000000920303433235",
+      "name": "C25",
+      "city": "Sabtenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4543195,
+        "lon": -1.6796908
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C25, Contournement de Ouagadougou, Sabtenga, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c81c1549059f14c0598a613da4ce4e2540f00103f9018808473b00000000",
+      "name": "R 21",
+      "city": "Sindou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.6539203,
+        "lon": -5.1552936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "R 21, Sindou, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518422275d4405f5bf59a9fe9cddb5672640f00103f901861e7dc002000000",
+      "name": "0001 Main road",
+      "city": "Nahouri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.2025594,
+        "lon": -1.3137859
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "0001 Main road, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197056e3887c6e6bf59aeb1f09afccf2640f00103f901620c2950010000009203064c656f75706f",
+      "name": "Leoupo",
+      "city": "Goyenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.4062241,
+        "lon": -0.7117344
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Leoupo, N 29, Goyenga, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f115b30a75af9bf5962d630e829772840f00103f9013e14397c02000000920303433134",
+      "name": "C14",
+      "city": "Kogononghin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2327416,
+        "lon": -1.5846321
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C14, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8354fbf559803c0596250018b57702840f00103f9019ae5ff980100000092031943656e7472652041677269636f6c6520646520476f756e6469",
+      "name": "Centre Agricole de Goundi",
+      "city": "غوندي Goundi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2194179,
+        "lon": -2.4493823
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centre Agricole de Goundi, N 14, غوندي Goundi, Sanguié, Central-West, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51261de56036c1f9bf59c690f7054f502640f00103f901f4c1c90201000000",
+      "name": "Main road",
+      "city": "Nahouri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1568529,
+        "lon": -1.609671
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Main road, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5415e0f2605ecbf5945e8b17790f82640f00103f90198d22850010000009203077a6f756e676f75",
+      "name": "zoungou",
+      "city": "Tiougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.4854772,
+        "lon": -0.8756285
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "zoungou, N 29, Tiougou, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e037058bf7ef3bf590827fd18ce9c2840f00103f901aae8d94103000000",
+      "name": "Nacro",
+      "city": "Koubri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3062599,
+        "lon": -1.2184442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nacro, Koubri, Kadiogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155185b0872f0f7bf59e525ff93bf6f2840f00103f9016615397c020000009203024338",
+      "name": "C8",
+      "city": "Bassiyam",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2182585,
+        "lon": -1.4962025
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C8, Autoroute de contournement de Ouagadougou, Bassiyam, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5152c02ca34722f9bf59882d3d9aeaad2840f00103f9014cb9402b010000009203084348455a2044455a",
+      "name": "CHEZ DEZ",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3396805,
+        "lon": -1.5708691
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "DEZ ROOM, Rue 17.423, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193286a1fe10af8bf5978a74c7b949f2840f00103f90160fbef4d02000000",
+      "name": "two raised fists",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3116797,
+        "lon": -1.5026561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "two raised fists, Rond-Point du Monument des Héros Nationaux, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513df8e4bc5aa9f8bf598797f10060722840f00103f9016815397c02000000920303433130",
+      "name": "C10",
+      "city": "Kogononghin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2233887,
+        "lon": -1.5413463
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C10, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517dd8c177518af7bf5968f805aa35132840f00103f9010ca9e6560100000092030742495353494741",
+      "name": "BISSIGA",
+      "city": "Koakin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0375188,
+        "lon": -1.4712691
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "BISSIGA, Départementale 39, Koakin, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519affa1aa536ff9bf59db7e43f2dfd92840f00103f901ec8c382e0200000092030753696d706f7265",
+      "name": "Simpore",
+      "city": "Yagma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4255367,
+        "lon": -1.5896794
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Simpore, Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516791370a5a92e3bf59cb5e5be443692940f00103f901fec78fb1020000009203055369746534",
+      "name": "Site4",
+      "city": "Boulsa",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.7055961,
+        "lon": -0.6116152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site4, R 2, Boulsa, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebfe03847992f8bf5905fb56c9a1ba2840f00102f901f43fd601000000009203074645535041434f",
+      "name": "FESPACO",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3645155829122,
+        "lon": -1.5357604176387507
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Panafrican Film and Television Festival of Ouagadougou, Avenue Kadiogo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7621dd83bed02c05937b4b74a666f2840f00103f9014e35237f00000000",
+      "name": "Route de Sabou",
+      "city": "Palogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2175773,
+        "lon": -2.3658368
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route de Sabou, Palogo, Boulkiemdé, Central-West, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ffd76fdc1871d9bf594b1bb39190392840f00103f9016f64ad060100000092031463726f697820737572206c652062617272616765",
+      "name": "croix sur le barrage",
+      "city": "Gorgo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.1124311,
+        "lon": -0.3975279
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "croix sur le barrage, N 16, Gorgo, Kouritenga, Central-East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510048b76fffdbf6bf59291197d2e9b72840f00103f90191dbf22c020000009203135472616f72652061707061756c696e61697265",
+      "name": "Traore appaulinaire",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3592058,
+        "lon": -1.4287104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Traore appaulinaire, piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b06ab52c041ef7bf5967367e9708c62840f00103f901d679c19d0200000092032072c3a9736964656e63652054616e69204f75737365696e692061205361616261",
+      "name": "résidence Tani Ousseini a Saaba",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3867843,
+        "lon": -1.4448282
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "résidence Tani Ousseini a Saaba, Rue 28.310, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff78af5a9910f3bf59107e3dba6ca32840f00103f901613e91e30100000092030f4b6f6d6b616761207465727261696e",
+      "name": "Komkaga terrain",
+      "city": "Nagréongo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3191889,
+        "lon": -1.1915525
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Komkaga terrain, Nagréongo, Oubritenga, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c54ec29668faf8bf597c18101082742840f00103f901d713397c02000000920303433132",
+      "name": "C12",
+      "city": "Kogononghin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2275548,
+        "lon": -1.5611349
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C12, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f9656e8288cfabf59345074b8b1902840f00103f901a92b397c02000000920303433230",
+      "name": "C20",
+      "city": "Yimdi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2826059,
+        "lon": -1.6592187
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C20, Autoroute de contournement de Ouagadougou, Yimdi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168e90ab6112ff9bf597b4b395fec752840f00103f9013d14397c02000000920303433133",
+      "name": "C13",
+      "city": "Kogononghin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.230319,
+        "lon": -1.5739915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C13, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511618b2bad5b3f8bf59382394089eb82840f00103f9017fee363a0100000092031550616c6169732064652053616e656d204e61616261",
+      "name": "Palais de Sanem Naaba",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3605807,
+        "lon": -1.543905
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palais de Sanem Naaba, Rue de Grenoble, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7eb89ae0bfffabf5977ad73c23ab42840f00103f901da13397c02000000920303433233",
+      "name": "C23",
+      "city": "Tinsouka",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3520108,
+        "lon": -1.687267
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C23, Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51598baabaa26ff7bf599bc761307fb92840f00103f90135048e470200000092030f4f75656472616f676f2032206f6e65",
+      "name": "Ouedraogo 2 one",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3622985,
+        "lon": -1.4647548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ouedraogo 2 one, Avenue Kanzandé Leopold, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51595afc5c2338c5bf59647f34f7eb712b40f00103f9011a7a353c010000009203115275696e65206465206d6f737175c3a965",
+      "name": "Ruine de mosquée",
+      "city": "Bani",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 13.7225034,
+        "lon": -0.1657757
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ruine de mosquée, N 3, Bani, Séno, Sahel, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51794d5997648e01c059544cef2c8b672940f00103f901512e03df00000000",
+      "name": "Nanoro",
+      "city": "Nanoro",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.7022337,
+        "lon": -2.1945278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nanoro, Boulkiemdé, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51649de0511935fabf59e6ac4f3926872840f00103f901611e397c02000000920303433139",
+      "name": "C19",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2639635,
+        "lon": -1.6379636
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C19, Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160aba9d1509803c05902b859bc58702840f00103f901f55b00990100000092031943656e7472652041677269636f6c6520646520476f756e6469",
+      "name": "Centre Agricole de Goundi",
+      "city": "غوندي Goundi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.219427,
+        "lon": -2.4493729
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centre Agricole de Goundi, N 14, غوندي Goundi, Sanguié, Central-West, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b40ab8207bcf6bf599801c2e2cbbf2840f00103f9016bf8bd6b0100000092031b536974652064657320666f726765726f6e73206465205361616261",
+      "name": "Site des forgerons de Saaba",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3746024,
+        "lon": -1.4209056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Site des forgerons de Saaba, piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a12de7525cf5fabf593cfb253d67ae2840f00103f9016b15397c02000000920303433232",
+      "name": "C22",
+      "city": "Tinsouka",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3406314,
+        "lon": -1.6849025
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C22, Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d75bb9cd0aeb09c0597972f2c7592d2840f00103f901654b7d2702000000920309454345442042415241",
+      "name": "ECED BARA",
+      "city": "Bara",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0885756,
+        "lon": -3.2397667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ECED BARA, Bara, Mouhoun, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d7e349c32b7f5bf5973f1b73d411e2840f00103f9017136e756010000009203084e494e54454e4741",
+      "name": "NINTENGA",
+      "city": "Kombissiri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.0590915,
+        "lon": -1.357226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "NINTENGA, D-39, Kombissiri, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b0e2f8848adf6bf59b8f072c7516f2840f00103f9013b14397c020000009203024335",
+      "name": "C5",
+      "city": "Koubri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2174208,
+        "lon": -1.4173055
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C5, N 5, Koubri, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195021c8c22b5e3bf59486a46abff6c2940f00103f90119bc93b1020000009203055369746535",
+      "name": "Site5",
+      "city": "Boulsa",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.7128881,
+        "lon": -0.6158612
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site5, R 2, Boulsa, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103c70a23622ff7bf5967f8aaf0c2d92840f00103f901918dc84a0200000092030a53c3a96261737469656e",
+      "name": "Sébastien",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4253154,
+        "lon": -1.4490682
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sébastien, N 3, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b18b14f00c5b8bf593c4ed1915c062840f00103f901873eb6f70000000092031256696c6c616765206465204c616e7461676f",
+      "name": "Village de Lantago",
+      "city": "Gourma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.012425,
+        "lon": -0.096756
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Village de Lantago, Gourma, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d9e961fb80af8bf59097e65efd69f2840f00103f901d67d61580000000092031d4d6f6e756d656e74206175782068c3a9726f73206e6174696f6e617578",
+      "name": "Monument aux héros nationaux",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3121867,
+        "lon": -1.502617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Monument to National Heroes, Rond-Point du Monument des Héros Nationaux, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e44bfb67ebaf8bf59a62c9ed55dc02840f00103f9015d721b240200000092030b4761726167652044616f75",
+      "name": "Garage Daou",
+      "city": "Larlé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3757159,
+        "lon": -1.545531
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Garage Daou, Rue 10.39, Larlé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51843ea253a16bf8bf598878358af6be2840f00103f901bcc976cc00000000920310506c616365204e61616261204b6f6f6d",
+      "name": "Place Naaba Koom",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3729747,
+        "lon": -1.5262769
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Place Naaba Koom, Place Naba Koom, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef5701bedbbcf9bf59e28629dbd17d2840f00103f90113a9e656010000009203094e61626974656e6761",
+      "name": "Nabitenga",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2457417,
+        "lon": -1.608608
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nabitenga, Vagadugu Çevre Yolu, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51476b56c73b11e3bf59519907550f612940f00103f901214693b1020000009203055369746533",
+      "name": "Site3",
+      "city": "Boulsa",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.6895701,
+        "lon": -0.5958537
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site3, R 2, Boulsa, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9991f24b09ef9bf59f401dc8717df2840f00103f9012d8ab15002000000920312336b76612064652073757065722077656c6c",
+      "name": "3kva de super well",
+      "city": "Yagma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4357264,
+        "lon": -1.6012422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "3kva de super well, Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c037f2e5aa9ed6bf59cd6ed2d96e4b2840f00103f9011fd641f9000000009203074e616b616c626f",
+      "name": "Nakalbo",
+      "city": "Koupéla",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.1473301,
+        "lon": -0.3534343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nakalbo, N 16, Koupéla, Kouritenga, Central-East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5ffde1225c6f6bf59871a8524b3ee2840f00103f9013914397c020000009203024332",
+      "name": "C2",
+      "city": "Kadiogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4662105,
+        "lon": -1.4233752
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C2, Nationale 3, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5151908e6104d309c059a4e9471ee3f52540f00103f90120ad692b00000000",
+      "name": "Rue Kanazoe",
+      "city": "Diébougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.9802484,
+        "lon": -3.2280357
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue Kanazoe, Diébougou, Bougouriba, Southwest, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513007e68d38a900c0598553307436862840f00103f9015d778e5f010000009203074e49414b41444f",
+      "name": "NIAKADO",
+      "city": "Poa",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2621342,
+        "lon": -2.0826274
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "NIAKADO, D41, Poa, Boulkiemdé, Central-West, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9b72d80df55f9bf59d7868a71fede2840f00103f9013dae322d020000009203026634",
+      "name": "f4",
+      "city": "Yagma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.435535,
+        "lon": -1.5834651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "f4, Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168a55a55404bf1bf59d02456eb69282a40f00103f901bb23641e01000000920305466f726765",
+      "name": "Forge",
+      "city": "Kaya",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 13.0789331,
+        "lon": -1.0808719
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Forge, N 3, Kaya, Sanmatenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512471a0d167d1f7bf59a8b51fdf94bc2840f00103f901f1a3e1f501000000920317506c616365206465206ce2809941726368697465637465",
+      "name": "Place de l’Architecte",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3683233,
+        "lon": -1.4886244
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Place de l’Architecte, Place de l'Architecte, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3802557b138f8bf5998045e1c4baa2840f00103f9019be773040100000092030a6368657a20616c61696e",
+      "name": "chez alain",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3326043,
+        "lon": -1.513841
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "chez alain, Boulevard T. Reongo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a534f680d441f8bf59442ad6ba1ebe2840f00103f901ae1d698f0000000092031a42454e45455245204152544953414e415420414652494341494e",
+      "name": "BENEERE ARTISANAT AFRICAIN",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3713282,
+        "lon": -1.5160718
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "BENEERE ARTISANAT AFRICAIN, Avenue du Président Aboubacar Sangoulé Lamizana, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510bd5cdc5df16f9bf593769bf5a5aa62840f00103f90159c7215e0200000092030e46616d696c6c65204e4142494c41",
+      "name": "Famille NABILA",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3249081,
+        "lon": -1.5680845
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Famille NABILA, Rue 17.474, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51553a0e72cdd3afbf5904fd2a65be142c40f00103f90131624cb00100000092031a506c616365206465206c61206e6174696f6e20646520446f7269",
+      "name": "Place de la nation de Dori",
+      "city": "Ouro Sanboey",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 14.0405151,
+        "lon": -0.0621628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Place de la nation de Dori, N 23, Ouro Sanboey, Séno, Sahel, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdea7827fa97f8bf59113d844c8daf2840f00103f901d58e6306020000009203164d61726368c3a9206465204b6f756b696e2d59616172",
+      "name": "Marché de Koukin-Yaar",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3428749,
+        "lon": -1.5371038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Marché de Koukin-Yaar, Boulevard Ratag Pima, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519aba8674d301f9bf5990b52b9908fc2840f00103f9010d13397c0200000092030d636f6e746f75726e656d656e74",
+      "name": "contournement",
+      "city": "Katabtenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4922531,
+        "lon": -1.5629458
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "contournement, N 22, Katabtenga, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a592b7f63d4f7bf59e18b40063c8a2840f00103f901499ac8a2010000009203064368616e7475",
+      "name": "Chantu",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2699892,
+        "lon": -1.4893527
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chantu, Boulevard Muammar Kaddafi, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b711aa2fa6d4f9bf59d1d4a189667c2840f00103f9016915397c02000000920303433138",
+      "name": "C18",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2429698,
+        "lon": -1.6144163
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C18, Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3239639022d07c05957dc6e38e25f2740f00103f90192e52c4301000000920315466f7265742064657320646575782062616cc3a973",
+      "name": "Foret des deux balés",
+      "city": "Boromo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6872728,
+        "lon": -2.8969769
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Foret des deux balés, Boromo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5132cfeb72cb8cf4bf5973a04f7cce122940f00102f901eb449c1f0000000092031f5363756c70747572657320737572204772616e6974206465204c616f6e676f",
+      "name": "Sculptures sur Granit de Laongo",
+      "city": "Laongo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.536731610031188,
+        "lon": -1.2843737115008023
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sculptures sur Granit de Laongo, D 40, Laongo, Oubritenga, Central-Plateau, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5182fdd7b96993f8bf59b2e0d97976c02840f00103f9015960e569010000009203114173736f63696174696f6e204147464142",
+      "name": "Association AGFAB",
+      "city": "Larlé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3759039,
+        "lon": -1.5359895
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Agfab, Rue Pusumpugu, Larlé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518bb0975c7bd5fabf5937e73b53439a2840f00103f9016a15397c02000000920303433231",
+      "name": "C21",
+      "city": "Yimdi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3012949,
+        "lon": -1.6771196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C21, N 1, Yimdi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51164ef87b0a70f8bf5906cd5b582bbd2840f00102f901a276f512000000009203154c612076697472696e652064752042726f6e7a652a",
+      "name": "La vitrine du Bronze*",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.369471322256242,
+        "lon": -1.5273537485671844
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "La vitrine du Bronze*, Avenue Nelson Mandela, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e27d5e3635cf7bf598f064bd0ba6d2840f00103f9016515397c020000009203024337",
+      "name": "C7",
+      "city": "Koubri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2143159,
+        "lon": -1.4600562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C7, Autoroute de contournement de Ouagadougou, Koubri, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0c56e9f55c6f8bf595b77989b14732840f00103f901d613397c02000000920303433131",
+      "name": "C11",
+      "city": "Kogononghin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2247666,
+        "lon": -1.5484215
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C11, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5f40df1b461f8bf59737ff5b86fb92840f00103f90139db8577020000009203094d7572656e64756974",
+      "name": "Murenduit",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3621805,
+        "lon": -1.5238542
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Murenduit, Avenue Mogho Naba Koom I, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a00e6b56db3f9bf59e8644e3c0c762840f00103f9019d42e6630200000092030f4461796f75627369206d6169736f6e",
+      "name": "Dayoubsi maison",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2305621,
+        "lon": -1.6063058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dayoubsi maison, Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d27a1f4859011c0593fea0a11cbb52640f00103f901ba4be608010000009203236368616d702062616d6120616c626572742028706f736974696f6e20666f7261676529",
+      "name": "champ bama albert (position forage)",
+      "city": "Bama",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.3550649,
+        "lon": -4.391136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "champ bama albert (position forage), N 9, Bama, Houet, Upper-Basins, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e652e15c0b9fbbf595fb939f0c5ae2840f00103f901b1dc4402030000009203174368657a2041646a612053616c696d61746120534f5245",
+      "name": "Chez Adja Salimata SORE",
+      "city": "Bazoulé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3413539,
+        "lon": -1.7328492
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chez Adja Salimata SORE, R 34, Bazoulé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e97de36bcf0cf7bf5917ceda125eb72840f00103f90149c8f827020000009203105472616f7265206d696c697461697265",
+      "name": "Traore militaire",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3581396,
+        "lon": -1.4406275
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Traore militaire, rue 28.150, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0f3c308e151f8bf59666b7d91d0e62840f00103f901ebafc52c010000009203125465727261696e20c3a02061636865746572",
+      "name": "Terrain à acheter",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.45081,
+        "lon": -1.51999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Terrain à acheter, RP, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8d90efc5ed9f6bf59ffae74e3825c2840f00103f90139bc38270200000092030a5a696461206665726d65",
+      "name": "Zida ferme",
+      "city": "Koubri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.1806861,
+        "lon": -1.4280691
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Zida ferme, R 33, Koubri, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fb5ef9b0c58f6bf592fdcb930d2a32740f00103f9014222d2510100000092030853696c6b6f756b61",
+      "name": "Silkouka",
+      "city": "Kaongho",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.819963,
+        "lon": -1.3964964
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Silkouka, Couloir à bétail, Kaongho, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfa238ef317bf8bf5968205aa843bb2840f00102f901e9479f120000000092031550616c6169732044752042616c6f756d204e616261",
+      "name": "Palais Du Baloum Naba",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.36575056171587,
+        "lon": -1.530076918085047
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palais Du Baloum Naba, Rue Balm Naba Tenga, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f4fe3f4e9890f8bf5949528836b6712840f00103f9016715397c020000009203024339",
+      "name": "C9",
+      "city": "Bassiyam",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2220933,
+        "lon": -1.5353015
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C9, Nationale 6, Bassiyam, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51636f7374a6daebbf5970e4260fb00b2640f00103f9018446fc49010000009203105a6563636f204e61626120596972c3a9",
+      "name": "Zecco Naba Yiré",
+      "city": "Arroumbissi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.0228276,
+        "lon": -0.8704407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Zecco Naba Yiré, N 25, Arroumbissi, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162ef6a5e7a20f8bf59f4797bc674bf2840f00103f90123eedb0301000000920314526f6e642d706f696e7420647520506f756c6574",
+      "name": "Rond-point du Poulet",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3739378,
+        "lon": -1.5079292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond-point du Poulet, Boulevard Capitaine Isidore Noël Thomas Sankara, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ad8b04bf955f9bf5972c119fcfdde2840f00103f901d9ad322d02000000",
+      "name": "Rue 21.37",
+      "city": "Yagma",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4355315,
+        "lon": -1.5834897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ef2bd75b460fabf5964d5d63ed3612840f00103f901fd5f74580100000092030a4775657377656e64c3a9",
+      "name": "Gueswendé",
+      "city": "Sogué",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.1910648,
+        "lon": -1.6486096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gueswendé, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a41ccc26c070f8bf593be5d18db0bc2840f00103f901bdc976cc00000000920313506c616365206465732043696e656173746573",
+      "name": "Place des Cineastes",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3685345,
+        "lon": -1.527527
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Place des Cineastes, Place des Cinéastes, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5144e6255a4d72e3bf59f09d3d3cf08e2940f00103f90185c4c5c10100000092030b6368657a207365646f676f",
+      "name": "chez sedogo",
+      "city": "Bonam",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.7791766,
+        "lon": -0.6077029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "chez sedogo, N 15, Bonam, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51817a336abe4ae3bf59f7aba525fb5c2940f00103f901914493b1020000009203055369746531",
+      "name": "Site1",
+      "city": "Boulsa",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.6816036,
+        "lon": -0.602874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site1, R 2, Boulsa, Namentenga, Central-North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0aae001af1002c059ca17b49080e92940f00103f901f90ca8a302000000",
+      "name": "ventouse maison de jeune",
+      "city": "Yako",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.956059,
+        "lon": -2.2581463
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ventouse maison de jeune, Avenue du Yatenga, Yako, Passoré, North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9b51897054ef7bf59e6632df477e12840f00103f90149d0ba9e0200000092031952c3a9736964656e636520446f75646f75205472616f72c3a9",
+      "name": "Résidence Doudou Traoré",
+      "city": "Nong-Warbin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4403683,
+        "lon": -1.4565483
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Résidence Doudou Traoré, Rue 25.02, Nong-Warbin, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5153a6e210bbe0f5bf5903c70a2362df2840f00103f9019d14397c020000009203024334",
+      "name": "C4",
+      "city": "Gampéla",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4362956,
+        "lon": -1.3673659
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C4, N 4, Gampéla, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a5c493ceaf9f5bf59467efd101bbc2840f00103f901e5b41b9a020000009203144f75656472616f676f204368726973746f706865",
+      "name": "Ouedraogo Christophe",
+      "city": "Tanguen",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.367394,
+        "lon": -1.3735144
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ouedraogo Christophe, Contournement de Ouagadougou, Tanguen, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5105ad1b4a485ff7bf59606f078fdbb82840f00103f9015510343d010000009203094d61206d6169736f6e",
+      "name": "Ma maison",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3610501,
+        "lon": -1.4607623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ma maison, Avenue Kanzandé Leopold, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51645694b7c8e2f8bf597682a21e47b82840f00103f9016502ed7502000000920311506c616365206465206c612046656d6d65",
+      "name": "Place de la Femme",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3599176,
+        "lon": -1.5553672
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Place de la Femme, Rue 9.22, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512034716193ebfabf596864eb747bcc2840f00103f901eda4ff4002000000920309736320417373616d69",
+      "name": "sc Assami",
+      "city": "Tinsouka",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3993794,
+        "lon": -1.6825136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "sc Assami, Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ed59c723beaf2bf5911fba99619a72840f00103f901993d91e30100000092030d4368616d70206b6f6d6b616761",
+      "name": "Champ komkaga",
+      "city": "Nagréongo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3263671,
+        "lon": -1.1821856
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Champ komkaga, Nagréongo, Oubritenga, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189015cdabac5f9bf598c1aa77c637b2840f00103f901d913397c02000000920303433137",
+      "name": "C17",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2409934,
+        "lon": -1.6107739
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C17, Vagadugu Çevre Yolu, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db3ff7ac857f01c0592dde00852b5f2940f00102f9016f679b0f0000000092031650616c616973206475204e616162612054696772c3a9",
+      "name": "Palais du Naaba Tigré",
+      "city": "Nanoro",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.685878902774755,
+        "lon": -2.1872666848139324
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Palais du Naaba Tigré, Nanoro, Boulkiemdé, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166f4a3e194f9f8bf59364470b77f842840f00103f90155ba645d0100000092034343656e74726520646520466f726d6174696f6e2065742064e28099416c70686162c3a97469736174696f6e2041726dc3a9652044752053616c757420506f657373696e",
+      "name": "Centre de Formation et d’Alphabétisation Armée Du Salut Poessin",
+      "city": "Kadiogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2587869,
+        "lon": -1.560933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "The Salvation Army Training and Literacy Center-Poessin, Residence Road, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515583d5fd0808f3bf5959ba27b451a22840f00103f9013f870b0d020000009203134c65207465727261696e20c3a0207a616e6761",
+      "name": "Le terrain à zanga",
+      "city": "Nagréongo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3170296,
+        "lon": -1.1894617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Le terrain à zanga, Nagréongo, Oubritenga, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514d3ff2182fe7f7bf597b5dd08c8f042940f00103f901d513397c020000009203026331",
+      "name": "c1",
+      "city": "Katabtenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.5089077,
+        "lon": -1.4939414
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "c1, R 34, Katabtenga, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512bf05f6a950af8bf593d7d04fef0b72840f00103f9011999436301000000920317446f6d6963696c65204164656c696e65205365646f676f",
+      "name": "Domicile Adeline Sedogo",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3592605,
+        "lon": -1.5025839
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Domicile Adeline Sedogo, rue 14.51, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108347d1b07e3fabf596e7a617ce2da2840f00103f901abe8d94103000000",
+      "name": "Chef Nacro",
+      "city": "Sabtenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4275092,
+        "lon": -1.6804267
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chef Nacro, Contournement de Ouagadougou, Sabtenga, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179df42684ee8f7bf59e782442454c62840f00103f901450d738802000000",
+      "name": "Bangré Wéogho Zoo",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3873607,
+        "lon": -1.4942154
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bangré Wéogho Zoo, Avenue Pape Jean Paul II, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ab8ea3b85a9f8bf59d4db17afffc12840f00102f9010d43d8010000000092031250616c616973204f75696469204e61616261",
+      "name": "Palais Ouidi Naaba",
+      "city": "Kologh-Naba",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.378903838789405,
+        "lon": -1.5413868275168263
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Palais Ouidi Naaba, Rue 11.47, Kologh-Naba, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b444fcaa486f8bf5987962b723eb32840f00103f9014d0f63220200000092030742757665747465",
+      "name": "Buvette",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3500858,
+        "lon": -1.532872
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Buvette, Rue Mogho Naba Kouda (7.07), Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5188390ed63ef0f8bf59294bcbd59abf2840f00102f9013121d8010000000092031750616c616973206465204f75676f646f676f204e616261",
+      "name": "Palais de Ougodogo Naba",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.37422817331897,
+        "lon": -1.5586536752267381
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palais de Ougodogo Naba, Rue de l'Hippodrome, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dba2cc0699a4f9bf59fc7502f5c1792840f00103f901bd17397c02000000920303433136",
+      "name": "C16",
+      "city": "Dayoubsi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2378079,
+        "lon": -1.602685
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C16, Vagadugu Çevre Yolu, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dcb122b42feaf9bf592670eb6e9e5a2840f00103f9011336e7560100000092030c446177616e65676f6d64c3a9",
+      "name": "Dawanegomdé",
+      "city": "Sogué",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.17699,
+        "lon": -1.6196744
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dawanegomdé, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfe8972dfe5bfbbf59d9ec48f59da32840f00103f9010182e903030000009203314d7573c3a96520646573204172747320657420646573205361766f697273204d6f7373c3a92064652042617a6f756cc3a9",
+      "name": "Musée des Arts et des Savoirs Mossé de Bazoulé",
+      "city": "Bazoulé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3195645,
+        "lon": -1.7099592
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Musée des Arts et des Savoirs Mossé de Bazoulé, R 34, Bazoulé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155df54ff7b8bf8bf591c6d663e31d82840f00103f901b1d5c47a020000009203184368657a2041776120646520796162612074616d706f7579",
+      "name": "Chez Awa de yaba tampouy",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4222507,
+        "lon": -1.5340538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chez Awa de yaba tampouy, Rue 22.30, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f680586ac6ef9bf597ddcc8867fae2840f00103f9013dcf4a9e020000009203183333206d616e67756965727320426f756c6d696f75676f75",
+      "name": "33 manguiers Boulmiougou",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3408167,
+        "lon": -1.58952
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "33 manguiers Boulmiougou, +22655754242 Rue 17.552, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511308e00b38b0f9bf59bd265aa8ebcf2840f00103f9018969652a02000000920318476e6f756d6f7520736170657572732d706f6d7069657273",
+      "name": "Gnoumou sapeurs-pompiers",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4060948,
+        "lon": -1.6055222
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gnoumou sapeurs-pompiers, Rond-Point du Haut-Marcoussis, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180e3214212ccf8bf5910a8a388b1e92840f00103f901b11905f60000000092030b43524541462f494e455241",
+      "name": "CREAF/INERA",
+      "city": "Kamboincé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4564326,
+        "lon": -1.5498221
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "CREAF/INERA, N 22, Kamboincé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b15d5d9925703c059e0c1b082d7292b40f00102f9014126ff0c000000009203134d6175736f6cc3a9204e616261204b616e676f",
+      "name": "Mausolé Naba Kango",
+      "city": "Ouahigouya",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 13.58172233970339,
+        "lon": -2.4177605646279168
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mausolé Naba Kango, Rond point Naba Kango, Ouahigouya, Yatenga, North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cac6dee6e8ccf6bf5905a8041fdec22840f00103f901455b1aa3010000009203124368616e74696572206465204d2e20536f75",
+      "name": "Chantier de M. Sou",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3806009,
+        "lon": -1.4250268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chantier de M. Sou, piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516aaa82ac0210a2bf59f8f24c79be102c40f00103f9011194c67401000000920316526f6e642d706f696e742041726261204449414c4c4f",
+      "name": "Rond-point Arba DIALLO",
+      "city": "Dori",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 14.0327032,
+        "lon": -0.0352784
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rond-point Arba DIALLO, N 23, Dori, Séno, Sahel, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511d554d10753ff7bf59a0afb4e78da62840f00103f90191ecd94103000000",
+      "name": "Nassera rayongo",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.3253014,
+        "lon": -1.4529925
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nassera rayongo, 30.935, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d644550218b500c05969119bd9f8b92940f00103f90179f3a5a30200000092030876656e746f757365",
+      "name": "ventouse",
+      "city": "Yibi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.8632267,
+        "lon": -2.0884247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ventouse, N 2, Yibi, Passoré, North, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519858cfff614913c059080264e8d8712540f00103f9011325db4201000000",
+      "name": "Route Kolokolo - Fabédougou",
+      "city": "Kolokolo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.722358,
+        "lon": -4.8216629
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route Kolokolo - Fabédougou, Kolokolo, Comoé, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bdb156a30de614c059335cd372568e2540f00103f9014944ec0101000000920308426f75676f756c61",
+      "name": "Bougoula",
+      "city": "Bougoula",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.7780033,
+        "lon": -5.2246614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bougoula, R 27, Bougoula, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b29c84d217aa15c05971299dfea22e2540f00103f9013d03473b0000000092032156696c6c6167652054726f676c6f64697465206465204e69616e67736f676f6e69",
+      "name": "Village Troglodite de Niangsogoni",
+      "city": "Nafan?",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.5910873,
+        "lon": -5.4161065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Village Troglodite de Niangsogoni, D62, Nafan?, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e347cb0317409c059cd9541b5c1a92440f00103f901a7750d5400000000",
+      "name": "N 11",
+      "city": "Gaoua",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.331556,
+        "lon": -3.1817354
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N 11, Gaoua, Poni, Southwest, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119703bd97253fdbf59ca784abd5d512740f00103f901618163c2010000009203044469616f",
+      "name": "Diao",
+      "city": "Bakata",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6589183,
+        "lon": -1.8328732
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Diao, Bakata, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5182d0306b18640bc0594c46dfeef65e2840f00103f901714541260200000092030c45434544204465205049c389",
+      "name": "ECED De PIÉ",
+      "city": "Pié",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.1854777,
+        "lon": -3.4238747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ECED De PIÉ, Pié, Mouhoun, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7cdba90585ce6bf59f4e791f58ab92640f00103f9019483d2510100000092030844696e646965676f",
+      "name": "Dindiego",
+      "city": "Goyenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.3623883,
+        "lon": -0.6987727
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dindiego, N 29, Goyenga, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b0ed18d55aff4bf5936cafacdc4602740f00103f90125062950010000009203066b6f616b696e",
+      "name": "koakin",
+      "city": "Koakin",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6890015,
+        "lon": -1.2928062
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "koakin, Koakin, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf38a7487445efbf596e8b321b649a2740f00103f901f7b8d0510100000092030e6b61c3af626f206e6f7264207634",
+      "name": "kaïbo nord v4",
+      "city": "Kaïbo-Centre",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.801545,
+        "lon": -0.9772283
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "kaïbo nord v4, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5116832cb06ccbeebf592140e147903d2640f00103f901955afdf50000000092031542617272616765206465205469c3a962c3a96cc3a9",
+      "name": "Barrage de Tiébélé",
+      "city": "Corabié",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1202414,
+        "lon": -0.9623321
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Barrage de Tiébélé, N 25, Corabié, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc0512143fc6eebf59d355702eb42d2640f00103f9015e95ac01010000009203074e616b6f6e676f",
+      "name": "Nakongo",
+      "city": "Tiébélé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.0892653,
+        "lon": -0.9617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nakongo, N 25, Tiébélé, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e626c522e156e4bf5955bfd2f9f0c82640f00103f901f504295001000000920308426f75676f757265",
+      "name": "Bougoure",
+      "city": "Zonsé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.3924635,
+        "lon": -0.6356054
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bougoure, Zonsé, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51722e6a9cf2edf8bf59617193ac1e672840f00103f901e73be7560100000092030b6b69656e66616e6775c3a9",
+      "name": "kienfangué",
+      "city": "Kienfangué",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2014059,
+        "lon": -1.5580927
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "kienfangué, R 33, Kienfangué, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1506b9a777cfabf5929571dde186b2840f00103f901410d80270200000092030b4d6f6e2076696c6c616765",
+      "name": "Mon village",
+      "city": "Sogué",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.2091741,
+        "lon": -1.6553875
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mon village, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519d73a6bf4d75f0bf591f4718ab72122740f00103f901fafb285001000000920308526162696e736d61",
+      "name": "Rabinsma",
+      "city": "Zoundwéogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5360311,
+        "lon": -1.0286386
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rabinsma, chemin, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c73c982d34cecbf59f49e6fb0dc272640f00103f901965afdf5000000009203074775c3a96e6f6e",
+      "name": "Guénon",
+      "city": "Arroumbissi",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.0778556,
+        "lon": -0.8843782
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Guénon, N 25, Arroumbissi, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5144696ff08549efbf5929d027f224992740f00103f901e31829500100000092030e6b61c3af626f206e6f7264207631",
+      "name": "kaïbo nord v1",
+      "city": "Kaïbo-Centre",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.79911,
+        "lon": -0.977725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "kaïbo nord v1, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128bb99d18f46f9bf596937fa980fe82840f00103f90181b41b9a02000000920309536320417373616d69",
+      "name": "Sc Assami",
+      "city": "Kamboincé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.453244,
+        "lon": -1.579727
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sc Assami, N 22, Kamboincé, Kadiogo, Centre, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ce4e1f379cb10c0593fd12b54ed492640f00103f9019557e709010000009203044b6f726f",
+      "name": "Koro",
+      "city": "Koro",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1443888,
+        "lon": -4.1987074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Koro, N 1, Koro, Houet, Upper-Basins, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e70cd649c7e607c0592fccf8ad8cd02840f00103f901496804180200000092031154414e492045434544204d4f55484f554e",
+      "name": "TANI ECED MOUHOUN",
+      "city": "Yé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 12.4073233,
+        "lon": -2.9876848
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "TANI ECED MOUHOUN, Yé, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4ac3e0dced609c059d86c9b98e4f62540f00103f901fa326d2a00000000",
+      "name": "Rue Kanazoe",
+      "city": "Diébougou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.9822128,
+        "lon": -3.2298852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue Kanazoe, Diébougou, Bougouriba, Southwest, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149545ee113c111c0599347814fbd672640f00103f901e735fba601000000",
+      "name": "River",
+      "city": "Nasso",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.2026162,
+        "lon": -4.4385524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "River, Nasso, Houet, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518236397cd229f2bf59993567333d2b2740f00103f901b407295001000000920308676172616e63c3a9",
+      "name": "garancé",
+      "city": "Garancé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5844513,
+        "lon": -1.1352105
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "garancé, Garancé, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170d811e22533f4bf59ba933e6315e12740f00103f9019683d251010000009203084b6f757373616c61",
+      "name": "Koussala",
+      "city": "Nayalgué",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.9396163,
+        "lon": -1.2624873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Koussala, Couloir à bétail, Nayalgué, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c99fb998b067f2bf591ddebded535b2740f00103f901190829500100000092030f6b6f616b696e206465206775696261",
+      "name": "koakin de guiba",
+      "city": "Siltouko",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6783747,
+        "lon": -1.1503149
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "koakin de guiba, N 29, Siltouko, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512cb6ee8bf09b14c0590bd3f71a824b2540f00103f901c529db4201000000",
+      "name": "R 21",
+      "city": "Sindou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.647477,
+        "lon": -5.1522848
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "R 21, Sindou, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511bfcb3d59bc7eebf595849754bbc2d2640f00103f9015f95ac0101000000920307506f7572726f75",
+      "name": "Pourrou",
+      "city": "Tiébélé",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.0893272,
+        "lon": -0.9618663
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pourrou, N 25, Tiébélé, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b4602b27c82eebf595b99f04bfd942740f00103f9011502d3510100000092030a53696e696b696572c3a9",
+      "name": "Sinikieré",
+      "city": "Kaïbo-Centre",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.790995,
+        "lon": -0.9534286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sinikieré, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510510e3daf557f6bf59f908466f02952740f00103f9011602d351010000009203064b616f6e676f",
+      "name": "Kaongo",
+      "city": "Kaongho",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.7910342,
+        "lon": -1.3964747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kaongo, Couloir à bétail, Kaongho, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511eaf9bad171eeebf59df11baf028222740f00103f901240629500100000092030c7061676f6d746fc3a963c3a9",
+      "name": "pagomtoécé",
+      "city": "Gogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5667186,
+        "lon": -0.9411734
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "pagomtoécé, N 29, Gogo, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136012b2c5de6ecbf59598c159051292640f00103f9019c97fdf50000000092031242617272616765206465204775c3a96e6f6e",
+      "name": "Barrage de Guénon",
+      "city": "Guénono",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.0807004,
+        "lon": -0.9031206
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Barrage de Guénon, N 25, Guénono, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169fc6772d69c14c059fe5eaf5527502540f00103f9010905473b00000000",
+      "name": "R 21",
+      "city": "Sindou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.6565501,
+        "lon": -5.1531618
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "R 21, Sindou, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f69dba4d134913c059bc934f8f6d712540f00103f9017825db4201000000",
+      "name": "Route Kolokolo - Fabédougou",
+      "city": "Kolokolo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.721539,
+        "lon": -4.8213627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route Kolokolo - Fabédougou, Kolokolo, Comoé, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51baaf1413e5bcf9bf59d0a80a5751b92740f00103f901c738e75601000000920311536167616274656e67612d79617273c3a9",
+      "name": "Sagabtenga-yarsé",
+      "city": "Bazèga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.8619487,
+        "lon": -1.6086169
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sagabtenga-yarsé, Nationale 6, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183d83e897464d7bf591e60f767508e2740f00103f901918c5cd40100000092030d54656e6b6f206d697820564950",
+      "name": "Tenko mix VIP",
+      "city": "Tenkodogo",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.7779572,
+        "lon": -0.3655063
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tenko mix VIP, N 16, Tenkodogo, Boulgou, Central-East, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5163b25d4656e3e7bf59d46b0e6b85cc2640f00103f901610c295001000000920308476f756c61676f6e",
+      "name": "Goulagon",
+      "city": "Goyenga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.3994554,
+        "lon": -0.7465011
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Goulagon, N 29, Goyenga, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51323ecc5eb69d14c05934362a26254f2540f00103f90103e3270401000000",
+      "name": "R 21",
+      "city": "Sindou",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.6545803,
+        "lon": -5.154016
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "R 21, Sindou, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c47c7901f68111c059e1308793eabd2640f00103f9019fc795080100000092031842414d4120504f554c45542052495a20534f554d42414c41",
+      "name": "BAMA POULET RIZ SOUMBALA",
+      "city": "Bama",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.3709303,
+        "lon": -4.376915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BAMA POULET RIZ SOUMBALA, N 9, Bama, Houet, Upper-Basins, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ed5fa6c2e480cc059afe364879dda2640f00103f901f989df3d010000009203234d5341204172656120486f756e646520476f6c64204d696e696e672050726f6a656374",
+      "name": "MSA Area Hounde Gold Mining Project",
+      "city": "Koho",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.4269831,
+        "lon": -3.5352448
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "MSA Area Hounde Gold Mining Project, N 1, Koho, Tuy, Upper-Basins, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512bcc310f4fa5f3bf591d88d11852de2740f00103f901f9b8d05101000000",
+      "name": "Bonsrima",
+      "city": "Bonsrima",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.9342201,
+        "lon": -1.2278586
+      },
+      "categories": [
+        "populated_place",
+        "populated_place.village",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bonsrima, Bazèga, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195e93ccf443df3bf59842fa75f7d1b2740f00103f90117082950010000009203116d6169726965206465204e6f626572c3a9",
+      "name": "mairie de Noberé",
+      "city": "Nobéré",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5536909,
+        "lon": -1.2024582
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "mairie de Noberé, N 5, Nobéré, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51848c367d2c33f4bf595e036c51b0642740f00103f901630c2950010000009203096c696e6f6e6768696e",
+      "name": "linonghin",
+      "city": "Nobili",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6966577,
+        "lon": -1.2624936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "linonghin, N 5, Nobili, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51196140e54edfedbf59f8c19e1b3fc52740f00103f901a77ad2510100000092030b736f6e6472c3a920657374",
+      "name": "sondré est",
+      "city": "sondré est",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.8852471,
+        "lon": -0.9335093
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "sondré est, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fb6d8edb34ae5bf597889a02067c02640f00103f9012bfd2850010000009203086b6f726775617961",
+      "name": "korguaya",
+      "city": "Zabré",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.3757868,
+        "lon": -0.665369
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "korguaya, N 29, Zabré, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0613c39f92b11c0597cdba73eeb592640f00103f901cf70a4f00100000092030644616f756461",
+      "name": "Daouda",
+      "city": "Bobo-Dioulasso",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1756229,
+        "lon": -4.2929429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Daouda, Rue Vicens, Bobo-Dioulasso, Houet, Upper-Basins, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112d08e650b12f2bf5903bd265aa8232740f00103f901b5072950010000009203087061726f75677269",
+      "name": "parougri",
+      "city": "Parougri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.5696438,
+        "lon": -1.1294054
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "parougri, Parougri, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d30db9beb44d14c0593d320c0ee54a2540f00103f9016738c13d0100000092030843617665726e6573",
+      "name": "Cavernes",
+      "city": "Wolonkoto",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 10.6462788,
+        "lon": -5.0758848
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cavernes, Route Banfora - Sindou, Wolonkoto, Léraba, Waterfalls, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154afb6bd384c0cc059e5f7ec6fbfda2640f00103f9019589df3d0100000092031a486f756e646520676f6c64206d696e696e672070726f6a656374",
+      "name": "Hounde gold mining project",
+      "city": "Koho",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.4272418,
+        "lon": -3.5372176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hounde gold mining project, N 1, Koho, Tuy, Upper-Basins, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111514cde00f3eebf59c87fdcd9b23f2640f00103f90177c0fdf50000000092032a416dc3a96e6167656d656e742064652070726f64756374696f6e2064652070617461746520646f756365",
+      "name": "Aménagement de production de patate douce",
+      "city": "Corabié",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.1244114,
+        "lon": -0.9671635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Aménagement de production de patate douce, N 25, Corabié, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0b3bbf6bb26eebf59e9595a5716aa2740f00103f9018500d3510100000092030e6b61c3af626f206e6f7264207632",
+      "name": "kaïbo nord v2",
+      "city": "Dagamba",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.8322017,
+        "lon": -0.9422283
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "kaïbo nord v2, Dagamba, Zoundwéogo, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed49a25320c1f9bf598ab2e97258502640f00102f901156e011a0000000092030c4f627365727661746f697265",
+      "name": "Observatoire",
+      "city": "Nahouri",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.156924811389462,
+        "lon": -1.6096499697638322
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Observatoire, Main road, Nahouri, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160bf7163c4cff3bf595e9ac70677e02740f00103f901a3c212f600000000920308426f6e7372696d61",
+      "name": "Bonsrima",
+      "city": "Nayalgué",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.9384081,
+        "lon": -1.2382244
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bonsrima, Couloir à bétail, Nayalgué, Bazèga, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f34295f5f682f3bf5954f71274c54a2740f00103f901ef97fdf50000000092030f426172726167652064652042696f6e",
+      "name": "Barrage de Bion",
+      "city": "Bion",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6460377,
+        "lon": -1.2194738
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Barrage de Bion, N 5, Bion, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec1d24fa6b68f2bf59ac938ecde9392740f00103f901b307295001000000920308646973736f6d6579",
+      "name": "dissomey",
+      "city": "Larga",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.6131119,
+        "lon": -1.1504936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "dissomey, Nicolás, Larga, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f151ffa4990edbf59e8b17790e8a32740f00103f9019583d2510100000092030e6b61c3af626f206e6f7264207633",
+      "name": "kaïbo nord v3",
+      "city": "Kaïbo-Centre",
+      "country": "Burkina Faso",
+      "country_code": "bf",
+      "coordinates": {
+        "lat": 11.8201337,
+        "lon": -0.9238634
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "kaïbo nord v3, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+      "description": null,
+      "image": null
+    }
+  ]
+}

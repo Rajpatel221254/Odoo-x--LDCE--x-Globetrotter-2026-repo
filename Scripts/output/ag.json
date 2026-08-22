@@ -1,0 +1,44 @@
+{
+  "country_code": "ag",
+  "country_name": "Antigua & Barbuda",
+  "boundary_place_id": "51dba50d87a5e74ec05919ff3ee3c2113140c0020b920313416e746967756120616e642042617262756461e2031c77686f736f6e66697273743a636f756e7472793a3835363332353239",
+  "count": 2,
+  "places": [
+    {
+      "place_id": "517d19d69ea3e94ec0591ffa4910090a3140f00103f90139a3f8a10100000092031657616c6c696e6773204e617475726520526573657665",
+      "name": "Wallings Nature Reseve",
+      "city": "Sawcolts",
+      "country": "Antigua and Barbuda",
+      "country_code": "ag",
+      "coordinates": {
+        "lat": 17.0392008,
+        "lon": -61.8253058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wallings Nature Reseve, Fig Tree Drive, Sawcolts, Antigua and Barbuda",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518828cbb50dea4ec0599ea0038184093140f00103f901faf6362c000000009203225261696e666f726573742043616e6f707920546f757220285a4950204c696e657329",
+      "name": "Rainforest Canopy Tour (ZIP Lines)",
+      "city": "Sawcolts",
+      "country": "Antigua and Barbuda",
+      "country_code": "ag",
+      "coordinates": {
+        "lat": 17.0371781,
+        "lon": -61.8285434
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rainforest Canopy Tour (ZIP Lines), Fig Tree Drive, Sawcolts, Antigua and Barbuda",
+      "description": null,
+      "image": null
+    }
+  ]
+}

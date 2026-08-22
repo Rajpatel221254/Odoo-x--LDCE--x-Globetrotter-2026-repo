@@ -1,0 +1,626 @@
+{
+  "country_code": "er",
+  "country_name": "Eritrea",
+  "boundary_place_id": "51fb8a7fe9feff4240594150c9946ae62f40f00101f9010188040000000000c0020b92030745726974726561",
+  "count": 33,
+  "places": [
+    {
+      "place_id": "51aecd6b9159774340597ee0cf95adde2e40f00103f901a06a15670100000092032842656c657a61206d79206f666669636520d985d983d8aad8a8d98a20d8a8d98ad984d98ad8b2d8a7",
+      "name": "Beleza my office مكتبي بيليزا",
+      "city": "Emba Derho",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.4349181,
+        "lon": 38.9324209
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Beleza my office, Asmara keren, Emba Derho, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b555140100bc43405937776ae386382f40f00102f901baa88a1200000000920345466f726d657220496d70657269616c2050616c61636520d8a7d984d982d8b5d8b120d8a7d984d8a5d985d8a8d8b1d8a7d8b7d988d8b1d98a20d8a7d984d8b3d8a7d8a8d982",
+      "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+      "city": "Massawa",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.610404116388606,
+        "lon": 39.468750128678415
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Former Imperial Palace, Asmara - Massawa Road, Massawa, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ca5643909ca4340591790076c18cf2f40f00103f9014cad9d880100000092030f44757267656c6c612069736c616e64",
+      "name": "Durgella island",
+      "city": null,
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.9044832,
+        "lon": 39.5784065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Durgella island, Northern Red Sea Region, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513de5e2b908b743405954ce7234a2bb2d40f00103f901ce983bc4020000009203055275696e73",
+      "name": "Ruins",
+      "city": "Quahaito",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.8664719,
+        "lon": 39.4299538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ruins, Quahaito, Debub Region, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf9360bbc575434059540669215c9c2e40f00103f901e26e15670100000092030b7365636f6e6420686f6d65",
+      "name": "second home",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3053904,
+        "lon": 38.9200968
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "second home, Halhal Street, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510436f22150b6434059694ae810c1592d40f00102f9014cd9ff0a00000000",
+      "name": "Bâti urbain Nord avec rue.",
+      "city": "Metera",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.675301102023882,
+        "lon": 39.42432045294484
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Bâti urbain Nord avec rue., Asmara Zalambesa road, Metera, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d45636bdd5b643405923f197bb3bbb2d40f00103f9016b983bc402000000920304546f6d62",
+      "name": "Tomb",
+      "city": "Quahaito",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.8656901,
+        "lon": 39.4283978
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tomb, Quahaito, Debub Region, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51291d5146019143405939c65fa461f22e40f00103f90105983bc40200000092031a466f6e7465204163717561205465726d6f204d696e6572616c65",
+      "name": "Fonte Acqua Termo Minerale",
+      "city": "Ghinda",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.4734012,
+        "lon": 39.1328514
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fonte Acqua Termo Minerale, Asmara-Massawa Road, Ghinda, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51286211c30eb743405944fd892540b42d40f00103f90195993bc40200000092031a506574726f676c7970687320526f636b205061696e74696e6773",
+      "name": "Petroglyphs Rock Paintings",
+      "city": "Adi Keyh",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.8520519,
+        "lon": 39.430138
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Petroglyphs Rock Paintings, Asmara Zalambesa road, Adi Keyh, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b5b9b21b0764340594f3c670b08ad2e40f00103f901a16a156701000000920307486577656e6574",
+      "name": "Hewenet",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.337952,
+        "lon": 38.9272501
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hewenet, Denden Street, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165d295bec674434059a8a9656b7dad2e40f00103f901f735275c0100000092030de18c88e18b9b20e18d8ce189a1",
+      "name": "ገዛ ፌቡ",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3388475,
+        "lon": 38.9123152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ገዛ ፌቡ, Imbeyto Street, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512aecfda1f476434059c999dcde24a82e40f00103f901a5d1fc67010000009203127469746920496e7465726e65742063616665",
+      "name": "titi Internet cafe",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3284063,
+        "lon": 38.9293406
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "titi Internet cafe, Idit Street, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517cc564bb8c59434059c0a3d7b0f0772e40f00103f90103225f680100000092031877617920746f20686162656c613220e18893e189a0e1888b",
+      "name": "way to habela2 ሓበላ",
+      "city": null,
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.2342582,
+        "lon": 38.6996073
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "way to habela2 ሓበላ, Habila Way, Gash-Barka, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abf12d07d5bc434059267d10b864372f40f00103f901956a15670100000092030e417a69656220d8a3d8b2d98ad8a8",
+      "name": "Azieb أزيب",
+      "city": "Massawa",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.6081903,
+        "lon": 39.4752511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Azieb, Via Roma شارع روما, Massawa, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117d11b936ab0434059f8eb04ea833b2d40f00103f901cb1d4582010000009203104d65732d68616c20776564656b656c65",
+      "name": "Mes-hal wedekele",
+      "city": "ዝባነ ዋሊያ / Zeban 'Wāliya",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.6162408,
+        "lon": 39.3782524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mes-hal wedekele, طريق أسمرة - زالامبسا, ዝባነ ዋሊያ / Zeban 'Wāliya, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b723415d49bb4340598e290e5652312f40f00103f9017fcbbffb0000000092033453697465206f662056696c6c61204d656c6f74746920d985d988d982d8b920d981d98ad984d8a720d985d98ad984d988d8aad98a",
+      "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+      "city": "Massawa",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.5963313,
+        "lon": 39.4631764
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site of Villa Melotti, Asmara - Massawa Road, Massawa, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbca40af89504340596d1ff296ab573040f00103f90174cac9a102000000",
+      "name": "S-1",
+      "city": "Kub-Kub",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 16.342462,
+        "lon": 38.6292018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "S-1, Kub-Kub, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b23e2f264778434059e519ea6635ab2e40f00103f9014b3615670100000092030548204d6178",
+      "name": "H Max",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3343918,
+        "lon": 38.9396713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "H Max, Mata Street شارع ماتئا, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177d09101457843405953d7906e3aac2e40f00103f901996a15670100000092030a486162656e20686f6d65",
+      "name": "Haben home",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3363833,
+        "lon": 38.9396059
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Haben home, Harnet Avenue, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518fc7670d39a4434059035c902dcbd72d40f00103f90131993bc4020000009203074368696d6e6579",
+      "name": "Chimney",
+      "city": "Mai Seraw",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.921472,
+        "lon": 39.2829911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chimney, P-3, Mai Seraw, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c3c274c47b643405946fa6d204d592d40f00102f9014fd9ff0a00000000",
+      "name": "Bâti urbain Sud",
+      "city": "Metera",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.674416554856304,
+        "lon": 39.424050826222896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Bâti urbain Sud, Asmara Zalambesa road, Metera, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfae319ef7b74340599731aab129bc2d40f00103f901cf983bc402000000",
+      "name": "Debub Region",
+      "city": null,
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 14.8675056,
+        "lon": 39.4372442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Debub Region, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9e628f68684434059633d5a4178a92e40f00103f90139689bb101000000",
+      "name": "Asmara - Massawa Road",
+      "city": "Nefasit",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3309956,
+        "lon": 39.0353687
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Asmara - Massawa Road, Nefasit, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9d5fc9d923a434059183b866cc58f2f40f00103f901896a2bf701000000",
+      "name": "Giro Fiori",
+      "city": "Keren",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.7808031,
+        "lon": 38.4575994
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Giro Fiori, Keren, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c52bff10d17d434059a65e5c4f19b42e40f00103f9013d889bb101000000",
+      "name": "Asmara - Massawa Road",
+      "city": "Hinzi",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3517556,
+        "lon": 38.9829427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Asmara - Massawa Road, Hinzi, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c448d0768676434059262cfd1428a82e40f00102f901dd1194100000000092032546696174205461676c6965726f20d981d98ad8a7d8aa20d8aad8a7d8bad984d98ad8b1d988",
+      "name": "Fiat Tagliero فيات تاغليرو",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.32843080130085,
+        "lon": 38.925978519154825
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Fiat Tagliero, ጐደና 172-4, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e21fc30e777434059a82f95c84fac2e40f00103f901836715670100000092030b4162656c277320686f6d65",
+      "name": "Abel's home",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.3365462,
+        "lon": 38.9367429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Abel's home, 176-5 Street A1, Asmara, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2b437f8c251434059bc11cc8756652f40f00103f901c55a8bc402000000920321456c616265726564204167726963756c747572616c204661726d20457374617465",
+      "name": "Elabered Agricultural Farm Estate",
+      "city": "Elabered",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.6979258,
+        "lon": 38.6387625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Elabered Agricultural Farm Estate, Asmara keren road, Elabered, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100c974e8f4b84340597da9447ea2372f40f00103f90136e764850000000092031bd8a5d984d98ad988d8b4d98620d8a5d98a20d8a3d9842dd9a7d9a6",
+      "name": "إليوشن إي أل-٧٦",
+      "city": "Massawa",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.6086616,
+        "lon": 39.444974
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Soviet IL-76, Massawa Assab road, Massawa, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189c6246df4504340592faea70cd2563040f00103f90197b9c7a102000000",
+      "name": "S-1",
+      "city": "Kub-Kub",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 16.3391426,
+        "lon": 38.6324593
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "S-1, Kub-Kub, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5186f2f400cc5b43405907dd1445fe6d3040f00103f90135858f4302000000",
+      "name": "Cam Ceua / Kemechiwa",
+      "city": "Cam Ceua / Kemechiwa",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 16.4296611,
+        "lon": 38.7171632
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cam Ceua / Kemechiwa, Northern Red Sea Region, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d5dc53df15043405977627bd22e573040f00103f90196b9c7a102000000",
+      "name": "S-1",
+      "city": "Kub-Kub",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 16.3405582,
+        "lon": 38.6323621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "S-1, Kub-Kub, Eritrea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120a3f26558bc434059045372f332372f40f00103f90169983bc402000000920342426f617420746f20477265656e2049736c616e6420d982d8a7d8b1d8a820d8a5d984d98920d8a7d984d8acd8b2d98ad8b1d8a920d8a7d984d8aed8b6d8b1d8a7d8a1",
+      "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+      "city": "Massawa",
+      "country": "Eritrea",
+      "country_code": "er",
+      "coordinates": {
+        "lat": 15.6078106,
+        "lon": 39.4714477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Boat to Green Island, طريق الدائري, Massawa, Eritrea",
+      "description": null,
+      "image": null
+    }
+  ]
+}

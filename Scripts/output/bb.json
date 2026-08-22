@@ -1,0 +1,1269 @@
+{
+  "country_code": "bb",
+  "country_name": "Barbados",
+  "boundary_place_id": "5186730d3334c34dc0598fa27323d14c2a40f00101f901b75a080000000000c0020b9203084261726261646f73",
+  "count": 66,
+  "places": [
+    {
+      "place_id": "5187fe8b69b2cf4dc059a54300e79c372a40f00102f9019a9cfe3900000000920318526968616e6e612773204368696c64686f6f6420486f6d65",
+      "name": "Rihanna's Childhood Home",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.108618944914108,
+        "lon": -59.622632211071554
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.private",
+        "building",
+        "building.residential",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rihanna's Childhood Home, Rihanna Drive, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f654a90b6d04dc059a79ebb13a23e2a40f00103f901fa19a59b0000000092031c4d616c69627520426561636820436c75622028436f636b7370757229",
+      "name": "Malibu Beach Club (Cockspur)",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1223303,
+        "lon": -59.6305714
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Malibu Beach Club (Cockspur), Brighton Beach Road North, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51694afc9b61d14dc0593890e4a892432a40f00103f901b4b0962a03000000",
+      "name": "Mighty Grynner Highway",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1319783,
+        "lon": -59.6357913
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Mighty Grynner Highway, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5129eeafc851ce4dc059080baa157a302a40f00102f90136397a4400000000",
+      "name": "Jordans Lane",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.094681431777204,
+        "lon": -59.61187084760997
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Jordans Lane, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b9511a1c2cd4dc0590f1d15a325402a40f00102f901e0290f47000000009203115479726f6c20436f742056696c6c616765",
+      "name": "Tyrol Cot Village",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.125287147834142,
+        "lon": -59.60750211103933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tyrol Cot Village, Spooners Hill Main Road, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c6c3eae0dc34dc0595ca56032fa662a40f00103f901cce32c1a000000009203104861636b6c65746f6e7320436c696666",
+      "name": "Hackletons Cliff",
+      "city": "St. Elizabeths",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2011276,
+        "lon": -59.523855
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hackletons Cliff, Highway 3, St. Elizabeths, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ea97fb50fb64dc059f126648cb44d2a40f00103f9012ebafe5802000000",
+      "name": "Cole's Terrace",
+      "city": "Cole's",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1517681,
+        "lon": -59.4223544
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cole's Terrace, Cole's, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a94a12aa6ce4dc0598e1c8e5319ab2a40f00103f901f09e034d01000000",
+      "name": "Animal Flower Cave Road",
+      "city": "Greenidge",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.3341776,
+        "lon": -59.614446
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Animal Flower Cave Road, Greenidge, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfb854a52dc64dc059aeda90da1f5b2a40f00103f90126606f1401000000",
+      "name": "Braggs Hill",
+      "city": "Airy Hill",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1779774,
+        "lon": -59.548268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Braggs Hill, Airy Hill, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b8a349655d24dc059ebe813d44b7f2a40f00103f901141c6bcf0000000092031f47616c6c657279206f662043617272696265616e204172743b436f75727473",
+      "name": "Gallery of Carribean Art;Courts",
+      "city": "Speightstown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2486254,
+        "lon": -59.6432369
+      },
+      "categories": [
+        "commercial",
+        "commercial.furniture_and_interior",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gallery of Carribean Art;Courts, Queens Street, Speightstown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c62fb24d2c94dc059687000a2059d2a40f00103f901bc264c1a0000000092030d4375636b6f6c6420506f696e74",
+      "name": "Cuckold Point",
+      "city": "Pie Corner",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.3066836,
+        "lon": -59.5767256
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cuckold Point, Cove Bay Road, Pie Corner, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199068f801bc84dc059e1e7644e3c742a40f00103f90150f47e5b020000009203104e61747572652046756e2052616e6368",
+      "name": "Nature Fun Ranch",
+      "city": "Bruce Vale",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2270226,
+        "lon": -59.5633393
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nature Fun Ranch, Highway 3A, Bruce Vale, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ab82e466ed24dc0591b9df3531c7f2a40f00103f901f6f7d78a010000009203125370656967687473746f776e204d7572616c",
+      "name": "Speightstown Mural",
+      "city": "Speightstown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.248263,
+        "lon": -59.6439903
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Speightstown Mural, Prince Alfred Lane, Speightstown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c752dad1eed14dc0595e2ee23b31672a40f00103f9013632aa48010000009203054265616368",
+      "name": "Beach",
+      "city": "Mount Standfast",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2015475,
+        "lon": -59.6401007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Beach, Highway 1, Mount Standfast, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519378d4f3c9cb4dc05920915b38b5882a40f00103f901f219a59b0000000092031b4772656e6164652048616c6c205369676e616c2053746174696f6e",
+      "name": "Grenade Hall Signal Station",
+      "city": "Indian Ground",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2670076,
+        "lon": -59.5921006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grenade Hall Signal Station, Charles Duncan O'Neil Highway, Indian Ground, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e566832fbfce4dc0595dbfb5fad8322a40f00102f901aef9444200000000920325546865204e696468652049737261656c2053796e61676f67756520616e64204d757365756d",
+      "name": "The Nidhe Israel Synagogue and Museum",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.099311670957542,
+        "lon": -59.61520952144728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "The Nidhe Israel Synagogue and Museum, Coleridge Street, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510def833d37cb4dc059db7e43f2df712a40f00103f90182faec76020000009203255475726e65722048616c6ce280997320576f6f6473202d20456e7472616e63652050617468",
+      "name": "Turner Hall’s Woods - Entrance Path",
+      "city": "Hillaby",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2224117,
+        "lon": -59.5876233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Turner Hall’s Woods - Entrance Path, Turner's Hall Trail, Hillaby, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515dc87e7104cd4dc059dbc93be2eb2e2a40f00103f901000095580200000092031b537461747565206f6620536972204672616e6b2057616c636f7474",
+      "name": "Statue of Sir Frank Walcott",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.0916434,
+        "lon": -59.6016981
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Statue of Sir Frank Walcott, Francis Godson Drive, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abaa3c26f7d04dc0598594449b883f2a40f00103f9016651581a000000009203154d616c6962752056697369746f722043656e746572",
+      "name": "Malibu Visitor Center",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1240891,
+        "lon": -59.6325424
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Malibu Visitor Center, Brighton Beach Road North, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518941e744ccca4dc059a510d25ff42c2a40f00102f901a670df2c000000009203184861727279204261796c6579204f627365727661746f7279",
+      "name": "Harry Bayley Observatory",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.087801927941038,
+        "lon": -59.584358799856155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Harry Bayley Observatory, Clapham Road, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bea26dc55dce4dc05904d574d585302a40f00102f90134397a44000000009203194275696c64657273206f66204261726261646f732057616c6c",
+      "name": "Builders of Barbados Wall",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.09477107096837,
+        "lon": -59.61223667004877
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Builders of Barbados Wall, Jordans Lane, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d4590943ebb4dc0591ef34b0ee9592a40f00103f90116729e1901000000",
+      "name": "College Savannah No 1",
+      "city": "St. Marks",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1756062,
+        "lon": -59.4628473
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "College Savannah No 1, St. Marks, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512959b2a606d04dc059d0014db1fc362a40f00102f90166edf35500000000",
+      "name": "Mighty Grynner Highway",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.107396641397742,
+        "lon": -59.625202977260706
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mighty Grynner Highway, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f401dc8717d24dc059dfe98486b4702a40f00103f901928faa48010000009203054265616368",
+      "name": "Beach",
+      "city": "Mount Standfast",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2201273,
+        "lon": -59.6413431
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Beach, Highway 1, Mount Standfast, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51497b2876d9ca4dc0596fba6587f88b2a40f00103f901e519a59b0000000092031043686572727920547265652048696c6c",
+      "name": "Cherry Tree Hill",
+      "city": "Belleplaine",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2733805,
+        "lon": -59.5847614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cherry Tree Hill, Highway B, Belleplaine, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512335481c0dd04dc0596d16d45c13372a40f00103f901a9c6d8a00000000092032041746c616e746973205375626d6172696e6573204261726261646f7320496e63",
+      "name": "Atlantis Submarines Barbados Inc",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1075696,
+        "lon": -59.6254001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Atlantis Submarines Barbados Inc, Mighty Grynner Highway, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c97f7dd19cb4dc05967406260c2712a40f00103f90181faec7602000000",
+      "name": "Turner's Hall Trail",
+      "city": "Hillaby",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2221861,
+        "lon": -59.5867269
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Turner's Hall Trail, Hillaby, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513bf5165b8cc94dc059c50f52516c892a40f00102f90185c80c18000000009203154d6f7267616e204c657769732057696e646d696c6c",
+      "name": "Morgan Lewis Windmill",
+      "city": "Belleplaine",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.268404523150716,
+        "lon": -59.57459581967347
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "man_made",
+        "man_made.windmill",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.windmill"
+      ],
+      "formatted_address": "Morgan Lewis Windmill, Highway B, Belleplaine, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7fae362b1cd4dc0597ef156a714292a40f00103f901ef19a59b000000009203254761727269736f6e20446973747269637420576f726c642048657269746167652053697465",
+      "name": "Garrison District World Heritage Site",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.0802357,
+        "lon": -59.6069759
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Garrison District World Heritage Site, Garrison Road, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a35de04d12c44dc059ca8b4cc0af292a40f00103f90137c1a82d010000009203166c6f63616c206672657368206567672073656c6c6572",
+      "name": "local fresh egg seller",
+      "city": "Thornbury Hill",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.081419,
+        "lon": -59.5318086
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "local fresh egg seller, Tom Adams Highway, Thornbury Hill, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51295fd04202cc4dc0594529215855872a40f00103f901fe516bcf0000000092030c566965772054657272616365",
+      "name": "View Terrace",
+      "city": "Indian Ground",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.264323,
+        "lon": -59.593819
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View Terrace, Charles Duncan O'Neil Highway, Indian Ground, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51275fc940e7cb4dc05965f4dc8d8c892a40f00102f90121a9a741000000009203194261726261646f732057696c646c6966652052657365727665",
+      "name": "Barbados Wildlife Reserve",
+      "city": "Indian Ground",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.26865046808434,
+        "lon": -59.592994783712406
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Barbados Wildlife Reserve, Charles Duncan O'Neil Highway, Indian Ground, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f349dd8431c64dc059be8cbd72185b2a40f00103f90125606f1401000000",
+      "name": "Braggs Hill",
+      "city": "Airy Hill",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1779209,
+        "lon": -59.5483862
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Braggs Hill, Airy Hill, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e085add9cac24dc05984b2953c436d2a40f00103f9019100f43802000000",
+      "name": "Highway Z",
+      "city": "Bathsheba",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2134036,
+        "lon": -59.5218155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Highway Z, Bathsheba, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d026e4321cf4dc059df24fa49a7312a40f00102f9010243472b000000009203184167617065792043686f636f6c61746520466163746f7279",
+      "name": "Agapey Chocolate Factory",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.09697943857685,
+        "lon": -59.618202618327906
+      },
+      "categories": [
+        "building",
+        "building.commercial",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Agapey Chocolate Factory, Hincks Street, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514619bb8e82c44dc05965897379181b2a40f00103f901f138634a0100000092030c467265696768747320426179",
+      "name": "Freights Bay",
+      "city": "Enterprise",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.0529211,
+        "lon": -59.5352343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Freights Bay, Enterprise Coast Road, Enterprise, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7aefe19efc34dc05931f77fc465272a40f00103f90139b4c40202000000",
+      "name": "Ridge Mount",
+      "city": "Thornbury Hill",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.0769483,
+        "lon": -59.5307343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ridge Mount, Thornbury Hill, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516be91be269c94dc0592b55fda5a05e2a40f00103f9011b2a1c1a0000000092030f4861727269736f6e27732043617665",
+      "name": "Harrison's Cave",
+      "city": "Welchman Hall",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1848194,
+        "lon": -59.5735438
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Harrison's Cave, Allan View, Welchman Hall, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdb1bcab1ed24dc0596b6b9fe9806f2a40f00103f9013732aa48010000009203054265616368",
+      "name": "Beach",
+      "city": "Mount Standfast",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2177804,
+        "lon": -59.641561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Beach, Highway 1, Mount Standfast, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3124e6617ca4dc05965b61ac8699e2a40f00103f901b5719e190100000092030a4c6974746c6520426179",
+      "name": "Little Bay",
+      "city": "Pie Corner",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.3094008,
+        "lon": -59.5788391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Little Bay Road, Pie Corner, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51539dc4d622cc4dc05934805c870fa52a40f00103f901cd49a37602000000",
+      "name": "River Bay Road",
+      "city": "Pie Corner",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.3223841,
+        "lon": -59.5948132
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "River Bay Road, Pie Corner, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d301ff4a9dc94dc05988dc67f052992a40f00103f901333af1b001000000920308636f766520626179",
+      "name": "cove bay",
+      "city": "Pie Corner",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2994609,
+        "lon": -59.5751127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "cove bay, Cove Bay Road, Pie Corner, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5fef5c07dc64dc0591f3b5e375b7b2a40f00103f9012fdbc32f030000009203244672616e7a205068696c6c697073204d656d6f7269616c205069637475726520486f6c65",
+      "name": "Franz Phillips Memorial Picture Hole",
+      "city": "Belleplaine",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2409303,
+        "lon": -59.5507127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Franz Phillips Memorial Picture Hole, Ermie Bourne Highway, Belleplaine, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ec636db4ec24dc059c13983e4466a2a40f00102f901c4a04c2f00000000920319416e64726f6d65646120426f74616e69632047617264656e73",
+      "name": "Andromeda Botanic Gardens",
+      "city": "Bathsheba",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.207572117823362,
+        "lon": -59.518031503434926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Andromeda Botanic Gardens, Highway Z, Bathsheba, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d51f065f3dcb4dc059b2086a9d5d7f2a40f00103f901e5aefd3b010000009203126d616e206a61636b206f696c2073616e6473",
+      "name": "man jack oil sands",
+      "city": "Indian Ground",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2487611,
+        "lon": -59.5878104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "man jack oil sands, Bawden's Road, Indian Ground, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123111ac1c6bd4dc059efbfdf79f3352a40f00103f901ee19a59b00000000920316466f75727371756172652052756d20466163746f7279",
+      "name": "Foursquare Rum Factory",
+      "city": "Foursquare",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1053732,
+        "lon": -59.482628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Foursquare Rum Factory, Foursquare Factory Road, Foursquare, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1fe2a1b31cc4dc059acb9ed8c00882a40f00103f901ed19a59b000000009203194661726c65792048696c6c204e6174696f6e616c205061726b",
+      "name": "Farley Hill National Park",
+      "city": "Indian Ground",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2656292,
+        "lon": -59.5952486
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Farley Hill National Park, Charles Duncan O'Neil Highway, Indian Ground, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b77d8ffaebc64dc059092758d240222a40f00103f901232ca72d0100000092031443617269626265616e20576178204d757365756d",
+      "name": "Caribbean Wax Museum",
+      "city": "Oistins",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.0669008,
+        "lon": -59.5540765
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Caribbean Wax Museum, Maxwell Main Road, Oistins, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127c929f004c44dc0592b4eb51666292a40f00103f90136c1a82d0100000092031e436f636f6e75742073656c6c6572202620436f636f6e7574205761746572",
+      "name": "Coconut seller & Coconut Water",
+      "city": "Thornbury Hill",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.080857,
+        "lon": -59.5314007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coconut seller & Coconut Water, Tom Adams Highway, Thornbury Hill, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51153152b79bce4dc059700dd4e3fd302a40f00102f9017481ba2c00000000920311496e646570656e64656e63652041726368",
+      "name": "Independence Arch",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.095687026629747,
+        "lon": -59.61412707818287
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.city_gate"
+      ],
+      "formatted_address": "Independence Arch, Chamberlain Bridge, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a40712a9ecd4dc05908ce4c7aa05f2a40f00102f901150932420000000092031a526f636b2048616c6c2046726565646f6d204d6f6e756d656e74",
+      "name": "Rock Hall Freedom Monument",
+      "city": "Rock Hall",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.186771222949588,
+        "lon": -59.60638933687058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rock Hall Freedom Monument, Rock Hall Road, Rock Hall, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c9dc10d59ce4dc059592f962188302a40f00102f90135397a4400000000",
+      "name": "Jordans Lane",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.094788598616718,
+        "lon": -59.612092704332184
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Jordans Lane, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51909238b775be4dc059add2ab5bb0472a40f00102f901ed95fb4400000000",
+      "name": "Dodds Land",
+      "city": "Church Village",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.140017380451662,
+        "lon": -59.48796739828424
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Dodds Land, Church Village, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156e01a8e9dcd4dc059e400b0f0e45f2a40f00102f9011709324200000000",
+      "name": "Rock Hall Road",
+      "city": "Rock Hall",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.18729355,
+        "lon": -59.6063707
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rock Hall Road, Rock Hall, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131618fe44dc84dc05955c03dcf9f662a40f00103f90159b89c700100000092030f436f636f68696c6c20466f72657374",
+      "name": "Cocohill Forest",
+      "city": "Airy Hill",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.200438,
+        "lon": -59.5648771
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cocohill Forest, Richmond Hill, Airy Hill, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51910fd5ef1dd24dc059b83764a82f742a40f00103f901938faa48010000009203054265616368",
+      "name": "Beach",
+      "city": "Mount Standfast",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2269261,
+        "lon": -59.6415386
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Beach, Highway 1, Mount Standfast, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5148eaf307b9cd4dc059a0596d5919402a40f00103f901191aa59b000000009203225479726f6c20436f742028486f6d65206f66204772616e746c6579204164616d7329",
+      "name": "Tyrol Cot (Home of Grantley Adams)",
+      "city": "Saint Michael",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1251934,
+        "lon": -59.6072092
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tyrol Cot (Home of Grantley Adams), Spooners Hill Main Road, Saint Michael, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189c9c0a673ce4dc0597250c24cdb572a40f00103f901918faa480100000092030c52657075626c69632061746d",
+      "name": "Republic atm",
+      "city": "Bagatelle",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.171595,
+        "lon": -59.6129044
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Republic atm, Highway 2A, Bagatelle, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519dbf643e7bbe4dc059f24817f60f5d2a40f00103f901fd82ff3902000000",
+      "name": "Coach Hill",
+      "city": "Glebe Land",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1817624,
+        "lon": -59.4881361
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coach Hill, Glebe Land, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df09acd24cce4dc05939a407f478302a40f00102f90137397a4400000000",
+      "name": "Jordans Lane",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.0946728,
+        "lon": -59.61171945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Jordans Lane, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f850bd4bdd14dc059a58faff3255e2a40f00103f9016b1c1ecf0000000092031847616c6c657279206f662043617272696265616e20417274",
+      "name": "Gallery of Carribean Art",
+      "city": "Holetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.1838833,
+        "lon": -59.6386056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gallery of Carribean Art, Highway 1, Holetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd5a4d8d86ca4dc05912499979176c2a40f00103f9010d705c3a02000000",
+      "name": "Mount Hillaby",
+      "city": "Blunts",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2111166,
+        "lon": -59.5822312
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mount Hillaby, Blunts, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dae3881136d04dc059402507e274392a40f00102f901455ea443000000009203234d6f756e74204761792044697374696c6c6572792056697369746f722043656e746572",
+      "name": "Mount Gay Distillery Visitor Center",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.112219870922331,
+        "lon": -59.62665003952107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mount Gay Distillery Visitor Center, Exmouth Gap, Bridgetown, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169965f611cc24dc0597dc4549f506c2a40f00103f901f5ca6f1401000000",
+      "name": "Highway Z",
+      "city": "Bathsheba",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.2115526,
+        "lon": -59.5164911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Highway Z, Bathsheba, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513cdfaa460aca4dc059f38c2210549e2a40f00103f901c16c1b3902000000",
+      "name": "Little Bay Road",
+      "city": "Pie Corner",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.3092351,
+        "lon": -59.5784386
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Little Bay Road, Pie Corner, Barbados",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b5ea16a4fb74dc059c839fb1411412a40f00102f9017d7d4f4600000000",
+      "name": "Sam Lord Castle Beach Access",
+      "city": "Robinsons",
+      "country": "Barbados",
+      "country_code": "bb",
+      "coordinates": {
+        "lat": 13.12708345,
+        "lon": -59.43211110000001
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Sam Lord Castle Beach Access, Robinsons, Barbados",
+      "description": null,
+      "image": null
+    }
+  ]
+}

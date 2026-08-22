@@ -1,0 +1,4669 @@
+{
+  "country_code": "bw",
+  "country_name": "Botswana",
+  "boundary_place_id": "5165a4839ac69738405970e6fcb90d2b37c0f00101f9013bd41c0000000000c0020b920308426f747377616e61",
+  "count": 251,
+  "places": [
+    {
+      "place_id": "51832adac12dba374059d604acb074f534c0f00103f901f0e802a8010000009203134b7564752042757368205761746572686f6c65",
+      "name": "Kudu Bush Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9588118,
+        "lon": 23.7272607
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kudu Bush Waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108a40e3c08e5354059e3c281902c6e32c0f00103f9012e9642a7000000009203194b726f6b6f76616e676f2043726f636f64696c65204661726d",
+      "name": "Krokovango Crocodile Farm",
+      "city": "Samochema",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.4303675,
+        "lon": 21.8946569
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Krokovango Crocodile Farm, A35, Samochema, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514609fa0b3de0374059a8a21ddc422033c0f00103f901aca7e4e30100000092030a486970706f20506f6f6c",
+      "name": "Hippo Pool",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1260202,
+        "lon": 23.8759315
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo Pool, Chobi Cutline, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f85f9d19b373374059d9a491859e3133c0f00103f901e4b264120000000092030e506172616469657320506f6f6c73",
+      "name": "Paradies Pools",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1938251,
+        "lon": 23.4519516
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paradies Pools, Paradise Pools Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177e805e9736b3640599deb45feaa0b33c0f00103f9012277765d0100000092030d6c61676f6f6e20332065786974",
+      "name": "lagoon 3 exit",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0455779,
+        "lon": 22.4197374
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "lagoon 3 exit, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d13b2987dcd3640599e639bafed3833c0f00103f9018080f4010100000092030f466172204561737465726e2050616e",
+      "name": "Far Eastern Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2223768,
+        "lon": 22.8026977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Far Eastern Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f0d6c95605f3640590447b87f1bfc32c0f00103f901025093b00100000092030b4e61747572652077616c6b",
+      "name": "Nature walk",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.9847946,
+        "lon": 22.3725675
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nature walk, 4x4 to Guma/Nguma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51528836b68d29374059701f5e7c76dd33c0f00103f9012af8f7450200000092030c48616d65726b6f702050616e",
+      "name": "Hamerkop Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8650892,
+        "lon": 23.1623186
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hamerkop Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ccb21f312bd3540593abe07f9eac032c0f00103f9011e09056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7535854,
+        "lon": 21.7385704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51107a36ab3ebf35405946abff18dfc232c0f00103f901e6646ed9000000009203115768616c6520616e642050656e6775696e",
+      "name": "Whale and Penguin",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7612167,
+        "lon": 21.74705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Whale and Penguin, Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6fd24e3bdc5384059f3bfa61831f333c0f00103f901842a42d9000000009203174c6f6f6b206f757420706f696e7420616e642068696465",
+      "name": "Look out point and hide",
+      "city": "Game Scout Camp",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9499679,
+        "lon": 24.7724287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Look out point and hide, Game Scout Camp, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51291197d2e97b364059d8ce9c9a700a33c0f00103f90112fe914f01000000920309627573682077616c6b",
+      "name": "bush walk",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0407807,
+        "lon": 22.4840366
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "bush walk, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eba463737a1f374059d367075c57de33c0f00103f9018ef8f7450200000092030c4f6c64204150552043616d70",
+      "name": "Old APU Camp",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8685205,
+        "lon": 23.1229622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Old APU Camp, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb3a110e0715384059c05c8b16a08d32c0f00103f9014e6f6483010000009203097761746572686f6c65",
+      "name": "waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.553224,
+        "lon": 24.0821389
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "waterhole, Nogatsaa Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5109efbc9ef96637405975406daf604033c0f00103f9012f9f7cf90000000092030d466f7572746820427269646765",
+      "name": "Fourth Bridge",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2514753,
+        "lon": 23.4022464
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fourth Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b63aefb556aa374059fe1bc58377f334c0f00103f901eee802a8010000009203094861696e612050616e",
+      "name": "Haina Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9510424,
+        "lon": 23.6653856
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Haina Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b39a23149bd35405958f66e3d54c232c0f00103f901c809056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7590979,
+        "lon": 21.7393981
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516aedc737256236405999f9693755fc32c0f00103f901d64e93b00100000092030b4d6f6b6f726f2074726970",
+      "name": "Mokoro trip",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.9856753,
+        "lon": 22.3833804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mokoro trip, 4x4 to Guma/Nguma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7c8642772633640599fdc007d6c0c33c0f00103f9013aef914f0100000092030d6c61676f6f6e20322065786974",
+      "name": "lagoon 2 exit",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0485304,
+        "lon": 22.3884606
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "lagoon 2 exit, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513303f0aa62bd354059b4c46faf71c232c0f00103f901ae09056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7595472,
+        "lon": 21.7397868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51254a31f614153840594c416d0a1a8d32c0f00103f9010b406483010000009203097761746572686f6c65",
+      "name": "waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5511786,
+        "lon": 24.0823511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "waterhole, Nogatsaa Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5198b55e1d11b5364059b79d110077e634c0f00103f90116685ac2010000009203134b67657473692059612054736965204661726d",
+      "name": "Kgetsi Ya Tsie Farm",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9002533,
+        "lon": 22.7072924
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kgetsi Ya Tsie Farm, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e901e752a7d374059e399869796f133c0f00103f90156bcbdff0000000092030a486970706f20506f6f6c",
+      "name": "Hippo Pool",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9437041,
+        "lon": 23.4889291
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hippo Pool, Matlapaneng Bridge, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed7e15e0bbe738405968b9c72d41d331c0f00103f901768ac169010000009203084e616e79616e6761",
+      "name": "Nanyanga",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8252133,
+        "lon": 24.9052105
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nanyanga, Chobe District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4b5357dd1c33840593108ac1c5aea33c0f00103f9012ce645360000000092030c7761746572686f6c65202331",
+      "name": "waterhole #1",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9154375,
+        "lon": 24.7649153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "waterhole #1, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d215116a2bcb374059f17e81c5861f33c0f00103f901d014850b030000009203094879656e612044656e",
+      "name": "Hyena Den",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1231502,
+        "lon": 23.7936312
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hyena Den, seasonal, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511beb877da7e0384059bad7eec3e65e32c0f00103f90124e6ac350000000092030c5361726567686f2048696465",
+      "name": "Saregho Hide",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.3707087,
+        "lon": 24.8775557
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Saregho Hide, Pandamatenga Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea85f1892bbd354059b6a4fed53ec232c0f00103f901c209056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7587713,
+        "lon": 21.7389456
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fe296ea5dbb354059567daeb662cd32c0f00103f90133336ed900000000920315214b756e6720427573686d616e2056696c6c616765",
+      "name": "!Kung Bushman Village",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.8022875,
+        "lon": 21.7319018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "!Kung Bushman Village, Male Hill Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa85b24baf6637405967fee263c13433c0f00103f90131948c990100000092030d4c6f6f6b6f757420506f696e74",
+      "name": "Lookout Point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2060759,
+        "lon": 23.4011123
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lookout Point, Seasonal, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e31b0a9fad73364059aa9784b0bf0733c0f00103f90176fe914f0100000092030e64656c746120656e7472616e6365",
+      "name": "delta entrance",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0302687,
+        "lon": 22.451868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "delta entrance, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518668be94cb5a374059c8f4dfde903b33c0f00103f90198044c280100000092030c57696c6420446f672044656e",
+      "name": "Wild Dog Den",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2326793,
+        "lon": 23.3546689
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wild Dog Den, South Gate - 3rd Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51224cf6741aba384059fa13f0c6ddeb33c0f00103f901afd145360000000092030c5761746572686f6c65202333",
+      "name": "Waterhole #3",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9213528,
+        "lon": 24.7269662
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterhole #3, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5132bbdd81f05f364059bc69447a9bf832c0f00103f901045093b00100000092030b4d6f6b6f726f2074726970",
+      "name": "Mokoro trip",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.9711224,
+        "lon": 22.3747636
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mokoro trip, 4x4 to Guma/Nguma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a08f8d9b7567374059d7868a71fefe33c0f00103f901ce027810010000009203084368657a204f7369",
+      "name": "Chez Osi",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.99607,
+        "lon": 23.4041383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chez Osi, Letsholathebe II Rd, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a20cec30950374059df156646e43433c0f00103f901861dd6b002000000",
+      "name": "Access road to HATAB campsite",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2066082,
+        "lon": 23.312649
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Access road to HATAB campsite, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2b5638ff5df3740590f74fe37402033c0f00103f901aba7e4e30100000092030a486970706f20506f6f6c",
+      "name": "Hippo Pool",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1259799,
+        "lon": 23.8748407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo Pool, Chobi Cutline, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be1d9727c6be374059ef247db5fe7f33c0f00103f9018aefff65000000009203095761746572686f6c65",
+      "name": "Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.4999803,
+        "lon": 23.7452111
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e075ec56857a3740591b3e33d29cba33c0f00103f90102ae85570200000092030443616d70",
+      "name": "Camp",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.7289554,
+        "lon": 23.4785971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Camp, Daunara Road, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d704076ae7c23840591eaa8482adef33c0f00103f90132e64536000000009203097761746572686f6c65",
+      "name": "waterhole",
+      "city": "Game Scout Camp",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9362413,
+        "lon": 24.7613436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "waterhole, Game Scout Camp, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b4cc3f011d937405937e0f3c3085932c0f00103f90193a2bdc5000000009203184c696e79616e746920446973636f76657265722043616d70",
+      "name": "Linyanti Discoverer Camp",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.34779,
+        "lon": 23.84793
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Linyanti Discoverer Camp, Chobi Cutline, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51706e5d7bb068364059464bd4c1b00c33c0f00103f90113fe914f0100000092030e6c61676f6f6e203320456e747279",
+      "name": "lagoon 3 Entry",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0495721,
+        "lon": 22.4089429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "lagoon 3 Entry, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51651470743a71374059ed5ffeafdff634c0f00103f901e906d114030000009203115468652064756e6520776f726b73686f70",
+      "name": "The dune workshop",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9643507,
+        "lon": 23.4422982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "The dune workshop, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51266daaee916d374059829d51a9c8f933c0f00103f901c1b7b4350000000092030e5363656e696320466c6967687473",
+      "name": "Scenic Flights",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9757181,
+        "lon": 23.428008
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Scenic Flights, Mathiba I Street, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab9fed878e233740596de2e47e87de33c0f00103f901caf7f7450200000092030a4c7963616f6e2050616e",
+      "name": "Lycaon Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.869255,
+        "lon": 23.1388936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lycaon Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4e9e51ce17b374059e69bc827bf5c33c0f00103f901769866270200000092030b42616f6261622054726565",
+      "name": "Baobab Tree",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.3622918,
+        "lon": 23.4839037
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab Tree, Game Viewing, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f292ad148c83740598bd2ef0c642133c0f00103f901eac46aac020000009203094879656e612064656e",
+      "name": "Hyena den",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1304329,
+        "lon": 23.7823611
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hyena den, Water crossing, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51921dc0c70522374059dde9735a5cde33c0f00103f901c8f7f7450200000092030e43726f746f6e2050617373616765",
+      "name": "Croton Passage",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8685967,
+        "lon": 23.1329007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Croton Passage, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a84fc22572c3940595101e61027c831c0f00103f901dc6fdc4801000000",
+      "name": "President Avenue",
+      "city": "Kasane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.7818461,
+        "lon": 25.1732046
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "President Avenue, Police House quarters, Kasane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ff2d5e99b63364059cc4f60f01f0f33c0f00103f90178fe914f0100000092030e4d616b77656e61204c61676f6f6e",
+      "name": "Makwena Lagoon",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0590811,
+        "lon": 22.3890978
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Makwena Lagoon, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff9b72e030be354059713d0ad7a3c032c0f00103f90134336ed90000000092030f44616e63696e672050656e69736573",
+      "name": "Dancing Penises",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7525,
+        "lon": 21.7429333
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dancing Penises, Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189ea52c83a13384059ba47db9d5a9832c0f00103f9015a524f4b0100000092031442616f626162207374726574636820706f696e74",
+      "name": "Baobab stretch point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5951327,
+        "lon": 24.0751157
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab stretch point, Mababe - Savuti, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515307793d9812384059834c327216ae32c0f00103f90100a411660000000092030e456c657068616e7420626f6e6573",
+      "name": "Elephant bones",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.68003,
+        "lon": 24.0726355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Elephant bones, Mababe - Savuti (Marsh Road), Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b7a30ce841d3740594bdddfea4adf33c0f00103f901c6f7f7450200000092030d42727964656e2049736c616e64",
+      "name": "Bryden Island",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8722369,
+        "lon": 23.1153077
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bryden Island, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516693b2fb441838405996d123a188a232c0f00103f9016c2216360100000092030a5268696e6f20566c6569",
+      "name": "Rhino Vlei",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.6348973,
+        "lon": 24.0948026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rhino Vlei, Mababe - Savuti (Marsh Road), Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4f6cb272bf2384059fbc9bd65f35932c0f00103f901a6258b4901000000",
+      "name": "Kasane Road (East)",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.3513702,
+        "lon": 24.945971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kasane Road (East), Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef47403b96bd354059597a7e62aec232c0f00103f901b1873b3001000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7604734,
+        "lon": 21.7405736
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51353fa319300d3940590eac996b87d531c0f00103f9011c67ad3500000000",
+      "name": "Bushbuck Drive",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8340976,
+        "lon": 25.0515152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bushbuck Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514add8431d8bd384059fc5cc87e71ee33c0f00103f901b0d145360000000092030c5761746572686f6c65202332",
+      "name": "Waterhole #2",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9314193,
+        "lon": 24.7415801
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterhole #2, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bbb31b2213dd36405944aff5fbb44033c0f00103f9010dd541220100000092031074776f2042616f626162205472656573",
+      "name": "two Baobab Trees",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2527616,
+        "lon": 22.8635732
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "two Baobab Trees, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c1a26cdb4162374059a814e060144133c0f00103f9011ff193980100000092030a5669657720506f696e74",
+      "name": "View Point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2542172,
+        "lon": 23.3838174
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View Point, Xakanaxa - 3rd Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b14d2a1a6b253940592eb6ffb748ce31c0f00103f9016457e14d01000000",
+      "name": "River Road",
+      "city": "Kasane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8057971,
+        "lon": 25.1461655
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "River Road, Kasane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519867caf3857b37405997d931bfe4be33c0f00103f901616686570200000092030d43616e6f6573206c61756e6368",
+      "name": "Canoes launch",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.7456779,
+        "lon": 23.4825127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Canoes launch, Daunara Road, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f57b07e4b765374059904e5df92c4133c0f00103f901b8f900660000000092030a486970706f20706f6f6c",
+      "name": "Hippo pool",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2545925,
+        "lon": 23.3973372
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo pool, Xakanaxa - 3rd Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518cc45feeee8237405903a8f3f2857e33c0f00103f9017fd3fd0b0200000092032e3173742054206a756e6374696f6e2066726f6d20426c61636b20506f6f6c20746f20476f6d6f7469207269766572",
+      "name": "1st T junction from Black Pool to Gomoti river",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.4942314,
+        "lon": 23.5114583
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "1st T junction from Black Pool to Gomoti river, Game Viewing, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111f28b5c81cc37405972d24554f28f33c0f00103f9018defff65000000009203095761746572686f6c65",
+      "name": "Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.5622914,
+        "lon": 23.7988489
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511bf1643733f43840593b17ebc0decd31c0f00103f9011e59d56501000000",
+      "name": "Chobe District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8041802,
+        "lon": 24.9539065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chobe District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519974a5af31053940592711e15f04d531c0f00103f901ec67d4dd00000000",
+      "name": "Bushbuck Drive",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.832098,
+        "lon": 25.0202894
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bushbuck Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166ed0099e75a3540594e64e602970534c0f00103f90105bff5940100000092030e4763776968616261204361766573",
+      "name": "Gcwihaba Caves",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.0218355,
+        "lon": 21.3550964
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gcwihaba Caves, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514732f504d3b0354059913de7131ec735c0f00103f901578e900403000000",
+      "name": "A3",
+      "city": "Ghanzi",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.7778027,
+        "lon": 21.6907199
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A3, Ghanzi, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512997c62fbc063640592d246074792933c0f00103f90153e902a80100000092030a4d6964646c652050616e",
+      "name": "Middle Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1620095,
+        "lon": 22.026309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Middle Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae049ceff15f364059bf55e8cdf21433c0f00103f9017bfe914f0100000092030d5765626f726f204c61676f6f6e",
+      "name": "Weboro Lagoon",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0818299,
+        "lon": 22.3747854
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Weboro Lagoon, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179f64b7ace7e374059f2d5e99b8fe833c0f00103f9013136392b0300000092030d4d6174616c616e61204661726d",
+      "name": "Matalana Farm",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9084413,
+        "lon": 23.4953381
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Matalana Farm, Boro Prison Road, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51754419051c63364059b4942c27a1fa32c0f00103f901035093b00100000092030b4d6f6b6f726f2074726970",
+      "name": "Mokoro trip",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.9790215,
+        "lon": 22.3871463
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mokoro trip, 4x4 to Guma/Nguma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161d9716836be3540597bdf5394a6c032c0f00103f9012309056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7525418,
+        "lon": 21.7430177
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d3743bb54b83740591463f437fce734c0f00103f90151e902a8010000009203124861726465676174205761746572686f6c65",
+      "name": "Hardegat Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9061923,
+        "lon": 23.7200429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hardegat Waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f1790fe1a95d37405953f82290014333c0f00103f90195d092980100000092030a5669657720506f696e74",
+      "name": "View Point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2617426,
+        "lon": 23.3658734
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View Point, South Gate - 3rd Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519d88d92670b0374059dbc93be2eb5434c0f00103f9016dabb5c500000000920314546f6c616e6b776520436f6e73657276616e6379",
+      "name": "Tolankwe Conservancy",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.3317243,
+        "lon": 23.6892113
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tolankwe Conservancy, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51381b86ea4114384059260d24def09732c0f00103f9016714c00c01000000920311427573686d616e205061696e74696e6773",
+      "name": "Bushman Paintings",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5935191,
+        "lon": 24.0791308
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bushman Paintings, Mababe - Savuti, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c7ca070d1be354059954e7f51ddc132c0f00103f901e3646ed9000000009203055268696e6f",
+      "name": "Rhino",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7572833,
+        "lon": 21.7453833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5122c154336bcb3640594dc0af91243833c0f00103f90183a9f4010100000092030b4561737465726e2050616e",
+      "name": "Eastern Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.219308,
+        "lon": 22.7946045
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Eastern Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51929ca7959d653740599aef3be1804333c0f00103f9013b433b25010000009203124d616777786578686c616e6120506f6f6c73",
+      "name": "Magwxexhlana Pools",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2636853,
+        "lon": 23.3969358
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Magwxexhlana Pools, Xakanaxa - 3rd Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517760a527d1c3374059a266a3ce372133c0f00103f90177b24ed40000000092030a486970706f20506f6f6c",
+      "name": "Hippo Pool",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1297578,
+        "lon": 23.7649102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo Pool, Water crossing, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f1ce4653e253394059294822eaf47634c0f00103f9014af019ff0000000092030c746a756d75746a756d756761",
+      "name": "tjumutjumuga",
+      "city": "Txlhonya",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4646746,
+        "lon": 25.3276722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "tjumutjumuga, Txlhonya, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ec7725cd7a7394059cae77008b01935c0f00103f90174ec05ff000000009203104c6f6f6b6f757420706c6174666f726d",
+      "name": "Lookout platform",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.1003423,
+        "lon": 25.6556299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lookout platform, Tshitane Pan Track - Seasonal, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511833784e69bf354059c24cdbbfb2c232c0f00103f9014909056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.76054,
+        "lon": 21.7477006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51055fe2d92fb13740591fdb32e02cfd34c0f00103f90152e902a801000000920308434b47522050616e",
+      "name": "CKGR Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.988966,
+        "lon": 23.6921364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "CKGR Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c61dcaabce63364059ca987109761033c0f00103f90179fe914f0100000092030e6c61676f6f6e203220456e747279",
+      "name": "lagoon 2 Entry",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0643011,
+        "lon": 22.3898723
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "lagoon 2 Entry, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3ab787eac81384059df388485ee1b35c0f00103f901984261100100000092031432205472656573204761746520746f204d61756e",
+      "name": "2 Trees Gate to Maun",
+      "city": "Mmadikola",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.1091083,
+        "lon": 24.5065383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "2 Mopipi trees, B300, Mmadikola, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192fcd2eccb1138405991291f82aa8f32c0f00103f901a4e05c26010000009203095761746572686f6c65",
+      "name": "Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5611955,
+        "lon": 24.0695179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Waterhole, Ghoha Gate Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513eb4eace6e1a3840592c781be5aa8f32c0f00103f901c722b5350000000092030b5175617272792048696c6c",
+      "name": "Quarry Hill",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5612014,
+        "lon": 24.1032533
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Quarry Hill, Nogatsaa Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2eb67565bc0374059bf3d74e6c3e834c0f00103f901b5e902a801000000920314426c696e6b626c616172205761746572686f6c65",
+      "name": "Blinkblaar Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9092392,
+        "lon": 23.7513937
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Blinkblaar Waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfb277eba15e3940596986f997495535c0f00103f90106b82b300100000092030c5068616e6520537175617265",
+      "name": "Phane Square",
+      "city": "Orapa",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.3331542,
+        "lon": 25.3696582
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Phane Square, Lesaka Street, Orapa, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510cd352d4f46a374059bb270f0bb50234c0f00103f901f9037810010000009203144b6f6d6d65726573692050687574686f6c6f676f",
+      "name": "Kommeresi Phuthologo",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.010575,
+        "lon": 23.4177983
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kommeresi Phuthologo, Letsholathebe II road, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ccc4beae7036394059c4c59b46a47b34c0f00103f901388206400100000092030f5a65627261205761746572686f6c65",
+      "name": "Zebra Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4829754,
+        "lon": 25.2126569
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zebra Waterhole, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b1a48bce185384059d96f37d2636d34c0f00103f9012a96f03500000000",
+      "name": "Motopi Loop",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4273044,
+        "lon": 24.5229757
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Motopi Loop, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5152b81e85ebb9364059d71de626c5bc32c0f00103f901e7646ed90000000092030a5a656272612d4c6f676f",
+      "name": "Zebra-Logo",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7373833,
+        "lon": 22.72625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zebra-Logo, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51023917354e613640592e4ec642bef932c0f00103f901d54e93b00100000092030b4d6f6b6f726f2074726970",
+      "name": "Mokoro trip",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.9755594,
+        "lon": 22.3800996
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mokoro trip, 4x4 to Guma/Nguma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51167ebacb8f3d3a4059ab98a5f8534c34c0f00103f901da4c0e7d01000000",
+      "name": "Central District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.2981563,
+        "lon": 26.2404754
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115d2d0f533b9384059df0db3e1faeb31c0f00103f9015b94774f010000009203164e676f6d6120456475636174696f6e2043656e746572",
+      "name": "Ngoma Education Center",
+      "city": "Ngoma Bridge",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.9217969,
+        "lon": 24.7234491
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ngoma Education Center, A33, Ngoma Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5174c46ba8620c394059c3d1fa0049d531c0f00103f90199101b9500000000",
+      "name": "Bushbuck Drive",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8331452,
+        "lon": 25.0483804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bushbuck Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51803a2f5fa85b394059d5f5fa496b5635c0f00103f901b4d8711601000000920306636875726368",
+      "name": "church",
+      "city": "Orapa",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.3375746,
+        "lon": 25.3580379
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "church, Lesaka Street, Orapa, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d37e106ed7fc3740592299c40f842e33c0f00103f90111fe914f0100000092030e4e6f6b616e79616e612043616d70",
+      "name": "Nokanyana Camp",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1817026,
+        "lon": 23.9876622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nokanyana Camp, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51907d35ac4efd3540598e6e298cd22c33c0f00103f9017dea02a8010000009203086c61636b2050616e",
+      "name": "lack Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1750877,
+        "lon": 21.9894817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "lack Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd6921b7152539405949b5f40df1ce31c0f00103f9012d9b7fcd020000009203054a65747479",
+      "name": "Jetty",
+      "city": "Kasane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8083657,
+        "lon": 25.1448626
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jetty, River Road, Kasane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120f4c70ff01f3740596afef38f19df33c0f00103f9018df8f745020000009203104c696768746e696e672049736c616e64",
+      "name": "Lightning Island",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8714838,
+        "lon": 23.1247568
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lightning Island, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e4e21fc305f364059fb952941da1233c0f00103f9017afe914f0100000092030d6c61676f6f6e20312045786974",
+      "name": "lagoon 1 Exit",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0736428,
+        "lon": 22.3718412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "lagoon 1 Exit, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bca882f68fa437405934bff5bc763233c0f00103f901b4a1dbe10100000092030a486970706f20506f6f6c",
+      "name": "Hippo Pool",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1971243,
+        "lon": 23.6428217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo Pool, Dombo - Xakanaxa, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce6c57e883773a40597890e8afa1a336c0f00103f9013ed964ee010000009203104f6c6568696c6520636f726e65722044",
+      "name": "Olehile corner D",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6391859,
+        "lon": 26.4668565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Olehile corner D, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a38c0273185374059520dfb3db17c33c0f00103f9011b37fe0b0200000092032343726f7373696e6720746f2054206a756e6374696f6e20476f6d6f7469207269766572",
+      "name": "Crossing to T junction Gomoti river",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.4870795,
+        "lon": 23.5202813
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Crossing to T junction Gomoti river, Game Viewing, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0d99c39dae1374059d565e723df1733c0f00103f90191e6726e0100000092031d446f206e6f742074616b65207468697320726f6164212044414e474552",
+      "name": "Do not take this road! DANGER",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0932486,
+        "lon": 23.8822361
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Do not take this road! DANGER, Chobi Cutline, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f82290018fb23740591fc484871fec34c0f00103f901efe802a80100000092030b6c656f706172642050616e",
+      "name": "leopard Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9223561,
+        "lon": 23.6974946
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "leopard Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111cc2c9d6ab83a4059a2201dc3083c36c0f00103f9018a9a2011000000009203154b68616d61205268696e6f2053616e637475617279",
+      "name": "Khama Rhino Sanctuary",
+      "city": "Paje",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.2345087,
+        "lon": 26.7203768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Khama Rhino Sanctuary, A14, Paje, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51691206afa7373a4059e1496650c85334c0f00103f9018066c79c00000000",
+      "name": "Central District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.3272753,
+        "lon": 26.2174024
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a16efb79aed2394059163bd0f9dfe434c0f00103f901f0e19f390000000092030b4b7562752049736c616e64",
+      "name": "Kubu Island",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.8940426,
+        "lon": 25.8229748
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kubu Island Ring Track, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178c201e3cfbe3540590de7751fdbc132c0f00103f9016f09056a00000000",
+      "name": "Rhino Trail",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7572498,
+        "lon": 21.7453596
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149da8d3ee61338405957337c55788b32c0f00103f9017b29651200000000920310536176757469205761746572686f6c65",
+      "name": "Savuti Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5448049,
+        "lon": 24.077732
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Savuti Waterhole, Ghoha Gate Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d36295777a643740598f8e064bd04833c0f00103f901f9e27df90000000092030c466972737420427269646765",
+      "name": "First Bridge",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2844283,
+        "lon": 23.3924937
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "First Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a702ee79fef23840598229b97999cf31c0f00103f90185f95d870100000092030a50756b7520466c617473",
+      "name": "Puku Flats",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8109356,
+        "lon": 24.9491955
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Puku Flats, Chobe District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51610ecc1b71263940591766a19dd3cc31c0f00103f9012f2659eb00000000920313436c6172696f2054726176656c204167656e74",
+      "name": "Clario Travel Agent",
+      "city": "Kasane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.800104,
+        "lon": 25.1501634
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Clario Travel Agent, President Avenue, Police House quarters, Kasane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165c39acaa262364059d5fa6c2e48fe32c0f00103f901015093b00100000092030b4d6f6b6f726f2074726970",
+      "name": "Mokoro trip",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.9932889,
+        "lon": 22.3852965
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mokoro trip, 4x4 to Guma/Nguma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b4e7adff85a354059cae2fe23d30534c0f00103f901715430e30000000092030f64726f74736b792773206361766573",
+      "name": "drotsky's caves",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.022753,
+        "lon": 21.35536
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "drotsky's caves, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51304ca60a46bd3540591d716d4d5fc232c0f00103f90135336ed90000000092030d456c656e616e74696c6f70656e",
+      "name": "Elenantilopen",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7592667,
+        "lon": 21.73935
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Elenantilopen, Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c7904375282374059852c66df707433c0f00103f9014d1ed6b002000000",
+      "name": "Game Viewing",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.4548473,
+        "lon": 23.509067
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Game Viewing, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51217365506d20374059ab5b3d27bddf33c0f00103f90129f8f745020000009203155361757361676520547265652043726f7373696e67",
+      "name": "Sausage Tree Crossing",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.87398,
+        "lon": 23.126668
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sausage Tree Crossing, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518899226530773a40593305210f33a436c0f00103f901dad864ee0100000092030d48696c6c732073696465206331",
+      "name": "Hills side c1",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6414041,
+        "lon": 26.4655822
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hills side c1, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159f965304668374059b8414871e93d33c0f00103f90141299dc900000000",
+      "name": "Xakanaxa - 3rd Bridge",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2418433,
+        "lon": 23.407321
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Xakanaxa - 3rd Bridge, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168a6c52aef2037405919b5b1c865de33c0f00103f901c7f7f7450200000092030b436f7563616c20566c6569",
+      "name": "Coucal Vlei",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8687406,
+        "lon": 23.1286494
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coucal Vlei, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f4a5b73f17c13740593500659d3b2b33c0f00103f901778a25a80000000092030a486970706f2076696577",
+      "name": "Hippo view",
+      "city": "Khwai",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1688784,
+        "lon": 23.754261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo view, Kwai Bridge, Khwai, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51504fc4c7cc7e3740595753a3a190e833c0f00103f9018df7392b0300000092030d4d6174616c616e61204661726d",
+      "name": "Matalana Farm",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9084569,
+        "lon": 23.4953122
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Matalana Farm, Boro Prison Road, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1c5c958c87937405916bd5301f7fe33c0f00103f901516721f9010000009203204b696e67646f6d20476174686572696e6720526f75746520317374205475726e",
+      "name": "Kingdom Gathering Route 1st Turn",
+      "city": "Maun",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9959565,
+        "lon": 23.4757133
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kingdom Gathering Route 1st Turn, Exit 8, Maun, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fb31df8bdc8384059646a5c493cf033c0f00103f901b1d145360000000092030c5761746572686f6c65202331",
+      "name": "Waterhole #1",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9384199,
+        "lon": 24.7841487
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterhole #1, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9f00cbf402338405945f69c4f783634c0f00103f901227f6110010000009203074368616e6f6761",
+      "name": "Chanoga",
+      "city": "Motopi",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.2127733,
+        "lon": 24.1377067
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chanoga, B300, Motopi, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a65df1796a56374059bf5076e9155535c0f00103f901e75f4c0b01000000",
+      "name": "Ghanzi District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.3323656,
+        "lon": 23.3375622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ghanzi District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d640dcd2b0f384059b4e0eaa5ce9c32c0f00103f901e58e4f4b0100000092030c4c656f7061726420726f636b",
+      "name": "Leopard rock",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.6125282,
+        "lon": 24.0592621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Leopard rock, Leopard Rock Loop, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b817c64ce12384059682096cd1cae32c0f00103f9012d7811570100000092030b4d617261626f752050616e",
+      "name": "Marabou Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.680127,
+        "lon": 24.0734618
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marabou Pan, Mababe - Savuti (Marsh Road), Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51065b3684744c36405991042b98421d33c0f00103f90175fe914f0100000092030f7061726b696e67204973686d61656c",
+      "name": "parking Ishmael",
+      "city": "Gonutsuga",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1142974,
+        "lon": 22.2986529
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "parking Ishmael, A35, Gonutsuga, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2fac10a01903740595818c7ed3cbe33c0f00103f90115685ac2010000009203094d2647204661726d73",
+      "name": "M&G Farms",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.7431172,
+        "lon": 23.5625159
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "M&G Farms, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514fdda68988e8384059ae282504abd233c0f00103f90125f7240c010000009203095761746572686f6c65",
+      "name": "Waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.822922,
+        "lon": 24.9083334
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d80baab2947f38405972497abda02832c0f00103f9010d896f4e0100000092031c4d706120596120546c6f752043756c747572616c2056696c6c616765",
+      "name": "Mpa Ya Tlou Cultural Village",
+      "city": "Kachikau",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.1587027,
+        "lon": 24.4983627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mpa Ya Tlou Cultural Village, Savuti Road, Kachikau, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e245d33f9c43640599c6b98a1f13233c0f00103f9014baaf4010100000092031456756c7475726527732042616f6261622050616e",
+      "name": "Vulture's Baobab Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1989995,
+        "lon": 22.7694275
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vulture's Baobab Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5138537cd7fbca3740593c28cd8bb81f33c0f00103f901731150d4000000009203094879656e612044656e",
+      "name": "Hyena Den",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.1239097,
+        "lon": 23.7929053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hyena Den, seasonal, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b2b35d659ee3a4059e95ecc3bf3f137c0f00103f901be2aee3f0100000092030e4c696d706f706f20526170696473",
+      "name": "Limpopo Rapids",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -23.9451177,
+        "lon": 26.9310583
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Limpopo Rapids, Kgatleng District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c3a64b95b9c3c40598993a064178f36c0f00103f901a4ca4c4b0000000092030e53686f6f74696e672052616e6765",
+      "name": "Shooting Range",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5589507,
+        "lon": 28.6107746
+      },
+      "categories": [
+        "sport",
+        "sport.shooting",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shooting Range, River Fence Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519df529c7642d3a40592e122400492237c0f00103f90161aa46100100000092030a4b6f646962656c656e67",
+      "name": "Kodibeleng",
+      "city": "Kodibeleng",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -23.1339264,
+        "lon": 26.177319
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kodibeleng, B112, Kodibeleng, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f64b1f155ac73640591734e323183933c0f00103f901aeaaf4010100000092031254756c6c792054756c6c7920427269646765",
+      "name": "Tully Tully Bridge",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2230246,
+        "lon": 22.7787183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tully Tully Bridge, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a736dd578ac73640594ce71e6d773a33c0f00103f901a8a3f401010000009203144c6974746c65204d6f6d626f20527574616e6461",
+      "name": "Little Mombo Rutanda",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.2283848,
+        "lon": 22.7794547
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Little Mombo Rutanda, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c4e4f0e55cd3740597b87dba1619533c0f00103f901841d6e4f02000000920304426f6d61",
+      "name": "Boma",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.583521,
+        "lon": 23.8020791
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Boma, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51463305210fc1384059db5ec1ec54e133c0f00103f901aed145360000000092030c5761746572686f6c65202334",
+      "name": "Waterhole #4",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8802021,
+        "lon": 24.7541371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterhole #4, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d527147d99833c4059445db57c6e9636c0f00103f901f8164d4b0000000092030a43726f636f64696c6573",
+      "name": "Crocodiles",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5876234,
+        "lon": 28.5140608
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Crocodiles, River Camp Shareholder Access Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a3af18b01463a405953bb1578dd5b34c0f00103f901d516b7570200000092030d53756e2073657420706f696e74",
+      "name": "Sun set point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.3588481,
+        "lon": 26.2734611
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sun set point, A3, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512772778ce1ce384059fa4fedc2c5e631c0f00103f901851dd6b002000000",
+      "name": "A33",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.9014551,
+        "lon": 24.8081291
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A33, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9e946b30d113940595781b5c590d731c0f00103f901c5a70b5e000000009203114b616c77657a692d6b652d4e6b616e6761",
+      "name": "Kalwezi-ke-Nkanga",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8420528,
+        "lon": 25.0666153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kalwezi-ke-Nkanga, Bushbuck Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5d53906646b3a4059aa9a20ea3e2037c0f00103f901923e461001000000920307496b6f6e677765",
+      "name": "Ikongwe",
+      "city": "Ikongwe",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -23.12596,
+        "lon": 26.419495
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ikongwe, B112, Ikongwe, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515232ef271985374059246e0498e87833c0f00103f9012719da3c010000009203104d616b6f62612056696577706f696e74",
+      "name": "Makoba Viewpoint",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.4722991,
+        "lon": 23.5199151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Makoba Viewpoint, Morangwa river loop, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a54f8d802293b4059e3a194b5f29b36c0f00103f901319ccda10200000092031a536567616c6164686f6c652048696c6c2056696577706f696e74",
+      "name": "Segaladhole Hill Viewpoint",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6091722,
+        "lon": 27.1601997
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Segaladhole Hill Viewpoint, OPM trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f085c954c1383a40599fd623c3e0fc34c0f00103f901e2af4b7d0100000092030f4269672042616f6261622054726565",
+      "name": "Big Baobab Tree",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9878046,
+        "lon": 26.2217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Big Baobab Tree, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d69d38ca0b2839405995c61e903aca31c0f00103f90155a4e05702000000920312546865626520526976657220536166617269",
+      "name": "Thebe River Safari",
+      "city": "Kasane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.7899561,
+        "lon": 25.1564299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Thebe River Safari, President Avenue, Police House quarters, Kasane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157e5e72bedf93c4059d0a744c82f4c36c0f00103f901a16c5e0b02000000",
+      "name": "Way to Molema Bushcamp",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.2976041,
+        "lon": 28.9762752
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Way to Molema Bushcamp, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e5ec60380af3a4059adffce51a23c36c0f00103f9010b15da3b0100000092030a4b68616d612048696465",
+      "name": "Khama Hide",
+      "city": "Paje",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.2368518,
+        "lon": 26.6855471
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Khama Hide, A14, Paje, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f64b1f155ad73a4059835726570c1437c0f00103f901fbc808100100000092030e576174657273686564204d616c6c",
+      "name": "Watershed Mall",
+      "city": "Mahalapye",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -23.0783133,
+        "lon": 26.8412183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Watershed Mall, A1, Mahalapye, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5153211e89971b384059db8c2ecac78932c0f00103f901a7e05c260100000092030e42616f6261622047616c6c657279",
+      "name": "Baobab Gallery",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5382048,
+        "lon": 24.107781
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab Gallery, Ghoha Gate Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516cf2ef8ee7603a40595951836918f236c0f00103f901207b4610010000009203094d6f6c6f7473616e65",
+      "name": "Molotsane",
+      "city": "Mosolotshane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.945685,
+        "lon": 26.3785333
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Molotsane, B145, Mosolotshane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e6d20b8253b3940591a14724ae56c34c0f00103f90171d79f390000000092030e477265656e27732042616f626162",
+      "name": "Green's Baobab",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4253737,
+        "lon": 25.2310443
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Green's Baobab, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190300c5872113740596fc78ad0be0436c0f00103f9019da2baea000000009203124275726e6564206f75742076656869636c65",
+      "name": "Burned out vehicle",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.0185366,
+        "lon": 23.068151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Burned out vehicle, Ghanzi District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0a932e774943b405917917241c7b636c0f00103f901066541a30200000092030b4775706f20537072696e67",
+      "name": "Gupo Spring",
+      "city": "Ratholo",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.7139779,
+        "lon": 27.5799088
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gupo Spring, Ratholo, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158e13bd63187384059a7696160676a34c0f00103f901d9f58e8101000000",
+      "name": "Motopi Loop",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4156399,
+        "lon": 24.5281042
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Motopi Loop, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e162b0f77c0354059c74043a44bc232c0f00103f90137336ed9000000009203044c696f6e",
+      "name": "Lion",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.7589667,
+        "lon": 21.7518167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lion, Rhino Trail, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e46a64575a6a364059165ffe54260c33c0f00103f90177fe914f0100000092030c5868616d75204c61676f6f6e",
+      "name": "Xhamu Lagoon",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.0474599,
+        "lon": 22.415441
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Xhamu Lagoon, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6d03a4fe1213740590e3e833c71e133c0f00103f901c9f7f7450200000092030c57696c6420446f672050616e",
+      "name": "Wild Dog Pan",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.8806341,
+        "lon": 23.1323442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wild Dog Pan, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107ea9447378e3c4059db8c2ecac78f36c0f00103f901aaca4c4b000000009203174c696d706f706f2052697665722056696577706f696e74",
+      "name": "Limpopo River Viewpoint",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5616423,
+        "lon": 28.555531
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Limpopo River Viewpoint, East Riverfront Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510095850a69c4374059b8f6f4c76af734c0f00103f901e6e102a80100000092030853636f7265676174",
+      "name": "Scoregat",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9664731,
+        "lon": 23.7672278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Scoregat, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516af2391c02f4384059126c5cffae4932c0f00103f90139e6ac35000000009203124e6f6761747361612047616d652048696465",
+      "name": "Nogatsaa Game Hide",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.2878265,
+        "lon": 24.9531572
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nogatsaa Game Hide, Kasane Road (West), Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f34b8ad2d9e3c4059a0450081188236c0f00103f901d86a7b5a0000000092030a4f6c6420477261646572",
+      "name": "Old Grader",
+      "city": "Koos' New House",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5081864,
+        "lon": 28.6178845
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Old Grader, LL Road 127, Koos' New House, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fc97cf61285384059756e7fd3607734c0f00103f901bfe68e8101000000",
+      "name": "B300",
+      "city": "Khumaga",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4663212,
+        "lon": 24.5198206
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "B300, Khumaga, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517bc7dfac773c394059ad6296e24fdf31c0f00103f901c939693a0100000092030d48696465202842756e6b657229",
+      "name": "Hide (Bunker)",
+      "city": "Lesoma",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.8723127,
+        "lon": 25.2362011
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hide (Bunker), Hunter's Road / Cutline Road, Lesoma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f315bb22a703840591c9eb9e23d1835c0f00103f901217f61100100000092030652616b6f7073",
+      "name": "Rakops",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.0946943,
+        "lon": 24.4381515
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rakops, B300, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51581014895359394059d1555f025c7534c0f00103f90170d79f390000000092030c4b616f7a6120537072696e67",
+      "name": "Kaoza Spring",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4584352,
+        "lon": 25.3489309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kaoza Spring, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e196c8f835f3b4059a0a3fa73769934c0f00103f9010975d31702000000920310446f6d626f7368616261207275696e73",
+      "name": "Domboshaba ruins",
+      "city": "Vukwi",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.5994637,
+        "lon": 27.3731012
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Domboshaba ruins, Vukwi, North-East District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51577d0970d5d837405985e97b0dc11933c0f00103f9011a3a00660000000092030a486970706f2076696577",
+      "name": "Hippo view",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.100602,
+        "lon": 23.8470068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo view, Selinda - Khwai road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e1d346035d5394059d0bfb8af5ee434c0f00103f9010525bda701000000920309526f616d20526f636b",
+      "name": "Roam Rock",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.8920698,
+        "lon": 25.8328457
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Roam Rock Track - Seasonal, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b63b5a8b05543a405966fa25e2ad3935c0f00103f901dfff301f010000009203174d6f64696d6f747365626520436174746c6520506f7374",
+      "name": "Modimotsebe Cattle Post",
+      "city": "Tlala Mabeli",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.2253095,
+        "lon": 26.3282096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Modimotsebe Cattle Post, A30, Tlala Mabeli, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164c7eb66eb453a4059c681fc112b5c34c0f00103f901cd0fb7570200000092030d53756e2073657420706f696e74",
+      "name": "Sun set point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.3600322,
+        "lon": 26.2731232
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sun set point, A3, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111cc2c9d6a3c3a4059b305291d51fc34c0f00103f90139f62f7d01000000",
+      "name": "Central District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9856127,
+        "lon": 26.2360018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f25c0fa89423a4059ef4ee383435834c0f00103f9017f82d02500000000",
+      "name": "Central District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.3447802,
+        "lon": 26.2599179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516149038937823c4059f091280f669636c0f00103f9011d8d4a4b0000000092030b486970706f20506f6f6c73",
+      "name": "Hippo Pools",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5874948,
+        "lon": 28.5086599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo Pools, River Hide Access Track, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebc726f9114339405970592a148e3734c0f00103f901a1b11aff00000000920304486f6d65",
+      "name": "Home",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.2170117,
+        "lon": 25.261993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Home, A3, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a534c90393c39405937abc30e3de131c0f00102f9014c38eb1800000000",
+      "name": "Hunter's Road / Cutline Road",
+      "city": "Lesoma",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -17.879837916155534,
+        "lon": 25.23525335181629
+      },
+      "categories": [
+        "man_made",
+        "man_made.tower",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "Hunter's Road / Cutline Road, Lesoma, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51778d4c7622c5384059c7a58526e41c34c0f00103f90135e645360000000092030e4261696e65732042616f62616273",
+      "name": "Baines Baobabs",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.1128563,
+        "lon": 24.7700571
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Baines Baobabs, Wet season road to Baines Baobab, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8cad4c9beb03a40593966344d333436c0f00103f90153d5f0350000000092030953657277652050616e",
+      "name": "Serwe Pan",
+      "city": "Paje",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.2039078,
+        "lon": 26.6904112
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Serwe Pan, A14, Paje, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3e43b4217763a40598850002082a336c0f00103f901dbd864ee01000000920304486f6d65",
+      "name": "Home",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6387043,
+        "lon": 26.4612924
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Home, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df89592f86663a4059e39fbe0a95a636c0f00103f90111774710010000009203094d6f69796162616e61",
+      "name": "Moiyabana",
+      "city": "Moiyabana",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6507117,
+        "lon": 26.400485
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Moiyabana, B145, Moiyabana, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51180edf1d74883b40595475ea25213035c0f00103f901223709100100000092031e53756e7368696e6520506c617a61202853686f7070696e67204d616c6c29",
+      "name": "Sunshine Plaza (Shopping Mall)",
+      "city": "Francistown",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.1880058,
+        "lon": 27.5330218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sunshine Plaza (Shopping Mall), Mandela Street, Francistown, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51666b7d91d0663a40598ac2d3d0ab9436c0f00103f901b19f47100100000092030d4d6f7473686567616c65746175",
+      "name": "Motshegaletau",
+      "city": "Motshegaletau",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5807467,
+        "lon": 26.40162
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Motshegaletau, B145, Motshegaletau, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166ef31fdb73d3a40595c85de2c6f4c34c0f00103f9015da945360000000092030448696465",
+      "name": "Hide",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.2985714,
+        "lon": 26.2410887
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hide, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51912bf52c0837394059ac2a453c237934c0f00103f901398206400100000092030b477261737320506c61696e",
+      "name": "Grass Plain",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.4731939,
+        "lon": 25.2149685
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grass Plain, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516721a6e958763a405968df26ed57a336c0f00103f901d9d864ee0100000092030d446f776e20636f726e65722041",
+      "name": "Down corner A",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6380604,
+        "lon": 26.4622942
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Down corner A, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168dd5042fac3384059bb37d08dfae733c0f00103f901add14536000000009203097761746572686f6c65",
+      "name": "waterhole",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -19.9061669,
+        "lon": 24.7655374
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "waterhole, North-West District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165cae259dd1138405959d0c5f0229132c0f00103f90109cefa6d0000000092030e456c657068616e7420736b756c6c",
+      "name": "Elephant skull",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -18.5669394,
+        "lon": 24.0697838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Elephant skull, Nogatsaa Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cd00bcaa58833b40592876d954822c35c0f00103f90189eda299010000009203194b656e6e657468204e6b68776120496e7465726368616e6765",
+      "name": "Kenneth Nkhwa Interchange",
+      "city": "Francistown",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.1738637,
+        "lon": 27.5130717
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kenneth Nkhwa Interchange, A1, Francistown, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee9f5d7468453a4059f62a8df3925c34c0f00103f9013110b7570200000092030d53756e2073657420706f696e74",
+      "name": "Sun set point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.3616173,
+        "lon": 26.2711251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sun set point, A3, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4671fd03e8d3c4059d9d7158e7b9036c0f00103f901c1697b5a0000000092030f52697665722056696577706f696e74",
+      "name": "River Viewpoint",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5643853,
+        "lon": 28.5517397
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "River Viewpoint, East Riverfront Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51106fe70cd64b3a40593c719417f44934c0f00103f9017f7cc913000000009203174e6174612057696c646c6966652053616e637475617279",
+      "name": "Nata Wildlife Sanctuary",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.2888808,
+        "lon": 26.2962349
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nata Wildlife Sanctuary, A3, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd344987e2853c4059740580cfb49536c0f00103f9010f8d4a4b0000000092030c486172727927732043616d70",
+      "name": "Harry's Camp",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5847902,
+        "lon": 28.5229878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Harry's Camp Access Track, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de173cf141fc3c4059519841c6ed3936c0f00103f901d523460b0200000092030d536f6c6f6d6f6e732057616c6c",
+      "name": "Solomons Wall",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.2262844,
+        "lon": 28.9853812
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Solomons Wall, Tuli Reserves Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51962b1785b88f3c4059b70254820f8d36c0f00103f901a8251d950000000092030d53697070696e6720506f6f6c73",
+      "name": "Sipping Pools",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5510179,
+        "lon": 28.5614093
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sipping Pools, LL Road 26, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae090ed4ce633a4059fc6200f26fe337c0f00103f901944e09100100000092030e4d6173616d612056696c6c616765",
+      "name": "Masama Village",
+      "city": "Artisia",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -23.8884269,
+        "lon": 26.3898747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Masama Village, A1, Artisia, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c95b0938df753a4059fa298e03afa436c0f00103f9013dd964ee0100000092030c436f726e657220746f702042",
+      "name": "Corner top B",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6432955,
+        "lon": 26.4604373
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Corner top B, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191ed7c3f358e3a405968aed3484b7136c0f00103f901b9194710010000009203084d6f676f726f7369",
+      "name": "Mogorosi",
+      "city": "Mogorosi",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.442555,
+        "lon": 26.5555
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mogorosi, B145, Mogorosi, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ebcdc71d48b3c4059cf92b6a79a9136c0f00103f90129174d4b00000000920311506f74686f6c657320456e7472616e6365",
+      "name": "Potholes Entrance",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.5687661,
+        "lon": 28.5462104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Potholes Entrance, East Riverfront Drive, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51724001ca958c3c405961d79bbdd87e36c0f00103f90183ca4c4b0000000092030f53756e646f776e6572732053706f74",
+      "name": "Sundowners Spot",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.4954947,
+        "lon": 28.5491606
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sundowners Spot, Sundowners Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae0095e0c33f3a40595ecb7564f6fb34c0f00103f901d7e8477d01000000",
+      "name": "Central District",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -20.9842284,
+        "lon": 26.2490826
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0698d9ce07a394059f42a7cc73a7c35c0f00103f9013100d218010000009203134b61726f7765204469616d6f6e64204d696e65",
+      "name": "Karowe Diamond Mine",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -21.4852719,
+        "lon": 25.4799898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Karowe Diamond Mine, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4a3c519c3903c40592cb64945638d36c0f00103f90167734d4b0000000092030d53697070696e6720506f6f6c73",
+      "name": "Sipping Pools",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.552296,
+        "lon": 28.565477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sipping Pools, LL Road 26, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156d5cbef34af3c405923ac7c85bb2936c0f00103f9011f734b11030000009203145468756e652044616d205669657720506f696e74",
+      "name": "Thune Dam View Point",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.1630176,
+        "lon": 28.6844015
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Thune Dam View Point, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518cc5257d10aa3c40598fb57526232936c0f00103f9016a6fd4430100000092031254756e652064616d206e6963652073696465",
+      "name": "Tune dam nice side",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.1606926,
+        "lon": 28.6643141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tune dam nice side, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5135df77c201773a405904ee2f719aa436c0f00103f90105da64ee01000000920312546f7020636f726e657220432d68696c6c73",
+      "name": "Top corner C-hills",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -22.6429816,
+        "lon": 26.4648706
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Top corner C-hills, Central District, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51753bfbca83ec394059baa29410ac8e38c0f00103f901b09ad81203000000920315456c657068616e742049766f727920537461747565",
+      "name": "Elephant Ivory Statue",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.557313,
+        "lon": 25.923886
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Elephant Ivory Statue, Airport Road, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139a2d68fa8dd394059169e3cd11ab238c0f00103f9012c8bd16402000000",
+      "name": "Lobatse Road",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6957217,
+        "lon": 25.8658533
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lobatse Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d2c19f8614ee394059c00644882ba938c0f00103f90176fda12c03000000920315546172617320536865766368656e6b6f2062757374",
+      "name": "Taras Shevchenko bust",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6608205,
+        "lon": 25.9300007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Taras Shevchenko bust, Mobuto Drive, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51840d4faf94db394059c5420823519138c0f00103f901f2e8a2080100000092030443726962",
+      "name": "Crib",
+      "city": "Mmopane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.5676443,
+        "lon": 25.8577375
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Crib, Kukubye Street, Mmopane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b500d45cbfd354059b7c71c1549f938c0f00103f9010063c2b10000000092030f4d616275617365687562652050616e",
+      "name": "Mabuasehube Pan",
+      "city": "Tsabong Sub-district",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.9737714,
+        "lon": 21.9913829
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mabuasehube Pan, Tsabong Sub-district, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d99e1f54fcc394059578c0464f9c038c0f00103f901b83e4b5002000000",
+      "name": "Mokolodi",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.7538054,
+        "lon": 25.7980951
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mokolodi, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51384bc97212e2394059abe39de85fad38c0f00103f9011a668b1b01000000920315476f646672657920566964656f677261706865722e",
+      "name": "Godfrey Videographer.",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6772447,
+        "lon": 25.883094
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Godfrey Videographer., Mothaphutha Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c082ead5b6033a4059c709b88c407f38c0f00103f9014edb6911010000009203134d617274686572204d6d757369204669656c64",
+      "name": "Marther Mmusi Field",
+      "city": "Bokaa",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.4970787,
+        "lon": 26.0145086
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marther Mmusi Field, A1, Bokaa, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fadbf9d923b1394059a0c959338da338c0f00103f9014433890f0100000092030f43686f636f6c61746573206661726d",
+      "name": "Chocolates farm",
+      "city": "Kumakwane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6388733,
+        "lon": 25.6919533
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chocolates farm, A10, Kumakwane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51290bba185ede394059bfa0e0bdfeb138c0f00103f9012ebdd16402000000",
+      "name": "Lobatse Road",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6952933,
+        "lon": 25.8686233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lobatse Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6a970ba1bde394059caef7e260cb238c0f00103f901703dd16402000000",
+      "name": "Lobatse Road",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6954979,
+        "lon": 25.8676106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lobatse Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af867ab07be1394059277623e29cad38c0f00103f90112698b1b010000009203114578656320636c6f73657420686f74656c",
+      "name": "Exec closet hotel",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6781751,
+        "lon": 25.8807936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Exec closet hotel, Polokabatho Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137514b732bec3940593fbf94264a9b38c0f00103f9010624b30801000000920306446176652773",
+      "name": "Dave's",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6066002,
+        "lon": 25.922538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dave's, Eersterus Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8c4758c2bbe38405907ce1951da9d38c0f00103f9019855e1460100000092030e4a77616e656e67204d6f746f2d58",
+      "name": "Jwaneng Moto-X",
+      "city": "Jwaneng",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6166125,
+        "lon": 24.742852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jwaneng Moto-X, Moepo Road, Jwaneng, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e811482ea4d0394059106b3bb71abd38c0f00103f901496e8d12030000009203154d6f6b6f6c6f64692052657074696c65205061726b",
+      "name": "Mokolodi Reptile Park",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.7386889,
+        "lon": 25.8150052
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mokolodi Reptile Park, Mokolodi, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b96314ff8b039405900f21428185439c0f00103f90121dcbf87010000009203154269672056616c6c65792047616d65204c6f646765",
+      "name": "Big Valley Game Lodge",
+      "city": "Pioneer Gate",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -25.3284936,
+        "lon": 25.6912889
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Big Valley Game Lodge, Trans-Kalahari Corridor, Pioneer Gate, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51392e3e6079f139405925523f14719d38c0f00103f9018b678b1b0100000092030646696b696c65",
+      "name": "Fikile",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6150067,
+        "lon": 25.9432583
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fikile, Segoditshane Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f758d96030b3a40590cf846be5c9138c0f00103f901ad688b1b0100000092030a546c616d732043524942",
+      "name": "Tlams CRIB",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.5678214,
+        "lon": 26.0430235
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tlams CRIB, School Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e4b89c9c0d03940594fce50dcf1b838c0f00103f901e3c54a5002000000",
+      "name": "Mokoldi Road",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.7224405,
+        "lon": 25.8154417
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mokoldi Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4d78d2dbacb3940593162fab9fcaa38c0f00103f9019d81631e0100000092030652616368656c",
+      "name": "Rachel",
+      "city": "Gabane",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6679188,
+        "lon": 25.7958096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rachel, A10, Gabane, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea5c514a08ea394059069156c6d09f38c0f00103f9011d76fc18010000009203064465636f6f6e",
+      "name": "Decoon",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6242794,
+        "lon": 25.914189
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Decoon, Mokolane road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518c063aa46237344059ddcdf863ffbf38c0f00103f9014a26cc1a00000000920310526f6f692052616d62756b612050616e",
+      "name": "Rooi Rambuka Pan",
+      "city": "Tsabong Sub-district",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.7499907,
+        "lon": 20.2163489
+      },
+      "categories": [
+        "populated_place",
+        "populated_place.unpopulated_locality",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tsabong Sub-district, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5ef9f13e7f1394059fe874f954aab38c0f00103f901a30f14450100000092031a4e6174696f6e616c20426f74616e6963616c2047617264656e73",
+      "name": "National Botanical Gardens",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6691068,
+        "lon": 25.9449322
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "National Botanical Gardens, Okwa Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512bf86d88f15a394059da53724eece538c0f00103f901b9b6841403000000920312506f6c6f6b7765205669657720506f696e74",
+      "name": "Polokwe View Point",
+      "city": "Kanye",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.898137,
+        "lon": 25.355248
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Polokwe View Point, A10, Kanye, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb61dba2ccce354059be5f1624c70539c0f00103f9015c3d148c000000009203114d616c6174736f205761746572686f6c65",
+      "name": "Malatso Waterhole",
+      "city": "Tsabong Sub-district",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -25.0225699,
+        "lon": 21.80781
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Malatso Waterhole, Tsabong Sub-district, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512bf86d88f15a394059da53724eece538c0f00103f901c51cd41203000000920312506f6c6f6b7765205669657720506f696e74",
+      "name": "Polokwe View Point",
+      "city": "Kanye",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.898137,
+        "lon": 25.355248
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Polokwe View Point, A10, Kanye, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111d43abbc6bc344059285e0ab4e0523ac0f00103f901fdc663f901000000920308526f6f6970757473",
+      "name": "Rooiputs",
+      "city": "Mier Local Municipality",
+      "country": "South Africa",
+      "country_code": "za",
+      "coordinates": {
+        "lat": -26.3237412,
+        "lon": 20.7374074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rooiputs, Nossob Road, Mier Ward 4, Mier Local Municipality, South Africa",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121393effe2ea3940591110ddfd3b9e38c0f00103f901ca668b1b0100000092030f53756261727520426f747377616e61",
+      "name": "Subaru Botswana",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6181029,
+        "lon": 25.9175262
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Subaru Botswana, A1, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511aea6635133c3a40592a7524f2b82738c0f00103f90191497a170100000092030c5472616e73666f726d657273",
+      "name": "Transformers",
+      "city": null,
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.1551658,
+        "lon": 26.2346681
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Transformers, A1, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51750c231862e2394059c95e4ab8ebb038c0f00103f9017180631e0100000092031249616e27732070726573656e746174696f6e",
+      "name": "Ian's presentation",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6910968,
+        "lon": 25.8843093
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ian's presentation, Grant, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515290e91a77cc394059c96cdad660c138c0f00103f901c93e4b5002000000",
+      "name": "Mokolodi",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.7553839,
+        "lon": 25.7986924
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mokolodi, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513206312b6fe0394059a49295babfa538c0f00103f901111c4d3001000000920308486f6c79204f786f",
+      "name": "Holy Oxo",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6474568,
+        "lon": 25.8766963
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Holy Oxo, Gamosiiwa Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ee7b11cd7f13940594f6331a0cdaa38c0f00103f901c649575c010000009203234e6174696f6e616c206d757365756d206f6620626f74616e6963616c2067617264656e",
+      "name": "National museum of botanical garden",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.6672001,
+        "lon": 25.9446886
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "National museum of botanical garden, Okwa Road, Gaborone, Botswana",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c465d6bef153a40599a8ddf25825838c0f00103f9014514b6bf01000000",
+      "name": "A1",
+      "city": "Mochudi",
+      "country": "Botswana",
+      "country_code": "bw",
+      "coordinates": {
+        "lat": -24.3457359,
+        "lon": 26.0856845
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "A1, Mochudi, Botswana",
+      "description": null,
+      "image": null
+    }
+  ]
+}

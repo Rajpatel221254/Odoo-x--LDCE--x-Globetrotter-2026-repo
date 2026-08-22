@@ -1,0 +1,2258 @@
+{
+  "country_code": "bt",
+  "country_name": "Bhutan",
+  "boundary_place_id": "517edbb86ac3a0564059d1cabdc0ac8c3b40f00101f90135d1020000000000c0020b92030642687574616e",
+  "count": 119,
+  "places": [
+    {
+      "place_id": "51babe0f07096e56405943209738f2103c40f00103f901aad3151101000000",
+      "name": "Gyalza_Loong-Go",
+      "city": "Gyalza_Loong-Go",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 28.066196,
+        "lon": 89.719301
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f78a74cfb79564059a7ff51407fec3a40f00103f901a80b7b6202000000",
+      "name": "Lhomazingkha Highway",
+      "city": "Gesarling",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.9238167,
+        "lon": 89.9059631
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lhomazingkha Highway, Gesarling 35001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51916e3ab82acf564059a51fc319b2283b40f00103f9017635580f01000000",
+      "name": "zimzorong. mongar",
+      "city": "Tongla Zi-Tsibi",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.1589676,
+        "lon": 91.2369824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "zimzorong. mongar, Zimzorong Zam, Tongla Zi-Tsibi, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5319d8ce09d564059bc3a6cc779f03b40f00103f901b6a3a41f03000000",
+      "name": "Gangkhar Puensum Circuit Trek",
+      "city": "Booso Zeri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.9393582,
+        "lon": 90.4668304
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gangkhar Puensum Circuit Trek, Booso Zeri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166a77a8d38795640593b26416e75793b40f00103f901b2d4fe7c01000000",
+      "name": "PNH 1",
+      "city": "Lho Rinchhengang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4744481,
+        "lon": 89.8940767
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "PNH 1, Lho Rinchhengang, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a4d36d45e69564059ad9fa3fa73743b40f00103f9010eb8e0ce02000000",
+      "name": "Bangdu Lam SW",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4548947,
+        "lon": 89.6464129
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bangdu Lam SW, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a16af46a806c564059ec681cea77453b40f00103f901102a7cc501000000",
+      "name": "Dagala track",
+      "city": "Chamgang Toed",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.271361,
+        "lon": 89.695338
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dagala track, Chamgang Toed, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ec51a2ef28c564059372dc25e72893b40f00103f901a65b08240200000092030750656c65204c61",
+      "name": "Pele La",
+      "city": "Uesagang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5369014,
+        "lon": 90.2022815
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pele La, PNH 1, Uesagang, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d32d3bc4bfa9564059f4f862940c393b40f00103f9017ad9863401000000",
+      "name": "Kinley village",
+      "city": "Dangkhar Trong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.2228482,
+        "lon": 90.6523295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kinley village, Tingtibi - Zhemgang Highway, Dangkhar Trong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f7887ca75e1564059417b9a385e5c3b40f00103f9018afe1c5c02000000",
+      "name": "Chazam - Trashiyangtse Highway",
+      "city": "Dargyeling_Kharthoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3608127,
+        "lon": 91.5228144
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Chazam - Trashiyangtse Highway, Dargyeling_Kharthoong 42001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164343c076078564059b9c1f5cda2103b40f00103f901ee52e80701000000",
+      "name": "Daga chhu bridge",
+      "city": "Lhaling",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.0649842,
+        "lon": 89.8808611
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Daga chhu bridge, Daga Chhu Bridge, Lhaling, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bd26d895c56564059e8ddb3098b5d3b40f00103f901ecde862803000000",
+      "name": "Bondey - Haa Highway",
+      "city": "Tshaphel_Tsiloongkha",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3654028,
+        "lon": 89.349398
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bondey - Haa Highway, Tshaphel_Tsiloongkha, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c45c52b5dd6d56405935dc3642f55b3b40f00103f9014846b23a01000000",
+      "name": "Mountain Pass",
+      "city": "Haetshokha",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3592111,
+        "lon": 89.716657
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mountain Pass, Haetshokha, Gase Tshowogm Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7107e98f356564059ca969b5e187d3b40f00103f9019ebdf37500000000",
+      "name": "Path to Tigers Nest",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4886531,
+        "lon": 89.3586179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b862da9230b5564059ac7c85bb69053b40f00103f90152ca261d01000000",
+      "name": "Mamung Viewpoint",
+      "city": "Gongphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.0211446,
+        "lon": 90.8310897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mamung Viewpoint, Tingtibi - Panbang Highway, Gongphu, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e1be0385fe95640598445459c4e5a3b40f00103f901a619eb4b01000000",
+      "name": "Ponga Aring",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.352762,
+        "lon": 91.6464369
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponga Aring, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e260f55c269564059d6e1e82add493b40f00103f901aa49a12202000000",
+      "name": "Ganeyzam",
+      "city": "Chamgang Toed",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.288531,
+        "lon": 89.6524861
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ganeyzam, Chamgang Toed, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166d24b31ac69564059ea2a3817da6c3b40f00103f901c6b6bb7702000000920321526f79616c20426f74616e6963616c2047617264656e2053657262697468616e67",
+      "name": "Royal Botanical Garden Serbithang",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4252028,
+        "lon": 89.6511348
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Royal Botanical Garden Serbithang, Serbi Lam SE, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca60d6d52e725640593185bd3f94223c40f00103f90190d3151101000000920313436865746f6c6127732076696577706f696e74",
+      "name": "Chetola's viewpoint",
+      "city": "Gyalza_Loong-Go",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 28.1350746,
+        "lon": 89.7841086
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chetola's viewpoint, Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a6f4b3fbc63564059f97bce82f5083c40f00103f90101446b3601000000",
+      "name": "Pazhi",
+      "city": "Pazhi",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 28.0349962,
+        "lon": 89.5583647
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pazhi, Laya Gewogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191b75cfd58635640591e9727c6e8033c40f00103f90105821b9801000000",
+      "name": "Sinche La (5000m)",
+      "city": "Pazhi",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 28.0152706,
+        "lon": 89.5523065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sinche La (5000m), Pazhi, Laya Gewogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5174232c2ae271564059070b2769fe203c40f00103f90184d4151101000000",
+      "name": "Gyalza_Loong-Go",
+      "city": "Gyalza_Loong-Go",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 28.128882,
+        "lon": 89.779429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c9ca80073e856405926602aec58593b40f00103f901a61feb4b01000000",
+      "name": "Dramang",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3490131,
+        "lon": 91.6320192
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dramang, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519eefa7c6cbe95640597198c349f55c3b40f00103f901c870ea4b01000000",
+      "name": "Retshang Peg",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3631178,
+        "lon": 91.6530625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Retshang Peg, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff7d213f769d56405983f5245580e43b40f00103f9013ea4a41f03000000",
+      "name": "Gangkhar Puensum Circuit Trek",
+      "city": "Booso Zeri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.8925832,
+        "lon": 90.4603422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gangkhar Puensum Circuit Trek, Booso Zeri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51091687333f795640593d0feeceda793b40f00103f9010aa63d5902000000",
+      "name": "Viewpoint on Wangdue Phodrang Dzong",
+      "city": "Lho Rinchhengang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.475995,
+        "lon": 89.8944825
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint on Wangdue Phodrang Dzong, PNH 1, Lho Rinchhengang, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510656c49f176956405936cd9607446d3b40f00103f901c2f0970e0100000092030a5a65726f20506f696e74",
+      "name": "Zero Point",
+      "city": null,
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4268193,
+        "lon": 89.6420669
+      },
+      "categories": [
+        "highway.motorway.junction",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Babesa Zero, Gangchhe_Talakha, Thimphu District 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514dce9a690cb856405997d4bfda07753b40f00103f901f2bac57c01000000",
+      "name": "PNH 1",
+      "city": "Shing-Nyer",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4571511,
+        "lon": 90.8757576
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "PNH 1, Shing-Nyer, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aeafbf362c6a564059b045c1429c733b40f00103f901f2eba7a101000000",
+      "name": "TLC imports and exports",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4516031,
+        "lon": 89.6589486
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "TLC imports and exports, Jalu Zur Lam 9 SE, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a192848e676a56405952465c001a733b40f00103f901866626cc020000009203144c756e6774656e7068752056696577706f696e74",
+      "name": "Lungtenphu Viewpoint",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4496155,
+        "lon": 89.6625706
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lungtenphu Viewpoint, Khamtoe Lam SE, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117618a7269585640594fc939b187823b40f00103f901ae03e9720100000092031142756d6472616b2056696577706f696e74",
+      "name": "Bumdrak Viewpoint",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.509883,
+        "lon": 89.381436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bumdrak Viewpoint, Taktshang-Bumdra path, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103d0285dfa7156405997e4805d4d223c40f00103f901add4151101000000",
+      "name": "Gyalza_Loong-Go",
+      "city": "Gyalza_Loong-Go",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 28.133993,
+        "lon": 89.780906
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebd67ca628585640597a97416b34dd3a40f00103f90175a1858801000000",
+      "name": "Tashi Workshop Pling",
+      "city": "Dzongkhag Thromde",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.8640811,
+        "lon": 89.3774811
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tashi Workshop Pling, AH-48, Dzongkhag Thromde 21101, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7e56db603eb564059f187fab891673b40f00103f90191df144301000000",
+      "name": "Solo Gonpa",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4045673,
+        "lon": 91.6721016
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Solo Gonpa, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b636e081fe956405910b45dfcc8543b40f00103f90156528f4b01000000",
+      "name": "Goenpa",
+      "city": "Galing Chiwogs",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3311918,
+        "lon": 91.6425191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Goenpa, Changme Farm Road, Galing Chiwogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb5cac037b7d5640592c7fbe2d58ee3a40f00103f9015917160e01000000",
+      "name": "Forest office",
+      "city": "Tsenda-Gang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.931033,
+        "lon": 89.9606332
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Forest office, camp area, Bangtrar, Tsenda-Gang 35001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9c0c936f0a3564059bfc062c389f63b40f00103f9019ea2a41f03000000",
+      "name": "Gangkhar Puensum B. C. Trek",
+      "city": "Nangsiphel_Zangling_ Zhabjethang Chiwogs",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.9630396,
+        "lon": 90.5615365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gangkhar Puensum B. C. Trek, Nangsiphel_Zangling_ Zhabjethang Chiwogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133880fec78555640599ddf8b8a93803b40f00103f901d8f0f0c802000000",
+      "name": "Path to Tigers Nest",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5022513,
+        "lon": 89.3355055
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5133a9a10dc0685640597ece38680aa03b40f00103f90172a1858801000000",
+      "name": "Nimtasa Tokchu",
+      "city": "Boegarna_Dodennang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.6251588,
+        "lon": 89.636722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nimtasa Tokchu, Chagri Dorjeden path, Boegarna_Dodennang, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103c067dab4605640599e0546031df63b40f00103f90106821b9801000000",
+      "name": "Jhari La (4750m)",
+      "city": "Khangkiyuel",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.9613802,
+        "lon": 89.5110384
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jhari La (4750m), Khangkiyuel, Lingzhi Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518860c1a2c79f5640590f03a7881d7f3b40f00103f901e980645902000000",
+      "name": "View Point Trongsa Dzong",
+      "city": "Bji Saengbji",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4965444,
+        "lon": 90.4965598
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View Point Trongsa Dzong, PNH 1, Bji Saengbji 33001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183328d261769564059d4ff28a03f6d3b40f00103f901aaba35c70200000092030f546875656e7061207075656e7a6869",
+      "name": "Thuenpa puenzhi",
+      "city": null,
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4267521,
+        "lon": 89.642038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Thuenpa puenzhi, Babesa Zero, Gangchhe_Talakha, Thimphu District 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196af70372d7b564059cb48bda772003b40f00103f9012a07e80701000000",
+      "name": "chiltsathang",
+      "city": "Lhaling",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.0017495,
+        "lon": 89.9246348
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "chiltsathang, Lhaling Lam, Lhaling 35001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51246e0498e8e8564059931804560e573b40f00103f901b9528f4b01000000",
+      "name": "Pangthang",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3400625,
+        "lon": 91.6391964
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pangthang, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515542c1d636e95640595ee0a8cb185f3b40f00103f901ad1feb4b01000000",
+      "name": "Mani Zor",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3714721,
+        "lon": 91.6439721
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mani Zor, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51060da25ae9b8564059dcfc755dae9c3b40f00103f901a3b1ddba00000000",
+      "name": "Pephe La trail",
+      "city": "Tandingang Chiwogs",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.6120356,
+        "lon": 90.8892428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pephe La trail, Tandingang Chiwogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f80780e060eb564059db87bce5ea653b40f00103f90192df144301000000",
+      "name": "Gelong Gonpa",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3981155,
+        "lon": 91.6777879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gelong Gonpa, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f236cd3b391564059d440988004843b40f00103f9015e71ae0d01000000",
+      "name": "Rukubji",
+      "city": "Boommlog",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5156937,
+        "lon": 90.2766007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rukubji, PNH 1, Boommlog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b18b14f80695640594ddbbfb2d2743b40f00103f9019343980e01000000",
+      "name": "Flyover Bridge",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.45634,
+        "lon": 89.6484565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Flyover Bridge, Bangdu Tengzam, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51285481a4199f564059023ff4eed9de3a40f00103f901e752e8660200000092030d42756464686120537461747565",
+      "name": "Buddha Statue",
+      "city": "Dzongkhag Thromde",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.8705129,
+        "lon": 90.4859401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Buddha Statue, E Phendey Lam, Dzongkhag Thromde 31101, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dec1f4624d7a564059f2d24d6210ec3a40f00103f90152917b6202000000",
+      "name": "Lhomazingkha Highway",
+      "city": "Gesarling",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.922125,
+        "lon": 89.9109733
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lhomazingkha Highway, Gesarling 35001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bbf5f5d7865a5640590e338f577b6b3b40f00103f9012be593b801000000",
+      "name": "Farm Road",
+      "city": "Paro",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4198508,
+        "lon": 89.4144802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Farm Road, Paro 12001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef5701be5b7856405900506ad4e8123b40f00103f90161f19262020000009203044d535446",
+      "name": "MSTF",
+      "city": "Karlingzingkha",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.0738652,
+        "lon": 89.8805995
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "MSTF, Way to the Lhakhang, Karlingzingkha, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f02dab1ec56564059d16bfd3e2d7e3b40f00103f9014193bf0e00000000",
+      "name": "Path to Tigers Nest",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4928779,
+        "lon": 89.3581967
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5134e1f2b3ec5a5640594128942af6663b40f00103f9019e35c17601000000",
+      "name": "Paro - Thimpu Highway",
+      "city": "Khangkhu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4021937,
+        "lon": 89.4206972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paro - Thimpu Highway, Khangkhu 12001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9a9036afb53564059854ce8e4fba43b40f00103f901b720817c0000000092030a54686f6e676275204c61",
+      "name": "Thongbu La",
+      "city": "Soe_Yagsa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.6444686,
+        "lon": 89.3122201
+      },
+      "categories": [
+        "populated_place",
+        "populated_place.unpopulated_locality",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Thongbu La, Soe_Yagsa, Tsento Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51698a00a7f7e8564059051fdece19563b40f00103f90157528f4b01000000",
+      "name": "Lhakhangkhor",
+      "city": "Galing Chiwogs",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3363313,
+        "lon": 91.6401155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lhakhangkhor, Changme Farm Road, Galing Chiwogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126225745137a56405997749483d90a3b40f00103f9012529e80701000000",
+      "name": "Tanab ji",
+      "city": "Lhaling",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.0423815,
+        "lon": 89.9074262
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tanab ji, Lhaling Lam, Lhaling, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ec0c7050caa564059ae15c847e6363b40f00103f9012a613e5f0200000092030b51756172746572706f6e67",
+      "name": "Quarterpong",
+      "city": "Dangkhar Trong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.2144513,
+        "lon": 90.6569838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sign board, Tingtibi - Zhemgang Highway, Dangkhar Trong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51895462e82258564059ec8a749a60613b40f00103f901012e228f01000000",
+      "name": "Prayer Flags",
+      "city": "Loong-nyi Gewog",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3803803,
+        "lon": 89.3771306
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Prayer Flags, Bondey - Haa Highway, Paro District 12001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e286c9abf0685640591208f0846a783b40f00102f901ef17750500000000920312436c6f636b20546f77657220537175617265",
+      "name": "Clock Tower Square",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.47037535534043,
+        "lon": 89.63968939476356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Thimphu, Thimphu Dzongkhag, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158dd8f80f65356405929f8b7150cce3b40f00103f901f9ea752803000000",
+      "name": "Damgochong",
+      "city": "Damgochong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.8048719,
+        "lon": 89.3119203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Damgochong, Soe Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177f123230ce9564059c263e4d132573b40f00103f901a31feb4b01000000",
+      "name": "Galing Village",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3406192,
+        "lon": 91.6413658
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Galing Village, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a4c68379fea564059a8f0564c5b5a3b40f00103f9010d58904b01000000",
+      "name": "Shongphu Gewog Administration Office",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3529556,
+        "lon": 91.6659678
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Shongphu Gewog Administration Office, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f673547fce68564059d72da7a90a6c3b40f00103f90106360b4b01000000",
+      "name": "Thimphu Welcome Gate",
+      "city": null,
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4220377,
+        "lon": 89.6376036
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Thimphu Welcome Gate, AH-48, Gangchhe_Talakha, Thimphu District, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b22d03ce526a5640591e3a98a839723b40f00103f901f696121901000000",
+      "name": "Happy Game Hall",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4461923,
+        "lon": 89.661304
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Happy Game Hall, Olakha Zur Lam 3 SE 4, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51267909a936e9564059a6f7e868b0563b40f00103f901f3518f4b01000000",
+      "name": "Duwang",
+      "city": "Galing Chiwogs",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3386293,
+        "lon": 91.6439612
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Duwang, Changme Farm Road, Galing Chiwogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a19e42ec2ea564059a23a675595533b40f00103f901d9b98f4b01000000",
+      "name": "Yobinang Village",
+      "city": "Gongtsephangma_Yobinang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3264974,
+        "lon": 91.668102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Yobinang Village, Changme Farm Road, Gongtsephangma_Yobinang, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2676d64683e56405961e3fa777d003b40f00103f901cdfe8b3e01000000",
+      "name": "Sipsu - Samtse Highway",
+      "city": "Dephellingmaed Khangzangling",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.0019145,
+        "lon": 88.9751216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sipsu - Samtse Highway, Dephellingmaed Khangzangling, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6f0e31e815856405998c86020635f3b40f00103f9019e2d228f01000000",
+      "name": "Prayer Flags",
+      "city": "Loong-nyi Gewog",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3726063,
+        "lon": 89.3828809
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Prayer Flags, Bondey - Haa Highway, Paro District 12001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119d643ea2c775640594fd42d967d943b40f00103f90115ef578102000000",
+      "name": "Misina - Punakha Highway",
+      "city": "Changyuel Loongsilgang Tashijong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5800413,
+        "lon": 89.8621164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Misina - Punakha Highway, Changyuel Loongsilgang Tashijong 13001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1f93aba5bea56405936b286e695543b40f00103f90111b98f4b01000000",
+      "name": "Gongshipangma Village",
+      "city": "Gongtsephangma_Yobinang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3304123,
+        "lon": 91.6618486
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gongshipangma Village, Changme Farm Road, Gongtsephangma_Yobinang, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51873e0e39eca556405959b8f64f81533b40f00103f901c3856145020000009203124b6f7368616c61205669657720506f696e74",
+      "name": "Koshala View Point",
+      "city": "Dangdoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3261919,
+        "lon": 90.5925429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Koshala View Point, Gelephu - Trongsa Highway, Dangdoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511eb0613cb968564059cee15aed61793b40f00103f901e383f10301000000",
+      "name": "Jangchub Lam SE 163",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4741505,
+        "lon": 89.6363059
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Jangchub Lam SE 163, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac803111256a56405989505bd9f4723b40f00103f9017d25980e01000000",
+      "name": "Shearee Square",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4490486,
+        "lon": 89.6585124
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shearee Square, Doebum Zur Lam 241 SE 571, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a96cb30c4c915640597d1700f445843b40f00103f90169c83d5902000000",
+      "name": "PNH 1",
+      "city": "Boommlog",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5166924,
+        "lon": 90.2702667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "PNH 1, Boommlog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2c3526e6c9f564059b501333a7bd83b40f00103f901f3a4a41f03000000",
+      "name": "Gangkhar Puensum Circuit Trek",
+      "city": "Booso Zeri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.8456303,
+        "lon": 90.4909931
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gangkhar Puensum Circuit Trek, Booso Zeri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517995b54df1e8564059ebbcd75aa9573b40f00103f901f2518f4b01000000",
+      "name": "Drongman",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3424279,
+        "lon": 91.639728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Drongman, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5def137eb67564059def24707da7b3b40f00103f901856626cc0200000092030a53616e67617967616e67",
+      "name": "Sangaygang",
+      "city": "Chhanda-Gang_Chhoekhortse_Phajoding",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4837956,
+        "lon": 89.6237316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sangaygang, Sangay Lam, Chhanda-Gang_Chhoekhortse_Phajoding 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed4f3d2d1a6956405954ec1e8fcf723b40f00103f90175f5d2cd020000009203194b75656e73656c70686f6472616e672056696577706f696e74",
+      "name": "Kuenselphodrang Viewpoint",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4484796,
+        "lon": 89.6422227
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kuenselphodrang Viewpoint, Gaki Lam SW, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b592b135366956405948db9d5a22743b40f00103f901ad0dd3cd02000000",
+      "name": "Gaki Lam SW",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4536492,
+        "lon": 89.6439337
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gaki Lam SW, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6b35483d558564059879b9d561bcf3b40f00103f90131831b9801000000",
+      "name": "Chakphu",
+      "city": "Chakphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.8090109,
+        "lon": 89.3880318
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chakphu, Lingzhi Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cd9541b5c154564059d9d138d4efa83b40f00103f9011422817c0000000092030a546167756c756e204c61",
+      "name": "Tagulun La",
+      "city": "Soe_Yagsa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.6599095,
+        "lon": 89.324323
+      },
+      "categories": [
+        "populated_place",
+        "populated_place.unpopulated_locality",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tagulun La, Soe_Yagsa, Tsento Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519cc0745ab75256405921cd58349d653b40f00103f901028f955f0100000092030f4861612076616c6c65792076696577",
+      "name": "Haa valley view",
+      "city": "Kargoen_Hatam",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.39693,
+        "lon": 89.292441
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Haa valley view, Hatam footpath, Kargoen_Hatam, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187f2aa73315756405903ad65d7627e3b40f00103f901d3f0f0c80200000092031b426972642773204579652056696577206f662054616b7473616e67",
+      "name": "Bird's Eye View of Taktsang",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4936957,
+        "lon": 89.3623933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bird's Eye View of Taktsang, Taktshang-Bumdra path, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140ad58b219ac56405939b12c3d3f893b40f00103f901ed22ba2703000000",
+      "name": "Tharpaling to Lamey gompa hike",
+      "city": "Gyaltsa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5361212,
+        "lon": 90.6890684
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tharpaling to Lamey gompa hike, Gyaltsa 32001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51416c9f44ba695640592d8320f6f8493b40f00103f901b749a12202000000",
+      "name": "Ganeyzam",
+      "city": "Chamgang Toed",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.2889551,
+        "lon": 89.6519939
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ganeyzam, Chamgang Toed, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ce16135f1e7564059724d26135c593b40f00103f901a71feb4b01000000",
+      "name": "Thungdi Drang",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3490612,
+        "lon": 91.6240972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Thungdi Drang, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5181da5ec1ece8564059f290ce650f5f3b40f00103f901d7faea4b01000000",
+      "name": "Kakani Wog",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3713287,
+        "lon": 91.6394504
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kakani Wog, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a74c20db68ce5640599e57e13bd6af3b40f00103f9011f9a8c7b0100000092031557656176696e672056696c6c616765204b686f6d61",
+      "name": "Weaving Village Khoma",
+      "city": "Berpa_Khoma",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.6868627,
+        "lon": 91.2251499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Weaving Village Khoma, Khoma Gewog, Berpa_Khoma, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b91803eb387c5640596d3b6d8d08f63a40f00103f9010997e70701000000",
+      "name": "baleygang",
+      "city": "Gozhi Gewog",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.961068,
+        "lon": 89.940974
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "baleygang, Dagana Dzongkhag Highway, Thinggaun, Dagana District 35001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d292228de568564059033054b428823b40f00103f90107d4013e03000000",
+      "name": "Gaykha Lam NE",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5084336,
+        "lon": 89.6390107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gaykha Lam NE, Thimphu 11002, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516267af9724a1564059769679a72a693b40f00102f9012fa5ac27000000009203144b75656e67612052616274656e2050616c616365",
+      "name": "Kuenga Rabten Palace",
+      "city": "Kuenga Rabten",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.410807101425654,
+        "lon": 90.517858430188
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kuenga Rabten Palace, Gelephu - Trongsa Highway, Kuenga Rabten, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f03a7889de8564059a07312a5185f3b40f00103f901c970ea4b01000000",
+      "name": "Bidung Lower Secondary School",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3714698,
+        "lon": 91.6346151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bidung Lower Secondary School, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e157512830695640590b0dc4b299733b40f00103f901490dd3cd02000000",
+      "name": "Gaki Lam SW",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.451564,
+        "lon": 89.6435643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gaki Lam SW, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51018e9834a1ea5640595a3b9b9f2c5a3b40f00103f9019d59904b01000000",
+      "name": "Changmey Primary School",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3522434,
+        "lon": 91.6660892
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Changmey Primary School, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b75c2f03657564059ff3053a40cbc3b40f00103f901e928817c00000000920307426f6e74656c61",
+      "name": "Bontela",
+      "city": "Soe_Yagsa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.7345679,
+        "lon": 89.3627283
+      },
+      "categories": [
+        "populated_place",
+        "populated_place.unpopulated_locality",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bontela, Soe_Yagsa, Tsento Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511789bfdcdd52564059dbd31faba5603b40f00103f901994c364402000000",
+      "name": "Bondey - Haa Highway",
+      "city": "Ha",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3775279,
+        "lon": 89.2947914
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bondey - Haa Highway, Ha, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100bf901fbb68564059b6735078bf843b40f00103f901e96626cc0200000092030d55707065722050616d7473686f",
+      "name": "Upper Pamtsho",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5185466,
+        "lon": 89.6364211
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Upper Pamtsho, Jakar Lam NW, Thimphu 11002, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51344289e049e9564059e758390f82553b40f00103f90181b78f4b01000000",
+      "name": "Karshung",
+      "city": "Galing Chiwogs",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3340158,
+        "lon": 91.6451341
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karshung, Changme Farm Road, Galing Chiwogs, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f8a6e9b303e95640590b5cc3b1d3603b40f00103f901a91feb4b01000000",
+      "name": "Bidung Gewog Administration",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3782302,
+        "lon": 91.640851
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bidung Gewog Administration, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df60b9efe268564059d0a56e1dd2783b40f00103f9017972353c01000000",
+      "name": "Karma Prints",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4719561,
+        "lon": 89.6388511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Karma Prints, Norzin Lam SE 191, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc8d339765885640594ca36e0ca6803b40f00103f901917b8aa102000000",
+      "name": "PNH 1",
+      "city": "Doongdoongnyelsa Norbooding",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5025337,
+        "lon": 90.1312006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "PNH 1, Doongdoongnyelsa Norbooding, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db25602aec68564059fd01c57e05793b40f00103f90105acd61601000000",
+      "name": "Play Center",
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4727401,
+        "lon": 89.6394144
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Play Center, Chang Lam SE 210, Thimphu 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc2022356d56564059e3546b61165e3b40f00103f901155f2f7800000000",
+      "name": "Bondey - Haa Highway",
+      "city": "Tshaphel_Tsiloongkha",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.367529,
+        "lon": 89.3504155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bondey - Haa Highway, Tshaphel_Tsiloongkha, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5145b0bb8ad6bc5640595cc7b8e2e2d63a40f00103f901b1dbe85e0200000092030c416d64612043686f7274656e",
+      "name": "Amda Chorten",
+      "city": "Marangduet",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 26.8393995,
+        "lon": 90.9505946
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Amda Chorten, Tingtibi - Panbang Highway, Marangduet, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ceca51db61ac564059bcbf8b0810893b40f00103f9014bf4d41001000000",
+      "name": "Tharpaling to Lamey gompa hike",
+      "city": "Gyaltsa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5354009,
+        "lon": 90.6934727
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tharpaling to Lamey gompa hike, Gyaltsa 32001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6f919cd00e9564059a2331fc65a583b40f00103f90155528f4b01000000",
+      "name": "Numshang",
+      "city": "Chhangmi_Rangjoong",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3451351,
+        "lon": 91.6406739
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Numshang, Changme Farm Road, Chhangmi_Rangjoong, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140b26fdd835256405933a2597e85653b40f00103f901f946758f0000000092030f4861612076616c6c65792076696577",
+      "name": "Haa valley view",
+      "city": "Kargoen_Hatam",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3965682,
+        "lon": 89.2892984
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Haa valley view, Kargoen_Hatam, Katsho Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ff873652b575640592aedc330167e3b40f00103f9016542dc8e01000000",
+      "name": "Path to Tigers Nest",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4925261,
+        "lon": 89.3620237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51efd1d160897c5640591dbcc0f6dd9c3b40f00103f901f1ff7d1101000000",
+      "name": "Datong goenpa",
+      "city": "Shelnga-Bjemi Gewog",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.6127619,
+        "lon": 89.9458849
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Datong goenpa, Shelnga-Bjemi Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc94ba641cac5640595e6743fe99893b40f00103f9010dfddd6001000000",
+      "name": "Tharpaling to Lamey Gompa",
+      "city": "Gyaltsa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.537506,
+        "lon": 90.689233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tharpaling to Lamey Gompa, Gyaltsa 32001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5dc5acb0969564059e4e9a6de644d3b40f00103f901954aa12202000000",
+      "name": "Ganeyzam",
+      "city": "Chamgang Toed",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.3023204,
+        "lon": 89.6412228
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ganeyzam, Chamgang Toed, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d50b9986bcb356405920a45d3b07873b40f00103f9012bbfc57c01000000",
+      "name": "PNH 1",
+      "city": "Bezur_Kuenzangdrag",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5274541,
+        "lon": 90.8083817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "PNH 1, Bezur_Kuenzangdrag, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510955c5afb3af564059d61c2098a38b3b40f00103f9016ffa062803000000",
+      "name": "Lamey Gonpa Lam",
+      "city": "Dawathang_Dorjibi_ Kashingtsawa",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.545465,
+        "lon": 90.7453422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lamey Gonpa Lam, Dawathang_Dorjibi_ Kashingtsawa 32001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51010c152d0a8b564059119bd9f85d863b40f00103f901e177b23a0100000092030fe0bda3e0bc8be0bd9de0bc8be0bda3",
+      "name": "ལ་ཝ་ལ",
+      "city": "Doongdoongnyelsa Norbooding",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.5248714,
+        "lon": 90.1724961
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lawala - Gangtey Gonpa Road, Doongdoongnyelsa Norbooding, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51727b3837dc555640596250018b57c83b40f00103f901fbf3772803000000",
+      "name": "Jangothang",
+      "city": "Jangothang",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.7825858,
+        "lon": 89.3415659
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jangothang, Soe Gewog, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516898350cfa67564059ab56cb42e07b3b40f00103f9018930ce3101000000",
+      "name": "BBS Tower viewpoint",
+      "city": "Chhanda-Gang_Chhoekhortse_Phajoding",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4838907,
+        "lon": 89.6246367
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "BBS Tower viewpoint, Sangay Lam, Chhanda-Gang_Chhoekhortse_Phajoding 11001, Bhutan",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ad4d637b2d5756405963e1da3f057e3b40f00103f901b532d39d01000000",
+      "name": "Best view point for Tiger's Nest",
+      "city": "Nyechhu_Shar-ri",
+      "country": "Bhutan",
+      "country_code": "bt",
+      "coordinates": {
+        "lat": 27.4922676,
+        "lon": 89.362151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Best view point for Tiger's Nest, Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+      "description": null,
+      "image": null
+    }
+  ]
+}

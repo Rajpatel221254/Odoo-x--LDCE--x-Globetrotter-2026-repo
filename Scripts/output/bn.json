@@ -1,0 +1,1048 @@
+{
+  "country_code": "bn",
+  "country_name": "Brunei",
+  "boundary_place_id": "5165dde45c2fa45c4059a6643909a5a71140f00101f9015017200000000000c0020b9203064272756e6569",
+  "count": 55,
+  "places": [
+    {
+      "place_id": "51643db5fa6a9e5c4059f2ea1c03b20f1240f00103f9010c6154280100000092031b4c756167616e204c616c616b204d61696e2056696577706f696e74",
+      "name": "Luagan Lalak Main Viewpoint",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5153275,
+        "lon": 114.4752795
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Luagan Lalak Main Viewpoint, Luagan Park Boardwalk, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6fd086847b75c40597a60b653299c1340f00103f901cea3e0280300000092031753656c616e67616e204b61636120576174657266616c6c",
+      "name": "Selangan Kaca Waterfall",
+      "city": "Tanjong Bunut",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9025014,
+        "lon": 114.8637333
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Selangan Kaca Waterfall, 1.2km (pink), Tanjong Bunut, Brunei-Muara District BG1721, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c52955b7fb55c4059dc4026be7fc01340f00103f90164f402990100000092030b4c696f6e20537461747565",
+      "name": "Lion Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9379873,
+        "lon": 114.8358983
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e14c028a47b75c4059192ab5cd43a41340f00103f901bca3e028030000009203145375616b204b6170617520576174657266616c6c",
+      "name": "Suak Kapau Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9104149,
+        "lon": 114.8637414
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Suak Kapau Waterfall, 395m, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6fc5e541ca45c405969af99d76c081240f00103f9018e2390010100000092030c4b672055626f6b2d55626f6b",
+      "name": "Kg Ubok-Ubok",
+      "city": "Belait District",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5082277,
+        "lon": 114.5642291
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kg Ubok-Ubok, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123b59abfd3985c40598b750536428a1240f00103f90194a287010100000092031954616d616e204a75626c656520506572616b20416e64756b69",
+      "name": "Taman Jublee Perak Anduki",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.6350182,
+        "lon": 114.3879241
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Taman Jublee Perak Anduki, Jalan Tengah, Belait District KB1133, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a22eade1fdaa5c4059add96f928b361340f00103f901f6f386010100000092030e53756e6761692050616e63686f72",
+      "name": "Sungai Panchor",
+      "city": "Kampong Panchor Papan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8032668,
+        "lon": 114.6717457
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sungai Panchor, Jalan Tutong, Kampong Panchor Papan, Tutong District TA1941, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd01c57e85b75c4059359b221ba3a01340f00103f9011c99e128030000009203194275616e672054656e676b75726f6b20576174657266616c6c",
+      "name": "Buang Tengkurok Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9068722,
+        "lon": 114.8675229
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Buang Tengkurok Waterfall, Off Road 4x4 Trail, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e0a945e659e5c4059699a66704a0f1240f00103f901086154280100000092031c4c756167616e204c616c616b20536f7574682056696577706f696e74",
+      "name": "Luagan Lalak South Viewpoint",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5149324,
+        "lon": 114.4749371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Luagan Lalak South Viewpoint, Luagan Park Boardwalk, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b96466b0f3ca5c40597d3ac379dd071340f00103f901b6a981310300000092031642616e6461726b75205065726d6174612048696a6175",
+      "name": "Bandarku Permata Hijau",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.7576808,
+        "lon": 115.1711236
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "My City Green Jewel, Jalan Labu, Temburong District PB1151, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7afe76b96b75c4059746781d1409f1340f00103f901d2a3e0280300000092031554697469616e20416b617220576174657266616c6c",
+      "name": "Titian Akar Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9055207,
+        "lon": 114.868556
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Titian Akar Waterfall, Off Road 4x4 Trail, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518130a64f61bf5c40594e8061f9f3ad1340f00103f90152d0d55d02000000920315427561682054616d706f692042656c696d62696e67",
+      "name": "Buah Tampoi Belimbing",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.919876,
+        "lon": 114.9903144
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Buah Tampoi Belimbing, Jalan Subok, Bandar Seri Begawan, Brunei-Muara District BD2917, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7c2aa306cb55c4059bf8fb4650abf1340f00103f901fa2a08990100000092030f4372797374616c204469616d6f6e64",
+      "name": "Crystal Diamond",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9365631,
+        "lon": 114.8347284
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Crystal Diamond, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa285e656d9e5c40599bd9f85d22101240f00103f901046154280100000092031c4c756167616e204c616c616b204e6f7274682056696577706f696e74",
+      "name": "Luagan Lalak North Viewpoint",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5157561,
+        "lon": 114.475427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Luagan Lalak North Viewpoint, Luagan Park Boardwalk, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51317667927db55c4059436e2b627dc01340f00103f90162f402990100000092030b4c696f6e20537461747565",
+      "name": "Lion Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9379783,
+        "lon": 114.8357893
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b93b190ef9d5c4059f6903a4bda261240f00103f9014aae87010100000092030d4b672042756b6974205075616e",
+      "name": "Kg Bukit Puan",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5379421,
+        "lon": 114.4677469
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kg Bukit Puan, Jalan Labi, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149bbd1c77cb55c405991e22da1ccc01340f00103f90160f402990100000092030f44696e6f7361757220537461747565",
+      "name": "Dinosaur Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9382806,
+        "lon": 114.835741
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dinosaur Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa91c77839ca5c40596e88f19a57351240f00103f9015ad52a1f0100000092031443616e6f70792056696577696e6720546f776572",
+      "name": "Canopy Viewing Tower",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.552092,
+        "lon": 115.1597578
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Canopy Viewing Tower, Canopy Steps, Temburong District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e2a98e777a35c4059221c0ea6bc191240f00103f901dce786010100000092030e4b672042756b6974205361776174",
+      "name": "Kg Bukit Sawat",
+      "city": "Belait District",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5251337,
+        "lon": 114.5541934
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kg Bukit Sawat, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9f17b9bfeaa5c40599ee117a8d6341340f00103f90192a287010100000092030c53756e676169204269726175",
+      "name": "Sungai Birau",
+      "city": "Kampong Panchor Papan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8016001,
+        "lon": 114.67179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sungai Birau, Jalan Tutong, Kampong Panchor Papan, Tutong District TA1941, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bf8718f80b55c4059e2838da152c31340f00103f9015ef402990100000092030f44696e6f7361757220537461747565",
+      "name": "Dinosaur Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9407449,
+        "lon": 114.8359717
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dinosaur Statue, Muara–Tutong Highway, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511866fc5646b75c40593735d07cce9d1340f00103f901cfa3e0280300000092030d22582220576174657266616c6c",
+      "name": "\"X\" Waterfall",
+      "city": "Selayun",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.904108,
+        "lon": 114.8636682
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "\"X\" Waterfall, 1.2km (pink), Selayun, Brunei-Muara District BG1721, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f1e7c725eb75c4059c8050c3785a21340f00103f901c4a3e02803000000920313426574696e676b617420576174657266616c6c",
+      "name": "Betingkat Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9087113,
+        "lon": 114.8651396
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Betingkat Waterfall, 734m, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5129e8f69246b75c40599d4da2b9a9a41340f00103f901bba3e0280300000092030d22582220576174657266616c6c",
+      "name": "\"X\" Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9108037,
+        "lon": 114.8636825
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "\"X\" Waterfall, 395m, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e387ef6973b55c4059d2c19f8614c01340f00103f901f92a08990100000092030c486f72736520537461747565",
+      "name": "Horse Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9375783,
+        "lon": 114.8351693
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Horse Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155849b8c2abd5c40595565845c4e9e1340f00103f901e173be950100000092030956696577706f696e74",
+      "name": "Viewpoint",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9045958,
+        "lon": 114.955722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint, Simpang 247-80, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518fcaeae56fbc5c40598fd7aecc29871340f00102f901f1dff2330000000092030d506f747465727920486f757365",
+      "name": "Pottery House",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8819953901019195,
+        "lon": 114.94432971886475
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pottery House, Titan 11, Bandar Seri Begawan, Brunei-Muara District BP1126, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51107c670f0fca5c40596e0db6227b361240f00103f901e9d62a1f0100000092030e48616e67696e6720427269646765",
+      "name": "Hanging Bridge",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5532041,
+        "lon": 115.1571692
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hanging Bridge, Canopy Steps, Temburong District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51283661facabc5c4059fef5983d168a1340f00102f901a376bb020000000092031a4172747320616e642048616e646963726166742043656e747265",
+      "name": "Arts and Handicraft Centre",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.884850466214173,
+        "lon": 114.94988879674258
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Arts and Handicraft Centre, Jalan Residency, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513883bf5f4c945c40595f7ea7c98c771240f00103f901d9e255040100000092031942696c6c696f6e74682042617272656c204d6f6e756d656e74",
+      "name": "Billionth Barrel Monument",
+      "city": "Panaga",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.616748,
+        "lon": 114.3171615
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Billionth Barrel Monument, Simpang 43, Panaga, Belait District KB2733, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a2966738bb75c40597f86376bf09e1340f00103f901d1a3e028030000009203164d6172616b2042657261706920576174657266616c6c",
+      "name": "Marak Berapi Waterfall",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.905214,
+        "lon": 114.8678864
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marak Berapi Waterfall, 1.7km, Brunei-Muara District BF2920, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51793c2d3ff0945c4059acb9ed8c00781240f00103f90181319706010000009203044f474443",
+      "name": "OGDC",
+      "city": "Seria",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.6171896,
+        "lon": 114.3271635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Oil and Gas Discovery Centre, Simpang 22, Seria, Belait District KB2733, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519d7818a4aabb5c4059fab2599a00801340f00103f9017f0f12200100000092030f53756c74616e27732050616c616365",
+      "name": "Sultan's Palace",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8750023,
+        "lon": 114.9322901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sultan's Palace, Jalan Lumapas, Bandar Seri Begawan, Brunei-Muara District BM1126, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51428a4b9fe7bc5c40594647cdb282821340f00103f9011366cf7b0000000092031342756d62756e67616e204475612042656c6173",
+      "name": "Bumbungan Dua Belas",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8774517,
+        "lon": 114.9516371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Twelve roof house, Jalan Residency, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1d58adb8db75c40590ac105346c9f1340f00103f901d3a3e0280300000092031842616c696b204b656e616a6f6e6720576174657266616c6c",
+      "name": "Balik Kenajong Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9056862,
+        "lon": 114.8680333
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Balik Kenajong Waterfall, Off Road 4x4 Trail, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51440f215363bb5c405998f0958ad79e1340f00103f901d983f76d01000000920317466f6f74627269646765204163726f73732043616e616c",
+      "name": "Footbridge Across Canal",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9051191,
+        "lon": 114.9279373
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Footbridge Across Canal, Bandar Seri Begawan, Brunei-Muara District BA1511, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101310917f2bb5c4059c30bc798608d1340f00103f9018b90223701000000",
+      "name": "Sultan Omar 'Ali Saifuddien Pedestrian Bridge",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8880638,
+        "lon": 114.936651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Sultan Omar 'Ali Saifuddien Pedestrian Bridge, Bandar Seri Begawan, Brunei-Muara District BN1711, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511dce572481aa5c405939b12c3d3f311340f00103f9011dad87010100000092030d53756e6761692042616b696175",
+      "name": "Sungai Bakiau",
+      "city": "Kampong Panchor Dulit",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.7980928,
+        "lon": 114.6641322
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sungai Bakiau, Simpang 46, Kampong Panchor Dulit, Tutong District TA2141, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101e19e4289945c4059ee2186c20cd21140f00103f90149ae87010100000092030e4b67204b75616c612042616c6169",
+      "name": "Kg Kuala Balai",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.4551268,
+        "lon": 114.3208777
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kg Kuala Balai, Jalan Mumong, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518c29fd297aa35c405964bd079e31121240f00103f901f9648f01010000009203114b67204d65727567692042756e676b6f6b",
+      "name": "Kg Merugi Bungkok",
+      "city": "Belait District",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5177674,
+        "lon": 114.5543313
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kg Merugi Bungkok, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ca56032fab85c405989eb18575c641340f00103f901c9601b3d0100000092031950726f626f73636973204d6f6e6b6579205369676874696e67",
+      "name": "Proboscis Monkey Sighting",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8480085,
+        "lon": 114.8902708
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Proboscis Monkey Sighting, Simpang 11, Bandar Seri Begawan, Brunei-Muara District BF1320, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51911040c54c905c4059610ecc1b71621240f00103f90167a9ca3001000000",
+      "name": "Jalan Utara",
+      "city": "Panaga",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5961346,
+        "lon": 114.2546857
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Jalan Utara, Panaga, Belait District KD1132, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514523449ec9aa5c4059ba4fe9bbb6321340f00103f901e5ad87010100000092030b4c7572616820536162616e",
+      "name": "Lurah Saban",
+      "city": "Kampong Panchor Dulit",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.7995252,
+        "lon": 114.6685558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lurah Saban, Simpang 98, Kampong Panchor Dulit, Tutong District TA2141, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5184e453b67eb55c4059d783ee377fc01340f00103f90163f402990100000092030b4c696f6e20537461747565",
+      "name": "Lion Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9379853,
+        "lon": 114.8358589
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b213b93b46b75c4059cf55a98f769a1340f00103f901cda3e028030000009203114265627568756e20576174657266616c6c",
+      "name": "Bebuhun Waterfall",
+      "city": "Tanjong Bunut",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9008429,
+        "lon": 114.8636617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bebuhun Waterfall, 376m, Tanjong Bunut, Brunei-Muara District BF2920, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514799c3a42e9f5c405944a4a65d4c331240f00103f90193a287010100000092030d4b672053756e676169204d6175",
+      "name": "Kg Sungai Mau",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.550096,
+        "lon": 114.4872219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kg Sungai Mau, Jalan Labi, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a14b38f416a85c4059712b73a900261340f00103f901b5b587010100000092030c50756c61752042616b756b75",
+      "name": "Pulau Bakuku",
+      "city": "Kampong Penabai",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.7871119,
+        "lon": 114.626401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pulau Bakuku, Jalan Penabai, Kampong Penabai, Tutong District TA3541, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a50f5d063b75c40595d328e91eca11340f00103f901c5a3e028030000009203114265646173757220576174657266616c6c",
+      "name": "Bedasur Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.908129,
+        "lon": 114.8654673
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bedasur Waterfall, 1.2km, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d72a66297eb55c405901ef2e617ec01340f00103f90165f402990100000092030b4c696f6e20537461747565",
+      "name": "Lion Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9379821,
+        "lon": 114.8358253
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc0ffae307ca5c40595af5b9da8a351240f00103f901bdd52a1f0100000092030c48696b696e6720547261696c",
+      "name": "Hiking Trail",
+      "city": null,
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.5522875,
+        "lon": 115.1567316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hiking Trail, Two river steps, Temburong District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51796d80e37cb55c4059a90bc2267cc01340f00103f90161f402990100000092030b4c696f6e20537461747565",
+      "name": "Lion Statue",
+      "city": "Jerudong",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9379736,
+        "lon": 114.8357476
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f0b3b31109f5c405910690a534abe1240f00103f901b1ae87010100000092032150616e74616920506572616e67696e616e204b672053756e676169204c69616e67",
+      "name": "Pantai Peranginan Kg Sungai Liang",
+      "city": "Kampong Sungai Liang",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.6858304,
+        "lon": 114.4853633
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pantai Peranginan Kg Sungai Liang, Simpang 166, Kampong Sungai Liang, Belait District, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5134ab2d2b83b75c4059967f8868cfa01340f00103f9011d99e128030000009203114d616e6469616e20576174657266616c6c",
+      "name": "Mandian Waterfall",
+      "city": "Katok",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.9070412,
+        "lon": 114.8673809
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mandian Waterfall, 276m, Katok, Brunei-Muara District BE2319, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d910fd56fbc5c4059d3a414747b891340f00103f9019d36cf7b0000000092031c476c6173732d656e636c6f7365642056696577696e6720546f776572",
+      "name": "Glass-enclosed Viewing Tower",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.88426,
+        "lon": 114.9443257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Glass-enclosed Viewing Tower, Jeti 3, Bandar Seri Begawan, Brunei-Muara District BP2126, Brunei",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc687eeb79bc5c4059b233e087de951340f00103f9018bd011970100000092030e546f776e2056696577706f696e74",
+      "name": "Town Viewpoint",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "country_code": "bn",
+      "coordinates": {
+        "lat": 4.8963567,
+        "lon": 114.9449414
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Town Viewpoint, Jalan Berita, Bandar Seri Begawan, Brunei-Muara District BS8610, Brunei",
+      "description": null,
+      "image": null
+    }
+  ]
+}

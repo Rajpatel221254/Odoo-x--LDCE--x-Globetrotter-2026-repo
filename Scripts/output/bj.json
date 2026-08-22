@@ -1,0 +1,2991 @@
+{
+  "country_code": "bj",
+  "country_name": "Benin",
+  "boundary_place_id": "51da9dff6849110240595675a098060f2340f00101f90110f1020000000000c0020b92030542656e696e",
+  "count": 158,
+  "places": [
+    {
+      "place_id": "510ea48b4d2be5fe3f5939dacc7c62301940f00103f901a425d0370000000092030d426f7563686520647520526f69",
+      "name": "Bouche du Roi",
+      "city": "Grand-Popo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.2972507,
+        "lon": 1.9309495
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bouche du Roi, Route des Pêches, Grand-Popo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195a938c42e60024059fffa3262b0ec1940f00103f90196112e4d02000000920323436f6d706c65786520746f7572697374697175652061676f75616c616e642843544129",
+      "name": "Complexe touristique agoualand(CTA)",
+      "city": "Togba",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4811416,
+        "lon": 2.2969642
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Complexe touristique agoualand(CTA), RN 30, Togba, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa0b7899610303405934b9bd4978671940f00103f9014a9152f700000000920313536575696c2050697374652030362044424242",
+      "name": "Seuil Piste 06 DBBB",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3510448,
+        "lon": 2.376651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Seuil Piste 06 DBBB, Route des Pêches, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a8f0c8343c903405917c0ef3a767b1940f00103f901b2440e2e02000000",
+      "name": "Miraj group warehouse",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3705682,
+        "lon": 2.4732733
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Miraj group warehouse, Rue 1.272, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113995e07732003405993212290a6e51940f00103f9018ae4e01203000000",
+      "name": "RN 33",
+      "city": "Akassato",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4742682,
+        "lon": 2.3908444
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "RN 33, Akassato, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51789cfddc2bae00405904102d68106d1940f00103f901bcd8528f02000000",
+      "name": "Rue Monseigneur Dartois",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3565079,
+        "lon": 2.0850446
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rue Monseigneur Dartois, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51912342c81e160540590a12dbdd03dc1940f00103f90166d3fbb10200000092031153656e74696e656c6c652048c3a9726f6e",
+      "name": "Sentinelle Héron",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4648585,
+        "lon": 2.6358009
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Héron, Rue Victor Ballot, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100d6f4ea2d0f05405963cc029255de1940f00103f90162d3fbb10200000092031453656e74696e656c6c65204d616d692057617461",
+      "name": "Sentinelle Mami Wata",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4671233,
+        "lon": 2.6324118
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Mami Wata, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51019c830c890005405986e7a56263de1940f00103f9015468fbb10200000092031353656e74696e656c6c6520546f686f73736f75",
+      "name": "Sentinelle Tohossou",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.467176,
+        "lon": 2.6252614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Tohossou, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120a79ebb13b2004059551bf741f16e1940f00103f90142773d910000000092030e4172627265207363756c7074c3a9",
+      "name": "Arbre sculpté",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3583422,
+        "lon": 2.0869517
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Arbre sculpté, Rue Monseigneur Dartois, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51834b6ce3f4ba004059f3a908dc5f721940f00103f901da532b960200000092031e4d6169736f6e204174656c69657220617274697374652041646a6f737365",
+      "name": "Maison Atelier artiste Adjosse",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3616938,
+        "lon": 2.0912874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison Atelier artiste Adjosse, Rue Monseigneur Dartois, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51707e1efef525034059774600dcd1741940f00103f90178f14ff700000000920313536575696c2070697374652032342044424242",
+      "name": "Seuil piste 24 DBBB",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3640818,
+        "lon": 2.3935356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Seuil piste 24 DBBB, Rue 12.202, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516aa2cf4719810340592f10a90e5e701940f00103f90178de426d0100000092031156696575782064697370656e7361697265",
+      "name": "Vieux dispensaire",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3597338,
+        "lon": 2.4380365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vieux dispensaire, Rue 5.120, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113ae916e9531034059d996016729791940f00103f901a49a52f700000000920313416c69676e656d656e74207069737465203234",
+      "name": "Alignement piste 24",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.368322,
+        "lon": 2.3992108
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Alignement piste 24, Rue 11.056, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc54d2d4fc1205405925fac6212cdc1940f00103f90164d3fbb10200000092031653656e74696e656c6c6520476f6e6f6e666f686f7565",
+      "name": "Sentinelle Gononfohoue",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4650121,
+        "lon": 2.6342713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Gononfohoue, Rue Victor Ballot, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51413a86110c810340590e99976835711940f00103f90173df426d0100000092031b416e6369656e6e65206d6169736f6e20646520636f6d6d65726365",
+      "name": "Ancienne maison de commerce",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3605553,
+        "lon": 2.4380113
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancienne maison de commerce, Avenue Pierre Delorme, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51191989754f030540599c429da85bdc1940f00103f9015ed3fbb10200000092031353656e74696e656c6c65205a616e676265746f",
+      "name": "Sentinelle Zangbeto",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4651934,
+        "lon": 2.6266164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Zangbeto, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eac7cb3f9f0d05405979a97ddf64f01940f00103f9016bf0663f010000009203174b616e64c3a97669c3a920526164696f2078c3b46b6f6e",
+      "name": "Kandévié Radio xôkon",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4847598,
+        "lon": 2.6316514
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kandévié Radio xôkon, RNIE 1 bis, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b9e34d7e8bae004059f9aa4b7ca46f1940f00103f90169cb619902000000",
+      "name": "Python temple",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3590259,
+        "lon": 2.085227
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Python temple, Rue Monseigneur Dartois, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9da334b026405405961246a58420d1a40f00103f901c24c420b0300000092030d56756c67617269736174657572",
+      "name": "Vulgarisateur",
+      "city": "Mèdédjonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5129484,
+        "lon": 2.6738325
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vulgarisateur, RN 36, Mèdédjonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ca5c233fc3205405918aa07718a1b1a40f00103f901d6d27b8e0200000092031b455854524153203230303020504c555320494d5052455353494f4e",
+      "name": "EXTRAS 2000 PLUS IMPRESSION",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5268953,
+        "lon": 2.6498951
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "EXTRAS 2000 PLUS IMPRESSION, RNIE 1 bis, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5174b0a316effc02405951a1bab9f86b1940f00103f9015d042df7000000009203204d6169736f6e20474e414341444a4120466c6f72656e742043616c7661697265",
+      "name": "Maison GNACADJA Florent Calvaire",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.355441,
+        "lon": 2.3735029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison GNACADJA Florent Calvaire, Rue 12.452, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5186af0a2f1c130540593b3eb555a4dd1940f00103f90165d3fbb10200000092031b53656e74696e656c6c65204ce28099486f6d6d65206e6174757265",
+      "name": "Sentinelle L’Homme nature",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4664472,
+        "lon": 2.6343311
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle L’Homme nature, Rue Victor Ballot, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ace7ffb00041034059fbdef0cc157f1940f00103f901199252f700000000920313416c69676e656d656e74207069737465203234",
+      "name": "Alignement piste 24",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3741066,
+        "lon": 2.4067396
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Alignement piste 24, RNIE 1, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5b7e864a905054059e3248392b8dd1940f00103f9015dd3fbb10200000092031753656e74696e656c6c652054c3aa2d416762616e6c696e",
+      "name": "Sentinelle Tê-Agbanlin",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4665244,
+        "lon": 2.6277645
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Tê-Agbanlin, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515388916f00b70040594dadad8ed24b1940f00103f901fe7e799902000000",
+      "name": "Slave road Ouidah",
+      "city": "Djègbadji",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3240454,
+        "lon": 2.0893563
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Slave road Ouidah, Route de l'Esclave, Djègbadji, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180ce4994624c004059f94ecc7a31bc1c40f00103f90122e45df90100000092031147424f4b50414e4e4f552041726d616e64",
+      "name": "GBOKPANNOU Armand",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1837825,
+        "lon": 2.0372974
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "GBOKPANNOU Armand, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515dd3cd0f6dd1024059bbb14577b5911940f00103f9018dd19f910100000092031545727320417a65746f6e6e65637573746f6d697a65",
+      "name": "Ers Azetonnecustomize",
+      "city": "Godomey",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3922938,
+        "lon": 2.3522588
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Français, RNIE 2, Godomey, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51153944dc9c7a034059292e7d9ef57f1940f00103f901013b2f3a02000000",
+      "name": "Fetish market",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3749604,
+        "lon": 2.4348695
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fetish market, Rue 3.044, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a33cf372d88d0040593a083a5ad5ca1c40f00103f9013a0110fc0100000092030f4b4f4e45204672c3a964c3a9726963",
+      "name": "KONE Frédéric",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1980795,
+        "lon": 2.0692605
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "KONE Frédéric, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2e95674902c034059cd02ed0e29661940f00103f9015dc64e7d0100000092032343656e74726520696e7465726e6174696f6e616c20646520636f6e66c3a972656e6365",
+      "name": "Centre international de conférence",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.349766,
+        "lon": 2.3967599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centre international de conférence, Boulevard de la Marina, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ef6a809ec1b034059feb4f6e39b6a1940f00103f901c2902cf700000000920317414e41432042c3a96e696e2042757265617520444c5041",
+      "name": "ANAC Bénin Bureau DLPA",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3541103,
+        "lon": 2.3886338
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ANAC Bénin Bureau DLPA, Avenue Pape Jean-Paul II, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512dbfc2386ee7fd3f59c128f7f1866a1940f00103f9017d77055b020000009203194665726d65206465206c6120626f6e6e652073656d656e6365",
+      "name": "Ferme de la bonne semence",
+      "city": "Grand-Popo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3540304,
+        "lon": 1.8690016
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ferme de la bonne semence, RNIE 1, Grand-Popo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6a315849775024059fecd305aec631940f00103f9018571cbfe0100000092031448617761c3af20426168616d617320506c616765",
+      "name": "Hawaï Bahamas Plage",
+      "city": "Hio Houta",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3475813,
+        "lon": 2.3074179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hawaï Bahamas Plage, Route des Pêches, Hio Houta, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8bd2dfdf018fe3f59edc1ffb16b461a40f00103f901f5cac58102000000920334436f6d6d756e61757465204e6174696f6e616c652064752043756c746520566f646f756e2064752042656e696e2d526163696e65",
+      "name": "Communaute Nationale du Culte Vodoun du Benin-Racine",
+      "city": "Houéyogbé",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5687702,
+        "lon": 1.8810892
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Communaute Nationale du Culte Vodoun du Benin-Racine, RN 23, Houéyogbé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111af46d15ec803405955aa9f92ce7b1940f00103f9015d070e2e02000000",
+      "name": "Warehouse Miraj group",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3709052,
+        "lon": 2.4728371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Warehouse Miraj group, Rue 1.272, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d7ef156a7f4024059423ee8d9ac821940f00103f9018aa167d00100000092031154616e7465204c656f6e69652041676c61",
+      "name": "Tante Leonie Agla",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3776125,
+        "lon": 2.3694598
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tante Leonie Agla, RNIE 1, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516258b4ef4083034059bb809719366a1940f00103f901326531290100000092030f43696d656e7420426f75636c696572",
+      "name": "Ciment Bouclier",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.353722,
+        "lon": 2.4390887
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ciment Bouclier, Boulevard du Gouverneur Dodds, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6094158d7820040592121ca17b4d81c40f00103f9016af752fc0100000092030c53414e4f55204a65616e6e65",
+      "name": "SANOU Jeanne",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2116245,
+        "lon": 2.0638873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "SANOU Jeanne, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51780dfad2db9f00405965259ccc2ea61c40f00103f9015aa3a4130200000092030f41444f474e49424f20476572617264",
+      "name": "ADOGNIBO Gerard",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1622879,
+        "lon": 2.078056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ADOGNIBO Gerard, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f1ec97f49cc9004059d06f4edb75b51c40f00103f901fe4695f90100000092030f41564f484f55204cc3a96f6e617264",
+      "name": "AVOHOU Léonard",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1772074,
+        "lon": 2.0984439
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AVOHOU Léonard, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51594c6c3eaebd004059fe2f325c78791940f00103f901f90c6dec010000009203114c65732063c3a96cc3a962726974c3a973",
+      "name": "Les célébrités",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3686232,
+        "lon": 2.0926175
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Les célébrités, RNIE 1, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108ae2aa9d0b800405958ff9f75b16f1940f00102f901c198041800000000920320466f7274205361696e742d4a65616e2d42617074697374652d6427416a756461",
+      "name": "Fort Saint-Jean-Baptiste-d'Ajuda",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.359075391664952,
+        "lon": 2.090241738905892
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort of São João Baptista de Ajudá, Rue Monseigneur Dartois, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515de38e92b26001405947b87f1b188f1940f00103f9012d4b894e0200000092030a4368657a20534f474c4f",
+      "name": "Chez SOGLO",
+      "city": "Pahou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3897404,
+        "lon": 2.1722156
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chez SOGLO, RNIE 1, Pahou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159e1f1481706054059e99f3b1cb81e1a40f00103f901ce65c7190200000092031f5465727261696e20506f6c7976616c656e742053697465204e6f7576656175",
+      "name": "Terrain Polyvalent Site Nouveau",
+      "city": "Hèhoun",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5299992,
+        "lon": 2.6279741
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Terrain Polyvalent Site Nouveau, RN 36 bis, Hèhoun, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dfe00b93a9420340595824816154651940f00103f9011584e281020000009203094c27416d617a6f6e65",
+      "name": "L'Amazone",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3489547,
+        "lon": 2.40755
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "L'Amazone, Place de l'Amazone, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d723c3e0505e004059df76572c34be1c40f00103f901de37d0fc01000000920311484f554e4b414e444a4920506965727265",
+      "name": "HOUNKANDJI Pierre",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1857459,
+        "lon": 2.0460527
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "HOUNKANDJI Pierre, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc98c57a594905405901d64fa4a0401a40f00103f901bf65cd19020000009203115369746520706c616365207075626c6963",
+      "name": "Site place public",
+      "city": "Avrankou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5631128,
+        "lon": 2.6608152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site place public, RNIE 1 bis, Avrankou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0c16b9736cc024059b754efbac8f61940f00103f9015d326a1a0100000092030f6368657a20416e6173746861736965",
+      "name": "chez Anasthasie",
+      "city": "Abomey-Calavi",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4910001,
+        "lon": 2.3497135
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "chez Anasthasie, RNIE 2, Abomey-Calavi, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183fe9d488b2e014059b8abfcd75ea81a40f00103f901e7a36f130100000092031150726f6a6563742053706163652059c3a8",
+      "name": "Project Space Yè",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.6644243,
+        "lon": 2.1477266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Project Space Yè, RN 1 bis, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd77b1d58a7b00405965ea645f68b41c40f00103f901524a5c12020000009203064144414d4f55",
+      "name": "ADAMOU",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1761794,
+        "lon": 2.0603234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ADAMOU, RN 20, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51474ac4a5747a004059b02eb8301cb91c40f00103f9012800ee140200000092030f415441434c4120417468616e617365",
+      "name": "ATACLA Athanase",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1807716,
+        "lon": 2.0597928
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ATACLA Athanase, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51738c1a0236860040597fcb52a170cc1c40f00103f90169f752fc01000000920312544348494e544348494e4b4f2041696dc3a9",
+      "name": "TCHINTCHINKO Aimé",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1996484,
+        "lon": 2.0655327
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "TCHINTCHINKO Aimé, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517567dc8ab31805405962d8614cfadb1940f00103f90167d3fbb10200000092031f53656e74696e656c6c65204d797374c3a972696575736520736972c3a86e65",
+      "name": "Sentinelle Mystérieuse sirène",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.464822,
+        "lon": 2.6370612
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Mystérieuse sirène, Rue Victor Ballot, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190341367a0ad004059ff5481ff529b1c40f00103f901be3490f60100000092030e59454b504f4e20436861726c6573",
+      "name": "YEKPON Charles",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1516838,
+        "lon": 2.0847786
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "YEKPON Charles, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4eed57db6c40040591a1deb3df0741940f00103f9010d5b609902000000",
+      "name": "Oiudah Sacred forest",
+      "city": "Ouidah",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3641977,
+        "lon": 2.0960512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Oiudah Sacred forest, RNIE 1, Ouidah, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d93a641d1fc024059eea1331fc68a1940f00103f901b555fa310100000092030c536f75646575722061676c61",
+      "name": "Soudeur agla",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3855214,
+        "lon": 2.373446
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Soudeur agla, RNIE 1, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc5f217365f004405902c985144db91940f00103f9015d0c78850200000092030a4c494748542043495459",
+      "name": "LIGHT CITY",
+      "city": "Sèmè-Kpodji",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4309581,
+        "lon": 2.617381
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "LIGHT CITY, CHEMIN, Sèmè-Kpodji, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c88ed7cdd6ab0240593162fab9fcfa1940f00103f9017689271b020000009203054a41444554",
+      "name": "JADET",
+      "city": "Zopah-Kokpo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4951047,
+        "lon": 2.3339058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "JADET, Route Adaye, Zopah-Kokpo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c81559a39c90240594f63d6e65ae71940f00103f901d4ae67d001000000920314475241544954554445204152434f4e56494c4c45",
+      "name": "GRATITUDE ARCONVILLE",
+      "city": "Zopah-Kokpo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4759327,
+        "lon": 2.3482544
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "GRATITUDE ARCONVILLE, Route Adaye, Zopah-Kokpo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ead1af0859610340593c3c3a64b98b1940f00103f90179f14ff70000000092033144c3a962757420617070726f63686520636f7572746520616c69676ec3a920706973746520323420283130303020667429",
+      "name": "Début approche courte aligné piste 24 (1000 ft)",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3864494,
+        "lon": 2.4225331
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Début approche courte aligné piste 24 (1000 ft), Rue 6.108, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3de5e888bf20440596eeb5d7292e41940f00103f9017b6343350100000092030d457370616365205562756e7475",
+      "name": "Espace Ubuntu",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4732149,
+        "lon": 2.6184302
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Espace Ubuntu, Rue Victor Ballot, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51236019c000f7044059918c8b59e5e01940f00103f9015368fbb10200000092031f53656e74696e656c6c6520456e66616e74206574206c652063657263656175",
+      "name": "Sentinelle Enfant et le cerceau",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4696249,
+        "lon": 2.6206069
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Enfant et le cerceau, Avenue Malan, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517391312da086f63f59709a99f452b02240f00103f9011632b32301000000",
+      "name": "Монт Сокбаро",
+      "city": "Aledjo-Koura",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 9.3443829,
+        "lon": 1.4078676
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Монт Сокбаро, RN 11, Aledjo-Koura, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a0c45701209054059fc581c29b6dd1940f00103f9015fd3fbb10200000092031453656e74696e656c6c65204c612070c3aa636865",
+      "name": "Sentinelle La pêche",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4665152,
+        "lon": 2.6294297
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle La pêche, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0fce142795a004059e245bafa0cbb1c40f00103f90131ce96f60100000092031041474245535349204d617263656c696e",
+      "name": "AGBESSI Marcelin",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1826667,
+        "lon": 2.0441766
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AGBESSI Marcelin, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2b8ffc8744800405966a208a9dbb91c40f00103f90189f960f901000000920313484f554e544f4e464a4920436f6e7374616e74",
+      "name": "HOUNTONFJI Constant",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.181502,
+        "lon": 2.035379
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "HOUNTONFJI Constant, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3a6a7d94d0a05405973203537f0dc1940f00103f90163d3fbb10200000092031553656e74696e656c6c652053696e69737472c3a973",
+      "name": "Sentinelle Sinistrés",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4657601,
+        "lon": 2.6300313
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Sinistrés, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df217b736e09004059e508be0e41ba1c40f00103f901f947f744010000009203124472792066727569747320666163746f7279",
+      "name": "Dry fruits factory",
+      "city": "Abomey",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1818888,
+        "lon": 2.0046052
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dry fruits factory, Avenue de la Place, Abomey, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7d056cad77a00405913a8b4b409d61a40f00103f9013123b54b02000000920303434343",
+      "name": "CCC",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.7090214,
+        "lon": 2.0599819
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "CCC, RN 1 bis, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519966bad749bd004059bbdf579bb5a21c40f00103f901ba1b4ec701000000920307412e462e412e53",
+      "name": "A.F.A.S",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1588959,
+        "lon": 2.092426
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A.F.A.S, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec681cea779100405947d73b9281b21c40f00103f901692e101702000000920308415353414e474245",
+      "name": "ASSANGBE",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1743224,
+        "lon": 2.0710295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ASSANGBE, RN 20, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515878f2446b600040597d6f1d2d18be1c40f00103f901d003e20102000000920310486f756e676265646a69204a756c6573",
+      "name": "Houngbedji Jules",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1856391,
+        "lon": 2.0470796
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Houngbedji Jules, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4113e4adb5e0040592aa09adc39be1c40f00103f901ea35d0fc0100000092030b415749204e69636f6c6173",
+      "name": "AWI Nicolas",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1857676,
+        "lon": 2.0463167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AUBERGE NIC, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51310ff4ab94490040598565c7a1d9b81c40f00103f90172ea5ff901000000920315415454454d454e4f55204261727468c3a96c656d79",
+      "name": "ATTEMENOU Barthélemy",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1805177,
+        "lon": 2.0359281
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ATTEMENOU Barthélemy, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbc639a05b4e004059d9ae754e58b71c40f00103f901793765f90100000092031046414e464f48414e20416368696c6c65",
+      "name": "FANFOHAN Achille",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1790478,
+        "lon": 2.0382607
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "FANFOHAN Achille, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51683b4b35588d0040599e094d124bca1c40f00103f9010d7711fc0100000092030f4b4f4e45204672c3a964c3a9726963",
+      "name": "KONE Frédéric",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.197552,
+        "lon": 2.0690159
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "KONE Frédéric, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51481ba2653889004059b0986c9791cd1c40f00103f901ede517fc010000009203154144414e4c4f4b4f4e4f4e204269656e76656e7565",
+      "name": "ADANLOKONON Bienvenue",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2007507,
+        "lon": 2.0670021
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ADANLOKONON Bienvenue, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51806033654c96004059a395d63accda1c40f00103f9010d64b08102000000",
+      "name": "Fetish market",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2136697,
+        "lon": 2.0733879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fetish market, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519225cee5617c00405909394ab956d61a40f00103f901c30bb54b02000000920303414141",
+      "name": "AAA",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.7093152,
+        "lon": 2.0607336
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "AAA, RN 1 bis, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c80105285752034059bafa0c03f1851940f00103f901dd9952f700000000920313416c69676e656d656e74207069737465203234",
+      "name": "Alignement piste 24",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3808022,
+        "lon": 2.4152053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Alignement piste 24, Rue 150, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510806103e941803405939680af890631940f00103f90111aefe7c0100000092030b447265616d206265616368",
+      "name": "Dream beach",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3472327,
+        "lon": 2.3870015
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dream beach, Route des Pêches, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a82c7b7772d0340598128f3ea77c41c40f00103f90161ca61400200000092032953697465205041444d415220446f676120416c696b6f6e205a414e474e414e41444f2043454e545245",
+      "name": "Site PADMAR Doga Alikon ZANGNANADO CENTRE",
+      "city": "Houèko",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1918637,
+        "lon": 2.397201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site PADMAR Doga Alikon ZANGNANADO CENTRE, old RN 4, Houèko, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec9804b9d54d004059e565a8e562b71c40f00103f901a1f664f90100000092031541484f594f20436f6c6c6574652028207672616929",
+      "name": "AHOYO Collete ( vrai)",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1790882,
+        "lon": 2.0380053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AHOYO Collete ( vrai), RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515eff6442824800405914beadaa4dba1c40f00103f901953663f90100000092031041474245535349204d617263656c696e",
+      "name": "AGBESSI Marcelin",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1819369,
+        "lon": 2.0354047
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AGBESSI Marcelin, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51705b00bfeb880040590fe7864b33ba1c40f00103f9015d50b9d80100000092031341444a41484f55494e4f55204761627269656c",
+      "name": "ADJAHOUINOU Gabriel",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1818363,
+        "lon": 2.0668559
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ADJAHOUINOU Gabriel, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3c3e85ecc7b00405925d126e208d51a40f00103f901c20bb54b02000000920303424242",
+      "name": "BBB",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.7080417,
+        "lon": 2.0604484
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "BBB, RN 1 bis, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea5097d6f00e054059dcdf8f91a2dc1940f00103f90161d3fbb10200000092031853656e74696e656c6c65204c6573206c616d616e74696e73",
+      "name": "Sentinelle Les lamantins",
+      "city": "Porto-Novo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4654639,
+        "lon": 2.6322953
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sentinelle Les lamantins, Avenue Liotard, Porto-Novo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51157e5f121d4800405908ed3081b6b81c40f00103f9018d2261f90100000092031e544f4b4f55444147424120466c6f726520282052657374617572616e7429",
+      "name": "TOKOUDAGBA Flore ( Restaurant)",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1803837,
+        "lon": 2.0352117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "TOKOUDAGBA Flore ( Restaurant), RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f08403c69f8d004059f304c24eb1ca1c40f00103f9010de917fc0100000092030d444a4f4e474f4e20456d696c65",
+      "name": "DJONGON Emile",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.197942,
+        "lon": 2.0691524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "DJONGON Emile, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114724ae5923f0040593102cf62ceb01c40f00103f901f97bee140200000092031e5155494e4341494c4c45524945205341494e5445204d4144454c45494e45",
+      "name": "QUINCAILLERIE SAINTE MADELEINE",
+      "city": "Abomey",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1726623,
+        "lon": 2.0310419
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "QUINCAILLERIE SAINTE MADELEINE, RNIE 4, Abomey, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189867b1b518003405907167607676e1940f00103f90155ab070501000000",
+      "name": "RNIE 1",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3578149,
+        "lon": 2.4376547
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RNIE 1, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f36f3c4448320340590175b977c36c1940f00103f90131b5a5320100000092031143656e7472616c204361646a65686f756e",
+      "name": "Central Cadjehoun",
+      "city": "Cotonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3562144,
+        "lon": 2.3995519
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Central Cadjehoun, Rue 12.191, Cotonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd0c929966b5fc3f59b71ecf786c151940f00103f901a9db9b960200000092031356696c6c6167652064652050c3aa6368657572",
+      "name": "Village de Pêcheur",
+      "city": "Grand-Popo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.2709216,
+        "lon": 1.7942873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Village de Pêcheur, RNIE 1, Grand-Popo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b267cf656ab20240594b4a8b44b2011a40f00103f901f966c9190100000092030f6d696c696575206d61726368652032",
+      "name": "milieu marche 2",
+      "city": "Abomey-Calavi",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5016566,
+        "lon": 2.337117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "milieu marche 2, RNIE 2, Abomey-Calavi, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512302c41330c0024059f2eec8586de61c40f00103f901c9223c9902000000",
+      "name": "Cove Sakpata dance",
+      "city": "Agonlin-Houégbo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2250265,
+        "lon": 2.3438417
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cove Sakpata dance, RNIE 4, Agonlin-Houégbo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e41f6c674e4d054059fba188fb7e201a40f00103f90185283ca60100000092032c4c65732074616d732074616d7320646520416c70686f6e7365202d206174656c69657220657420636f757273",
+      "name": "Les tams tams de Alphonse - atelier et cours",
+      "city": "Adjarra",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5317344,
+        "lon": 2.6627472
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Alphonse’s Tam Tams- workshop and lessons, RN 36 bis, Adjarra, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510589edee017a004059086fb488cdd41a40f00103f9018d04d24b0200000092030432414141",
+      "name": "2AAA",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.7078153,
+        "lon": 2.059574
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "2AAA, RN 1 bis, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51deab195c9237014059e269b78742121c40f00102f901812e413000000000920312466f72c3aa742073616372c3a965204f726f",
+      "name": "Forêt sacrée Oro",
+      "city": "Hlagba-Zakpo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.017831917352369,
+        "lon": 2.1521346278509403
+      },
+      "categories": [
+        "natural",
+        "natural.forest",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Forêt sacrée Oro, RNIE 2, Hlagba-Zakpo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51824ead630148004059e73ae86dc7b71c40f00103f90191db62f90100000092030e4845444948452048696c61697265",
+      "name": "HEDIHE Hilaire",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1794717,
+        "lon": 2.0351589
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "HEDIHE Hilaire, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e1c4a1c8a460004059a290aee309be1c40f00103f901a942d1fc01000000920313544f474e49204cc3a96f6e2f204669726d696e",
+      "name": "TOGNI Léon/ Firmin",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1855846,
+        "lon": 2.0471893
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "TOGNI Léon/ Firmin, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c62a4aae0748004059215b96afcbb81c40f00103f901292261f90100000092030c42414b504520426173696c65",
+      "name": "BAKPE Basile",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1804645,
+        "lon": 2.0351709
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "BAKPE Basile, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51909955e9385800405916ea9f96d5ba1c40f00103f901fdf4eb030200000092031961686f676e692043c3a963696c65204570736520416b6f6861",
+      "name": "ahogni Cécile Epse Akoha",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1824554,
+        "lon": 2.0430773
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ahogni Cécile Epse Akoha, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51449d5ece117e0040591c15ee4becd01c40f00103f901452355fc0100000092030e4147424553534920416c65786973",
+      "name": "AGBESSI Alexis",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2040264,
+        "lon": 2.0615574
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AGBESSI Alexis, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0fa891414a00040594c44ae8a26a61c40f00103f90159a3a4130200000092030c4142494f4c4120456d696c65",
+      "name": "ABIOLA Emile",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1622564,
+        "lon": 2.0781633
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ABIOLA Emile, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b5af10d85afff3f590718a76b37c31c40f00103f90156ecfde0010000009203174c4520524547414c2073616c6c652064652046c3aa7465",
+      "name": "LE REGAL salle de Fête",
+      "city": "Abomey",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1906411,
+        "lon": 1.9803515
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "LE REGAL salle de Fête, Route de la Préfecture, Abomey, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51330bfec8bea5004059a6c695c4a39e1c40f00103f901b59e92f60100000092030c5345484f552055726261696e",
+      "name": "SEHOU Urbain",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1549216,
+        "lon": 2.0809303
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "SEHOU Urbain, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b45ba9f5360054059c7f7205f9d061a40f00103f90105f0663f01000000920308546368c3a96d696e",
+      "name": "Tchémin",
+      "city": "Mèdédjonou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5064597,
+        "lon": 2.6720345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tchémin, RN 36, Mèdédjonou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dfecc506c149004059ced60b4ff9b91c40f00103f90159cf60f901000000920320484f53534f5520436cc3a96d656e742028455453205361696e74205061756c29",
+      "name": "HOSSOU Clément (ETS Saint Paul)",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1816151,
+        "lon": 2.0360127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "HOSSOU Clément (ETS Saint Paul), RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183d83e897424024059572426a8e1631940f00103f901892fc0980200000092030753616c696e6573",
+      "name": "Salines",
+      "city": "Hio Houta",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.3475405,
+        "lon": 2.2678004
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Salines, Route des Pêches, Hio Houta, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514d8578245e4e0040599b1f7f6951b71c40f00103f9013df664f90100000092030d41484f544f20436f6c65747465",
+      "name": "AHOTO Colette",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1790215,
+        "lon": 2.0382655
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AHOTO Colette, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b10a331a4a400405980a20d1bc09e1c40f00103f9019ded92f601000000920311474e494d41474e4f4e204368616e74616c",
+      "name": "GNIMAGNON Chantal",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1550297,
+        "lon": 2.0803913
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "GNIMAGNON Chantal, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51424de3cdd07e0040599f84e3439ad21c40f00103f90115f954fc01000000920317444148205a4f554e47424f57454e4f4e20536f75726f75",
+      "name": "DAH ZOUNGBOWENON Sourou",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2056666,
+        "lon": 2.0619217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "DAH ZOUNGBOWENON Sourou, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51244ad63ca25d004059a61b727d69bb1c40f00103f901d17996f60100000092030c44414742412049736d61656c",
+      "name": "DAGBA Ismael",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1830196,
+        "lon": 2.0457196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "DAGBA Ismael, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51471cb28174f10140594fcfbbb1a0e01b40f00103f901f902b475010000009203054d61737369",
+      "name": "Massi",
+      "city": "Massi",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.969363,
+        "lon": 2.242898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Massi, RNIE 2, Massi, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156f2b1bb407903405956cdbdd1d8e81c40f00103f901ad0661400200000092032953697465205041444d4152206465204b504f544f2041564f484f4e4f55205a414e474e414e414e444f",
+      "name": "Site PADMAR de KPOTO AVOHONOU ZANGNANANDO",
+      "city": "Agonlin-Houégbo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2273896,
+        "lon": 2.4342055
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site PADMAR de KPOTO AVOHONOU ZANGNANANDO, RNIE 4, Agonlin-Houégbo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e64af37d274c0040591536a8a21dbc1c40f00103f901c1b95ef90100000092030f5a4f53534f5547424f204a6f6e6173",
+      "name": "ZOSSOUGBO Jonas",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1837068,
+        "lon": 2.0371847
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ZOSSOUGBO Jonas, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51320ee48f58610040594b2f7b2304bd1c40f00103f901d63ccefc0100000092030c4755455a4f444a45204c7563",
+      "name": "GUEZODJE Luc",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1845861,
+        "lon": 2.0475322
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "GUEZODJE Luc, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107b64ab038ac004059ce5d013bed971c40f00103f90105c58ff601000000920313436f6c6c65637469766974c3a92053454e4f4e",
+      "name": "Collectivité SENON",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1483659,
+        "lon": 2.0840925
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Collectivité SENON, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f2fe708cf7a004059c70b8e379ed41a40f00103f9019555b54b0200000092030432424242",
+      "name": "2BBB",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.7076348,
+        "lon": 2.0599652
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "2BBB, RN 1 bis, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d9e3017a740014059d6ebccf396a91a40f00103f90141ad67d00100000092031750617263656c6c6520416c6c6164612041706c6f67616e",
+      "name": "Parcelle Allada Aplogan",
+      "city": "Allada",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.6656149,
+        "lon": 2.1565687
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Parcelle Allada Aplogan, RN 32, Allada, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6dcd8470248004059413278f3afb81c40f00103f901b5a362f901000000920314414742414c454e4f4e2052657374617572616e74",
+      "name": "AGBALENON Restaurant",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1803587,
+        "lon": 2.0351606
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "AGBALENON Restaurant, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1c6b6b17e5800405948f36cfbc3bb1c40f00103f9017d97ec0302000000920313616b6f7463686f7520416e6e65204d61726965",
+      "name": "akotchou Anne Marie",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1833648,
+        "lon": 2.0432104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "akotchou Anne Marie, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511fbc7669c3c1ff3f59147d9983fb082040f00103f901d9bf209902000000",
+      "name": "Dankole shrine",
+      "city": "Savalou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 8.0175439,
+        "lon": 1.9848055
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dankole shrine, RNIE 3, Savalou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115d742da101d03405906f8c9ac39db1940f00103f901cf399ee90000000092030c4368657a205261706861656c",
+      "name": "Chez Raphael",
+      "city": "Akassato",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.4640872,
+        "lon": 2.3891923
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chez Raphael, RN 33, Akassato, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ede3576254e8ff3f598ea6c4bf19be1c40f00103f9016149379902000000",
+      "name": "Abomey palace museum",
+      "city": "Abomey",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1856451,
+        "lon": 1.9942211
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Abomey palace museum, Rue du Palais Royal, Abomey, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ccd1e3f736bdf83f59bfc2386ee7ad2340f00103f9013c0f1b9902000000",
+      "name": "Tanenka beri junction",
+      "city": "Copargo",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 9.8396563,
+        "lon": 1.546195
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tanenka beri junction, rue, Copargo, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d512e11577c20440599b41d7193a291a40f00103f9016d11a0ad0100000092031445534742202d204c6120506173736572656c6c65",
+      "name": "ESGB - La Passerelle",
+      "city": "Vakon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5402607,
+        "lon": 2.5949537
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ESGB - La Passerelle, RNIE 1, Vakon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b8a389d644b0040590dbb39a638b81c40f00103f90151a362f90100000092031242414348414249205341464f554c41544f55",
+      "name": "BACHABI SAFOULATOU",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1799036,
+        "lon": 2.036813
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "BACHABI SAFOULATOU, RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aaf7af07ee8b00405948669a5544ca1c40f00103f90151e617fc0100000092030d534f474c4f204379707269656e",
+      "name": "SOGLO Cyprien",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1975263,
+        "lon": 2.0683251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "SOGLO Cyprien, RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517276210cf2890240590c6b7418dd5b2740f00103f90184a4719201000000",
+      "name": "Karimama",
+      "city": "Karimama",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.6794212,
+        "lon": 2.3173562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karimama, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c8ed9a381a9f23f59e4a9a2d34e742440f00103f901482c71830000000092031e50697363696e65206e61747572656c6c6520617665632063617363616465",
+      "name": "Piscine naturelle avec cascade",
+      "city": "Boukombé",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.2271639,
+        "lon": 1.1663834
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natural pool with waterfall, RN 12 bis, Boukombé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f245d67503a0f53f59920953ef049e2440f00103f9015eb4c7de010000009203124e61746974696e676f75206c61206e756974",
+      "name": "Natitingou la nuit",
+      "city": "Tagayé",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.3086314,
+        "lon": 1.3515658
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natitingou la nuit, RN 7, Tagayé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc348f0dee18f63f59a7db23e538952440f00103f9014657878f0100000092030c4d6169736f6e204e27544941",
+      "name": "Maison N'TIA",
+      "city": "Natitingou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.2914497,
+        "lon": 1.3810864
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison N'TIA, RNIE 3, Natitingou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b37f350804d054059e0cb8e9e6c0c2440f00103f901d25012be0200000092030d56656e7465206465206d69656c",
+      "name": "Vente de miel",
+      "city": "Guessou-Banm Taka",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.0242662,
+        "lon": 2.6628424
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vente de miel, RNIE 2, Guessou-Banm Taka, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51521b8b5c2619f63f59347568a219952440f00103f9018e54878f0100000092030f4d6169736f6e2042414c4f474f554e",
+      "name": "Maison BALOGOUN",
+      "city": "Natitingou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.2912112,
+        "lon": 1.3811401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison BALOGOUN, RNIE 3, Natitingou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e6d7f78a74c05405930f65e7cd1261a40f00103f90199a03ba601000000920313746f757220646520726976657265206e6f6972",
+      "name": "tour de rivere noir",
+      "city": "Adjarra",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 6.5379085,
+        "lon": 2.6624288
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Black River Tour, RN 36 bis, Adjarra, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8878f3e9c16f63f5995383cce7e9a2440f00103f901324765d202000000",
+      "name": "RNIE 3",
+      "city": "Natitingou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.3017487,
+        "lon": 1.3805201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "RNIE 3, Natitingou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513427d4788e7d00405979a004ec59be1c40f00103f901d975de04020000009203164b494e4947424520486f6e6f72c3a920283832353229",
+      "name": "KINIGBE Honoré (8252)",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1858899,
+        "lon": 2.0613069
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "KINIGBE Honoré (8252), RNIE 2, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510178faf7cf490040593be9d89cdeb81c40f00103f901f15a60f90100000092031241424f45204c756369656e20284e43383629",
+      "name": "ABOE Lucien (NC86)",
+      "city": "Bohicon",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.1805367,
+        "lon": 2.0360412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ABOE Lucien (NC86), RNIE 4, Bohicon, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51609a7d795caf09405920306a5265172840f00103f901b0cd859201000000",
+      "name": "RN 15",
+      "city": "Birni-Lafia",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 12.0456949,
+        "lon": 3.2106256
+      },
+      "categories": [
+        "man_made",
+        "man_made.tower",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "RN 15, Birni-Lafia, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518800964b990af63f59a5c63a0b31a12440f00103f901c9aa512b01000000920313536f7564657572202d20486970706f6c797465",
+      "name": "Soudeur - Hippolyte",
+      "city": "Natitingou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.3148273,
+        "lon": 1.3775876
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Welder - Hippolyte, RNIE 3, Natitingou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b2aca00ab1e0540596839758afaf11c40f00103f90155f75e400200000092031b4361727269c3a87265204c6174c3a972697465204f444f4d455441",
+      "name": "Carrière Latérite ODOMETA",
+      "city": "Kétou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.2363073,
+        "lon": 2.6399746
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carrière Latérite ODOMETA, RN 3, Kétou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e7bcc519184024059e88aadfb225c2740f00103f9015a4a649201000000920310436875746573206465204b6f75646f75",
+      "name": "Chutes de Koudou",
+      "city": "Karimama",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.6799544,
+        "lon": 2.3147303
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chutes de Koudou, Karimama, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f76f464a318f83f59ea99b91b9f682640f00103f9019373a0740000000092031a4d6172652042616c69204f62736572766174696f6e20506f7374",
+      "name": "Mare Bali Observation Post",
+      "city": "Tanguièta",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.2043389,
+        "lon": 1.5060152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mare Bali Observation Post, Tanguièta, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121f07673a77a034059caccbba074982640f00103f901596c993d0300000092030a42616e6967616e73c3a9",
+      "name": "Banigansé",
+      "city": "Banikoara",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.2977648,
+        "lon": 2.4348897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Banigansé, RNIE 7 RN 8, Banikoara, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3f093b42ce9f43f59f88491031b882440f00103f901d9b2cc3802000000",
+      "name": "Tata Somba",
+      "city": "Tagayé",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.2658311,
+        "lon": 1.3069274
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tata Somba, RN 7, Tagayé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179db96129341f33f59e3bbde477f5d2440f00103f90157121b9902000000",
+      "name": "Tata Somba",
+      "city": "Kouaba",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.1826117,
+        "lon": 1.2035094
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tata Somba, RN 7, Kouaba, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5163c625d8c97a0140593c0dbd6a0a211f40f00103f9019559e8f60100000092030a53697465204f4b555441",
+      "name": "Site OKUTA",
+      "city": "Dassa-Zoumé",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 7.7822663,
+        "lon": 2.1849553
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site OKUTA, RNIE 2, Dassa-Zoumé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1425dff0989024059a4cbf67c285c2740f00103f901524a649201000000",
+      "name": "Karimama",
+      "city": "Karimama",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.6799964,
+        "lon": 2.3169136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karimama, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ef0cf566f3ef33f59eee0719bba5c2440f00103f90111b2cc3802000000",
+      "name": "Tata Somba",
+      "city": "Koussoucoingou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.1811112,
+        "lon": 1.2027429
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tata Somba, RN 7, Koussoucoingou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec53e9825590024059ba4fe9bbb65a2740f00103f901534a649201000000",
+      "name": "Karimama",
+      "city": "Karimama",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.6771754,
+        "lon": 2.3204756
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karimama, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b36f383d3964074059e865b911bb432640f00103f901d4c7680601000000920308534f4e4b50415245",
+      "name": "SONKPARE",
+      "city": "Kandi",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.1322866,
+        "lon": 2.9239373
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "SONPKARE, RNIE 7, Kandi, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511364045438e2f53f5935351a0ae99a2440f00103f90144f9532b010000009203084c612043726f6978",
+      "name": "La Croix",
+      "city": "Natitingou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.3025592,
+        "lon": 1.3677295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "La Croix, Rue du Stade, Natitingou, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510af2b391eb8603405920ae4104c13c2740f00103f9017f850d9300000000920316456e7472c3a965206475202750617263206475205727",
+      "name": "Entrée du 'Parc du W'",
+      "city": "Sampèto",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 11.6186601,
+        "lon": 2.440879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Entrée du 'Parc du W', Sampèto, Banikoara, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f3d93a23ae2f73f5933631b0291132440f00103f9017b8c4a360000000092031b4a617264696e20426f74616e697175652064652050617061746961",
+      "name": "Jardin Botanique de Papatia",
+      "city": "Kouandé",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.0382157,
+        "lon": 1.4927317
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jardin Botanique de Papatia, RNIE 3, Kouandé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194258458473ff23f590ea320787c532440f00103f9013532fd82000000009203064c6520706963",
+      "name": "Le pic",
+      "city": "Koukouatchien-Maagou",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.163059,
+        "lon": 1.1404489
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le pic, Koukouatchien-Maagou, Boukombé, Benin",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187a8c29fe1adf33f5955432cac65802440f00103f90175b2cc3802000000",
+      "name": "Tata Somba",
+      "city": "Kouaba",
+      "country": "Benin",
+      "country_code": "bj",
+      "coordinates": {
+        "lat": 10.2507757,
+        "lon": 1.2299515
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tata Somba, RN 7, Kouaba, Benin",
+      "description": null,
+      "image": null
+    }
+  ]
+}

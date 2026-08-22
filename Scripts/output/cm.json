@@ -1,0 +1,4550 @@
+{
+  "country_code": "cm",
+  "country_name": "Cameroon",
+  "boundary_place_id": "514291932ea24e2a4059145f48e240731240f00101f9013ef1020000000000c0020b92030843616d65726f6f6e",
+  "count": 238,
+  "places": [
+    {
+      "place_id": "517e795caf441b2d405908f47810f1f50140f00103f901f09973cc020000009203185757462059756d626920626169206669656c642062617365",
+      "name": "WWF Yumbi bai field base",
+      "city": "Ngoyla",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.2450887,
+        "lon": 14.5532584
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "WWF Yumbi bai field base, Ngoyla, Haut-Nyong, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c564bb8cac06274059bf492e5adbef0e40f00103f901d0c80e9200000000920327506c75732076696575782062c3a274696d656e7420656e206475722064652059616f756e64c3a9",
+      "name": "Plus vieux bâtiment en dur de Yaoundé",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8671176,
+        "lon": 11.5130352
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plus vieux bâtiment en dur de Yaoundé, Rue 2.003, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b8246fafe07274059dbc765378ed30e40f00103f901602973d60000000092030e4172746973616e617420706c7573",
+      "name": "Artisanat plus",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8532986,
+        "lon": 11.5156172
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Artisanat plus, Rue 3.706, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ed51aef330f27405943e8fb04ab750f40f00103f901f64883040100000092031046696e2072c3a97365617520c2a43430",
+      "name": "Fin réseau ¤40",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9324551,
+        "lon": 11.5296931
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fin réseau ¤40, Rue 5.896, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4b3041901492740595f01f15fc5fe0d40f00103f901ece087250100000092030646495043414d",
+      "name": "FIPCAM",
+      "city": "Mfou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.7493999,
+        "lon": 11.6425865
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "FIPCAM, P11, Mfou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512326f26e76f9264059f571231bfeb90e40f00103f90148feb108010000009203084e47432d42303137",
+      "name": "NGC-B017",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8408167,
+        "lon": 11.4872317
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NGC-B017, Rue 7.393, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d21dc4ce140a274059760767a66aa10f40f00103f9013058a5050100000092030b393020c3a0206661697265",
+      "name": "90 à faire",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9538167,
+        "lon": 11.51969
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "90 à faire, X2, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513aa7a32df8fa2640599e4bcc0e4c490f40f00103f90116868c8900000000920306526f63686572",
+      "name": "Rocher",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9107896,
+        "lon": 11.4901747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rocher, Rue du Vatican, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165a318c517f2264059c98bf1063d300b40f00103f9013eff4c0501000000920310436f636f6120506c616e746174696f6e",
+      "name": "Cocoa Plantation",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.3985539,
+        "lon": 11.4728376
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cocoa Plantation, Sentier botanique, Mbalmayo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c976be9f1a17274059dbdc989eb0840f40f00103f901364e8304010000009203104f4c454d42452d4e4b4f5a4f41205331",
+      "name": "OLEMBE-NKOZOA S1",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.93979,
+        "lon": 11.545125
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "OLEMBE-NKOZOA S1, Rue 5.717, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a8f334dd8f6264059028063cf9e1b0f40f00103f901708f99e401000000",
+      "name": "Rue 6.479",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8884865,
+        "lon": 11.482119
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 6.479, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdb7f41e1dcd2340594c81165cbde40c40f00103f9015a456821010000009203144368696d70732046656564696e6720506f696e74",
+      "name": "Chimps Feeding Point",
+      "city": "Mouanko",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.6116893,
+        "lon": 9.9006128
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chimps Feeding Point, Mouanko, Sanaga-Maritime, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dccd9daa8c10274059bdf3d59f0ef50e40f00103f9010a3dcd630100000092030133",
+      "name": 3,
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8696568,
+        "lon": 11.5323232
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "3, Rue 1.364, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518289e4d0c711274059a81b28f04eee0e40f00103f901273ccb6301000000",
+      "name": "Rue 1.273",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8663615,
+        "lon": 11.5347276
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 1.273, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150018b57b44c2640598ec0690b19590740f00103f90162f138220100000092033e496e73746974757420546563686e6971756520446f6e20426f73636f2045626f6c6f7761202d206174656c696572206d656e7569736572696520626f6973",
+      "name": "Institut Technique Don Bosco Ebolowa - atelier menuiserie bois",
+      "city": "Ebolowa",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.9185048,
+        "lon": 11.1498134
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Institut Technique Don Bosco Ebolowa - atelier menuiserie bois, N2, Ebolowa, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c634337fb67234059ef9de2827d3d1040f00103f9017a0a608b010000009203074d616ec3a86765",
+      "name": "Manège",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0600491,
+        "lon": 9.7030885
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Manège, Rue Bruix (N° 1.395), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c353c629907274059edac2704bce60e40f00102f901367e7e0b0000000092030e4d6169736f6e20446f6d696e696b",
+      "name": "Maison Dominik",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8626633,
+        "lon": 11.514842100000003
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison Dominik, Rue Essono Ela, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168c1d54b9d09274059d890c9f32aac0e40f00103f901283ccb6301000000",
+      "name": "Route de Mbalmayo",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8340663,
+        "lon": 11.5187782
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Route de Mbalmayo, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a78416c8a213274059cee737a7ed8a0d40f00103f901f482f7050100000092030650c3a9616765",
+      "name": "Péage",
+      "city": "Mfou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.6928361,
+        "lon": 11.5383513
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Péage, Yaoundé-Mbalmayo, Mfou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a8c7450d3f8224059ca1649bbd1ff1240f00103f901628471030100000092030f436f636f612057617265686f757365",
+      "name": "Cocoa Warehouse",
+      "city": "Kumba II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.7498235,
+        "lon": 9.4859872
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cocoa Warehouse, Kumba-Mamfe, Kumba II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aeb3c6455aff264059b27966930d150c40f00103f901a4d3629402000000",
+      "name": "entrée salle du royaume",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.5102798,
+        "lon": 11.4987356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "entrée salle du royaume, Mbalmayo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51482355ca2108274059715fbd40ffd30e40f00103f90168379a790000000092030e53616c6c652064652044616e7365",
+      "name": "Salle de Danse",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8535142,
+        "lon": 11.5158828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Salle de Danse, Rue 3.713, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107e3f1fe89af2340595624cbee6e221440f00103f90100cc3b1501000000",
+      "name": "N'kong01",
+      "city": "Nkongsamba II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.0336263,
+        "lon": 9.8428497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N'kong01, Nkongsamba II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187d0130ed166234059548459c762311040f00102f90114bddb110000000092030650616c616365",
+      "name": "Palace",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.048228373373679,
+        "lon": 9.700813712996263
+      },
+      "categories": [
+        "building",
+        "building.public_and_civil",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palace, Boulevard de la République(Rue 1.729), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ecafc1315c8a24405923e1e876f9e91440f00102f901c440141c000000009203104368656666657269652042616e646a61",
+      "name": "Chefferie Bandja",
+      "city": "Bandja",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.228490694011529,
+        "lon": 10.27023463715883
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chefferie Bandja, D69, Bandja, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a456f3774a5a244059b62dca6c90811440f00103f90156c3d52f020000009203104361727265666f7572204261626f6e65",
+      "name": "Carrefour Babone",
+      "city": "Bafang",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1265275,
+        "lon": 10.1763494
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carrefour Babone, P15, Bafang, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136d1425dfff52440593980d99832d31440f00103f901d025b487000000009203114368656666657269652042616e676f7561",
+      "name": "Chefferie Bangoua",
+      "city": "Bangangté",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.2062477,
+        "lon": 10.4804639
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bangoua, Nationale 4, Bangangté, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e816a59b5d5f2340593e4604ee722e1040f00102f901cc99da110000000092031c416e6369656e205369c3a8676520576f65726d616e6e204c696e6965",
+      "name": "Ancien Siège Woermann Linie",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.045360297213447,
+        "lon": 9.686261047270321
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancien Siège Woermann Linie, Rue de la Motte Piquet (N°1.073), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512002b3e7d75f2340591b4d897f332c1040f00103f901d46484b10000000092030b5375642d4f62656c69736b",
+      "name": "Sud-Obelisk",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0431652,
+        "lon": 9.6871941
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Sud-Obelisk, Avenue du Géneral de Gaulle(N°1.051), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131a53f451fc92640597caf6bc548d00f40f00103f90144f8c01a0000000092030742656e63682031",
+      "name": "Bench 1",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9767013,
+        "lon": 11.3928167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bench 1, P 11, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b202322a5f0e244059530ceb21753e1440f00103f901d2031f2600000000",
+      "name": "Baré",
+      "city": "Baré",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.0609937,
+        "lon": 10.0280698
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Baré, Moungo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513de30c0fab812240593ac7253383ad0f40f00103f901ecf384e10000000092030543616e6f6e",
+      "name": "Canon",
+      "city": "Limbé III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9597229,
+        "lon": 9.2532582
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Canon, Limbé III, Fako, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51918d51e806d42340590f9bc8cc058e0740f00103f901046eaadf0100000092031b53657269677261706879206172747320616e6420646573696e6773",
+      "name": "Serigraphy arts and desings",
+      "city": "Kribi",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.944347,
+        "lon": 9.9141152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Serigraphy arts and desings, Place des fêtes, Kribi, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108d3e6ee29ef26405905c7c09547320b40f00103f901d88d9321010000009203185369746520746f75726973746971756520642745626f676f",
+      "name": "Site touristique d'Ebogo",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.3995506,
+        "lon": 11.4671168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site touristique d'Ebogo, Sentier botanique, Mbalmayo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157ca653d2ddb2440599c5b361f629c1540f00102f901688f733f00000000",
+      "name": "N 4",
+      "city": "Pete-Bandjoun",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.4027180554320715,
+        "lon": 10.428079527545533
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "N 4, Pete-Bandjoun, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fdbfeac8914e24405941a66bdc51fa1540f00103f9012a52d0e2000000009203124368656666657269652042616c6576656e67",
+      "name": "Chefferie Baleveng",
+      "city": "Nkong-Zem",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.4944529,
+        "lon": 10.153456
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Baleveng, Provinciale 17, Nkong-Zem, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154573ecbf3402540590602ae75f30e1540f00103f90174676d0b0100000092030c526f636b206465204d616b61",
+      "name": "Rock de Maka",
+      "city": "Foumbot",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.2646006,
+        "lon": 10.62686
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.rock",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rock de Maka, P15, Foumbot, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ce544bb0a4d26405917917241c7580740f00103f901bee838220100000092032243656e747265206465204a65756e657320446f6e20426f73636f2045626f6c6f7761",
+      "name": "Centre de Jeunes Don Bosco Ebolowa",
+      "city": "Ebolowa",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.9183488,
+        "lon": 11.1504725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centre de Jeunes Don Bosco Ebolowa, N2, Ebolowa, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51207d93a641652240595820d50b99c61040f00103f901d2c932cf00000000",
+      "name": "Market Road",
+      "city": "Buea",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1939432,
+        "lon": 9.1977665
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Market Road, Buea, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab7e00ad5407274059be4a3e7617080f40f00103f901a5448304010000009203074f494435205331",
+      "name": "OID5 S1",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.878951,
+        "lon": 11.5143179
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "OID5 S1, Rue 1.019, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512140e14790b9234059579ef64a0fe90c40f00103f9015b456821010000009203144368696d70732046656564696e6720506f696e74",
+      "name": "Chimps Feeding Point",
+      "city": "Mouanko",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.6137987,
+        "lon": 9.8624289
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chimps Feeding Point, Mouanko, Sanaga-Maritime, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c6304f97eab244059a6907582471d1540f00103f9012c52d0e20000000092030e4368656666657269652042617061",
+      "name": "Chefferie Bapa",
+      "city": "Bangou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.2785931,
+        "lon": 10.3349531
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bapa, D63, Bangou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e883656ce85e224059933bc7dba5201040f00103f90108f0cbf90100000092030e53696472656e652773204c616e64",
+      "name": "Sidrene's Land",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0318827,
+        "lon": 9.185367
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sidrene's Land, unknown, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4449f8f3256224059b19f6a99b1151040f00103f9010579bf300100000092031841756e7479204e69636f6c652773205265736964656e6365",
+      "name": "Aunty Nicole's Residence",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0211853,
+        "lon": 9.1683545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Aunty Nicole's Residence, N 3, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3b9089d21ee22405973fad577d9621240f00103f901ea1b4a77020000009203174157454d552043524544495420554e494f4e2048414c4c",
+      "name": "AWEMU CREDIT UNION HALL",
+      "city": "Kumba III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.5965327,
+        "lon": 9.4651002
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "AWEMU CREDIT UNION HALL, N8, Kumba III, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f59cf4bef1452740595d50df32a71b1140f00103f9010a3eb12a0100000092030952474e422042303933",
+      "name": "RGNB B093",
+      "city": "Batchenga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.277005,
+        "lon": 11.63661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RGNB B093, N 1, Batchenga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fca45c6b40c274059aa937da191090f40f00103f9010ed89f250100000092030641474553464f",
+      "name": "AGESFO",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8796723,
+        "lon": 11.5248167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "AGESFO, Impasse 1.095/876, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166d01acddb422740594641f0f8f6be1140f00103f90124c18a1a01000000920303505337",
+      "name": "PS7",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.436489,
+        "lon": 11.6305832
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS7, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d83e2ebb7144274059f5dc9d1095391140f00103f90112178b1a01000000920303505332",
+      "name": "PS2",
+      "city": "Batchenga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.3062327,
+        "lon": 11.6336802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS2, N15, Batchenga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519417eee1395f234059b4c5a29f1b2e1040f00102f90170b8da11000000009203134368616d62726520646520436f6d6d65726365",
+      "name": "Chambre de Commerce",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.045027250585395,
+        "lon": 9.685988483728387
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.building"
+      ],
+      "formatted_address": "Chambre de Commerce, Rue Chambre de Commmerce (N°1.069), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a21f5734e7622440598b78a16fc1a81440f00103f901d6a13b170200000092030c4d4f524755452042616e6b61",
+      "name": "MORGUE Banka",
+      "city": "Banka",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1648004,
+        "lon": 10.1931702
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "MORGUE Banka, Rue morgue (x), Banka, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108af5dda70e02640594908fb1b599e0e40f00103f9012397ad2701000000",
+      "name": "Rue 7.795",
+      "city": "Mbankomo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8273184,
+        "lon": 11.438361
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 7.795, Mbankomo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51603c8386fead2640590d987620a1ac0e40f00103f90111ad99dd01000000",
+      "name": "Ancienne Route de Douala",
+      "city": "Mbankomo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8342917,
+        "lon": 11.3398325
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ancienne Route de Douala, Mbankomo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c634337fb4b244059a5f1b0f5b1df1540f00103f901926ab803010000009203094661726d5f4e6a696f",
+      "name": "Farm_Njio",
+      "city": "Nkong-Zem",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.4684523,
+        "lon": 10.148401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Farm_Njio, Provinciale 17, Nkong-Zem, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161cc4c1f700b2740598a58c4b0c3880f40f00103f9015985e626010000009203074b656e6661636b",
+      "name": "Kenfack",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9417795,
+        "lon": 11.5223398
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kenfack, Rue 5.767, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c8e7ae3ffdd264059cda89e7186170f40f00103f901b119a1b200000000",
+      "name": "Rue 6.853",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8864869,
+        "lon": 11.4335929
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 6.853, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fe37407ad425274059c2340c1f11f30e40f00103f9013a795d0701000000920308c3a0206661697265",
+      "name": "à faire",
+      "city": "Soa",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.868685,
+        "lon": 11.5738867
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "à faire, Rue 4.924, Soa, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce797c314aee224059c201e3cfa6911240f00103f90163130b4901000000920313417761682045726963205265736964656e6365",
+      "name": "Awah Eric Residence",
+      "city": "Kumba",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6422379,
+        "lon": 9.4654098
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Awah Eric Residence, Appolinaire Street, Kumba, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b6fa2f19fc92640596096d123a1b80f40f00103f901dff9c01a00000000",
+      "name": "P11",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9651511,
+        "lon": 11.3937984
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "P11, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca417de1ac2227405934f0172d85910f40f00102f90176c779110000000092030e56696c6c616765204d6164696261",
+      "name": "Village Madiba",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.946054794590987,
+        "lon": 11.567725225963745
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Village Madiba, Rue 5.734, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff16d841b3d12440594aee8d3b02661540f00102f901c9e3091a000000009203124368656666657269652042616e646a6f756e",
+      "name": "Chefferie Bandjoun",
+      "city": "Pete-Bandjoun",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.3496178918245025,
+        "lon": 10.409570748928216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bandjoun, D62, Pete-Bandjoun, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5105b52968a4432740597a60b653298c1140f00103f90116178b1a01000000920303505335",
+      "name": "PS5",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.3868764,
+        "lon": 11.6321137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS5, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1c2651536ef2640596dd4f9a69f2e0b40f00102f901af4e431a00000000920317416e6369656e204d6169736f6e20416c6c656d616e6465",
+      "name": "Ancien Maison Allemande",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.39776545,
+        "lon": 11.467209499999997
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancien Maison Allemande, Sentier botanique, Mbalmayo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb50b351e79724405956d636c5e3721640f00103f9013a03c38e000000009203154368656666657269652042616d656e646a696e6461",
+      "name": "Chefferie Bamendjinda",
+      "city": "Mbouda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.612197,
+        "lon": 10.2966867
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bamendjinda, Bafoussam-Mbouda, Mbouda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512aef99db73232740590c9d8d4b0bfd0e40f00103f90129458304010000009203144145502d4f4944313135436f6d706cc3a9205331",
+      "name": "AEP-OID115Complé S1",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8735567,
+        "lon": 11.5692433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "AEP-OID115Complé S1, Rue 4.800, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3d57f8c6f0e274059c86f1b576d580f40f00103f9014548a01d01000000920321436f6e6372657465204d697865722c2059616f756e64c3a92c204e676f7573736f",
+      "name": "Concrete Mixer, Yaoundé, Ngousso",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9181773,
+        "lon": 11.5281948
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Concrete Mixer, Yaoundé, Ngousso, Rue 5.831, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177cbc463f511274059e120c610a5f20e40f00103f9010e59cb6301000000920307466174202d3431",
+      "name": "Fat -41",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8684789,
+        "lon": 11.5350753
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fat -41, Rue 1.275, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5125ee0cae14692b4059679b1bd313161240f00103f901ccc8a6af020000009203254361727269c3a87265204b7565746520426564656c6c20636c69656e7420626572746f7561",
+      "name": "Carrière Kuete Bedell client bertoua",
+      "city": "Communauté urbaine de Bertoua",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.52156,
+        "lon": 13.7052359
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carrière Kuete Bedell client bertoua, Italie-Ngaîkada, Communauté urbaine de Bertoua, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1965f2dd022244059979ae394a4dd1540f00102f901f4c0131c0000000092030e43686566666572696520466f746f",
+      "name": "Chefferie Foto",
+      "city": "Dschang",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.466448141471708,
+        "lon": 10.06799451629499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Foto, Provinciale 17, Dschang, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f26899fb9a2b2440590778d2c265651740f00103f901ad9df8340100000092031a416368752053616d75656c204e676f68205265736964656e6365",
+      "name": "Achu Samuel Ngoh Residence",
+      "city": "Santa",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.849021,
+        "lon": 10.0851668
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Achu Samuel Ngoh Residence, Santa, Mezam, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c66063b0f04274059a9ab96cf4d960e40f00103f901c9c19f250100000092030a456d696c7920626f6973",
+      "name": "Emily bois",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8233906,
+        "lon": 11.5079287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Emily bois, Rue 8.138, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178b240608a6322405910786000e1131040f00103f901895a946301000000920311456e6f7720412e205265736964656e6365",
+      "name": "Enow A. Residence",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.019413,
+        "lon": 9.1944151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Enow A. Residence, Pont dès Zoo, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c0b4dc8bd0b274059d0d38041d2470e40f00103f901d5368825010000009203114c414459424f49532043414d45524f554e",
+      "name": "LADYBOIS CAMEROUN",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.785069,
+        "lon": 11.5229323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "LADYBOIS CAMEROUN, Rue 8.250, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2eceea60031264059891dd7d0179c1240f00103f90152dbd51701000000",
+      "name": "Kiiki",
+      "city": "Kiiki",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6524346,
+        "lon": 11.0957081
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kiiki, Mbam-et-Inoubou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514af086342ab42c4059fd7ed6a13f590440f00103f901b79973cc0200000092030d57574620496b77612063616d70",
+      "name": "WWF Ikwa camp",
+      "city": "Ngoyla",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.5435784,
+        "lon": 14.3518845
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "WWF Ikwa camp, Ngoyla, Haut-Nyong, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9afa1e58ae824405995229e91adfb1440f00103f9011a7201030100000092030f50c3a9616765204261746f7566616d",
+      "name": "Péage Batoufam",
+      "city": "Bayangam",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.2457793,
+        "lon": 10.4541847
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Péage Batoufam, Nationale 4, Bayangam, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f04284c99eea24405995cdc1d8e77e1440f00103f9016e2118e901000000",
+      "name": "D62",
+      "city": "Bazou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1239313,
+        "lon": 10.4582427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "D62, Bazou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104e21a4410c42640594dce9a690cf40d40f00103f901b9460b7601000000920303455256",
+      "name": "ERV",
+      "city": "Mbankomo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.7441643,
+        "lon": 11.3829366
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ERV, Route Yaoundé-Kribi, Mbankomo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51705cc64d0d742340595d120c8c612b1040f00103f901a5504a770200000092031153746164652043616d7261696c20495044",
+      "name": "Stade Camrail IPD",
+      "city": "Douala III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0423643,
+        "lon": 9.726664
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Stade Camrail IPD, Route de Japoma, Douala III, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f75ad07b63742340596523c621d12a1040f00103f90143504a7702000000920318456e7472c3a96520436974c3a9206465206c612050616978",
+      "name": "Entrée Cité de la Paix",
+      "city": "Douala III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0418134,
+        "lon": 9.7273215
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Entrée Cité de la Paix, Route de Japoma, Douala III, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e00321933762640595e8a068431051340f00102f90140507a1300000000920318416e6369656e2050616c616973206465204a757374696365",
+      "name": "Ancien Palais de Justice",
+      "city": "Bafia",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.7550717,
+        "lon": 11.230858600000001
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancien Palais de Justice, Bafia-Nditam, Bafia, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c05e61c1fde0264059a5fd6a69c99e0e40f00103f901dfa5994100000000",
+      "name": "Rue 7.795",
+      "city": "Mbankomo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8275326,
+        "lon": 11.439436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 7.795, Mbankomo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b70da32078bc24405967a1f88c9f791540f00103f9015be8e48200000000920311436865666665726965204261686f75616e",
+      "name": "Chefferie Bahouan",
+      "city": "Bamendjou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.3687727,
+        "lon": 10.368104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bahouan, D64, Bamendjou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193a17433ed9c2c4059e62fe35c79df0440f00103f9010edce72e0300000092030c43616d70204c69636f6e646f",
+      "name": "Camp Licondo",
+      "city": "Ngoyla",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.6091182,
+        "lon": 14.3064972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Camp Licondo, Ngoyla, Haut-Nyong, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518c8bfe2b864227405962cd12ae914e1140f00103f90113178b1a01000000920303505333",
+      "name": "PS3",
+      "city": "Batchenga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.3267276,
+        "lon": 11.6299299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS3, N15, Batchenga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eea9413d2247274059f47409e297ad1140f00103f901352a8b1a01000000920303505336",
+      "name": "PS6",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.4195247,
+        "lon": 11.6389331
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS6, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155072fb07dbf284059c0513c7837b01240f00103f901cd41c1f602000000",
+      "name": "N 1",
+      "city": "Nanga-Eboko",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6720866,
+        "lon": 12.3740058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N 1, Nanga-Eboko, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9a067b3eae12240596677ed77cd8c1240f00102f90189bc7d1a0000000092030e416d7573656d656e742050617263",
+      "name": "Amusement Parc",
+      "city": "Kumba",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.637502549999999,
+        "lon": 9.44124375
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Amusement Parc, N8;N16, Kumba, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d3d5c2d1fa1c24405933ddeba4beac1540f00103f9019ae7b7ea01000000",
+      "name": "Provinciale 17",
+      "city": "Dschang",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.418696,
+        "lon": 10.0566011
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Provinciale 17, Dschang, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5113c2590009712440590b5d2e8782061840f00103f90100c56d430100000092030d4672752052616f756c204d6f6d",
+      "name": "Fru Raoul Mom",
+      "city": "Bamenda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.0063573,
+        "lon": 10.2207718
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fru Raoul Mom, Mobile Nkwen Street, Bamenda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2a2a0ca1f56224059a38a2ce3f0131040f00103f901da2c468f010000009203114761627269656c205265736964656e6365",
+      "name": "Gabriel Residence",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0194736,
+        "lon": 9.1682113
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gabriel Residence, N 3, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d946979240422740597185c146a36c1140f00103f90114178b1a01000000920303505032",
+      "name": "PP2",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.3560916,
+        "lon": 11.6293989
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PP2, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5184995bc6f2632440595220fd4003fb1740f00103f9014c1bc8f100000000",
+      "name": "Mobile Nkwen Street",
+      "city": "Bamenda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.9951296,
+        "lon": 10.1952116
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mobile Nkwen Street, Bamenda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ffc6b35cd15f23405925d52f5d6f2c1040f00102f901dc138a110000000092031b416e6369656e2050616c6169732064657320526f69732042656c6c",
+      "name": "Ancien Palais des Rois Bell",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.043393569988699,
+        "lon": 9.687144181199526
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancien Palais des Rois Bell, Rue de la Motte Piquet (N°1.073), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f55613fa4ff52740596fdb526232700740f00103f901364edcfb01000000",
+      "name": "N9",
+      "city": "Sangmélima",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.9297836,
+        "lon": 11.9791258
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N9, Sangmélima, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cad1397e34128405977e2282fe80b1240f00103f9013aa3d8f602000000",
+      "name": "N 1",
+      "city": "Nkoteng",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.5116279,
+        "lon": 12.1286895
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N 1, Nkoteng, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51922232ace2ed264059af6affb91e3b0f40f00103f9010586481b03000000",
+      "name": "Rue 6.493",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9038672,
+        "lon": 11.46462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 6.493, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149394ec06540244059e52b8194d8cd1940f00103f9018ebfde1701000000",
+      "name": "P 24",
+      "city": "Zhoa",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.4510215,
+        "lon": 10.1257763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "P 24, Zhoa, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169ad68739c0f274059aea70cd242180f40f00103f9017e3758610200000092030a454c69672045647a6f61",
+      "name": "ELig Edzoa",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8868462,
+        "lon": 11.5304905
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ELig Edzoa, Rue 1.064, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518606bd923feb244059ecfbcb4983ce1840f00103f9019e23bcb400000000",
+      "name": "To Lake Oku",
+      "city": "Elak",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.2016727,
+        "lon": 10.4594694
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "To Lake Oku, Elak, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191f2c26373932640593ebc315a352c1340f00102f901badf5c1c00000000920306486970706f73",
+      "name": "Hippos",
+      "city": "Bafia",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.793172272954562,
+        "lon": 11.287989728495889
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hippos, D47, Bafia, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517767edb60b0d264059b9443f64db630c40f00103f9013fb44825010000009203024232",
+      "name": "B2",
+      "city": "Makak",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.5487583,
+        "lon": 11.02548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "B2, Provinciale 9, Makak, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51356fe6a100672240592e628ed4310d1040f00103f901a301c52200000000920317626f74616e69632067617264656e20656e7472616e6365",
+      "name": "botanic garden entrance",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0128854,
+        "lon": 9.2011767
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "botanic garden entrance, botanic garden chez milly to down beach, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a571a9d986622405940f44993f71e1040f00103f901d1f937250100000092030e54616c69205265736964656e6365",
+      "name": "Tali Residence",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0302413,
+        "lon": 9.2003831
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tali Residence, Pont Expoir, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51771b8af1500a2740599da62ac82aa00f40f00103f9017da1a60501000000920315393020c3a020666169726520656e20626f75636c65",
+      "name": "90 à faire en boucle",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9532066,
+        "lon": 11.5201488
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "90 à faire en boucle, X2, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511790076c180f2440597c0107fe01401440f00103f901f9031f2600000000",
+      "name": "Baré",
+      "city": "Baré",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.0625076,
+        "lon": 10.0294832
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Baré, Moungo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e0a3664f2782340593b21cf89984d1040f00103f901dfab78f702000000",
+      "name": "5N.015",
+      "city": "Douala V",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0757772,
+        "lon": 9.7362243
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "5N.015, Douala V, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa53d44fee65244059f46679c322f31440f00103f90101544515020000009203114368656666657269652042616b6f76656e",
+      "name": "Chefferie Bakoven",
+      "city": "Banka",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.2374373,
+        "lon": 10.1990838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bakoven, Nationale 5, Banka, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51975643e21eeb264059c03e3a75e5f30e40f00103f901413ef808010000009203084e47432d42353031",
+      "name": "NGC-B501",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.86909,
+        "lon": 11.45922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NGC-B501, Rue 6.502, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f14d3e01120224059d8fd19941f371040f00103f9018fc008410000000092030b4c61766120546f6e677565",
+      "name": "Lava Tongue",
+      "city": "Buea",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0538314,
+        "lon": 9.0626364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lava Tongue, N3, Buea, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b98816f3f6522405959d9e32abbc51040f00103f901bdcc5f8202000000",
+      "name": "Market Road",
+      "city": "Buea",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1930968,
+        "lon": 9.1977496
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Market Road, Buea, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510bdddbe33b272b4059b03db32440451d40f00103f901df930b1b01000000920317506c6163652064752063696e7175616e74656e61697265",
+      "name": "Place du cinquantenaire",
+      "city": "Ngaoundéré",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 7.3176275,
+        "lon": 13.5766288
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Place du cinquantenaire, D21, Ngaoundéré, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b7e3931bcba234059c4add4ad2bec0c40f00102f90160a76c1d000000009203274173736f63696174696f6e20506170617965204672616e636520284368696d70732043616d7029",
+      "name": "Association Papaye France (Chimps Camp)",
+      "city": "Mouanko",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.615317686131421,
+        "lon": 9.864717043178805
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Association Papaye France (Chimps Camp), Mouanko, Sanaga-Maritime, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51336fd575a85a2b405962e98da4ee4c1240f00103f9015d709a0901000000",
+      "name": "Avenue Paul Biya",
+      "city": "Communauté urbaine de Bertoua",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.5751291,
+        "lon": 13.6770665
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue Paul Biya, Communauté urbaine de Bertoua, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d617aeb3c60927405979da2b3de4e70e40f00103f9013dba0b65010000009203044e626e32",
+      "name": "Nbn2",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8632283,
+        "lon": 11.5190941
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nbn2, Rue 1.141, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126aff046393a244059b509a147f15a1840f00102f9011812d11900000000920312426166757420466f6e27732070616c616365",
+      "name": "Bafut Fon's palace",
+      "city": "Bafut",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.088811034397101,
+        "lon": 10.113718239670174
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Bafut Fon's palace, N11, Bafut, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aac7c73890e722405983f2e3d4738f1240f00103f9019864a23b010000009203144d616d6120456e646168205265736964656e6365",
+      "name": "Mama Endah Residence",
+      "city": "Kumba",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6400903,
+        "lon": 9.4522722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mama Endah Residence, Route Kumba - Mamfé, Kumba, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121af0793e26b224059ebf6a3f2c0b11040f00103f90144b0079f00000000920318456e7472c3a9652064752070617263206e6174696f6e616c",
+      "name": "Entrée du parc national",
+      "city": "Buea",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1735876,
+        "lon": 9.210713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "National Park Entrance, Market Road, Buea, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143a9bd88b6fb2640596c8dad0c4f740f40f00103f9010c9b6811030000009203094e6461204d656b6f6b",
+      "name": "Nda Mekok",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9317914,
+        "lon": 11.491627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nda Mekok, Rue 6.155, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e411dc48d9e622405956f487669e941240f00103f90141504a77020000009203134d61746f68205061726b204a756e6374696f6e",
+      "name": "Matoh Park Junction",
+      "city": "Kumba",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6451355,
+        "lon": 9.4508765
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Matoh Park Junction, Route Kumba - Mamfé, Kumba, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178c1960d217d2840599c42f861ce2d0e40f00103f901202ca90603000000",
+      "name": "P33",
+      "city": "Akonolinga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.7723663,
+        "lon": 12.2443928
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "P33, Akonolinga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3c81b052de52640595afa2bbf67ff0c40f00103f9015312c6430200000092031265636f6c65207075622064652042696b6f6b",
+      "name": "ecole pub de Bikok",
+      "city": "Bikok",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.6247096,
+        "lon": 11.4476091
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ecole pub de Bikok, Bikok, Méfou-et-Akono, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de9623bfd9f9264059b901fad8b8390b40f00103f901b0f44c0501000000920307547572746c6573",
+      "name": "Turtles",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.4031846,
+        "lon": 11.4879894
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Turtles, Sentier botanique, Mbalmayo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510821205f426d24405974886eac7a071840f00103f90102be3042010000009203114672752052616f756c204772616e646d61",
+      "name": "Fru Raoul Grandma",
+      "city": "Bamenda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.0073039,
+        "lon": 10.213397
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fru Raoul Grandma, Mobile Nkwen Street, Bamenda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51870ecbb09bb72440598997a77345091640f00103f90191610686000000009203164368656666657269652064652042616d6f75676f756d",
+      "name": "Chefferie de Bamougoum",
+      "city": "Bafoussam III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.509054,
+        "lon": 10.3586097
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie de Bamougoum, Bafoussam-Bamegoum, Bafoussam III, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111a74e1f7df0244059b13246cb490d1540f00102f9015843fa1a00000000920315436865666665726965206465204261746f7566616d",
+      "name": "Chefferie de Batoufam",
+      "city": "Bayangam",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.262976814422175,
+        "lon": 10.469704607344768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chefferie de Batoufam, X20, Bayangam, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128b5bc1704032e40594c6bd3d85ebb0340f00103f9012bfefed10200000092030e57574620506f6e64612043616d70",
+      "name": "WWF Ponda Camp",
+      "city": "Mouloundou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.4664895,
+        "lon": 15.0058906
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "WWF Ponda Camp, Mouloundou, Boumba-et-Ngoko, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512883fe9d4803274059aa32e774b4950e40f00103f90129b55a2601000000920313446f6d6963696c6520594f554d424953534945",
+      "name": "Domicile YOUMBISSIE",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8230981,
+        "lon": 11.5064134
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Domicile YOUMBISSIE, Rue 8.689, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4a74aa5e93d2b40596417563bd4500940f00103f901db69ebaa0200000092031a506c616365206465732066c3aa746573206465204c6f6d69c3a9",
+      "name": "Place des fêtes de Lomié",
+      "city": "Lomié",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.1644673,
+        "lon": 13.6209232
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Place des fêtes de Lomié, N19, Lomié, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dff0cc15ef492440595ce509849de21740f00103f9013d9153c3010000009203105061204e676f205265736964656e6365",
+      "name": "Pa Ngo Residence",
+      "city": "Bamenda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.971304,
+        "lon": 10.1444022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pa Ngo Residence, Nyiamgoh Street, Bamenda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512448a5d8d108274059d00e13680bb30e40f00103f901293ccb6301000000",
+      "name": "Boulevard de l'OUA",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8374241,
+        "lon": 11.517226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Boulevard de l'OUA, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140ce21f9876023405975b6e697322e1040f00102f9012babda110000000092031356696c6c61204d616e64657373692042656c6c",
+      "name": "Villa Mandessi Bell",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0451148733678695,
+        "lon": 9.68853739297549
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Villa Mandessi Bell, Rue Bonanjo Joss (N°1.093), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136fb4d72d14a254059693e42284a851640f00103f90181b41e3600000000",
+      "name": "D66",
+      "city": "Kouoptamo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.6301657,
+        "lon": 10.6461292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "D66, Kouoptamo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fcc165ba7cc82640596504aff1f4d50f40f00103f9010bf8c01a00000000",
+      "name": "P 11",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9794711,
+        "lon": 11.3915766
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "P 11, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddafa7c2446c234059721b6899a0491040f00103f90179c5bb290100000092031d4c65204a617264696e20536f6e6f726520646520426f6e616d6f757469",
+      "name": "Le Jardin Sonore de Bonamouti",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0719017,
+        "lon": 9.7114621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Le Jardin Sonore de Bonamouti, Rue Bonatéki (N°1.810), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b80f2f3ebb4227405992d6cee627cb0d40f00103f901ad2a9b46010000009203154a6f7365706820416b6f6e6f205265736964656e74",
+      "name": "Joseph Akono Resident",
+      "city": "Mfou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.7241972,
+        "lon": 11.6303348
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Joseph Akono Resident, P11, Mfou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124d3a1d3f30e2440595a27d30db93e1440f00103f901e5031f2600000000",
+      "name": "Baré",
+      "city": "Baré",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.0612528,
+        "lon": 10.029204
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Baré, Moungo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e81f33068c10264059d53e1d8f19680c40f00103f901cd1938110100000092030a423032352d4d616b616b",
+      "name": "B025-Makak",
+      "city": "Makak",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.55083,
+        "lon": 11.0323183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "B025-Makak, Provinciale 9, Makak, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f918609592027405973a895f8924c0f40f00103f901bd1da84f0200000092031952c3a9736964656e63652047554546414e4f204d4f5544494f",
+      "name": "Résidence GUEFANO MOUDIO",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9123897,
+        "lon": 11.5631793
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Résidence GUEFANO MOUDIO, Rue 5.608, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51733bea9e2b6c2340591b35bade913c1040f00103f901a7b6d9f702000000",
+      "name": "Feu Rouge Bessengué",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0591502,
+        "lon": 9.7112703
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Feu Rouge Bessengué, Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b702481f0431264059963de9856f9e1240f00102f901e9cf5b1c00000000920329416e6369656e6e6520506f736974696f6e20416c6c656d616e64652022446f6e2049205469736f6e22",
+      "name": "Ancienne Position Allemande \"Don I Tison\"",
+      "city": "Kiiki",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.654722301827311,
+        "lon": 11.095734574833257
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancienne Position Allemande \"Don I Tison\", Kiiki, Mbam-et-Inoubou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5142cd902a8a75264059555ba09394021340f00102f90159dc791300000000920316416e6369656e2056696c6c61204672616ec3a7616973",
+      "name": "Ancien Villa Français",
+      "city": "Bafia",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.7525199,
+        "lon": 11.22956975
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ancien Villa Français, Bafia-Nditam, Bafia, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cc98e8d4044244059587d642948720b40f00103f901158e8f450100000092030852474e2d42303135",
+      "name": "RGN-B015",
+      "city": "Lokoundjé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.4308017,
+        "lon": 10.133305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RGN-B015, D81, Lokoundjé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517aa9d898d7552a4059518e5dfd33761340f00103f90119892ef80100000092031d53616e61676120596f6e67207072696d6174652073616e637475617279",
+      "name": "Sanaga Yong primate sanctuary",
+      "city": "Minta",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.8654327,
+        "lon": 13.1676605
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sanaga-Yong Chimpanzee Rescue Center, Minta, Haute-Sanaga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eddba4fd6af9264059550d67237c040c40f00103f901a5d3629402000000",
+      "name": "Mbalmayo - Ebolowa",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.5021899,
+        "lon": 11.4871444
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mbalmayo - Ebolowa, Mbalmayo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173c11baf7135244059cc5b31b0da021840f00102f90118a1f5170000000092030d4d616e6b6f6e2050616c616365",
+      "name": "Mankon Palace",
+      "city": "Bamenda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.002787354481324,
+        "lon": 10.104382965219633
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Mankon Palace, Airport Road, Bamenda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fad005f52ddb244059083fccb96f9c1540f00102f901698f733f00000000",
+      "name": "N 4",
+      "city": "Pete-Bandjoun",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.40276995,
+        "lon": 10.428085
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "N 4, Pete-Bandjoun, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b1f775b339322405948252b757f8b1040f00103f9012d7f4afa0100000092030f46696e646f2645646e61204c616e64",
+      "name": "Findo&Edna Land",
+      "city": "Buea",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1362284,
+        "lon": 9.2875012
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Findo&Edna Land, Bulu Blind Street, Buea, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eba3f89dcb2922405904a1061dbe8e1040f00103f901a1fc87820200000092031356696577206f6e20437261746572204c616b65",
+      "name": "View on Crater Lake",
+      "city": "Idenau",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1393971,
+        "lon": 9.0816316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View on Crater Lake, Idenau, Fako, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ddefc2bd083224059c1ba3b7ce3b50f40f00103f901f1f384e10000000092031742696d62696120536c6176652054726164652053697465",
+      "name": "Bimbia Slave Trade Site",
+      "city": "Limbé III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9638128,
+        "lon": 9.2574476
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Bimbia Slave Trade Site, Limbé III, Fako, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516da00ac9135622405970d63b37c8071040f00103f901a1f95523010000009203174e676f73736f2046616d696c79205265736964656e6365",
+      "name": "Ngosso Family Residence",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0075997,
+        "lon": 9.1681197
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ngosso Family Residence, Isokolo Old Road, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbcd812f966323405988ad8f3d31211040f00103f9014921be020100000092030b43617374656c2048616c6c",
+      "name": "Castel Hall",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0324144,
+        "lon": 9.6945052
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Castel Hall, Rue 1.166, Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0cb8a975d8a234059ff21fdf675301040f00103f901610268bd02000000",
+      "name": "Avenue Japoma",
+      "city": "Douala III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.047325,
+        "lon": 9.7702453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue Japoma, Douala III, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd602a4712ca2640597085668d30cb0f40f00103f901bcf8c01a0000000092030742656e63682032",
+      "name": "Bench 2",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9742137,
+        "lon": 11.3946707
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bench 2, P11, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f2b7af18ffc264059774eb340bb630f40f00103f9011141831203000000",
+      "name": "Rue 6.156",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.923697,
+        "lon": 11.4932857
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue 6.156, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cef0b09af8f0264059b1d2eea18e680f40f00103f9014b2467340100000092031e436174686f6c69632043726f7373206f66204e676f79612073756d6d6974",
+      "name": "Catholic Cross of Ngoya summit",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9260533,
+        "lon": 11.4706467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Catholic Cross of Ngoya summit, Montée du Mont Ngoya, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0e46d5b4a242440592fd6dc7646a00f40f00103f901bd8396450100000092031a52617a656c206361727269c3a87265206c6f676261646a65636b",
+      "name": "Razel carrière logbadjeck",
+      "city": "Dibamba",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9532594,
+        "lon": 10.0708798
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Razel carrière logbadjeck, X12, Dibamba, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aecf413cb7152740598aca863595b51040f00103f90142e2daf602000000",
+      "name": "N 1",
+      "city": "Obala",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.177327,
+        "lon": 11.5424136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N 1, Obala, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51038de3d1d7b92440596dbf21f9ef8e1440f00103f90148646a2901000000",
+      "name": "Provinciale 15",
+      "city": "Bangou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1395873,
+        "lon": 10.3629747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Provinciale 15, Bangou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5134924e6e25f9224059f39a0de83bfe1240f00103f901819071030100000092030b456e696e67616e20434947",
+      "name": "Eningan CIG",
+      "city": "Kumba II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.7482754,
+        "lon": 9.4866137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Eningan CIG, Kumba-Mamfe, Kumba II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51036b8b21ef83244059a323b9fc875c1540f00103f901db22e783000000009203104368656666657269652042616e67616d",
+      "name": "Chefferie Bangam",
+      "city": "Bandja",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.3403625,
+        "lon": 10.2576838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bangam, Provinciale 31, Bandja, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51567daeb6621f2740595560127871bc0e40f00103f901654d0109010000009203084e47432d42313239",
+      "name": "NGC-B129",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8420133,
+        "lon": 11.5613
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NGC-B129, Rue 4.381, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512142b7f2edbc264059c1a7397991211040f00103f901258d9d3f00000000920326417274656c69657220646520636f7574757265206475206c7963656520746563686e69717565",
+      "name": "Artelier de couture du lycee technique",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0327815,
+        "lon": 11.3690029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Artelier de couture du lycee technique, P 11, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3e5c292bc042740592b6fa2f19f890e40f00103f9019144f6fa02000000",
+      "name": "Rue 8.138",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8171996,
+        "lon": 11.5092512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 8.138, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8955e9b8d45274059e797778b769b1140f00103f90117178b1a01000000920303505033",
+      "name": "PP3",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.4018194,
+        "lon": 11.635846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PP3, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f0c60412edb244059e42ec3be7d9c1540f00102f9016a8f733f00000000",
+      "name": "N 4",
+      "city": "Pete-Bandjoun",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.4028234297399855,
+        "lon": 10.428087275481003
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "N 4, Pete-Bandjoun, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b771d586d4e6264059b9eaf0c638c50e40f00103f901c5848daa0100000092031243686170656c6c6520446520436872697374",
+      "name": "Chapelle De Christ",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8462997,
+        "lon": 11.4508402
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chapelle De Christ, Rue 6.635, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfb5792d327b2540593b7e5ea747a91840f00103f90161d2ee2400000000",
+      "name": "Ecole des Langues",
+      "city": "Kumbo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.1653124,
+        "lon": 10.7406172
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ecole des Langues, Kumbo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c51f355f24d2440592560cf32e6991440f00103f9014b34ec0f01000000",
+      "name": "Douala-Bafoussam (N5)",
+      "city": "Bafang",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1502922,
+        "lon": 10.1522395
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Douala-Bafoussam (N5), Bafang, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8a4750aa8a6234059e460db4713241440f00103f90129cd3b1501000000",
+      "name": "Tombel Bangem Road",
+      "city": "Bangem",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.0352298,
+        "lon": 9.8255008
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tombel Bangem Road, Bangem, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195f1b761ad7d234059f10f97087a3d1040f00102f9016d02551b0000000092031350697363696e65206465204e646f67626f6e67",
+      "name": "Piscine de Ndogbong",
+      "city": "Douala V",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.060035833568677,
+        "lon": 9.74546342249304
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piscine de Ndogbong, La Route du Campus 2 ESSEC, Douala V, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb85a7fc10f8224059b34698fd15e51240f00103f90129547d03010000009203195061205065746572204562656e2773205265736964656e6365",
+      "name": "Pa Peter Eben's Residence",
+      "city": "Kumba II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.7237167,
+        "lon": 9.4845046
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pa Peter Eben's Residence, Route Kumba - Mamfé, Kumba II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141bf4a992fca26405992beff4586bb0f40f00103f901f5f9c01a00000000",
+      "name": "P11",
+      "city": "Okola",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.9665647,
+        "lon": 11.3948944
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "P11, Okola, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c02ca3474269244059a10b8fa273ab1440f00103f90157e975870000000092030f4368656666657269652042616e6b61",
+      "name": "Chefferie Banka",
+      "city": "Banka",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1674333,
+        "lon": 10.2055838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Banka, Provinciale 15, Banka, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51063de5e2b9602340597b50ab43c9271040f00103f901b5a8e629010000009203144d616972696520646520646f75616c6120316572",
+      "name": "Mairie de douala 1er",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0388537,
+        "lon": 9.6889182
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mairie de douala 1er, Rue 1.074, Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7b5c82c3161234059d87dc7f0d82f1040f00103f90169734c8a0100000092030c50617263206465206a657578",
+      "name": "Parc de jeux",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.046726,
+        "lon": 9.6898283
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parc de jeux, N 3, Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51825da85725c02840597d11233abab81240f00103f9019ca2bbf602000000",
+      "name": "N 1",
+      "city": "Nanga-Eboko",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6803979,
+        "lon": 12.3752849
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N 1, Nanga-Eboko, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513724a424da0c2740590e4f0a4ed8090f40f00103f901197b9f250100000092031049204c4f56452047454f4d4154494353",
+      "name": "I LOVE GEOMATICS",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8798071,
+        "lon": 11.5251018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "I LOVE GEOMATICS, Rue 1.107, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517acd06f41d93244059b7eee6a90e411540f00103f901e92a4e4f0100000092031c43656e74726520546f7572697374697175652064652042617469c3a9",
+      "name": "Centre Touristique de Batié",
+      "city": "Batié",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.3135325,
+        "lon": 10.2873379
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centre Touristique de Batié, Douala-Bafoussam (N5), Batié, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3fd367aeb1a274059da7d7d63be120f40f00103f9013f4d7a1d010000009203374172636869746563206c657320436f6e63657074657572732052c3a9756e69732c2054697469204761726167652c2059616f756e64c3a9",
+      "name": "Architec les Concepteurs Réunis, Titi Garage, Yaoundé",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8841522,
+        "lon": 11.5525778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Architect and Designers United, Titi Garage, Yaounde, Rue 5.025, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513039a407f4c4234059b33a83d08bb40640f00103f901e5dfb3d001000000920318506172697320506c616765206368657a2043c3a964726963",
+      "name": "Paris Plage chez Cédric",
+      "city": "Kribi I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.8381573,
+        "lon": 9.8846743
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Paris Plage chez Cédric, N7, Kribi I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159ea0f83af4e224059546b065d67101040f00103f901952f468f010000009203124d616b61726f7573205265736964656e6365",
+      "name": "Makarous Residence",
+      "city": "Limbé II",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0160193,
+        "lon": 9.1536828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Makarous Residence, N 3, Limbé II, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee8983e92da32440592e091fbafd951540f00102f90171ee7a0c000000009203134368656666657269652042616d656e646a6f75",
+      "name": "Chefferie Bamendjou",
+      "city": "Bamendjou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.39647570433071,
+        "lon": 10.318709657008153
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bamendjou, D 64, Bamendjou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101ef2e617e0427405961cdb7f41ead0e40f00103f901a949b208010000009203084e47432d42313238",
+      "name": "NGC-B128",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8345317,
+        "lon": 11.5087767
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NGC-B128, Rue 7.584, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0e556adf13a27405999c40f841a6c1940f00103f901a202ef2400000000920311766965772066726f6d20706c6174656175",
+      "name": "view from plateau",
+      "city": "Bankim",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.3555699,
+        "lon": 11.6151251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "view from plateau, N6, Bankim, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ad67fe728a522405902ce9c3fb7011740f00102f9014de3ac370000000092030d506f6e7420416c6c656d616e64",
+      "name": "Pont Allemand",
+      "city": "Mamfe",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.7516756,
+        "lon": 9.3225777
+      },
+      "categories": [
+        "highway",
+        "highway.path",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights.bridge"
+      ],
+      "formatted_address": "Pont Allemand, Mamfe, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c08580b0985e234059b9d26fe1fa281040f00102f9018f9dda1100000000920319416e6369656e2048c3b4706974616c2047c3a96ec3a972616c",
+      "name": "Ancien Hôpital Général",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.040019533586638,
+        "lon": 9.684758678139474
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.public_and_civil",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.building"
+      ],
+      "formatted_address": "Ancien Hôpital Général, Rue French (N°1.082), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183cb1940ae07244059bb4d6ecacb001840f00103f90197f2f734010000009203135061204e64616b7765205265736964656e6365",
+      "name": "Pa Ndakwe Residence",
+      "city": "Mbengwi",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.0007774,
+        "lon": 10.0150013
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pa Ndakwe Residence, Mbon Market Road, Mbengwi, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ed0a80a5715254059aa3011ca56521a40f00103f9011f1dbe190100000092030f4e6577206361626c652037382d3233",
+      "name": "New cable 78-23",
+      "city": "Misaje",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.5804092,
+        "lon": 10.5416797
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "New cable 78-23, N11, Misaje, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb730a396b07254059ce5d0558806c1440f00102f901d7d8ee1a00000000920306436875746573",
+      "name": "Chutes",
+      "city": "Bangangté",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.105958342864552,
+        "lon": 10.514489920164086
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chutes, D68, Bangangté, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514016a243e04c244059ae56dc6e38da1740f00103f901b1a8f71c01000000920310456275612773205265736964656e6365",
+      "name": "Ebua's Residence",
+      "city": "Bamenda",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.9631059,
+        "lon": 10.1501485
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ebua's Residence, Azire Street, Bamenda, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fade17db043274059f23a87d79a7a1140f00103f90115178b1a01000000920303505334",
+      "name": "PS4",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.3697313,
+        "lon": 11.6322059
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS4, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51001533672231264059082692431f9f1240f00103f9010ddbd51701000000",
+      "name": "Kiiki",
+      "city": "Kiiki",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6553927,
+        "lon": 11.0959656
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kiiki, Mbam-et-Inoubou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51486469f1737d234059f3f972b0481d1040f00103f901431e56b500000000",
+      "name": "Axe Zone industrielle-Dakar",
+      "city": "Douala III",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0285976,
+        "lon": 9.7450252
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Axe Zone industrielle-Dakar, Douala III, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5122c89cc2a5b22940593dcad2985a981040f00103f901efccc39a020000009203104d61726368c3a9206465204e676f6170",
+      "name": "Marché de Ngoap",
+      "city": "Mboma",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1487831,
+        "lon": 12.8489209
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marché de Ngoap, D31, Mboma, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bcc6d3974a1027405962ba10ab3ff20e40f00103f901494cb9640100000092030134",
+      "name": 4,
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8682855,
+        "lon": 11.5318191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "4, Rue Antoine Essomba Mani, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a5567b5c04227405901f676f0b8c51140f00103f901686822b300000000920303505034",
+      "name": "PP4",
+      "city": "Ntui",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.4430883,
+        "lon": 11.6303765
+      },
+      "categories": [
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights"
+      ],
+      "formatted_address": "PP4, N 15, Ntui, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd8a0e924fb1294059e4310395f1971040f00103f901e2cec39a02000000920313537461646520636f6d6d756e61757461697265",
+      "name": "Stade communautaire",
+      "city": "Mboma",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1483825,
+        "lon": 12.8463102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Stade communautaire, D31, Mboma, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e5935632c122d40599bba3ce7b88c1740f00103f90185b7bc0b0200000092030c4d6169736f6e206e6173646f",
+      "name": "Maison nasdo",
+      "city": "Garoua-Boulaï",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.8874241,
+        "lon": 14.5354949
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison nasdo, Garoua-Bolai-Ngaoundéré, Garoua-Boulaï, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51783f13060a7d264059aab46a7ccb011340f00103f901f7f9346c010000009203156361727265666f757220656e72656769737472c3a9",
+      "name": "carrefour enregistré",
+      "city": "Bafia",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.7517528,
+        "lon": 11.2442171
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "carrefour enregistré, D47, Bafia, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fb4a789e3092740598a55287744521040f00103f901d59b04be0200000092030f70726f7072696f207465727261696e",
+      "name": "proprio terrain",
+      "city": "Obala",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0803393,
+        "lon": 11.5193141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "proprio terrain, X2, Obala, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ecc8ec87333e274059c132dbba402e0b40f00103f901a568e7b701000000920309424959414e20434d52",
+      "name": "BIYAN CMR",
+      "city": "Mbalmayo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.3975844,
+        "lon": 11.6214869
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "BIYAN CMR, Mbalmayo, Nyong-et-So'o, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bdfa1d2f49ce2540596985330928ee1640f00103f90145c81d0301000000920311526f69204e6a6f7961204962726168696d",
+      "name": "Roi Njoya Ibrahim",
+      "city": "Foumban",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.7325746,
+        "lon": 10.9029021
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Roi Njoya Ibrahim, Place des Fêtes, Foumban, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511cd6afcff70e2440598cfbea05fa3f1440f00103f901ed031f2600000000",
+      "name": "Baré",
+      "city": "Baré",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.0624772,
+        "lon": 10.0292344
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Baré, Moungo, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161256ad473522540595365b222b7621440f00102f901e93c071a000000009203114368656666657269652042616e746f756d",
+      "name": "Chefferie Bantoum",
+      "city": "Bangangté",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.096401731623092,
+        "lon": 10.661039960820462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chefferie Bantoum, Nationale 4, Bangangté, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51475c5bd317c52440598c1f196140951440f00103f90157dcdb8801000000920314436865666665726965204261746368696e676f75",
+      "name": "Chefferie Batchingou",
+      "city": "Bangangté",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.1457534,
+        "lon": 10.3849474
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Batchingou, Vers la Chefferie, Bangangté, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a60bb1fa23d42640590e25a47f93971140f00103f9011d7291f80200000092031b53746174756520646520532e452e204d6772204a65616e205a6f61",
+      "name": "Statue de S.E. Mgr Jean Zoa",
+      "city": "Sa'a",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.3980236,
+        "lon": 11.414337
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Statue de S.E. Mgr Jean Zoa, P 13, Sa'a, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51169b513d5045274059ebfb5e73c7631140f00102f901276e0e1a00000000920313436875746573206465204e616368746967616c",
+      "name": "Chutes de Nachtigal",
+      "city": "Batchenga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.347440531418196,
+        "lon": 11.635377804004332
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chutes de Nachtigal, N15, Batchenga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e637b2de8492740595b1b745314291140f00103f90123c18a1a01000000920303505331",
+      "name": "PS1",
+      "city": "Batchenga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.2901166,
+        "lon": 11.6443495
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "PS1, N 1, Batchenga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107a9256772ff244059555117844d001940f00103f901d00791b4000000009203104f6b7520466f6e27732050616c616365",
+      "name": "Oku Fon's Palace",
+      "city": "Elak",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.2502957,
+        "lon": 10.4989197
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Oku Fon's Palace, D102, Elak, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f93889f7d26e234059904946cec2ce1040f00103f901974e830401000000920306596162c3a961",
+      "name": "Yabéa",
+      "city": "Dibombari",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.201915,
+        "lon": 9.7164533
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Yabéa, D 59, Dibombari, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119e25817b739234059c1ecf9f59e9d1040f00103f9018b4e6c1b010000009203114368657a2052757468204e646f756d6265",
+      "name": "Chez Ruth Ndoumbe",
+      "city": "Dibombari",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1539267,
+        "lon": 9.612725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chez Ruth Ndoumbe, D 59a, Dibombari, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a0c022b873e2b4059003b376dc6111740f00103f90179dbe05601000000",
+      "name": "Bétaré-Oya",
+      "city": "Bétaré-Oya",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.7673585,
+        "lon": 13.622125
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bétaré-Oya, Lom-et-Djérem, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b10a331a430264059c1ad16331d9d1240f00103f90151dbd51701000000",
+      "name": "Kiiki",
+      "city": "Kiiki",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.6534317,
+        "lon": 11.0950027
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kiiki, Mbam-et-Inoubou, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141a264cd232a244059c34e0c24839f1a40f00103f9019be7b7ea01000000",
+      "name": "P24",
+      "city": "Zhoa",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 6.6557737,
+        "lon": 10.0823044
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "P24, Zhoa, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51962f1e94e615274059e7a0f07e81b51040f00103f9016d33dbf602000000",
+      "name": "N 1",
+      "city": "Obala",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.1772518,
+        "lon": 11.5427748
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N 1, Obala, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6dfcac06d50244059f5e95f35859d1440f00102f9014022121c0000000092031043686566666572696520426166616e67",
+      "name": "Chefferie Bafang",
+      "city": "Bafang",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.153828462580795,
+        "lon": 10.157087349667488
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Bafang, Douala-Bafoussam (N5), Bafang, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a45e169e84d244059003620425c991440f00103f90195486c2901000000",
+      "name": "Douala-Bafoussam (N5)",
+      "city": "Bafang",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.149766,
+        "lon": 10.1521638
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Douala-Bafoussam (N5), Bafang, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512eaec6f52d8e244059a08e2b9324901440f00102f9016522121c000000009203114368656666657269652064652042616e61",
+      "name": "Chefferie de Bana",
+      "city": "Bana",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.140764522107617,
+        "lon": 10.277694397452333
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie de Bana, Provinciale 15, Bana, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d6eed8ed606274059c2f0b677b2d00e40f00103f9014d4b94d600000000920323506c616365206465206c612072c3a9756e696669636174696f6e20506c2e2033303031",
+      "name": "Place de la réunification Pl. 3001",
+      "city": "Yaoundé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 3.8519029,
+        "lon": 11.5133557
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Place de la réunification Pl. 3001, Avenue de France, Yaoundé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0b1e9526d45244059a323b9fc87ec1540f00103f9015637b7030100000092030a4661726d5f5a756e6c61",
+      "name": "Farm_Zunla",
+      "city": "Nkong-Zem",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.4809875,
+        "lon": 10.1355997
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Farm_Zunla, Provinciale 17, Nkong-Zem, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fc054426875264059c44481bbc50a1340f00102f90174ea5b1c00000000920310536f75732d5072c3a966656374757265",
+      "name": "Sous-Préfecture",
+      "city": "Bafia",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.760519914402895,
+        "lon": 11.229311058850952
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sous-Préfecture, D47, Bafia, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b240608a1764234059f95f538c982e1040f00103f901c93ab933010000009203096c6f746f70686f6e65",
+      "name": "lotophone",
+      "city": "Douala I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 4.0455038,
+        "lon": 9.6954921
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "lotophone, Rue Gallieni(N°1.147), Douala I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a1da42c88d92440593dea54d726df1540f00102f901bd1de8120000000092032243686566666572696520537570c3a9726965757265206465204261666f757373616d",
+      "name": "Chefferie Supérieure de Bafoussam",
+      "city": "Bafoussam",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.467921604688454,
+        "lon": 10.424867053063895
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Chefferie Supérieure de Bafoussam, N 4, Bafoussam, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160efb4eb94cd25405906ddb98b8bee1640f00103f901596a1e030100000092032553746174756520c3a97175657374726520647520526f69204e6a6f7961204962726168696d",
+      "name": "Statue équestre du Roi Njoya Ibrahim",
+      "city": "Foumban",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 5.7329542,
+        "lon": 10.9015268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Statue équestre du Roi Njoya Ibrahim, Place des Fêtes, Foumban, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199c6e52e782b2e4059e0545a35beb92540f00103f901446ced400000000092030b4d757367756d2048757473",
+      "name": "Musgum Huts",
+      "city": "Maga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.8627793,
+        "lon": 15.0849013
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Musgum Huts, Moroua-Pouss, Maga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192150d631ca12c405989f1f510e82f2540f00103f90172289cf5000000009203104361727265666f757220446a61726d61",
+      "name": "Carrefour Djarma",
+      "city": "Maroua I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.5935674,
+        "lon": 14.3146697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Carrefour Djarma, Boulevard du Renouveau, Maroua I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136a8a21ddc8e2c4059d21a834e08252540f00103f9019ca6bf6801000000920303436172",
+      "name": "Car",
+      "city": "Maroua I",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.572329,
+        "lon": 14.2790231
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Car, Maroua-Kousséri, Maroua I, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d769a4a5f2e62d4059f4684f6e80aa2540f00103f901c75dee40000000009203125069726f75677565204669736865726d656e",
+      "name": "Pirougue Fishermen",
+      "city": "Maga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.8330111,
+        "lon": 14.95107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pirougue Fishermen, Moroua-Pouss, Maga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146990d32c9182e4059a74297cba1b42540f00103f901c06bed400000000092030c506f757373204d61726b6574",
+      "name": "Pouss Market",
+      "city": "Maga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.8527969,
+        "lon": 15.04841
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pouss Market, Moroua-Pouss, Maga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e013eb54f90a2f4059b96bae3f2e0e2440f00103f901718bf6a40200000092030a41747472616374696f6e",
+      "name": "Attraction",
+      "city": "Gobo",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.0276966,
+        "lon": 15.5214335
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Attraction, Gobo, Mayo-Danay, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158c85c1954bf2c4059f7d676c9eebc2840f00103f9013b12ab0b0100000092030c54726f752073757370656374",
+      "name": "Trou suspect",
+      "city": "Fotokol",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 12.3690093,
+        "lon": 14.3736885
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Trou suspect, N1A, Fotokol, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b6712503c022d40595884acb882ff2440f00103f901d5ca27ff020000009203064b616c616b69",
+      "name": "Kalaki",
+      "city": "Dargala",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.4990442,
+        "lon": 14.5043664
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kalaki, Dargala, Diamaré, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519cdd5a26c31d2e40595d7578639cb22540f00103f901fb6bed400000000092030d53756c74616e2050616c616365",
+      "name": "Sultan Palace",
+      "city": "Maga",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.8488494,
+        "lon": 15.0581295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sultan Palace, Moroua-Pouss, Maga, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a39f5f4a13a92c4059426557b5ff342540f00103f901b31ef0400000000092031043656e747265204172746973616e616c",
+      "name": "Centre Artisanal",
+      "city": "Maroua",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 10.6035134,
+        "lon": 14.3302253
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centre Artisanal, Avenue Kakatare, Maroua, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1fd41c989c32a4059dc1e7354249d2240f00103f901ddf20f07020000009203114361727265666f7572206d6174616b616d",
+      "name": "Carrefour matakam",
+      "city": "Garoua",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 9.3069178,
+        "lon": 13.3819106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carrefour matakam, Straw, Garoua, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4549f50f411304059a1e8cb1cdcf70440f00103f90196d53f1e010000009203154a6574747920666f7220426f6d616e646a6f6b6f75",
+      "name": "Jetty for Bomandjokou",
+      "city": "Salapoumbé",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.6210253,
+        "lon": 16.0701342
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jetty for Bomandjokou, Mboy-Libongo, Salapoumbé, Cameroon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165dacfbbac2130405903f0af5072990140f00102f901f876d44b000000009203074d697261646f72",
+      "name": "Mirador",
+      "city": "Mouloundou",
+      "country": "Cameroon",
+      "country_code": "cm",
+      "coordinates": {
+        "lat": 2.199925070161045,
+        "lon": 16.131541956181895
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "man_made",
+        "man_made.tower",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "Mirador, Mouloundou, Boumba-et-Ngoko, Cameroon",
+      "description": null,
+      "image": null
+    }
+  ]
+}

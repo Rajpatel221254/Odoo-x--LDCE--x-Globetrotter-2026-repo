@@ -1,0 +1,5138 @@
+{
+  "country_code": "mz",
+  "country_name": "Mozambique",
+  "boundary_place_id": "5134e2b8420e75414059a0c552245f4d33c0f00101f901c9fa020000000000c0020b92030a4d6f7a616d6269717565",
+  "count": 252,
+  "places": [
+    {
+      "place_id": "51d1cdfe40b9a73f405956d5cbef345f37c0f00103f9012ceb617301000000",
+      "name": "Chicualacuala",
+      "city": "Chicualacuala",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.3719015,
+        "lon": 31.6551705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chicualacuala, Gaza Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ae7e6768ad63f40591ba842f284e836c0f00103f901c58cc44d01000000",
+      "name": "Limpopo Nationalpark",
+      "city": "Chicualacuala",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -22.9082786,
+        "lon": 31.8380503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Limpopo Nationalpark, Chicualacuala, Gaza Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519789c7eafbab3f405943064da6656737c0f00103f9011739d53500000000",
+      "name": "Chicualacuala",
+      "city": "Chicualacuala",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.4038948,
+        "lon": 31.6718127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chicualacuala, Gaza Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b5fe16e5a714040597db08c0dddd63ac0f00103f90110d1b80a010000009203194261636b20746f2042617369637320416476656e7475726573",
+      "name": "Back to Basics Adventures",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8393105,
+        "lon": 32.8855723
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Back to Basics Adventures, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fbf5f9de9534404059fcc56cc9aad439c0f00103f901692e0f2c01000000",
+      "name": "Alternate Ring Road Entrance",
+      "city": "Matola",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.830731,
+        "lon": 32.4108237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Alternate Ring Road Entrance, Avenida Sebastiao Marcos Mabote, 1112 Matola, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d43dfc46855040405919d1d10550ef39c0f00103f90134ccc861020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9348148,
+        "lon": 32.6290673
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e845d35c5350404059171fda6ac6ef39c0f00102f9013280a8420000000092031c4d757261697320646f204d65726361646f206465204d6167756d6261",
+      "name": "Murais do Mercado de Magumba",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.936621359112078,
+        "lon": 32.627544024620704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Murais do Mercado de Magumba, Avenida da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a4716d54746404059661aa8e738ed39c0f00102f901be9ca641000000009203164d7572616c20646120452e502e432e204a617264696d",
+      "name": "Mural da E.P.C. Jardim",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.92664955,
+        "lon": 32.54906715
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da E.P.C. Jardim, R. dos Citrinos, 0105-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516dfc2e1114204040592f1dce5724193ac0f00103f901e9d5a9a90000000092031150657175656e6f73204c696d626f626f73",
+      "name": "Pequenos Limbobos",
+      "city": "Boane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.0982108,
+        "lon": 32.2506124
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pequenos Limbobos, Cruzamento N200 - Massaca, Boane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515241ea1b3d4640405967de605e36ed39c0f00102f9017ca0a641000000009203154d7572616c20646120452e502e432e4a617264696d",
+      "name": "Mural da E.P.C.Jardim",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.92661085,
+        "lon": 32.5487399
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da E.P.C.Jardim, R. dos Citrinos, 0105-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5132395a7a5946404059f1b09af8b4ec39c0f00102f901a8aaa6410000000092030f4d7572616c20646f204a617264696d",
+      "name": "Mural do Jardim",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9246364,
+        "lon": 32.549605650000004
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Jardim, Av. Joaquim Chissano, 0105-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae3319e9a0474040596fee546584ec39c0f00103f9012a13cb580200000092031d4d7572616c205072c3a17469636120646520626f612068696769656e65",
+      "name": "Mural Prática de boa higiene",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9238952,
+        "lon": 32.5595981
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Prática de boa higiene, Rua 5.252, 0105-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51783cd285fd4b404059f8eea02303ee39c0f00103f9014a58ae5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9297354,
+        "lon": 32.5936744
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. FPLM, 0104-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51831ec594a37140405924b48aa317d83ac0f00103f9016633bf0a010000009203124e61646520636f6d20676f6c66696e686f73",
+      "name": "Nade com golfinhos",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8441107,
+        "lon": 32.8878046
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Swim with dolphins, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51538bd2ef0c494040590e7c56e3b6f339c0f00103f901ae0ad45a020000009203114d7572616c206461204d6166616c616c61",
+      "name": "Mural da Mafalala",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9520094,
+        "lon": 32.5707073
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Mafalala, Rua da Goa, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51327f3b3f7b4d404059fd4f59a890ec39c0f00103f901a299ac5b0200000092030e4d7572616c206465204d6574616c",
+      "name": "Mural de Metal",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9240823,
+        "lon": 32.6053237
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural de Metal, Av. Julius Nyerere, 0104-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5130ce84cbcf4e404059680d391158f239c0f00103f901f827e961020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9466563,
+        "lon": 32.6157164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua 3.893, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b1645b4c2484040599c5e189fb8f839c0f00103f901fa99a661020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9715671,
+        "lon": 32.5684419
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Travessa da Palmeira, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514599b278564c40405980eecb99edf639c0f00103f9016426eb5b020000009203194d7572616c2043616e74696e686f73204573636f6c61726573",
+      "name": "Mural Cantinhos Escolares",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.964563,
+        "lon": 32.5963889
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Cantinhos Escolares, Rua Luís Pasteur, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a479b6fde1484040596cc5a3f908f739c0f00102f9014e12a041000000009203104d7572616c20646f204d65726361646f",
+      "name": "Mural do Mercado",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.964980699999998,
+        "lon": 32.5693967
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Mercado, Av. Ho Chi Min, 0101-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119f6c5efb74b404059750fbf51e1f239c0f00103f90176bb78620200000092031a4d7572616c2053616d6f7261204d6f73656973204d616368616c",
+      "name": "Mural Samora Moseis Machal",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9487506,
+        "lon": 32.5915508
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Samora Moseis Machal, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101af850fdb4a404059eee7b92af5f339c0f00103f901c879f863020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9529597,
+        "lon": 32.5848102
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua António de Conceição, 0101-08 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b9c491149f4540405911a48297a0f139c0f00102f9010ee1aa41000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.943856686968562,
+        "lon": 32.54391724698639
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. de Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a669abed814a404059126cb7b821f139c0f00103f901aa077b61020000009203194d7572616c2043616e74696e686f73204573636f6c61726573",
+      "name": "Mural Cantinhos Escolares",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9419208,
+        "lon": 32.5820901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Cantinhos Escolares, Rua Lisboa Matavele, 0103-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51248e869d733540405904334ba71ad439c0f00103f901a12d0f2c01000000",
+      "name": "Alternate Ring Road Entrance",
+      "city": "Matola",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.8285317,
+        "lon": 32.4175908
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Alternate Ring Road Entrance, Estrada Circular, 1112 Matola, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e85909845484040592b03bd265af239c0f00103f901d8f6d95a020000009203334d7572616c20486f6d656e6167656d20616f732066756e6461646f72657320496e7374697475746f204e656772c3b366696c6f",
+      "name": "Mural Homenagem aos fundadores Instituto Negrófilo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9466881,
+        "lon": 32.5646239
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Homenagem aos fundadores Instituto Negrófilo, Rua de Xipamanine, 0102-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c5f5caad24a4040590f6f8c5363ee39c0f00103f9019266a2610200000092031e4d7572616c204170656c6f20c3a17320626f6173207072c3a17469636173",
+      "name": "Mural Apelo ás boas práticas",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9312031,
+        "lon": 32.584554
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Apelo ás boas práticas, Rua 4.029, 0104-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5122156b5d0f4b404059ba0d0f0643ee39c0f00103f901823bd3630200000092032d4d7572616c2041732070726f707269617320637269616ec3a761732070696e74616d2061732070617265646573",
+      "name": "Mural As proprias crianças pintam as paredes",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9307102,
+        "lon": 32.5864064
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural As proprias crianças pintam as paredes, Av. FPLM, 0103-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51064fd7c94f4640405913ae916e95f339c0f00102f901846eaa41000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9514989,
+        "lon": 32.549309949999994
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Organização da Unidade Africana, 0102-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51580dad4e724e40405973d15d60baea39c0f00102f90142cf3b1c000000009203064b6f736f766f",
+      "name": "Kosovo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.916906378655266,
+        "lon": 32.61286338281451
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kosovo, Rua 4.265, 0104-08 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5116d4015a044e40405934f0486183ea39c0f00103f90122cbac5b0200000092031a4d7572616c3a2054726962756e616973204a7564696369616973",
+      "name": "Mural: Tribunais Judiciais",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9160672,
+        "lon": 32.6095078
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: Tribunais Judiciais, Rua 4.275, 0104-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51293a37120d4d404059d853612294ef39c0f00103f90126a7a85b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9358541,
+        "lon": 32.6019614
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua do Costa do Sol, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfd14fdd014d4040599f56d11f9aef39c0f00103f90138b2a85b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9359455,
+        "lon": 32.6016194
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua do Costa do Sol, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e5a4d52194c40405903adb7ce30f839c0f00102f9016a530042000000009203114d7572616c20446f6d20517569786f7465",
+      "name": "Mural Dom Quixote",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.969494743197185,
+        "lon": 32.59452275063562
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Mural Dom Quixote, Av. Armando Tivane, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51319aacaa6a49404059e1556c73a2f739c0f00102f9015017a041000000009203184d7572616c20646f204d65726361646f20646f20506f766f",
+      "name": "Mural do Mercado do Povo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.96732255358609,
+        "lon": 32.57356770923469
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Mercado do Povo, Av. Ho Chi Min, 0101-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51363cbd52964b4040596b9505b8c5f739c0f00103f90160c5bd96020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9678607,
+        "lon": 32.590525
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Agostinho Neto, 0101-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516798da52074640405902c4133070f139c0f00103f901b8b8ed580200000092031b4d7572616c20546f646f73204a756e746f732050656c612050617a",
+      "name": "Mural Todos Juntos Pela Paz",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9431181,
+        "lon": 32.5470985
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Todos Juntos Pela Paz, Rua 2.375, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d8bb16f22464040594e68720942f339c0f00102f9014079aa41000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.950226393157486,
+        "lon": 32.54792591256305
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Organização da Unidade Africana, 0102-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170a994e87648404059078daa7015f939c0f00103f9014eca9964020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9729834,
+        "lon": 32.5661288
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Mártires de Inhaminga, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d0911154f73404059cd075ff305be3ac0f00103f9012191ae0b01000000",
+      "name": "Ponta Frederico",
+      "city": "Malongane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.7422783,
+        "lon": 32.9008509
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Frederico, 4x4 Only, 0001 Malongane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d400ef2ee14b404059aaf06778b3ea39c0f00102f9019fcbf841000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.916801,
+        "lon": 32.59280955
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua 4.120, 0104-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aba80bc2264d4040592e63f9a9e0ee39c0f00103f901d7c9ab5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9331156,
+        "lon": 32.6027453
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a46abff184c4040597113ffc1d1f139c0f00103f9015359f963020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9446069,
+        "lon": 32.5945129
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e967db2bd4d404059bebed6a546f239c0f00103f9012ba164580200000092031b4d7572616c20646f20536f6c61722064617320c381636163696173",
+      "name": "Mural do Solar das Ácacias",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9463905,
+        "lon": 32.6073516
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Solar das Ácacias, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5163940ca59b7140405946a055c103d83ac0f00103f901d17e600b01000000",
+      "name": "Dolphin Centre",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8438073,
+        "lon": 32.8875624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dolphin Centre, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511dfc694881504040590ae35de454ef39c0f00103f9017c43c861020000009203194d7572616c20646f206d65726361646f206465205065697865",
+      "name": "Mural do mercado de Peixe",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9348891,
+        "lon": 32.6289454
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do mercado de Peixe, Av. da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aeaa4d524f4a404059fa85b24baff639c0f00103f901ccf0d363020000009203264d7572616c204d616b6f626f203a20426c61636b20616e6420576869746520636f6e63657074",
+      "name": "Mural Makobo : Black and White concept",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9636123,
+        "lon": 32.5805457
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Makobo : Black and White concept, Av. Vladimir Lenine, 0101-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5130575062a14b4040595f1f420180f239c0f00102f901fa52a641000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9472657,
+        "lon": 32.59086255
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua da Resistência, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc1e7354244c4040596d6fb72407f839c0f00103f9015b1951980000000092030c4372616674204d61726b6574",
+      "name": "Craft Market",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.968859,
+        "lon": 32.5948587
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Craft Market, Av. Armando Tivane, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513586efb380504040595336f63647ef39c0f00103f9017840c861020000009203174d7572616c3a204d61726361646f206465205065697865",
+      "name": "Mural: Marcado de Peixe",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9346804,
+        "lon": 32.6289277
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: Marcado de Peixe, Av. da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db72897ec84d4040599747ed3488f139c0f00103f9013886a16102000000",
+      "name": "Av. Julius Nyerere",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9434846,
+        "lon": 32.6076811
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Av. Julius Nyerere, 0103-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ff12fdd7f5040405967ea1ad24def39c0f00103f901a36dc861020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9347812,
+        "lon": 32.6289021
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117b1998ddf4b404059e331a8db7ef239c0f00103f901bafa7862020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9472482,
+        "lon": 32.5927598
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a387eb62e45f404059e8d3cf40d1913ac0f00103f9016307f08d02000000",
+      "name": "ESTRADA NACIONAL NÚMERO 1",
+      "city": "Matutuíne",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.5695992,
+        "lon": 32.7491573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ESTRADA NACIONAL NÚMERO 1, Maputo Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e0a719b5f4940405992e057f66ef539c0f00103f90102f47664020000009203174d7572616c2043616e74696e686f73206573636f6c6172",
+      "name": "Mural Cantinhos escolar",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9587244,
+        "lon": 32.5732302
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Cantinhos escolar, Av. Emília Daússe, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51067d8e345d514040593e24d7a8e2ec39c0f00102f901c633b042000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.925333549999998,
+        "lon": 32.6356569
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua Acordos de Nkomati, 0104-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5122b6aadb8f4d40405987f5ebf3bded39c0f00103f90170d8ab5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9286797,
+        "lon": 32.6059527
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b253ac3da44d404059d3d00bd927f339c0f00102f901068cf4410000000092031d4d7572616c20c3a07320566974696d617320646120434f5649442d3139",
+      "name": "Mural às Vitimas da COVID-19",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.949826779732415,
+        "lon": 32.606574734825145
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural às Vitimas da COVID-19, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179e008f76f4a404059a24c593cabef39c0f00103f90129805c61020000009203114d7572616c20646120452e532e4e2e4949",
+      "name": "Mural da E.S.N.II",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9362066,
+        "lon": 32.5815419
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da E.S.N.II, Rua 3.066, 0103-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fed071daf8464040599cf122b836f139c0f00102f9017c04ab41000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.942241199999998,
+        "lon": 32.5544694
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Amaral Matos, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6f91dd48f454040590cc9c9c4adf239c0f00103f9016ea7d3630200000092032d4d7572616c2041732070726f707269617320637269616ec3a761732070696e74616d2061732070617265646573",
+      "name": "Mural As proprias crianças pintam as paredes",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.947964,
+        "lon": 32.5434518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural As proprias crianças pintam as paredes, Av. da Organização da Unidade Africana, 0102-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f88667ae78454040593a8375d2b1f139c0f00103f901e23af863020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9441196,
+        "lon": 32.5427454
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. de Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c135be6194940405917ea5509bbf339c0f00103f901cd4ad15a020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9520727,
+        "lon": 32.5711029
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua da Goa, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5181c905d9174b404059251a37ba0af339c0f00102f9014144a641000000009203214d7572616c206461204573636f6c61205072696dc3a1726961204b687572756c61",
+      "name": "Mural da Escola Primária Khurula",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.949382437184017,
+        "lon": 32.58666527540755
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Escola Primária Khurula, Rua 3.257, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb270f0bb54a40405943119c44ceec39c0f00103f9015274ad5b0200000092032c4d7572616c206461204573636f6c6120536563756e64c3a172696120646120536f6c69646172696564616465",
+      "name": "Mural da Escola Secundária da Solidariedade",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9250224,
+        "lon": 32.58365
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Escola Secundária da Solidariedade, Rua 4.037, 0104-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db0458a7ea4a4040592274037b00fb39c0f00102f90162fc9941000000009203124d7572616c2056696461204d6172696e6861",
+      "name": "Mural Vida Marinha",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.98047608217542,
+        "lon": 32.58528606221963
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Vida Marinha, Rua dos Desportistas, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c90226706b484040591ab9b8d793f839c0f00102f901f708a041000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9710059,
+        "lon": 32.56577875
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Guerra Popular, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513799a729b848404059a3c629dfd8f839c0f00103f9019347a3610200000092030f4d7572616c20646520506564726173",
+      "name": "Mural de Pedras",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9720592,
+        "lon": 32.5681202
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural de Pedras, Rua da Gávea, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518507e2dbdc48404059636be0c835f439c0f00102f901b8a9921f000000009203144d7572616c20427261646f204166726963616e6f",
+      "name": "Mural Brado Africano",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.953945689001,
+        "lon": 32.56924007927504
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural",
+        "tourism.sights"
+      ],
+      "formatted_address": "Rua 3.014, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518507e2dbdc48404059636be0c835f439c0f00102f901b8a9921f000000009203144d7572616c20427261646f204166726963616e6f",
+      "name": "Mural Brado Africano",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.953945689001,
+        "lon": 32.56924007927504
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural",
+        "tourism.sights"
+      ],
+      "formatted_address": "0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115c1e83a404c404059b802b319d1f939c0f00102f90179e37e3100000000",
+      "name": "Av. da Marginal",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.97584686870934,
+        "lon": 32.59571014752343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Av. da Marginal, 0101-09 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4a69dd8d84a404059122e9be840fa39c0f00102f901438099410000000092030b5275612064652041727465",
+      "name": "Rua de Arte",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.97755292690824,
+        "lon": 32.584742619493596
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Rua de Arte, Rua dos Desportistas, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fa848cf3e7a40405922e2e65432143ac0f00103f90111b85a990000000092030c506f6e746120546f72726573",
+      "name": "Ponta Torres",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.078893,
+        "lon": 32.9550418
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Torres, 0107-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d675036097494040599c0a027514f539c0f00103f90120107764020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9573434,
+        "lon": 32.5749321
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Paulo Samuel Kankhomba, 0101-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170c916ee014c404059851964dc1ef239c0f00103f901109cf763020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9457834,
+        "lon": 32.5938089
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170c9bb348f4b4040590f0eac996bf239c0f00102f901b296a641000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.946954349999995,
+        "lon": 32.590307800000005
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua da Resistência, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ccde0841fd4b40405931bced9d2cf239c0f00103f901f2b1f663020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9459933,
+        "lon": 32.5936662
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e3f51d9b048404059f981ab3c81f839c0f00103f90146a3651e0300000092031242616c63c3a36f20646f2074757269737461",
+      "name": "Balcão do turista",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.970722,
+        "lon": 32.567897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Balcão do turista, Av. 25 de Setembro, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51228c9fc6bd484040597dee5fb422f939c0f00103f901aa82a661020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9731858,
+        "lon": 32.5682915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua do Bagamoyo, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c6da57cad7240405997adf545420d3ac0f00103f90112b85a990000000092030a506f6e74612052617361",
+      "name": "Ponta Rasa",
+      "city": null,
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.0517925,
+        "lon": 32.8959194
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Rasa, 0107-02, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd706946504c404059e9eedf617ff639c0f00103f90145aaea5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9628812,
+        "lon": 32.5961998
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua Geração 8 de Março, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c6fa062637484040592ca4575e4de339c0f00103f901e4f057610200000092031a4d7572616c3a2054726962756e616973204a7564696369616973",
+      "name": "Mural: Tribunais Judiciais",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.8878993,
+        "lon": 32.564183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: Tribunais Judiciais, Av. 4 de Outubro, 0105-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e48c1ad4414a404059a420588cd4ee39c0f00102f9011c1c7a310000000092031f4d7572616c20646f732048c3a9726f6973204d6fc3a7616d626963616e6f73",
+      "name": "Mural dos Hérois Moçambicanos",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9329307284503,
+        "lon": 32.58013392731098
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural dos Hérois Moçambicanos, Av. FPLM, 0104-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0d03fc1c54d404059636f18bb33ed39c0f00103f901c077ac5b020000009203254d7572616c205465726d696e616c20646520547261736e706f7274652070c3ba626c69636f",
+      "name": "Mural Terminal de Trasnporte público",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9265706,
+        "lon": 32.6075975
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Terminal de Trasnporte público, Av. Julius Nyerere, 0104-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca5f10470d46404059d052680f6af139c0f00103f9013c4fed580200000092031b4d7572616c20546f646f73204a756e746f732050656c612050617a",
+      "name": "Mural Todos Juntos Pela Paz",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9430246,
+        "lon": 32.5472802
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Todos Juntos Pela Paz, Rua 2.375, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511dfc694881504040597561ffd027ef39c0f00103f901bad3c861020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9342013,
+        "lon": 32.6289454
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fca5457d924a4040597d4d2036a2f739c0f00103f9010ce85e580200000092030e4d7572616c206461206669706167",
+      "name": "Mural da fipag",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9673189,
+        "lon": 32.5825955
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.private",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da fipag, Av. Amílcar Cabral, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b792c2610e4a404059bd265aa8ebf739c0f00103f901e6ce7564020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9684396,
+        "lon": 32.5785639
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. 24 de Julho, 0101-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519fdd6b521b494040598829368bbcf339c0f00103f901425dad5a0200000092030d4d7572616c204575736562696f",
+      "name": "Mural Eusebio",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9520957,
+        "lon": 32.5711463
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Eusebio, Rua da Goa, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513be702f28049404059b0fc9efdedf339c0f00103f9012eb7f763020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9528502,
+        "lon": 32.5742476
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua Eusébio da Silva Ferreira, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab2cc02d0e4c40405943e7902ffcf139c0f00103f901f52e7664020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9452543,
+        "lon": 32.5941827
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fde054abd4a404059826a2a8610f639c0f00102f9018b51a041000000009203134d7572616c204d65726361646f204a616e6574",
+      "name": "Mural Mercado Janet",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.961189637523155,
+        "lon": 32.58390164648562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Mercado Janet, Rua Daniel Tomé Magaia, 0101-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516891ed7c3f48404059d0d61c7b51f239c0f00103f90169afd95a020000009203334d7572616c20486f6d656e6167656d20616f732066756e6461646f72657320496e7374697475746f204e656772c3b366696c6f",
+      "name": "Mural Homenagem aos fundadores Instituto Negrófilo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9465558,
+        "lon": 32.5644375
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Homenagem aos fundadores Instituto Negrófilo, Rua de Xipamanine, 0102-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179163fcbf2484040591d1de24060f939c0f00102f90171b1d70400000000920312507261c3a761203235206465204a756e686f",
+      "name": "Praça 25 de Junho",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.97412496109347,
+        "lon": 32.56990948276957
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "heritage",
+        "highway",
+        "highway.roundabout",
+        "leisure",
+        "leisure.park"
+      ],
+      "formatted_address": "Praça 25 de Junho, Maputo, Zona Sul, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51781a7ad5144c40405937a4f6c720fa39c0f00103f9014dbba71603000000",
+      "name": "Av. Friedrich Engels",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9770627,
+        "lon": 32.5943858
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Av. Friedrich Engels, 0101-09 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155d16927144b404059d6ee0d74a3f239c0f00102f901484aa6410000000092030c4d7572616c20646f20536f6d",
+      "name": "Mural do Som",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9478066,
+        "lon": 32.58655255
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Som, Avenida da Malhangalene, 0103-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5148c0e8f2e64b404059dca1bcea5cf239c0f00103f90180489d62020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9467303,
+        "lon": 32.5929855
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51144f875ffb47404059c836ba9404f039c0f00103f9013a7fee58020000009203174d7572616c20646f2050726f6a6563746f205041414e45",
+      "name": "Mural do Projecto PAANE",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9375699,
+        "lon": 32.5623588
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Projecto PAANE, Av. Amaral Matos, 0102-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514145d5af74454040594c9242b4b1f139c0f00103f901d4a1f763020000009203184d7572616c20526567726573736f20616f2046757475726f",
+      "name": "Mural Regresso ao Futuro",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9441178,
+        "lon": 32.5426235
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Regresso ao Futuro, Av. do Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac527aa69751404059daf68777caec39c0f00103f901b9dfe861020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9249644,
+        "lon": 32.6374405
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Marginal, 0104-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9b23d1f0a4c404059c04d356909f239c0f00103f901c10ff963020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9454561,
+        "lon": 32.5940589
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e23895b1467140405961866b5aced63ac0f00103f901abeebe0a01000000",
+      "name": "Quad bike booze cruise",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8390862,
+        "lon": 32.8849699
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Quad bike booze cruise, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51015768d6084a4040594b0cb89d6cef39c0f00103f901e7c758610200000092031a4d7572616c3a2054726962756e616973204a7564696369616973",
+      "name": "Mural: Tribunais Judiciais",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9352511,
+        "lon": 32.5783947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: Tribunais Judiciais, Av. Acordos de Lusaka, 0103-08 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51122add02ae4d40405973eb7fca42f339c0f00103f901458d8b5b0200000092031d4d7572616c20646120456d626169786164612064612049726c616e6461",
+      "name": "Mural da Embaixada da Irlanda",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9502379,
+        "lon": 32.6068729
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Embaixada da Irlanda, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518202efe4d34a404059d3f31373b5ee39c0f00103f901be89f863020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9324562,
+        "lon": 32.5845915
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. FPLM, 0104-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51201e2ede347240405968c5dc5acbcb3ac0f00103f901b7afe20b01000000",
+      "name": "Ponta Malongane",
+      "city": "Malongane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.7960717,
+        "lon": 32.8922384
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Malongane, 4x4 Only, 0001 Malongane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb70114f404b40405980b965335ff839c0f00102f90150e0a941000000009203104d7572616c204b68616e696d616e626f",
+      "name": "Mural Khanimanbo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.970202648482427,
+        "lon": 32.58790005065551
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Khanimanbo, Av. Eduardo Mondlane, 0101-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513cad9113dc4a4040592e782c1103ec39c0f00103f901d30aad5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9219218,
+        "lon": 32.5848412
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua 4.037, 0104-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51596dfe5f75484040592c79e173ccee39c0f00103f9016d1e5761020000009203174d75726120646120452e502e20556e6964616465203138",
+      "name": "Mura da E.P. Unidade 18",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9328072,
+        "lon": 32.566082
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mura da E.P. Unidade 18, Rua Eng. Carlos Morgado, 0102-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ce42032f64b40405920764b1707ee39c0f00103f901655bae5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9297957,
+        "lon": 32.5934508
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. FPLM, 0104-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168226c787a4d404059833e479a2ef439c0f00103f901c9338a5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9538361,
+        "lon": 32.6053
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512be0f9a0c24d404059f07508d27bf139c0f00103f9015b63a16102000000",
+      "name": "Av. Julius Nyerere",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9432956,
+        "lon": 32.6075021
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Av. Julius Nyerere, 0103-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f7ac6bb49c4b404059fe439f3479f239c0f00102f901ad55a6410000000092031e4d7572616c204a756e746f7320436f6e747261206f204849562f53494441",
+      "name": "Mural Juntos Contra o HIV/SIDA",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.94716195,
+        "lon": 32.59071975
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Juntos Contra o HIV/SIDA, Rua da Resistência, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51771d609cae464040594a91216c1df339c0f00103f90103eaf763020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9496677,
+        "lon": 32.5522037
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. do Trabalho, 0102-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e61a17b7b48404059d8f50b76c3ee39c0f00103f901196a5761020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.93267,
+        "lon": 32.5662684
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua Eng. Carlos Morgado, 0102-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191fea89729474040592669a3df63f339c0f00103f9017fabd3630200000092032d4d7572616c2041732070726f707269617320637269616ec3a761732070696e74616d2061732070617265646573",
+      "name": "Mural As proprias crianças pintam as paredes",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9507427,
+        "lon": 32.5559568
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural As proprias crianças pintam as paredes, Av. de Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168075c57cc4b40405992bfc5d4a7f239c0f00103f901cbb67862020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9478734,
+        "lon": 32.5921735
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c05884077245404059a669abed81f139c0f00103f901b5e6ec580200000092031d4d7572616c203420416e6f2d20437572736f20646520446973656e686f",
+      "name": "Mural 4 Ano- Curso de Disenho",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9433888,
+        "lon": 32.5425424
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural 4 Ano- Curso de Disenho, Av. de Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4e8b985ae484040595fea8c94d2f839c0f00103f9018ddca2610200000092031c4d7572616c3a204120426f7373206c6164792077697468204166726f",
+      "name": "Mural: A Boss lady with Afro",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9719632,
+        "lon": 32.567826
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: A Boss lady with Afro, Rua da Gávea, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb24b616c148404059ee597cafc6f839c0f00103f9014332a661020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9717817,
+        "lon": 32.5683926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Travessa da Palmeira, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515179854f84504040590225aa5c4def39c0f00103f90187e4c761020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9347742,
+        "lon": 32.6290378
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Marginal, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5186562767284c40405916ecd0faa5f139c0f00103f901d3d97564020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9439389,
+        "lon": 32.594983
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193d1b7bbbd73404059a972350de5b53ac0f00103f901dfee070c01000000",
+      "name": "Ponta Mamoli",
+      "city": "Matutuíne",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.7105263,
+        "lon": 32.9042277
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Mamoli, Matutuíne, Maputo Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515202ac9f484a4040595d0e057d33f439c0f00102f9018b489941000000009203154d7572616c206461204d616c68616e67616c656e65",
+      "name": "Mural da Malhangalene",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.95391065,
+        "lon": 32.5803413
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Malhangalene, Av. Milagre Mabote, 0103-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51feccc5843d484040590e15e3fc4df239c0f00103f9011195d95a020000009203334d7572616c20486f6d656e6167656d20616f732066756e6461646f72657320496e7374697475746f204e656772c3b366696c6f",
+      "name": "Mural Homenagem aos fundadores Instituto Negrófilo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9465025,
+        "lon": 32.5643774
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Homenagem aos fundadores Instituto Negrófilo, Rua dos Irmãos Roby, 0102-08 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c68b8521724d404059ace694db51ef39c0f00103f9011a69aa5b0200000092032b4d7572616c20486f6d656e6167656d20616f732070726f66697373696f6e616973206465207361c3ba6465",
+      "name": "Mural Homenagem aos profissionais de saúde",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9348428,
+        "lon": 32.6050455
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Homenagem aos profissionais de saúde, Rua do Costa do Sol, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c092509f894a404059193a765089f339c0f00103f9015b22a261020000009203174d7572616c204578616c74617220612063756c74757261",
+      "name": "Mural Exaltar a cultura",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.951314,
+        "lon": 32.5823249
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Exaltar a cultura, Rua Reinata Sadimba, 0101-08 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea1fcc45a54d404059be19d49919f339c0f00102f9012e89f4410000000092031d4d7572616c20c3a07320566974696d617320646120434f5649442d3139",
+      "name": "Mural às Vitimas da COVID-19",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.949609388620722,
+        "lon": 32.60660622088456
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural às Vitimas da COVID-19, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161d59507cd4d404059361748913bf339c0f00102f901c83d8a40000000009203114d7572616c20c3a020434f5649442d3139",
+      "name": "Mural à COVID-19",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.950127678013096,
+        "lon": 32.60781950775232
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural à COVID-19, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51762c00d75f7340405993f47a4155b03ac0f00103f901ea4de30b01000000",
+      "name": "Ponta Techobanine",
+      "city": null,
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.6888009,
+        "lon": 32.9013623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Techobanine, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c30293ebe4a404059fc9584fa4cf939c0f00102f901ef7e4e0e0000000092030a436173612056656c6861",
+      "name": "Casa Velha",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.97383085,
+        "lon": 32.58393075000001
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Casa Velha, Avenida Patrice Lubumba, 376, 0101-09 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512dbe5763bf484040590ae0c1aad5f839c0f00103f90162f8a561020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9720103,
+        "lon": 32.5683407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua da Gávea, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515fa16a4f244c404059aff435261ff839c0f00103f9018e9eaa60020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9692253,
+        "lon": 32.5948581
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Armando Tivane, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156270c6f7b4a4040594e1718682df139c0f00103f90197fd7a61020000009203274d7572616c205061726120756d61204573636f6c61206c6976726520646120436f766964203139",
+      "name": "Mural Para uma Escola livre da Covid 19",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9420991,
+        "lon": 32.5818919
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Para uma Escola livre da Covid 19, Rua Lisboa Matavele, 0103-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d037b3a7ae4d40405974acf7c033f339c0f00102f901c93d8a400000000092031d4d7572616c20646120456d626169786164612064612049726c616e6461",
+      "name": "Mural da Embaixada da Irlanda",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.95000845,
+        "lon": 32.60689255
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Embaixada da Irlanda, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ee9c605b148404059343795fbd3f839c0f00103f9010deda2610200000092031e4d7572616c3a204c697665207061696e74696e6720696e204d617075746f",
+      "name": "Mural: Live painting in Maputo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9719846,
+        "lon": 32.5679023
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: Live painting in Maputo, Rua da Gávea, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51481d7810964d40405967ef8cb62af539c0f00103f901f9b2a6610200000092032b5061696ec3a9697320646520417a756c656a6f7320646520506cc3a1737469636f2052656369636c61646f",
+      "name": "Painéis de Azulejos de Plástico Reciclado",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.957683,
+        "lon": 32.6061421
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Painéis de Azulejos de Plástico Reciclado, Rua José Craveirinha, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e05229d1ed4740405964703903c8f339c0f00103f901e3c77664020000009203164d7572616c2043616e74696e686f206573636f6c6172",
+      "name": "Mural Cantinho escolar",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9522707,
+        "lon": 32.5619451
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Cantinho escolar, Rua Estácio Dias, 0102-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519450fa42c849404059a7aa7587b9f739c0f00103f90139737664020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9676747,
+        "lon": 32.576424
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. 24 de Julho, 0101-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515953063bbe45404059a767cba872f239c0f00102f901a181aa41000000009203144d7572616c2042696f6469766572736964616465",
+      "name": "Mural Biodiversidade",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.94706206289234,
+        "lon": 32.54486787613741
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Biodiversidade, Av. da Organização da Unidade Africana, 0102-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cace914bd2344040595a8121ab5bd539c0f00103f901952f0f2c01000000",
+      "name": "Temporary Ring Road Entrance",
+      "city": "Matola",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.83343,
+        "lon": 32.4126677
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Temporary Ring Road Entrance, Maputo - Wintbank, 1112 Matola, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c9db1d41f4d40405966aec21cf3ee39c0f00103f9010f12ac5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9333971,
+        "lon": 32.6025339
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51564c023b814b404059895fe2ba9ff739c0f00102f90115c3a9410000000092030c4d7572616c20646f2048434d",
+      "name": "Mural do HCM",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.96728103663148,
+        "lon": 32.589881301996385
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do HCM, Av. Agostinho Neto, 0101-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167cc77106646404059c4540c31bef339c0f00102f901676baa41000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.95212084342053,
+        "lon": 32.54998975610288
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. da Organização da Unidade Africana, 0102-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518bec399f70514040590195e0c3dbec39c0f00102f9019735b042000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.92522835,
+        "lon": 32.63624945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua das Amendoeiras, 0104-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519010e50b5a71404059832e8617e9d63ac0f00103f901b14e1b0b01000000",
+      "name": "Back To Basics Adventures",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8394942,
+        "lon": 32.8855605
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Back To Basics Adventures, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7446d76ff4b404059ed832c0b26f239c0f00103f901277bf763020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.945893,
+        "lon": 32.5937336
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159c74cfd17494040597782fdd7b9f339c0f00103f9018d63d15a0200000092030e4d7572616c204d6166616c616c61",
+      "name": "Mural Mafalala",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9520545,
+        "lon": 32.5710446
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Mafalala, Rua da Goa, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d8a5fc5a4d4b404059fa545fa7a2f839c0f00103f901bb45e558020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9712319,
+        "lon": 32.5882982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Eduardo Mondlane, 0101-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b854b1bae9494040591295fef4f5ec39c0f00102f9018d69a741000000009203124d7572616c20646f204165726f706f72746f",
+      "name": "Mural do Aeroporto",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9256280061282,
+        "lon": 32.57744535120713
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Aeroporto, Rua do Aeroporto, 0104-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51145b41d3124d4040590f8d38ae90ef39c0f00103f9014b4baa5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9358014,
+        "lon": 32.602137
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua do Costa do Sol, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51858ec29a6f4a4040594e1718682df139c0f00103f901fb2d7b61020000009203334d7572616c204573636f6c61206c697672652064652076696f6cc3aa6e63696120636f6e747261206173204d756c6865726573",
+      "name": "Mural Escola livre de violência contra as Mulheres",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9420991,
+        "lon": 32.5815309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Escola livre de violência contra as Mulheres, Rua Lisboa Matavele, 0103-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db72897ec873404059ea0e18daef113ac0f00103f90113b85a990000000092030e506f6e746120506f6e6475696e65",
+      "name": "Ponta Ponduine",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.0700661,
+        "lon": 32.9045561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Ponduine, 0107-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185fb123b644a4040599f909db7b1ef39c0f00103f90127805c61020000009203114d7572616c20646120452e532e4e2e2049",
+      "name": "Mural da E.S.N. I",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9363055,
+        "lon": 32.5811838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da E.S.N. I, Rua 3.066, 0103-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a773881be4d4040595dfff1f239f339c0f00102f9011196f4410000000092031d4d7572616c20c3a07320566974696d617320646120434f5649442d3139",
+      "name": "Mural às Vitimas da COVID-19",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.950102981645035,
+        "lon": 32.60737624413669
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural às Vitimas da COVID-19, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc08ae4dbe49404059ede8c94631f439c0f00103f901ef85af5b0200000092030f4d7572616c20477265656e20417274",
+      "name": "Mural Green Art",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9538769,
+        "lon": 32.5761201
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Green Art, Rua Eusébio da Silva Ferreira, 0103-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51530f2ca28148404059334d7dc5bfee39c0f00103f90134015761020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9326137,
+        "lon": 32.5664561
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua Eng. Carlos Morgado, 0102-02 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2806b29544940405905e015bd6df839c0f00102f901b11a4c0e0000000092030d4361736120646520466572726f",
+      "name": "Casa de Ferro",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.970424478378863,
+        "lon": 32.572880914203225
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "The Iron House, Avenida Samora Machel, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51125b52f9ed4d404059bb5fe86773ef39c0f00102f9016184f841000000009203224d7572616c2064612042617272656961206461204a756c697573206e796572657265",
+      "name": "Mural da Barreia da Julius nyerere",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.935354704124375,
+        "lon": 32.608824887478605
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Barreia da Julius nyerere, Av. Julius Nyerere, 0103-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514216b36f384840405991c547d5c0f439c0f00103f90115a576640200000092031b4d7572616c204173736f636961c3a7c3a36f2043756c747572616c",
+      "name": "Mural Associação Cultural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9560674,
+        "lon": 32.5642223
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.private",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Associação Cultural, Rua Estácio Dias, 0102-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159e432c9234d40405992aa926d85ef39c0f00103f901948faa5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9356297,
+        "lon": 32.6026546
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua 3.710, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518befd5d86f4940405990ba42c472ee39c0f00103f901bb8a57610200000092031a4d7572616c3a2054726962756e616973204a7564696369616973",
+      "name": "Mural: Tribunais Judiciais",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9314387,
+        "lon": 32.5737258
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural: Tribunais Judiciais, Rua de Santo António, 0102-01 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515bb972518845404059756094fb78f139c0f00103f901efe9ec580200000092030f4d7572616c2055502d4d617075746f",
+      "name": "Mural UP-Maputo",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9432523,
+        "lon": 32.5432226
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural UP-Maputo, Av. de Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51761ac462af4a404059ac6a93d453f839c0f00102f9019f7599410000000092030e4d7572616c206461206669706167",
+      "name": "Mural da fipag",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.970029150000002,
+        "lon": 32.583477349999995
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.private",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da fipag, Av. Ahmed Sékou Touré, 0101-10 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3fd79bf764c4040592013df3fccf039c0f00103f9018fad7564020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9406166,
+        "lon": 32.5973739
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Av. Vladimir Lenine, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6dc61a0634c4040594e52ec3727f939c0f00102f90178e37e3100000000",
+      "name": "Av. da Marginal",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.973254676051788,
+        "lon": 32.596790359291546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Av. da Marginal, 0101-09 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2c56350b74840405949980e42e5f839c0f00103f901d982a661020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9722482,
+        "lon": 32.5680943
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Travessa da Palmeira, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e593ba096371404059545f4ce94fd73ac0f00103f90111d1b80a01000000",
+      "name": "Gozo Azul",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8410631,
+        "lon": 32.8858349
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gozo Azul, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae17f9abb648404059414d88145ef139c0f00102f901bdd1a7420000000092031a4d7572616c2048697374c3b37269612064612042c3ad626c6961",
+      "name": "Mural História da Bíblia",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9428418,
+        "lon": 32.5680747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural História da Bíblia, Rua 2.360, 0102-09 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4db3983757140405983914da896d73ac0f00103f901aaeebe0a01000000",
+      "name": "Dolphin Encounters Research Center",
+      "city": "Ponta do Ouro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -26.8421426,
+        "lon": 32.8863987
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dolphin Encounters Research Center, Ponta Beach Drive, 1118 Ponta do Ouro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf085080ec49404059c531f46249ed39c0f00102f9019d6fa741000000009203124d7572616c20646f204165726f706f72746f",
+      "name": "Mural do Aeroporto",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.926901039712693,
+        "lon": 32.577529944495375
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do Aeroporto, Av. Acordos de Lusaka, 0103-08 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513080f0a1444c404059b7d672c2dff039c0f00103f901651fa261020000009203134d7572616c20c38167756120c3a92076696461",
+      "name": "Mural Água é vida",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9409143,
+        "lon": 32.5958445
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Água é vida, Rua 3.421, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f8aff3ba24d4040598280c6962ff339c0f00103f90113fd8a5b0200000092031d4d7572616c20646120456d626169786164612064612049726c616e6461",
+      "name": "Mural da Embaixada da Irlanda",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9499449,
+        "lon": 32.6065135
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Embaixada da Irlanda, Av. Julius Nyerere, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b13f3f42834b4040591805c1e3dbf139c0f00103f9010f9cf76302000000",
+      "name": "Rua 3.421",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9447615,
+        "lon": 32.5899432
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Rua 3.421, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5145ed235c6d4540405900c79e3d97f139c0f00103f90183cdec580200000092030c4d7572616c2064612055504d",
+      "name": "Mural da UPM",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.943714,
+        "lon": 32.5423999
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da UPM, Av. de Trabalho, 0102-05 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8dec325c74d404059318d70a47df139c0f00103f9012735a16102000000",
+      "name": "Av. Julius Nyerere",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9433234,
+        "lon": 32.60764
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Av. Julius Nyerere, 0103-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c815cdb9ca4c404059cdd9f11593f539c0f00103f90145ecaf5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9592756,
+        "lon": 32.5999367
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Avenida Kenneth Kaunda, 0101-11 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e842d91a24a404059842eeb1d99f739c0f00102f901996299410000000092030e4d7572616c206461206669706167",
+      "name": "Mural da fipag",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.967180128018768,
+        "lon": 32.58308615419888
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da fipag, Av. Amílcar Cabral, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512667cd34064d4040590bf956da98ef39c0f00103f901c26da85b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9359261,
+        "lon": 32.6017519
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua do Costa do Sol, 0103-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c4d66bcad4d40405964b72ae4a5f039c0f00103f9019abfaa5b020000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9400313,
+        "lon": 32.6068645
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua Carlos Cardoso, 0103-06 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179f29f24934b40405906088b2f7ff239c0f00102f9014693a641000000009203054d7572616c",
+      "name": "Mural",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9472532,
+        "lon": 32.59042795
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural, Rua da Resistência, 0103-04 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fe7e315bb24540405919e6046d72f239c0f00103f90116a6ec580200000092030d4d7572616c20646f2048474a4d",
+      "name": "Mural do HGJM",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9470585,
+        "lon": 32.5445055
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural do HGJM, Av. da Organização da Unidade Africana, 0102-07 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dbb639df9936414059956f6c2c17de32c0f00103f9010886cc3500000000",
+      "name": "Gorongosa",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.8675411,
+        "lon": 34.4265708
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorongosa, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6fe30f8ea494040598d148035bdd439c0f00103f901697ad363020000009203464d7572616c20486f6d656e6167656d20616f732070726f66697373696f6e616973206465207361c3ba6465204d7572616c206e6f7320686f737069746169733a20434f564944",
+      "name": "Mural Homenagem aos profissionais de saúde Mural nos hospitais: COVID",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.8310121,
+        "lon": 32.5774832
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural Homenagem aos profissionais de saúde Mural nos hospitais: COVID, Primeira Rua, 0105-14 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ceb92583eda8414059312e0bdc700236c0f00103f9014ed251110200000092031253756e7365742044686f7720536166617269",
+      "name": "Sunset Dhow Safari",
+      "city": "Vilankulo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -22.0095346,
+        "lon": 35.3197483
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sunset Dhow Safari, N240, 1304 Vilankulo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f4d83b48f408414059678ef6894d3932c0f00103f901c27872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.2238394,
+        "lon": 34.0699549
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abed81b119494040596ad2b71677f739c0f00103f901b5fc29420200000092032243656e74726f206465207265637572736f73206a7576656e6973204d6f7a61727465",
+      "name": "Centro de recursos juvenis Mozarte",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.9666609,
+        "lon": 32.5710966
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centro de recursos juvenis Mozarte, Av. Filipe Samuel Magaia, 552, 0101-03 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc1d86fb6df54040599a18dc20a46a32c0f00103f901147472ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.4165669,
+        "lon": 33.9174189
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191f018b65e4c404059e0a884fd3df939c0f00102f90123bf9941000000009203114d7572616c206461204e61747572657a61",
+      "name": "Mural da Natureza",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -25.973602146995177,
+        "lon": 32.59664036004791
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Mural da Natureza, Av. da Marginal, 0101-09 Maputo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a74fc6195574140598a5ccbbff11c32c0f00103f9015d7872ed02000000",
+      "name": "N1",
+      "city": "Maringué",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.1130638,
+        "lon": 34.6842463
+      },
+      "categories": [
+        "commercial",
+        "commercial.outdoor_and_sport",
+        "commercial.outdoor_and_sport.bicycle",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515578e1181311414059f59ac35a21ef32c0f00103f9018133344902000000",
+      "name": "Road to Gorongosa National Park",
+      "city": "Sande",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.9341027,
+        "lon": 34.1333953
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Road to Gorongosa National Park, N1, Sande, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2e379ba0402414059d61066248c9432c0f00103f9014c7372ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.5802634,
+        "lon": 34.0157693
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191b0146e9e04414059d2cf8a5efc9932c0f00103f901117472ed02000000",
+      "name": "N1",
+      "city": "Matanda",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.6015071,
+        "lon": 34.0360849
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Matanda, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124f48eae2dfb4040591ca90881a64f32c0f00103f901c67872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.3111344,
+        "lon": 33.9623316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b0fb6d8edf5404059d7a205685b5532c0f00103f9015e7872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.333426,
+        "lon": 33.921321
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e58695c09c6c41405964c7eb66ebd733c0f00103f9017b19a80e0100000092030855434d5f20434544",
+      "name": "UCM_ CED",
+      "city": "Beira",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -19.8434357,
+        "lon": 34.8485337
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "UCM_CED, Rua Fernão Mendes Pinto, 2100 Beira, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ce8853b17644140590c14c2b4b91732c0f00103f9014a7372ed02000000",
+      "name": "N1",
+      "city": "Maringué",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.0926774,
+        "lon": 34.781959
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b77989b1402414059e4045c46a09432c0f00103f901ae7372ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.5805706,
+        "lon": 34.0162539
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51261708a7aa07414059b1b849568f3f32c0f00103f901c47872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.2482809,
+        "lon": 34.0598954
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b443577d092e434059369ebe5422cb30c0f00103f901ba23ee1402000000920316436172207061726b204167756173207465726d616973",
+      "name": "Car park Aguas termais",
+      "city": "Pebane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -16.7934926,
+        "lon": 38.3596646
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Car park Aguas termais, Pebane, Zambezia Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156c8a6a66e4443405980ff9c386f6a30c0f00103f9016f4420290200000092031345747570612063617363617461204574616761",
+      "name": "Etupa cascata Etaga",
+      "city": "Pebane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -16.4157596,
+        "lon": 38.5346268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Etupa cascata Etaga, Pebane, Zambezia Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee02ca4ba312434059b212f3aca4a130c0f00103f9016a96eb0a020000009203154163616d70616d656e746f204c69636520504e4147",
+      "name": "Acampamento Lice PNAG",
+      "city": "Pebane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -16.631419,
+        "lon": 38.1456084
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Acampamento Lice PNAG, R1108, Pebane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514436902e36fb4040592f4c4b51d34f32c0f00103f901c57872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.3118182,
+        "lon": 33.962591
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d67f8c6fde3d414059ffea71df6a3332c0f00103f901af7372ed02000000",
+      "name": "N1",
+      "city": "Subwè",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.2008495,
+        "lon": 34.4833507
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Subwè, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161c43e0114604040598864c8b1f5302fc0f00103f9017a1c0b880100000092030c5065647261206772616e6465",
+      "name": "Pedra grande",
+      "city": "Songo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -15.5956245,
+        "lon": 32.7506105
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pedra grande, atalho para cachoeira, Songo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515663096b63c64140598eca4dd4d2da37c0f00103f901eb682e0501000000920323556e64657277617465722041667269636120566f6c756e746565722050726f6772616d",
+      "name": "Underwater Africa Volunteer Program",
+      "city": "Inhambane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.8547795,
+        "lon": 35.549909
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Underwater Africa Volunteer Program, Rua Das Tamareiras, 1, 1111 Inhambane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51114537b176f940405991c9f32a7c4333c0f00103f9012e6b139401000000",
+      "name": "N1",
+      "city": "Inchope",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -19.2636134,
+        "lon": 33.9489347
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "N1, Inchope, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f1c0588826a414059b22d03ce52d433c0f00103f901e9f0a41503000000",
+      "name": "Rua Major Serpa",
+      "city": "Beira",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -19.8293885,
+        "lon": 34.8321085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Major Serpa, 2100 Beira, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aeafbf362cba41405981de65d01acb35c0f00103f901f1347e6d01000000",
+      "name": "Bazaruto",
+      "city": "Bazaruto",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -21.7933779,
+        "lon": 35.4544743
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bazaruto, Inhambane Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510bbd59deb0c44140595d15a8c5e0d737c0f00103f90159b5d1a501000000920313436176616c686569726f7320646f20546f666f",
+      "name": "Cavalheiros do Tofo",
+      "city": "Inhambane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.8432735,
+        "lon": 35.5366476
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Horse Riding Tofo, Rua Da Lagoa, 1308 Inhambane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5171ea5e82ae38414059a8453305214334c0f00103f9016a6fcd8901000000",
+      "name": "R560",
+      "city": "Buzi",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -20.2622226,
+        "lon": 34.4428256
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "R560, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c9d2f51180941405931a715f07ca232c0f00103f901ad7372ed02000000",
+      "name": "N1",
+      "city": "Matanda",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.6347189,
+        "lon": 34.0710546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Matanda, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51026f3777aa07414059e7898cb38e3f32c0f00103f901c37872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.2482712,
+        "lon": 34.0598897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a80826edfcf740405963fb7f8b047732c0f00103f901137472ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.4649131,
+        "lon": 33.9374062
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51062d246074b1414059377ef2c17cdd37c0f00103f901dd6d2b480200000092031d4573746163616f206465732043616d696e686f7320646520466572726f",
+      "name": "Estacao des Caminhos de Ferro",
+      "city": "Inhambane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.8651849,
+        "lon": 35.386364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Estacao des Caminhos de Ferro, N242, Inhambane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7455acfb5084140592098a3c7ef3b32c0f00103f9014d7372ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.2341275,
+        "lon": 34.0680484
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abd3dc651af94040595d64a7c41a4f32c0f00103f9014e7372ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.3090022,
+        "lon": 33.9461181
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511226d6f37fb4414059c30bc79860e337c0f00103f9011d1297b00100000092030e53747564696f20426f6d20446961",
+      "name": "Studio Bom Dia",
+      "city": "Inhambane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.8881927,
+        "lon": 35.4101548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Studio Bom Dia, N242, Inhambane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7f61b92ff5e4140594056a64ef69d33c0f00103f901e7ac8e7a01000000",
+      "name": "N6",
+      "city": "Magação",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -19.6170396,
+        "lon": 34.7421744
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N6, Magação, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123cacd267632414059cc7a319413f132c0f00103f901faafc5130000000092031c506172717565204e6163696f6e616c20646120476f726f6e676f7361",
+      "name": "Parque Nacional da Gorongosa",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.941705,
+        "lon": 34.3942307
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parque Nacional da Gorongosa, Gorongosa, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7cb232477b1414059eabe524c94dd37c0f00103f90115cc43490200000092031d4573746163616f206465732043616d696e686f7320646520466572726f",
+      "name": "Estacao des Caminhos de Ferro",
+      "city": "Inhambane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.8655441,
+        "lon": 35.3864484
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Estacao des Caminhos de Ferro, N242, Inhambane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c201e2edebe4140595441fb4795cd37c0f00103f901c952659502000000",
+      "name": "Cultural Show",
+      "city": "Inhambane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.8030591,
+        "lon": 35.4911554
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cultural Show, Estrada da Barra, 1308 Inhambane, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d2abbaafd3341405970eeaf1ef7dd32c0f00103f901fb85cc3500000000",
+      "name": "Gorongosa",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.867052,
+        "lon": 34.4061788
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gorongosa, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5152407f468eff404059ba185ea4ab8932c0f00103f901c17872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.5377753,
+        "lon": 33.9965294
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516becb71be9be4140595805c5eaea3b37c0f00103f901ed14d44702000000",
+      "name": "Morrungulo Beach",
+      "city": "Massinga",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -23.2340533,
+        "lon": 35.4914889
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Morrungulo Beach, Massinga, Inhambane Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cd71eacb583404059e18cabdbea7732c0f00103f90181431b3c03000000",
+      "name": "Zaramira",
+      "city": "Manica",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.4684274,
+        "lon": 33.0289817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Zaramira, Manica, Manica Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143af9a4242b44040595432a59afe4731c0f00103f9019deefe6e01000000",
+      "name": "Big Rock",
+      "city": "Guro",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -17.2812287,
+        "lon": 33.4082721
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Big Rock, N7, Guro, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e38920cec30941405907921c55f2a832c0f00103f901497372ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.6599477,
+        "lon": 34.076288
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Gorongosa, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e355d636c561404059c564bb8cac3a2fc0f00103f90191ec624102000000920308457374c3a1747561",
+      "name": "Estátua",
+      "city": "Songo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -15.6145977,
+        "lon": 32.763831
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Estátua, Av. Armando Emilio Guebusa, Songo, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51208d5429878d40405945ad7a0aca7e32c0f00103f9011d431b3c03000000",
+      "name": "Monte Chito",
+      "city": "Mavonde",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.4952704,
+        "lon": 33.1056873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Chito, R525, Mavonde, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51682f91c140f54040594f65074b2b5e32c0f00103f901c77872ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.3678481,
+        "lon": 33.9160387
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5182bfa959b1ff434059c811c6aa9c052bc0f00103f901a49a99c60000000092031051756564617320646f204cc3ba72696f",
+      "name": "Quedas do Lúrio",
+      "city": "Maririni",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -13.5109609,
+        "lon": 39.9975998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lurio Waterfalls, Maririni, Cabo Delgado Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517944e0a3596641405931ab1cffaa4829c0f00103f901f1ad954d01000000",
+      "name": "Summit chuwanga view",
+      "city": "Metangula",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -12.6419296,
+        "lon": 34.7996106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Summit chuwanga view, R1210, Niassa Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51728bf9b9a16b414059116a2b9bded833c0f00103f901c52c26a001000000",
+      "name": "Grande Hotel Beira",
+      "city": "Beira",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -19.8471467,
+        "lon": 34.840873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grande Hotel Beira, Avenida Mateus Sansao Muthemba, 2100 Beira, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51afc277ac635e4140591cf1bff0a51932c0f00103f9014b7372ed02000000",
+      "name": "N1",
+      "city": "Maringué",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.1001883,
+        "lon": 34.7374168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141a84187aff543405908e3a7716fe62dc0f00103f901f11a1a82020000009203084d65737175697461",
+      "name": "Mesquita",
+      "city": "Nampula",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.950069,
+        "lon": 39.9194192
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mesquita, N1, Nampula, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518fff0241801c414059b28009dcbaf32cc0f00103f901757a734701000000920305446f6d7565",
+      "name": "Domue",
+      "city": "Angónia",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.476035,
+        "lon": 34.222664
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Domue, Angónia, Tete Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51effc474b8aff40405900a5468dae8932c0f00103f901127472ed02000000",
+      "name": "N1",
+      "city": "Gorongosa",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -18.5378197,
+        "lon": 33.9964079
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Sofala Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a11ae54f0abc4340599c71755b7dd42fc0f00103f901cd672d34020000009203084d65737175697461",
+      "name": "Mesquita",
+      "city": "Mogovolas",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -15.9150189,
+        "lon": 39.4690647
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mesquita, N104, Nampula Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51880dbb945fc5434059a1e1838da12a2ec0f00103f9015e481c82020000009203084d65737175697461",
+      "name": "Mesquita",
+      "city": "Nampula",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -15.0832638,
+        "lon": 39.5419794
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mesquita, N1, Nampula, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51643090b124294340598ecfbfb8afe22dc0f00103f9013d5877e200000000",
+      "name": "N13",
+      "city": "Ribaue",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.9427469,
+        "lon": 38.3214323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "N13, Ribaue, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513be4c17174b4424059ae47e17a14ea2dc0f00103f901650790010100000092030c4865726f657320506c617a61",
+      "name": "Heroes Plaza",
+      "city": "Malema",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.9571875,
+        "lon": 37.4098036
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Heroes Plaza, N13, Malema, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51063a49a93ad54340595fb296a718042ec0f00103f9015d481c82020000009203084d65737175697461",
+      "name": "Mesquita",
+      "city": "Nampula",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -15.0080006,
+        "lon": 39.6658527
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mesquita, N1, Nampula, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abc14538779f4140594134a95780992ac0f00103f9010b236d4d01000000920313506c61636520646f73204c6962657261646f73",
+      "name": "Place dos Liberados",
+      "city": "Lichinga",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -13.2998073,
+        "lon": 35.2458258
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Place dos Liberados, N361, 3300 Lichinga, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3f08fad1d5e41405904d083166d5128c0f00103f901173fcc4d010000009203055072616961",
+      "name": "Praia",
+      "city": "Cobué",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -12.1590354,
+        "lon": 34.7352807
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Praia, Cobué Pr. Road, Cobué, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51201384865911444059e417b90265ce2dc0f00103f901e69f1982020000009203084d65737175697461",
+      "name": "Mesquita",
+      "city": "Carapira",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.9031144,
+        "lon": 40.1355446
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mesquita, N8, Carapira, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51102d6810d50844405951f701486dca2dc0f00103f901ca931982020000009203084d65737175697461",
+      "name": "Mesquita",
+      "city": "Carapira",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.895365,
+        "lon": 40.0690022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mesquita, N8, Carapira, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51538e2cd5295f444059485db473d80e2ec0f00102f901d6e54a0c0000000092031c466f7274616c657a612064652053c3a36f2053656261737469c3a36f",
+      "name": "Fortaleza de São Sebastião",
+      "city": "Ilha de Mocambique",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -15.028995147483002,
+        "lon": 40.74346413302978
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort of São Sebastião, Rua dos Combatentes, Ilha de Mocambique, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e29f0898af45444059ffed0d19eaff27c0f00103f90135c450c70000000092030d506f6e74612050616e67616e65",
+      "name": "Ponta Pangane",
+      "city": "Pangane",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -11.9998329,
+        "lon": 40.5444212
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Pangane, Pangane, Cabo Delgado Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5188226e30744b444059edea8a9e9bb028c0f00102f9013a10891500000000920318466f7274696d2064652053616e746f20416e74c3b36e696f",
+      "name": "Fortim de Santo António",
+      "city": "Ibo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -12.344937281091427,
+        "lon": 40.58948331239395
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fortim de Santo António, Bairro Rituto, Ibo, Cabo Delgado Province, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c42ba4575e54444059696e85b01aef2dc0f00103f9015c6c66d00000000092031252616d706120646f73204573637261766f73",
+      "name": "Rampa dos Escravos",
+      "city": "Mossuril",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -14.9670005,
+        "lon": 40.6591291
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rampa dos Escravos, 235, Mossuril, Mozambique",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8e0df30944a4440597442946d81b028c0f00102f9010958891500000000920314466f7274696d2064652053c3a36f204a6f73c3a9",
+      "name": "Fortim de São José",
+      "city": "Ibo",
+      "country": "Mozambique",
+      "country_code": "mz",
+      "coordinates": {
+        "lat": -12.344737457607359,
+        "lon": 40.58264742785963
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fortim de São José, Bairro Cumuamba, Ibo, Cabo Delgado Province, Mozambique",
+      "description": null,
+      "image": null
+    }
+  ]
+}

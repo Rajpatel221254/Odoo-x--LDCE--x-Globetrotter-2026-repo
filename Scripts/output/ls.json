@@ -1,0 +1,1101 @@
+{
+  "country_code": "ls",
+  "country_name": "Lesotho",
+  "boundary_place_id": "51600729d3c3553c405963aeb1f09a9a3dc0f00101f901b2f01f0000000000c0020b9203074c65736f74686f",
+  "count": 58,
+  "places": [
+    {
+      "place_id": "51bd7960b653c33b4059f5b7a9262d273dc0f00103f9010edf3c020100000092030a6d616e67612073697465",
+      "name": "manga site",
+      "city": "Ha Bale",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.1530327,
+        "lon": 27.7629961
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "manga site, B11, Ha Bale 200, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512323b1ee69a43b40590e5afe32ce673ec0f00103f901036c69ff020000009203134d61736974697365204361766520486f757365",
+      "name": "Masitise Cave House",
+      "city": "Paballong (Thabong)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -30.4054901,
+        "lon": 27.6422414
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Masitise Cave House, D2009, Paballong (Thabong), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110ae80423d893b405934901d0a555e3dc0f00103f9011eb438a901000000",
+      "name": "Matala Circle",
+      "city": "Lithabaneng",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3684851,
+        "lon": 27.536091
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Matala Circle, Lithabaneng 160, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5171ab2006ba763b4059fbe6feea71673dc0f00103f9011e838322010000009203234c696b61746f6c6120486f72736520526964696e6720616e6420416476656e74757265",
+      "name": "Likatola Horse Riding and Adventure",
+      "city": "Makhanyeng",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.404082,
+        "lon": 27.463776
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Likatola Horse Riding and Adventure, B321, Makhanyeng, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e942d92768b3b4059f2bc0adfb1503dc0f00103f901669c16530000000092030c4c616e636572277320476170",
+      "name": "Lancer's Gap",
+      "city": "Leqhalang (Ha Rats'oene-Thebe)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3152141,
+        "lon": 27.544778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lancer's Gap Road, Leqhalang (Ha Rats'oene-Thebe) 102, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5106c2a96adda93b40599748b3c3a9583dc0f00103f9015a94b20103000000",
+      "name": "B31",
+      "city": "Thaba Bosiu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3463404,
+        "lon": 27.6635348
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "B31, Thaba Bosiu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c931a3699a133c405958b0e83125e13dc0f00103f90152e0ddee00000000920315426f616c612d546861706f2056696577706f696e74",
+      "name": "Boala-Thapo Viewpoint",
+      "city": "Ha Leloko (Ha Manama)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8794738,
+        "lon": 28.0765749
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Boala-Thapo Viewpoint, A5, Ha Leloko (Ha Manama), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fcbdb964c1f73b4059be1017258d6e3dc0f00103f901867a2caa01000000",
+      "name": "A3",
+      "city": "Ha Chalalisa",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.4318412,
+        "lon": 27.9677947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A3, Ha Chalalisa, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51899d842dd1f63b40596df24a485a303ec0f00103f901a1d8185e020000009203154c6562656c6f6e79616e652056696577706f696e74",
+      "name": "Lebelonyane Viewpoint",
+      "city": "Ha Lebesele",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -30.1888776,
+        "lon": 27.9641293
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lebelonyane Viewpoint, Lebelonyane Hill, Ha Lebesele, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec014e4a9c0c3c40597396fecaefdf3dc0f00103f9016a88271f010000009203174d616c657473756e79616e652046616c6c732056696577",
+      "name": "Maletsunyane Falls View",
+      "city": "Ha Moahloli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8747527,
+        "lon": 28.0492598
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maletsunyane Falls View, Lookout Point, Ha Moahloli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51287513c660833b4059c396c39382a33dc0f00103f9011ab90cac02000000",
+      "name": "The Bafana's Training Colledge Road",
+      "city": "Morija",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.6387112,
+        "lon": 27.5131954
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "The Bafana's Training Colledge Road, Morija, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192ec116a86163c405942052c5ed1163dc0f00103f9016cf513010100000092030c706875746869617473616e61",
+      "name": "phuthiatsana",
+      "city": "Ha Hlaole",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.0891322,
+        "lon": 28.0879885
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "phuthiatsana, D1302, Ha Hlaole, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f947953522a93b4059ec467a236c583dc0f00102f901024e83140000000092031c54686162612d426f7369752043756c747572616c2056696c6c616765",
+      "name": "Thaba-Bosiu Cultural Village",
+      "city": "Thaba Bosiu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.34540006385116,
+        "lon": 27.660678242631523
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Thaba-Bosiu Cultural Village, B31, Thaba Bosiu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be62b25d46763c4059bfafdbb122e83cc0f00103f901a6bd417c02000000",
+      "name": "Three Cascades",
+      "city": null,
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -28.9067794,
+        "lon": 28.4620112
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Three Cascades, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51815eb873617e3b4059f3a7323102513dc0f00103f901fe5330a901000000",
+      "name": "A1;A2;A6;A10;B90",
+      "city": "Maseru",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3164397,
+        "lon": 27.4936745
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "A1;A2;A6;A10;B90, Maseru 100, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51039fd5b8ed993c4059e74fc01b77c13cc0f00103f901465cfe0303000000",
+      "name": "A1",
+      "city": "Sentelina (Ha Ramahotetsa)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -28.7557237,
+        "lon": 28.6012836
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A1, Sentelina (Ha Ramahotetsa), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e902d0a9dab3b4059dc1be20a155b3dc0f00102f9011adead470000000092030b54686162612d426f736975",
+      "name": "Thaba-Bosiu",
+      "city": "Thaba Bosiu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.355789833261824,
+        "lon": 27.670364986538168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Thaba-Bosiu, B31, Thaba Bosiu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51300dc347c4de3b405970a653686a3f3dc0f00103f901a22ec5ff020000009203144861204b6f6d6520436176652056696c6c616765",
+      "name": "Ha Kome Cave Village",
+      "city": "Ha Patrick",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.2477174,
+        "lon": 27.8701825
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ha Kome Cave Village, B11, Ha Patrick, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516cff14d8ad1f3d4059f8b30efdc9dc3dc0f00103f90192c9bd1c0300000092030b526f636b20617263686573",
+      "name": "Rock arches",
+      "city": "Thamathu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8624571,
+        "lon": 29.1237464
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rock arches, B45, Thamathu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3096f6afb163c40592eca6c9049783dc0f00103f901dcff030203000000",
+      "name": "C330",
+      "city": "Sekokoaneng (Ha Mafela)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.4698725,
+        "lon": 28.0897738
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "C330, Sekokoaneng (Ha Mafela), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc784375ce743b40593270e591e4583dc0f00103f90164e6ddfd02000000",
+      "name": "A7",
+      "city": "Maseru",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3472377,
+        "lon": 27.4562753
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "A7, Maseru 100, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112503cc2c4163c40590503be912f793dc0f00103f90134dc030203000000",
+      "name": "C330",
+      "city": "Sekokoaneng (Ha Mafela)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.4733821,
+        "lon": 28.0889398
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "C330, Sekokoaneng (Ha Mafela), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ac3fb60cf673c4059a3d57f8c6f103dc0f00103f9016a3d4eaa010000009203164d66696b61204c69736975205669657720506f696e74",
+      "name": "Mfika Lisiu View Point",
+      "city": null,
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.0642021,
+        "lon": 28.4055081
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mfika Lisiu View Point, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a20bea5be6d43c4059ba22426d654d3dc0f00103f9014aef70aa0200000092030f53656e71752076696577706f696e74",
+      "name": "Senqu viewpoint",
+      "city": "Makokoaneng",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3023289,
+        "lon": 28.83164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Senqu viewpoint, B17, Makokoaneng, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8154b36c3163c40595f06088b2f793dc0f00103f90132dc030203000000",
+      "name": "C330",
+      "city": "Sekokoaneng (Ha Mafela)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.4733817,
+        "lon": 28.0889162
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "C330, Sekokoaneng (Ha Mafela), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149337106dad63b405929379bd88d6a3dc0f00103f901e56a3dca020000009203084e617a6172657468",
+      "name": "Nazareth",
+      "city": "Ha Nqheku",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.4162269,
+        "lon": 27.8392643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nazareth, A3, Ha Nqheku, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189268b8da4af3b4059a1f4f6dd17593dc0f00102f90155cdb4200000000092030751696c6f616e65",
+      "name": "Qiloane",
+      "city": "Qiloane",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.34802043227376,
+        "lon": 27.68610462805967
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Qiloane, B31, Qiloane, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa903c21851e3c40598ebd288b0c763dc0f00103f901e04e596c00000000",
+      "name": "B33",
+      "city": "Ha Koporala",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.4611289,
+        "lon": 28.1192189
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "B33, Ha Koporala, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513555415601323d405939a2d68fa8853dc0f00103f901ddecb02f010000009203104b6f7469736570686f6c612050617373",
+      "name": "Kotisephola Pass",
+      "city": null,
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.5221033,
+        "lon": 29.1953329
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kotisephola Pass, A31, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160f536ecad813c4059394ec06504583dc0f00103f9010baa7d870100000092030a5669657720706f696e74",
+      "name": "View point",
+      "city": "Khokhoba( Ha Menztel)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3438171,
+        "lon": 28.5065601
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View point, B81, Khokhoba( Ha Menztel) 333, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51578e35c8c9d53b40599aa95a1cdf363dc0f00103f9012107fb440100000092031142726f6b656e20666f6f74627269646765",
+      "name": "Broken footbridge",
+      "city": "Ha Monethi",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.2143419,
+        "lon": 27.8351102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Broken footbridge, D1111, Ha Monethi, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164d6411482273c4059b1080fe4eaff3dc0f00103f901fbd4e6ee0000000092030d51756573682d4d617175657368",
+      "name": "Quesh-Maquesh",
+      "city": "Liphamoleng",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.9996779,
+        "lon": 28.1543286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Quesh-Maquesh, A5, Liphamoleng, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510fc86f1b576d3c4059d8fcaebe70ed3cc0f00103f901a1c9a7ff020000009203124e6174696f6e616c205061726b2047617465",
+      "name": "National Park Gate",
+      "city": null,
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -28.9275016,
+        "lon": 28.4271104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "National Park Gate, B14, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149a93a9ad99f3b4059810706103ed63dc0f00103f9019dfd51310100000092030870696e7475726173",
+      "name": "pinturas",
+      "city": "Village group Malealea",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8368845,
+        "lon": 27.6244141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "pinturas, B252, Village group Malealea, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da093aa9d00c3c4059f9a8cd18b6e03dc0f00102f9010301f1440000000092031a274d616c657473756e79616e652046616c6c73205265736f7274",
+      "name": "'Maletsunyane Falls Resort",
+      "city": "Ha Moahloli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.87777857800481,
+        "lon": 28.050058914823104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "'Maletsunyane Falls Resort, Lookout Point, Ha Moahloli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e547c32b57f3c4059feb627486c313dc0f00103f901195f485d02000000",
+      "name": "A8",
+      "city": "Mphorosane",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.1930585,
+        "lon": 28.4988586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A8, Mphorosane, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5f48f74bc7a3c4059040539831a2d3dc0f00103f9010caa7d87010000009203135669657720706f696e74202d20627269646765",
+      "name": "View point - bridge",
+      "city": "Ha Thibeli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.1761858,
+        "lon": 28.4794381
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View point - bridge, A8, Ha Thibeli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e70aa5e5f69f3b40596ebb75a334d63dc0f00103f901e45b653001000000920310427573686d656e20526f636b20417274",
+      "name": "Bushmen Rock Art",
+      "city": "Village group Malealea",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8367407,
+        "lon": 27.6248611
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bushmen Rock Art, B252, Village group Malealea, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5153fdef2d51da3b4059721afdc3f1293dc0f00103f901b393f4000100000092030b6272696467652073697465",
+      "name": "bridge site",
+      "city": "Ha Lenea",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.1638453,
+        "lon": 27.8528012
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "bridge site, D1211, Ha Lenea, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a81a32e630c3c4059a458c922a8df3dc0f00103f901be54e90203000000",
+      "name": "D5006",
+      "city": "Ha Moahloli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8736593,
+        "lon": 28.0483884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "D5006, Ha Moahloli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac58576023e83b405901b73874c4373dc0f00103f901d5a5a4290300000092030d4d616c696d6f6e672043617665",
+      "name": "Malimong Cave",
+      "city": "Ha Matjotjo",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.2178414,
+        "lon": 27.9067898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Malimong Cave, D1102, Ha Matjotjo, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c22e2f6585833c4059401361c3d3353dc0f00103f901b55e485d02000000",
+      "name": "A8",
+      "city": "Mphorosane",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.2102625,
+        "lon": 28.5137542
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A8, Mphorosane, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b792b01e7813b40591977de2120a03dc0f00103f9018342ec66000000009203144d616564657220486f7573652047616c6c657279",
+      "name": "Maeder House Gallery",
+      "city": "Morija",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.6254903,
+        "lon": 27.5074311
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maeder House Gallery, B23, Morija, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103fbf900ee9f3b4059a92391c71dd63dc0f00103f901a956663001000000920310427573686d656e20526f636b20417274",
+      "name": "Bushmen Rock Art",
+      "city": "Village group Malealea",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8363919,
+        "lon": 27.6247254
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bushmen Rock Art, B252, Village group Malealea, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140fa264d83123c4059bf7e880d16e03dc0f00103f9014dfab3ce02000000",
+      "name": "A5",
+      "city": "Ha Leloko (Ha Manama)",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8753365,
+        "lon": 28.072316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A5, Ha Leloko (Ha Manama), Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510809ac77130d3c4059b8978fff5de03dc0f00103f901f5ed2081020000009203174d616c657473756e79616e652046616c6c732056696577",
+      "name": "Maletsunyane Falls View",
+      "city": "Ha Moahloli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8764343,
+        "lon": 28.0510783
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maletsunyane Falls View, Lookout Point, Ha Moahloli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51301576acad4d3c4059458ab78432093ec0f00103f901fc0447c60200000092030f48656c69636f7074657220526f636b",
+      "name": "Helicopter Rock",
+      "city": "Ha Ramoroba",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -30.0359271,
+        "lon": 28.3034313
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Helicopter Rock, A4, Ha Ramoroba, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51041bd7bfeb0b3c40595d5d047c6de03dc0f00103f901033c88fd000000009203124d616c657473756e79616e652046616c6c73",
+      "name": "Maletsunyane Falls",
+      "city": "Ha Moahloli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8766706,
+        "lon": 28.046566
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maletsunyane Falls, D5006, Ha Moahloli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112e8024d3a843c40592ae09ee74f513dc0f00103f90115ab630303000000",
+      "name": "A8",
+      "city": "Ha Theko",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3176255,
+        "lon": 28.5165146
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A8, Ha Theko 333, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517927fad74de83c4059df2a99ad06f63cc0f00103f901c560ba5f01000000920312536f6c616e6520486f7420537072696e6773",
+      "name": "Solane Hot Springs",
+      "city": "Maloraneng",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -28.9610394,
+        "lon": 28.9074378
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Solane Hot Springs, D1018, Maloraneng, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a366fe87aa1e3d4059283806ae3cde3dc0f00103f90171c9bd1c0300000092030a526f636b20706f6f6c73",
+      "name": "Rock pools",
+      "city": "Thamathu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8681134,
+        "lon": 29.1197896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rock pools, B45, Thamathu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d927db1bd77c3c40591bdf72501df03cc0f00103f901af73f11d01000000920314486f6d6f6c6f205061732056696577706f696e74",
+      "name": "Homolo Pas Viewpoint",
+      "city": null,
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -28.9379473,
+        "lon": 28.4876573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Homolo Pas Viewpoint, Three Cascades, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51589c20a0b1273c4059f3075e8830633dc0f00103f901b324c37e0200000092030f46696b612d4c652d4c657365686c61",
+      "name": "Fika-Le-Lesehla",
+      "city": "Khamolane",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.3874593,
+        "lon": 28.1550541
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Fika-Le-Lesehla, D3302, Khamolane, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168812cfaf90b3c4059f2d82a1c9cdf3dc0f00103f9013d35b25d0200000092031d4d616c657473756e79616e652046616c6c73205669657720506f696e74",
+      "name": "Maletsunyane Falls View Point",
+      "city": "Ha Moahloli",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8734758,
+        "lon": 28.0467831
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maletsunyane Falls View Point, D5006, Ha Moahloli, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189c1b28817da3c4059099ae0e533403dc0f00103f901b1ce50380300000092030d546c6f68612d72652d42756865",
+      "name": "Tloha-re-Buhe",
+      "city": "Tloha-Re-Buhe",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.2507919,
+        "lon": 28.8519216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tloha-re-Buhe, B17, Tloha-Re-Buhe, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ee896676f1e3d4059d5366a2a30dd3dc0f00103f9017bc9bd1c0300000092030b436174746c6520706f7374",
+      "name": "Cattle post",
+      "city": "Thamathu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8640162,
+        "lon": 29.1188874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cattle post, B45, Thamathu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fe7c00f7e11f3d40599744acb47bdc3dc0f00103f90193c9bd1c03000000920317546872656520427573686d656e2076696577706f696e74",
+      "name": "Three Bushmen viewpoint",
+      "city": "Thamathu",
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -29.8612626,
+        "lon": 29.1245417
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Three Bushmen viewpoint, B45, Thamathu, Lesotho",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f8fcf1a72763c4059f3d0d27025ea3cc0f00103f90169b3417c0200000092030e5468726565204361736361646573",
+      "name": "Three Cascades",
+      "city": null,
+      "country": "Lesotho",
+      "country_code": "ls",
+      "coordinates": {
+        "lat": -28.9146338,
+        "lon": 28.4626786
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Three Cascades, Lesotho",
+      "description": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "country_code": "ai",
+  "country_name": "Anguilla",
+  "boundary_place_id": "51a5b7e45d9a894fc059950acff00b323240f00101f9018938210000000000c0020b920308416e6775696c6c61",
+  "count": 9,
+  "places": [
+    {
+      "place_id": "51385ac466368c4fc059619c09979f313240f00103f9015aafffbc0200000092030d416e6775696c6c61205369676e",
+      "name": "Anguilla Sign",
+      "city": "South Hill",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1938414,
+        "lon": -63.0954102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Anguilla Sign, Beach Access, South Hill, AI-2640 Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f13c7cbe4944fc0594aa995534c2b3240f00103f9017ae288bd0200000092030441726368",
+      "name": "Arch",
+      "city": "West End Village",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1691334,
+        "lon": -63.1632323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Arch, Albert Hughes Drive, West End Village, Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51357d76c075894fc05901e5a55137363240f00103f9013e7a02f60200000092030d4b61746f756368652057656c6c",
+      "name": "Katouche Well",
+      "city": "North Hill Village",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.2117816,
+        "lon": -63.073906
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Katouche Well, Katouche Trail, North Hill Village, AI-2640 Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e047866dd944fc059c04989134e2b3240f00103f90113f0302f01000000",
+      "name": "Albert Hughes Drive",
+      "city": "West End Village",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1691601,
+        "lon": -63.1630066
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Albert Hughes Drive, West End Village, Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510df0ee12e6944fc0596a8f728b542b3240f00103f90119f0302f01000000",
+      "name": "Albert Hughes Drive",
+      "city": "West End Village",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1692588,
+        "lon": -63.1632713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Albert Hughes Drive, West End Village, Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150d0dcf9348c4fc059d97cb7d49c313240f00103f901297302bd02000000",
+      "name": "Back Street",
+      "city": "South Hill",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1937993,
+        "lon": -63.0953667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Back Street, South Hill, AI-2640 Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d20d7e1438c4fc059c811c6aa9c2b3240f00103f901eb39408e00000000920311446f6c7068696e20446973636f76657279",
+      "name": "Dolphin Discovery",
+      "city": "Blowing Point",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1703593,
+        "lon": -63.0958216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dolphin Discovery, Cul-De-Sac Drive, Blowing Point, Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0bd9fbf75844fc0599b0e53115d403240f00103f901193d4bf80200000092031b466f756e7461696e2043617665726e20506574726f676c79706873",
+      "name": "Fountain Cavern Petroglyphs",
+      "city": "Shoal Bay Village",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.2514201,
+        "lon": -63.0348434
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Fountain Cavern Petroglyphs, Brimegin Road, Shoal Bay Village, AI-2640 Anguilla",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d662a6a3d28b4fc0592d7f19e7ca313240f00103f9011d8e02bd02000000",
+      "name": "Back Street",
+      "city": "South Hill",
+      "country": "Anguilla",
+      "country_code": "ai",
+      "coordinates": {
+        "lat": 18.1945023,
+        "lon": -63.0923657
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Back Street, South Hill, AI-2640 Anguilla",
+      "description": null,
+      "image": null
+    }
+  ]
+}

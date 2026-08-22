@@ -1,0 +1,409 @@
+{
+  "country_code": "gm",
+  "country_name": "Gambia",
+  "boundary_place_id": "518a0b9b5ce7fa2ec059492f6af7abf02a40f00101f90106f1020000000000c0020b92030a5468652047616d626961",
+  "count": 21,
+  "places": [
+    {
+      "place_id": "519b1084752db32fc0590243fbfd07b12a40f00103f9015a586d67010000009203154b69616e67204e6174696f6e616c20466f72657374",
+      "name": "Kiang National Forest",
+      "city": "Sankandi",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3457641,
+        "lon": -15.8499562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kiang National Forest, South Bank Road, Sankandi, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b988940b3ac430c059f6436cb070c62a40f00103f901f27f29a00100000092030f53616e6e65686d656e746572656e67",
+      "name": "Sannehmentereng",
+      "city": "Ghanatown",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3875785,
+        "lon": -16.7665107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sannehmentereng, Coastal Road, Ghanatown, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120d099b4a9ac30c0593bd9171a99f52a40f00103f901e0bcb4150000000092030f47656e612042657320426174696b73",
+      "name": "Gena Bes Batiks",
+      "city": "Serrekunda",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.4796837,
+        "lon": -16.6744645
+      },
+      "categories": [
+        "commercial",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gena Bes Batiks, Salung Street, Serrekunda, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e43b6e2d1b030c05904a3dcc71bca2a40f00103f9016031a998000000009203064d794661726d",
+      "name": "MyFarm",
+      "city": "Sukuta",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3947432,
+        "lon": -16.6907026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "MyFarm, Service Road, Sukuta, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c07d0c4aca930c0598b0eb99a6a9a2a40f00102f90156cbc7060000000092031f4e6174696f6e616c204265656b656570657273204173736f63696174696f6e",
+      "name": "National Beekeepers Association",
+      "city": "Medina Suware Kunda",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.301594576921408,
+        "lon": -16.662792492664536
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "National Beekeepers Association, Brikama Highway, Medina Suware Kunda, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191dfbc8ed4222ec059ccdc46264e822b40f00102f901665eb81d0000000092031b53746f6e6520636972636c6573206f66204b657272204261746368",
+      "name": "Stone circles of Kerr Batch",
+      "city": "Njama Hainuman",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.754502483511168,
+        "lon": -15.06802793555815
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Stone circles of Kerr Batch, North Bank Road, Njama Hainuman, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c95466ef31a52fc059aa317c9f05ac2a40f00103f90106d33c540100000092031844756d6275746f20436f6d6d756e69747920466f72657374",
+      "name": "Dumbuto Community Forest",
+      "city": "Sankandi",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3359804,
+        "lon": -15.8226466
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dumbuto Community Forest, South Bank Road, Sankandi, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51820e04125ef02dc0597ad278d8fa702b40f00103f9012d3abd540200000092033c457069632076696577206f662047616d6269612072697665722c206865617264206120486970706f2c206469646ee280997420736565206974e280a6",
+      "name": "Epic view of Gambia river, heard a Hippo, didn’t see it…",
+      "city": "Jallow Kunda",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.7206638,
+        "lon": -14.9694677
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Epic view of Gambia river, heard a Hippo, didn’t see it…, Bantaba, Jallow Kunda, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e38a8ba3726b2cc0592071d9322a9e2a40f00103f901d2707577010000009203104b616261204b616d6120427269646765",
+      "name": "Kaba Kama Bridge",
+      "city": "Basse Santa Su",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3089157,
+        "lon": -14.209859
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Kaba Kama Bridge, South Bank Road, Basse Santa Su, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c93a98251a52ec0593ba4bd665e672b40f00103f901f1f3204002000000",
+      "name": "North Bank Road",
+      "city": "Kerr Mod Ali",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.7018921,
+        "lon": -15.3228875
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "North Bank Road, Kerr Mod Ali, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c91555bfbac30c059564b958334e22a40f00103f9018a6d85a0010000009203095461656b776f6e646f",
+      "name": "Taekwondo",
+      "city": "Serrekunda",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.4418069,
+        "lon": -16.6757104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Taekwondo, Brikama Highway, Serrekunda, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177459506239f30c059b40efdc9ce912a40f00103f901555e34ad01000000920311456e7472616e6365206d616b6173757475",
+      "name": "Entrance makasutu",
+      "city": "Mandina Ba",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.2847808,
+        "lon": -16.6216282
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Entrance makasutu, South Bank Road, Mandina Ba, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5400a3f1a9530c05910bc2e41b1eb2a40f00102f9011e0a3d0f0000000092030741726368203232",
+      "name": "Arch 22",
+      "city": "Banjul",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.460336720423612,
+        "lon": -16.58243173599546
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.public_and_civil",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Arch 22, Independence Drive, Banjul, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516166e95443aa30c059050eb27625b72a40f00103f9016264ed240000000092030d4b616e696c6169204661726d73",
+      "name": "Kanilai Farms",
+      "city": "Yundum",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3577077,
+        "lon": -16.6650899
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kanilai Farms, Brikama Highway, Yundum, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b2d528f758c30c059af9ee63d98f92a40f00102f9019a00b10f0000000092030b466f72742042756c6c656e",
+      "name": "Fort Bullen",
+      "city": "Barra",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.4874896377581,
+        "lon": -16.54866882091765
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort Bullen, Ferry Terminal Road, Barra, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514888f2052dac30c0591a0cbfe5fbf32a40f00103f90161b1b415000000009203194b616368696b616c6c792043726f636f64696c6520506f6f6c",
+      "name": "Kachikally Crocodile Pool",
+      "city": "Serrekunda",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.4765312,
+        "lon": -16.672562
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kachikally Crocodile Pool, Salung Street, Serrekunda, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cad644b0bbba30c05937b5222015cd2a40f00103f901cdd635ef010000009203154272757375626920506861736531206d61726b6574",
+      "name": "Brusubi Phase1 market",
+      "city": "Sukuta",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.4005518,
+        "lon": -16.7294264
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Brusubi Phase1 market, West 10th Street, Sukuta, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f8ec5b35bfca30c059dffc48f700892a40f00102f9014d323f0f000000009203104f737072657920426561636820426172",
+      "name": "Osprey Beach Bar",
+      "city": "Sanyang",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.267585494670525,
+        "lon": -16.79198010916022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Osprey Beach Bar, How Ba Road, Sanyang, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f13494fecce30c059bb359f292ab12a40f00103f9019523da9b00000000",
+      "name": "Coastal Road",
+      "city": "Tanji",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3460248,
+        "lon": -16.8082933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Coastal Road, Tanji, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51658ba4dde8c930c05917c737cab0a02a40f00103f901adf37c1e010000009203136172742076696c6c616765207475726e696e67",
+      "name": "art village turning",
+      "city": "Tujereng",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.3138488,
+        "lon": -16.7887095
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "art village turning, Coastal Road, Tujereng, The Gambia",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511997da3957cc30c059c341139da6b62a40f00102f901af7708090000000092031746697368204d61726b657420616e6420536d6f6b657279",
+      "name": "Fish Market and Smokery",
+      "city": "Tanji",
+      "country": "The Gambia",
+      "country_code": "gm",
+      "coordinates": {
+        "lat": 13.356739910698598,
+        "lon": -16.798205963007693
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fish Market and Smokery, Coastal Road, Tanji, The Gambia",
+      "description": null,
+      "image": null
+    }
+  ]
+}

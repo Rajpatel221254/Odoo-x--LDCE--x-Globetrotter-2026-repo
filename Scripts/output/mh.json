@@ -1,0 +1,68 @@
+{
+  "country_code": "mh",
+  "country_name": "Marshall Islands",
+  "boundary_place_id": "51d738f64773f9644059bfb854a52d762040f00101f9017bb9080000000000c0020b9203104d61727368616c6c2049736c616e6473",
+  "count": 3,
+  "places": [
+    {
+      "place_id": "51a7602dd9daf5644059620475a06e812140f00102f901765d94050000000092030b5072696e7a20457567656e",
+      "name": "Prinz Eugen",
+      "city": "Kwajalein",
+      "country": "Marshall Islands",
+      "country_code": "mh",
+      "coordinates": {
+        "lat": 8.752797140392605,
+        "lon": 167.6829648863106
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.wreck"
+      ],
+      "formatted_address": "Prinz Eugen, Kwajalein, Marshall Islands, Marshall Islands",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179941c53053765405943ec502cfa0d1840f00102f90164bfa80f0000000092031c496d70657269616c204a6170616e657365204e6176616c2042617365",
+      "name": "Imperial Japanese Naval Base",
+      "city": "Jaluit",
+      "country": "Marshall Islands",
+      "country_code": "mh",
+      "coordinates": {
+        "lat": 6.013649647177831,
+        "lon": 169.71939998228098
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Imperial Japanese Naval Base, Jaluit, Marshall Islands, Marshall Islands",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510602ae75f36365405968c416cca95e1c40f00103f9013dcd28ce0200000092030f6162616e646f6e656420686f757365",
+      "name": "abandoned house",
+      "city": "Majuro",
+      "country": "Marshall Islands",
+      "country_code": "mh",
+      "coordinates": {
+        "lat": 7.0924446,
+        "lon": 171.1234692
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "abandoned house, Lagoon Road, Laura, Majuro, MH, Marshall Islands",
+      "description": null,
+      "image": null
+    }
+  ]
+}

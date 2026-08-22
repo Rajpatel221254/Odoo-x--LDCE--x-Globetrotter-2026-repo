@@ -1,0 +1,26 @@
+{
+  "country_code": "lc",
+  "country_name": "St. Lucia",
+  "boundary_place_id": "5104763579ca7c4ec059a60f5d50dfca2b40c0020b92030953742e204c75636961e2031c77686f736f6e66697273743a636f756e7472793a3835363332333639",
+  "count": 1,
+  "places": [
+    {
+      "place_id": "514de60e513b7f4ec059b2c524123bcd2b40f00103f901cccd5e790100000092031b4d696c6c657420426972642053616e63747561727920547261696c",
+      "name": "Millet Bird Sanctuary Trail",
+      "city": "Millet",
+      "country": "Saint Lucia",
+      "country_code": "lc",
+      "coordinates": {
+        "lat": 13.9008413,
+        "lon": -60.9939977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Millet Bird Sanctuary Trail, Millet, Saint Lucia",
+      "description": null,
+      "image": null
+    }
+  ]
+}

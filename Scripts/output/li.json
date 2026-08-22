@@ -1,0 +1,1374 @@
+{
+  "country_code": "li",
+  "country_name": "Liechtenstein",
+  "boundary_place_id": "516163a8d4361b234059074e6cf420924740f00101f90173a3110000000000c0020b92030d4c6965636874656e737465696e",
+  "count": 70,
+  "places": [
+    {
+      "place_id": "51337dc04d900a23405984ac5dc944914740f00103f9011891858e02000000920311426cc3bc68656e64652053707261636865",
+      "name": "Blühende Sprache",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1349117,
+        "lon": 9.5206322
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Blühende Sprache, Solarisweg, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512be4a5f67d0b23405957ff31be79914740f00103f9011a3123950200000092034146c3bc727374204672616e7a204a6f7365662049492e20756e642046c3bc727374696e2047696e6120766f6e20756e64207a75204c6965636874656e737465696e",
+      "name": "Fürst Franz Josef II. und Fürstin Gina von und zu Liechtenstein",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1365278,
+        "lon": 9.5224454
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fürst Franz Josef II. und Fürstin Gina von und zu Liechtenstein, Sankt Florinsgasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d13e56f0db20234059618bdd3eab994740f00103f9017a568b8a00000000",
+      "name": "Paulahuette Lower Part",
+      "city": "Mauren",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.2005385,
+        "lon": 9.564178
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paulahuette Lower Part, 9486 Mauren, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a777f17edc0e23405948b945aa39934740f00103f90120298c3102000000",
+      "name": "Wildschlossweg",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1501973,
+        "lon": 9.529026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wildschlossweg, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9c946318a0b234059a3618ca3cd914740f00103f901d022a53101000000",
+      "name": "Städtle",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1390881,
+        "lon": 9.5225387
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Städtle, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51326b73ad0705234059c2b4b97bca914740f00103f901425b910c03000000920314506c616e6574656e776567202d204d65726b7572",
+      "name": "Planetenweg - Merkur",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1389918,
+        "lon": 9.5098242
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Merkur, Rheinstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5178662570b234059eb3c776655934740f00102f90182b6ca11000000009203144269656e656e6c6568727066616420566164757a",
+      "name": "Bienenlehrpfad Vaduz",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.15104370901266,
+        "lon": 9.52215106856236
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bienenlehrpfad Vaduz, Fürst-Johannes-Strasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124986a662d1123405996de48ea4e934740f00103f901c084b71d0000000092030b57696c647363686c6f7373",
+      "name": "Wildschloss",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1508458,
+        "lon": 9.5335495
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wildschlossweg, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f153eb6c0192340591d740987de984740f00103f901defb3a9a02000000",
+      "name": "Sägaweiherweg",
+      "city": "Gamprin",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.194291,
+        "lon": 9.5502984
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sägaweiherweg, 9485 Gamprin, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172c3efa65b0623405960b24c1afe904740f00103f9013e5b910c03000000920315506c616e6574656e776567202d204a757069746572",
+      "name": "Planetenweg - Jupiter",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1327546,
+        "lon": 9.512418
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Jupiter, Old Rhine Bridge Vaduz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f7144a703405234059a6f7e868b0914740f00103f901405b910c03000000920319506c616e6574656e776567202d20457264652026204d6f6e64",
+      "name": "Planetenweg - Erde & Mond",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1381961,
+        "lon": 9.5101657
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Erde & Mond, Rheinstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a18b8978f13234059ebc9fca36f9a4740f00103f901b4455e2902000000",
+      "name": "Escheweg",
+      "city": "Eschen",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.206532,
+        "lon": 9.5382049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Escheweg, 9485 Eschen, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3ce9d05460b234059486de2e47e914740f00103f9012c6782480200000092031054776f204c6967687420507269736d73",
+      "name": "Two Light Prisms",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.136685,
+        "lon": 9.5220186
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Two Light Prisms, Kirchstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f236cd3330c23405948e240a3cf924740f00103f901b454249d02000000",
+      "name": "Mareestrasse",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1469616,
+        "lon": 9.5238329
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Mareestrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f8dfd76230d234059dd7fbff3e6914740f00103f901b4f3385301000000",
+      "name": "Bergstrasse",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1398606,
+        "lon": 9.5256612
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bergstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514675dfd6821b234059070f2e782c8f4740f00103f90126d4a14602000000",
+      "name": "Lattawaldweg",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1185446,
+        "lon": 9.5537326
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lattawaldweg, 9497 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b0b0e8a410b234059d746e11f5b934740f00103f9015020259d02000000",
+      "name": "Fürst-Johannes-Strasse",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1512184,
+        "lon": 9.5219844
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Fürst-Johannes-Strasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ad109fc3c0d234059149337c0cc924740f00103f901a836bf3700000000920314576f6f642042726964676520706c6174666f726d",
+      "name": "Wood Bridge platform",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1468735,
+        "lon": 9.5258559
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Wood Bridge platform, Wildschlossweg, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ae3e36e6b36234059fc89ca86358e4740f00103f90124aed46901000000",
+      "name": "Guschgerstrasse",
+      "city": "Schaan",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1110085,
+        "lon": 9.6062884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Guschgerstrasse, 9497 Schaan, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f801b73e80a234059b00111e2ca914740f00103f901ac0222ee0200000092030b526567656e73636869726d",
+      "name": "Regenschirm",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.139004,
+        "lon": 9.5213047
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Regenschirm, Äulestrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3ad4a22fb08234059af25e4839e8e4740f00103f9013c5b910c03000000920314506c616e6574656e776567202d205572616e7573",
+      "name": "Planetenweg - Uranus",
+      "city": "Triesen",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1142125,
+        "lon": 9.517541
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Uranus, Rheindamm, 9495 Triesen, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa0ed99b73372340590e98d1d9138d4740f00103f9019bf1ad840100000092031046616c6b6e657265692047616c696e61",
+      "name": "Falknerei Galina",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1021683,
+        "lon": 9.6083039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Falknerei Galina, Im Malbun, 9497 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516b1aca3fe916234059fecd305aec974740f00103f9019e6b25fb00000000",
+      "name": "Auf der Egerta",
+      "city": "Planken",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1869004,
+        "lon": 9.5447483
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Auf der Egerta, 9498 Planken, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df0c480c4c18234059b5e3e198c0924740f00103f9012aed70b400000000",
+      "name": "Fürstensteig",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1465026,
+        "lon": 9.5474552
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fürstensteig, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d41c4bc7d0823405942058717448b4740f00103f9013a5b910c03000000920313506c616e6574656e776567202d20506c75746f",
+      "name": "Planetenweg - Pluto",
+      "city": "Triesen",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.0880155,
+        "lon": 9.5165843
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Pluto, Rheindamm, 9495 Triesen, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189f3cbbb450b234059268fa7e507924740f00103f901d8aeebd70000000092030b54726520436176616c6c69",
+      "name": "Tre Cavalli",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.140866,
+        "lon": 9.5220164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Tre Cavalli, Städtle, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5132a4d46f700b234059c94164ecdf914740f00103f9017c65b31b0100000092030c527568656e64652046726175",
+      "name": "Ruhende Frau",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1396461,
+        "lon": 9.5223422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Ruhende Frau, Städtle, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5153d96619980b23405903c7af69ef914740f00103f90172393cc402000000",
+      "name": "Champagner-Platz",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1401188,
+        "lon": 9.5226448
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Champagner-Platz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9eb9ada630b234059b977c36cb8914740f00103f901d29f79f102000000",
+      "name": "Städtle",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1384407,
+        "lon": 9.5222462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Städtle, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8d11c59f9052340594ddc8541f4904740f00103f901dd9b8b46020000009203214772656e7a736368696c64204c6965636874656e737465696e2d5363687765697a",
+      "name": "Grenzschild Liechtenstein-Schweiz",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1324541,
+        "lon": 9.511668
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Grenzschild Liechtenstein-Schweiz, Old Rhine Bridge Vaduz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fe42345fca2123405991e79f85a99e4740f00103f9014a3e777602000000",
+      "name": "Winkel",
+      "city": "Schellenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.2395484,
+        "lon": 9.5659971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Winkel, 9488 Schellenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef33d362950b2340595eb1d018f7914740f00103f901d0aeebd700000000",
+      "name": "Champagner-Platz",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1403533,
+        "lon": 9.5226241
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Champagner-Platz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f55ec65e3940234059019e59b7e6904740f00103f90120d6e4110000000092030b4d6174746c65726a6f6368",
+      "name": "Mattlerjoch",
+      "city": "Balzers",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1320409,
+        "lon": 9.6254377
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mattlerjoch, Balzers, Oberland, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123032fe9de15234059104130a2488f4740f00103f901b256732602000000",
+      "name": "Schlossstrasse",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1194041,
+        "lon": 9.5427163
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Schlossstrasse, 9497 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ad6fbb2b16022340593fa31930ed9a4740f00103f901fce67ae702000000",
+      "name": "Eschner Strasse",
+      "city": "Gamprin",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.2103634,
+        "lon": 9.5040754
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Eschner Strasse, 9487 Gamprin, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3a3fcaee8152340591fc3d506a7924740f00102f901abf0e713000000009203144175737369636874737475726d204761666c6569",
+      "name": "Aussichtsturm Gaflei",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.14572225034339,
+        "lon": 9.542790859546477
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "man_made",
+        "man_made.tower",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "tourism.sights",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "Aussichtsturm Gaflei, Gafleistrasse, 9490 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118b90265ae1f234059632992af04934740f00103f90170218e0a03000000",
+      "name": "Fürstensteig",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1485805,
+        "lon": 9.5618774
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fürstensteig, 9498 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ea23726d510234059229518bac8904740f00103f90179d3694f02000000",
+      "name": "Frommenhausstrasse",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1311257,
+        "lon": 9.5328762
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Frommenhausstrasse, 9490 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137401f1b371f2340599ab0a2ab199e4740f00103f90135b81be101000000",
+      "name": "Rietlestrasse",
+      "city": "Schellenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.2351584,
+        "lon": 9.5609673
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rietlestrasse, 9488 Schellenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb1a50caff172340596518778368994740f00103f901d54d1b8900000000",
+      "name": "Schulstrasse",
+      "city": "Eschen",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.198502,
+        "lon": 9.5468734
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Schulstrasse, 9485 Eschen, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a766c526e8152340594be5ed08a7924740f00103f901d1526beb010000009203144761666c6569204175737369636874737475726d",
+      "name": "Gaflei Aussichtsturm",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1457225,
+        "lon": 9.5427868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gaflei Aussichtsturm, Gafleistrasse, 9490 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516b7f677bf40a234059fbaa01ef89924740f00103f901dd0a9f4602000000",
+      "name": "Hintergass",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1448344,
+        "lon": 9.5213965
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hintergass, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb0f406a130b234059a4198ba6b3914740f00103f901b7b0b2ad02000000",
+      "name": "Äulestrasse",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.138295,
+        "lon": 9.5216325
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Äulestrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192f1de07d60b23405919eda7b51f924740f00103f901f1207c530200000092031243656e7472756d2066c3bc72204b756e7374",
+      "name": "Centrum für Kunst",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1415927,
+        "lon": 9.5231173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centrum of Art and Communication, Beckagässli 8, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d16dd3e98a0b23405926529acde3914740f00103f901f38a3bc402000000",
+      "name": "Städtle",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1397645,
+        "lon": 9.5225442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Städtle, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172dd94f25a0523405960f591a520884740f00103f9010fb79f9502000000",
+      "name": "Wingerta",
+      "city": "Balzers",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.0634963,
+        "lon": 9.5104595
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Wingerta, 9496 Balzers, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7076465ea04234059605b9ab6da914740f00103f901435b910c03000000920313506c616e6574656e776567202d20536f6e6e65",
+      "name": "Planetenweg - Sonne",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1394871,
+        "lon": 9.5096008
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Sonne, Rheindamm, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6717ed4700b23405942469b3e96914740f00103f9013e2d77e702000000",
+      "name": "Peter-Kaiser-Platz",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1373976,
+        "lon": 9.5223452
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Peter-Kaiser-Platz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb14110f72002340590850f81164884740f00103f901492341ee02000000",
+      "name": "Burgweg",
+      "city": "Balzers",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.0655539,
+        "lon": 9.5008702
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Burgweg, 9496 Balzers, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d637f34f707234059afd815e934924740f00103f901b95d05d702000000",
+      "name": "Bammiliweg",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1422397,
+        "lon": 9.5155579
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bammiliweg, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddcebef22005234059e7a7380ebc914740f00103f901415b910c03000000920313506c616e6574656e776567202d2056656e7573",
+      "name": "Planetenweg - Venus",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1385515,
+        "lon": 9.510017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Venus, Rheinstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51adb541374529234059fb3a70ce888f4740f00103f90139e5413e03000000",
+      "name": "Grosssteg",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1213625,
+        "lon": 9.5806062
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Grosssteg, 9497 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e09cb8e430b234059d696f03ad19a4740f00103f9016d907ae702000000",
+      "name": "Eintracht-Kreisel",
+      "city": "Eschen",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.2095102,
+        "lon": 9.5219998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Eintracht-Kreisel, 9485 Eschen, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da3f12372c0b23405926c2bddf88924740f00102f901cd59fa140000000092030a526f7465732048617573",
+      "name": "Rotes Haus",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.14480206265971,
+        "lon": 9.521821709611618
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "heritage",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rotes Haus, Fürst-Franz-Josef-Strasse 102, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5ecf348721623405929578dbc958d4740f00102f9010360c0110000000092031d4c616d612d202620416c70616b61686f66205472696573656e62657267",
+      "name": "Lama- & Alpakahof Triesenberg",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.106132096303845,
+        "lon": 9.54384067514034
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lama- & Alpakahof Triesenberg, Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ce42032f60b2340591171732a19934740f00103f901a354249d0200000092030d5363687761727a737065636874",
+      "name": "Schwarzspecht",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1492055,
+        "lon": 9.5233627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Schwarzspecht, Iraggellstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e7484c2560723405908e753c72a904740f00103f9013d5b910c03000000920314506c616e6574656e776567202d2053617475726e",
+      "name": "Planetenweg - Saturn",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1263055,
+        "lon": 9.5143338
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Saturn, Rheindamm, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513348669a550c234059f88c446804924740f00103f9011b3dd012000000009203084bc3a46e7a696c65",
+      "name": "Känzile",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1407595,
+        "lon": 9.5240906
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Känzile, Schlossweg, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51323784cf7b0c2340593213567435914740f00103f901a30c71d4020000009203075370696e696575",
+      "name": "Spinieu",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1344438,
+        "lon": 9.5243821
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Spinieu, Sankt Florinsgasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5183e4f8fc8b0b23405936c6f3be96914740f00103f90127ea894302000000",
+      "name": "Peter-Kaiser-Platz",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1374129,
+        "lon": 9.5225524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Peter-Kaiser-Platz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fd7080e791d2340594b372e88ed924740f00103f901ac72585100000000",
+      "name": "Fürstensteig",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1478739,
+        "lon": 9.5575642
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fürstensteig, 9498 Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51254c07a1720a23405941367f02de8c4740f00103f9013b5b910c03000000920314506c616e6574656e776567202d204e657074756e",
+      "name": "Planetenweg - Neptun",
+      "city": "Triesen",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1005252,
+        "lon": 9.5204058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Neptun, Rheindamm, 9495 Triesen, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51344179c48d082340593b4a6fc9bb874740f00103f901c6a6b41e01000000",
+      "name": "Ans Trail",
+      "city": "Balzers",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.0604183,
+        "lon": 9.5167066
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ans Trail, 9496 Balzers, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118416326510b2340597f7a7df7d8964740f00103f901c5d0e9000300000092030548696c7469",
+      "name": "Hilti",
+      "city": "Schaan",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1784963,
+        "lon": 9.5221035
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Hilti, HILTI-Kreisel, 9494 Schaan, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190f63fc05a05234059a51309a69a914740f00103f9013f5b910c03000000920312506c616e6574656e776567202d204d617273",
+      "name": "Planetenweg - Mars",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.137532,
+        "lon": 9.510458
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Planetenweg - Mars, Rheinstrasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51326a08d8580b234059b52ad3799e914740f00103f9011529b0630200000092031346696775726520696e2061205368656c746572",
+      "name": "Figure in a Shelter",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1376488,
+        "lon": 9.5221622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Figure in a Shelter, Peter-Kaiser-Platz, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd7d6bcc900b234059842d76fbac914740f00103f901c9bb3bc402000000",
+      "name": "Städtle",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1380915,
+        "lon": 9.5225891
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Städtle, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5129869ad7c73d234059ac394030478d4740f00103f901f33d732602000000",
+      "name": "Fürstin-Gina-Weg",
+      "city": "Triesenberg",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.103735,
+        "lon": 9.6206653
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Fürstin-Gina-Weg, Triesenberg, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e74c300d303234059c6fe0d3565884740f00103f90195d4dd6402000000",
+      "name": "Züghüsle-Kreisel",
+      "city": "Balzers",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.0655886,
+        "lon": 9.5074692
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Züghüsle-Kreisel, 9496 Balzers, Liechtenstein",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515776c1e09a0b234059506ad4e87a914740f00103f90135e421d302000000",
+      "name": "Sankt Florinsgasse",
+      "city": "Vaduz",
+      "country": "Liechtenstein",
+      "country_code": "li",
+      "coordinates": {
+        "lat": 47.1365634,
+        "lon": 9.522666
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sankt Florinsgasse, 9490 Vaduz, Liechtenstein",
+      "description": null,
+      "image": null
+    }
+  ]
+}

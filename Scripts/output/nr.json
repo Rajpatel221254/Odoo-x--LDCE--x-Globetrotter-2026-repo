@@ -1,0 +1,343 @@
+{
+  "country_code": "nr",
+  "country_name": "Nauru",
+  "boundary_place_id": "51b60cdd91d6dd6440597c783b67b0cee0bff00101f9019cb9080000000000c0020b9203054e61757275",
+  "count": 18,
+  "places": [
+    {
+      "place_id": "517ce184f8f6dd644059ef247db5feb1e1bff00103f901dc643f900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5529779,
+        "lon": 166.9363978
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf3566c8a7de644059719d352ed27ae0bff00103f901b0ea67900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5149928,
+        "lon": 166.9579813
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51983be93356dd644059edb0d35977fde0bff00103f90116baf823010000009203114a6170616e65736520575749492047756e",
+      "name": "Japanese WWII Gun",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5309407,
+        "lon": 166.9167728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Japanese WWII Gun, Island Ring Road, Orro, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127ecec759cdd6440596d567daeb662e0bff00103f901de643f900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.51205,
+        "lon": 166.9253492
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515289a18b7cde6440592f07301b53e6e0bff00103f90178eb67900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anibare District",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5281158,
+        "lon": 166.9527033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anibare District, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114eb54f95ede644059495ba6704e76e1bff00103f901da643f900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5456917,
+        "lon": 166.9490935
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51940a743719dd644059f99ffcdd3b2ae1bff00103f9017a8cd6230100000092031d42726f6b656e20446f776e2043616e74696c65766572204372616e6573",
+      "name": "Broken Down Cantilever Cranes",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5364055,
+        "lon": 166.9093282
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Broken Down Cantilever Cranes, Island Ring Road, Orro, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517098689042de64405956f2b1bb4089e1bff00103f90185623f900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5480045,
+        "lon": 166.9456255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e35e78560dd64405910ee2994e028e1bff00103f9014164fa23010000009203144a6170616e657365205757494920507269736f6e",
+      "name": "Japanese WWII Prison",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5362399,
+        "lon": 166.9180326
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Japanese WWII Prison, Island Ring Road, Orro, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519fc321c00ede644059630333f0eda7e1bff00103f901db643f900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5517492,
+        "lon": 166.9393006
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51615859368ede644059ac70cb4752d2e0bff00103f901a5fed8230100000092030e526f636b2050696e6e61636c6573",
+      "name": "Rock Pinnacles",
+      "city": "Anabar",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.525674,
+        "lon": 166.9548599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rock Pinnacles, Island Ring Road, Anabar, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e4b89c980dd644059ddb64a0bf28ee1bff00103f90181623f900100000092030347756e",
+      "name": "Gun",
+      "city": "Yaren District",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5486994,
+        "lon": 166.9219711
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gun, Island Ring Road, Yaren District, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d30986489dd6440597ce7bc6b751ee1bff00103f901739b4962010000009203104c61676f6f6e2076696577706f696e74",
+      "name": "Lagoon viewpoint",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5349681,
+        "lon": 166.9230216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lagoon viewpoint, Island Ring Road, Orro, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141b0f4eb18dd644059f261f6b2ed34e1bff00103f901dd643f9001000000",
+      "name": "Island Ring Road",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.537711,
+        "lon": 166.9092922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Island Ring Road, Orro, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173a25d8594dd6440596a74bd231968e1bff00103f9014726528f0200000092031d4a6170616e65736520575749492067756e7320616e642062756e6b6572",
+      "name": "Japanese WWII guns and bunker",
+      "city": "Yaren District",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5439573,
+        "lon": 166.92438
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Japanese WWII guns and bunker, Island Ring Road, Yaren District, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108967e1d53dd6440591cd36e4feb11e1bff00103f90115baf823010000009203114a6170616e65736520575749492047756e",
+      "name": "Japanese WWII Gun",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5334374,
+        "lon": 166.9163959
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Japanese WWII Gun, Island Ring Road, Orro, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae4a22fb60de644059fb44f9ddcf44e1bff00103f90183623f900100000092030642756e6b6572",
+      "name": "Bunker",
+      "city": "Anibare District",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5396499,
+        "lon": 166.9493385
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bunker, Island Ring Road, Anibare District, Nauru",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5132f43e4419dd64405937ddb243fc03e1bff00103f901798cd6230100000092031143616e74696c65766572204372616e6573",
+      "name": "Cantilever Cranes",
+      "city": "Orro",
+      "country": "Nauru",
+      "country_code": "nr",
+      "coordinates": {
+        "lat": -0.5317365,
+        "lon": 166.9093343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cantilever Cranes, Waterfront Drive, Orro, Nauru",
+      "description": null,
+      "image": null
+    }
+  ]
+}

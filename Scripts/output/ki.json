@@ -1,0 +1,235 @@
+{
+  "country_code": "ki",
+  "country_name": "Kiribati",
+  "boundary_place_id": "51dcc7c0f040b56540593832eab53412d63ff00101f9012ab7080000000000c0020b9203084b69726962617469",
+  "count": 12,
+  "places": [
+    {
+      "place_id": "519aca47f7181b66405992e5c9da4b5f05c0f00103f901740d80a200000000920315546f6b6f746f277320477261766520262057656c6c",
+      "name": "Tokoto's Grave & Well",
+      "city": "Arorae",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": -2.6715314,
+        "lon": 176.8467976
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Tokoto's Grave & Well, Arorae, Gilbert Islands, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a63a45843a065405984655b5f5554f53ff00102f9010874830d0000000092031e49746f696e696e6761696e612048616e646963726166742043656e746572",
+      "name": "Itoiningaina Handicraft Center",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3330892300494677,
+        "lon": 173.00822097880229
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Itoiningaina Handicraft Center, Main Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebce6e880c9e654059c38f204bd5acf53ff00103f9013226f8ce02000000920310746f20746865207365612073686f7265",
+      "name": "to the sea shore",
+      "city": "Betio",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3546956,
+        "lon": 172.9390299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "to the sea shore, Main Road, Betio, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa07718af3a3654059707209d16bddf53ff00103f9011048b15c010000009203134d616e656162616e207465206b756b75726569",
+      "name": "Maneaban te kukurei",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3665579,
+        "lon": 173.1234791
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maneaban te kukurei, Main Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51502b966cc69d6540593346353685bff53ff00103f901f5d9104801000000920313446f6d65737469632046657272792050696572",
+      "name": "Domestic Ferry Pier",
+      "city": "Betio",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3592579,
+        "lon": 172.9304717
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Domestic Ferry Pier, Betio Shipyard Road, Betio, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa752c00d7a3654059b7e6334525daf53ff00103f901dcd81b5e0100000092030e41726174696d276120686f757365",
+      "name": "Aratim'a house",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3657582,
+        "lon": 173.1199952
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Aratim'a house, Main Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a93b05afcca3654059cc800e4e9fd8f53ff00103f9010d48b15c010000009203094d61696e20706f7274",
+      "name": "Main port",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3653863,
+        "lon": 173.1187358
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Main port, Main Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51790e1b1bb09d6540593c331c2a21b3f53ff00103f901d188f9470100000092031a552e532e204d6172696e6520436f727073204d656d6f7269616c",
+      "name": "U.S. Marine Corps Memorial",
+      "city": "Betio",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3562328,
+        "lon": 172.9277473
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "U.S. Marine Corps Memorial, Kawain te Betio Sport Complex, Betio, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3c1397e83a165405906e0fa0b98bbf53ff00103f90179f7f7ce02000000",
+      "name": "Main Road",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3582993,
+        "lon": 173.0473014
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Main Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a9e0777e7a2654059f3a496f782e0f63ff00103f9019b5f61230100000092030d42726f6b656e20427269646765",
+      "name": "Broken Bridge",
+      "city": "North Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.4298124,
+        "lon": 173.090755
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Broken Bridge, Buota Road, North Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51289d483015a5654059f9f94a7bdec8f53ff00103f9010f48b15c0100000092030a42696c6c20686f757365",
+      "name": "Bill house",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3615403,
+        "lon": 173.1588365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bill house, Temwaiku Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101231e3f0aa26540595f07ce1951baf53ff00103f90135fec0c102000000",
+      "name": "Main Road",
+      "city": "South Tarawa",
+      "country": "Kiribati",
+      "country_code": "ki",
+      "coordinates": {
+        "lat": 1.3579875,
+        "lon": 173.0637508
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Main Road, South Tarawa, Kiribati",
+      "description": null,
+      "image": null
+    }
+  ]
+}

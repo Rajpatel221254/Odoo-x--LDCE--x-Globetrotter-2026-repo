@@ -1,0 +1,1105 @@
+{
+  "country_code": "ga",
+  "country_name": "Gabon",
+  "boundary_place_id": "51e37217bc436127405917b83cd68cccecbff00101f90119f1020000000000c0020b9203054761626f6e",
+  "count": 56,
+  "places": [
+    {
+      "place_id": "5178279f1edb162b4059522cb7b41af2fdbff00103f9014443443d0000000092030d4e646a616b69204d6164696261",
+      "name": "Ndjaki Madiba",
+      "city": "Mpassa",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.8716075,
+        "lon": 13.5446405
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ndjaki Madiba, Mpassa, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e0aef1758e4274059f6566eb3c23eb3bff00103f9016a41e78801000000920306ebb680ec9790",
+      "name": "부에",
+      "city": "Abénélang",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.0751764,
+        "lon": 11.9459846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "부에, RD6405, Akiguelam, Abénélang, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbf27519fe1323405937e0f3c308e1bf3ff00103f90162af4e770200000092031850617263206e6174696f6e616c20646520506f6e67617261",
+      "name": "Parc national de Pongara",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.1245275,
+        "lon": 9.539048
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.customers",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parc national de Pongara, Libreville, Komo-Ocèan, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162484e266e6923405994e23ecd2445d73ff00103f901e66890f90100000092030a4f6b6f6c617373692034",
+      "name": "Okolassi 4",
+      "city": "Ntoum",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3635952,
+        "lon": 9.7059185
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Okolassi 4, Transgabonaise, Ntoum, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124aeade98b1e294059e4c2dc499fb1c7bff00103f901f69f4e76020000009203134261c3af206465206c61204c616e676f75c3a9",
+      "name": "Baï de la Langoué",
+      "city": "Mouloundou",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.1851081,
+        "lon": 12.5596612
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baï de la Langoué, Mouloundou, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ea1f1f469d822405965dee9505104dc3ff00102f9014026382a0000000092031a4d6f6e756d656e74206465206c61204c6962c3a9726174696f6e",
+      "name": "Monument de la Libération",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.4377635278865227,
+        "lon": 9.42268338632189
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Monument de la Libération, Boulevard des Bantu, 1er Arrondissement de Libreville, Libreville, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb54ba6015502a405901a9a8554f21f6bff00103f90110450a81020000009203074c652053616765",
+      "name": "Le Sage",
+      "city": "Massango I",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.3831323,
+        "lon": 13.1564131
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Le Sage, Route Economique, Bouyindzi, Massango I, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c92bc6af0e76244059c2e160ca1bbbe5bff00103f901f09fad56000000009203184d7573c3a96520416c6265727420536368776569747a6572",
+      "name": "Musée Albert Schweitzer",
+      "city": "Lambarene",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.6790904,
+        "lon": 10.2305808
+      },
+      "categories": [
+        "fee",
+        "heritage",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.building"
+      ],
+      "formatted_address": "Musée Albert Schweitzer, Route de l'Hôpital, Lambarene, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166dcd440f3dd2a4059797d4166c2eaf9bff00103f9018c436a36030000009203174f627365727661746f697265206465204d61706f756261",
+      "name": "Observatoire de Mapouba",
+      "city": "Benguia I",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.6198143,
+        "lon": 13.4334965
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "no_fee",
+        "no_fee.no",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Observatoire de Mapouba, Route Economique, Benguia I, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519578e51f222223405922af624c555501c0f00103f90186fd0f7f0200000092031750617263206e6174696f6e616c206465204c6f616e676f",
+      "name": "Parc national de Loango",
+      "city": "Etimboué",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -2.1666666,
+        "lon": 9.5666666
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.customers",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parc national de Loango, Etimboué, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112578451ff732c405977a38ff98020f6bff00103f901931bf68801000000",
+      "name": "Plateaux",
+      "city": "Plateaux",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.3829355,
+        "lon": 14.2265573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Plateaux, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fda02e52288b2540598703d7cba5a7c7bff00103f901c495435301000000920314416c6d616d792053616d6f727920546f7572c3a9",
+      "name": "Almamy Samory Touré",
+      "city": "Ndjolé",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.1848037,
+        "lon": 10.771792
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Almamy Samory Touré, Ndjolé, Abanga-Bigné, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5188c90a348e1f234059d5c276418e77debff00103f901ff064f760100000092030d50657469742042616d2d42616d",
+      "name": "Petit Bam-Bam",
+      "city": "Komo-Ocèan",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.4760471,
+        "lon": 9.5616318
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Petit Bam-Bam, Komo-Ocèan, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d5fb35c36f22b4059459506239bd001c0f00103f901aee519bd0100000092031163697271756573202863616e796f6e7329",
+      "name": "cirques (canyons)",
+      "city": "Mpassa",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -2.2268584,
+        "lon": 13.973071
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "cirques (canyons), Mpassa, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e6a5db411912140599ee6898cb30ee7bff00103f901b2818c2501000000",
+      "name": "Rue Jean Vigouroux",
+      "city": "Port-Gentil",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.7205446,
+        "lon": 8.7833382
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue Jean Vigouroux, Rombintchozo, Port-Gentil, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e22e5828e512540593811fddafa890bc0f00103f9016f1950340300000092031143726f6978206465204c6f727261696e65",
+      "name": "Croix de Lorraine",
+      "city": "Mayumba",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -3.442373,
+        "lon": 10.6592904
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Croix de Lorraine, RN6, Mayumba, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a11a8a9697932c4059beb55db23b4efabff00103f9012d3d70620200000092030c43616e796f6e20526f756765",
+      "name": "Canyon Rouge",
+      "city": "Lékoni",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.6440999,
+        "lon": 14.2882659
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Canyon Rouge, RN3, Lékoni, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfd7d1dd1a79274059e4ae14b82b2ad7bff00103f9015364b28601000000",
+      "name": "Route Economique",
+      "city": "Ramba",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.3619489,
+        "lon": 11.7365331
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route Economique, Ramba, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da8129b97969234059c7a7b68ab443d73ff00103f901cd6c90f90100000092030a4f6b6f6c617373692035",
+      "name": "Okolassi 5",
+      "city": "Ntoum",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3635074,
+        "lon": 9.7060068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Okolassi 5, Transgabonaise, Ntoum, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e23f25d4ad1224059bd6ce0b31a37dd3ff00103f9011f76a70903000000",
+      "name": "Boulevard Hassan II",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.4564883,
+        "lon": 9.4087705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Boulevard Hassan II, Tahiti, Libreville, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5152370653836b2a40591dc87a6af5d5f8bff00103f9011f4b6aaa020000009203164d6f6e756d656e74206465206ce28099756e6974c3a9",
+      "name": "Monument de l’unité",
+      "city": "Moanda",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.552236,
+        "lon": 13.2099863
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Monument de l’unité, Carrefour de Douanes, Alliance, Moanda, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0e37c54b95825405988c16fbc78a7f0bff00102f9011f0e9b29000000009203224d697373696f6e204e6f7472652d44616d65206465732054726f697320c3a9706973",
+      "name": "Mission Notre-Dame des Trois épis",
+      "city": "Sindara",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.0408866272738084,
+        "lon": 10.673288955922516
+      },
+      "categories": [
+        "religion",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mission Notre-Dame des Trois épis, RD4201, Sindara, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2dafcbfea0c234059cd0358e4d70fd8bff00103f901f30b5c760200000092030d4772616e642042616d2d42616d",
+      "name": "Grand Bam-Bam",
+      "city": "Komo-Ocèan",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.375967,
+        "lon": 9.5252285
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grand Bam-Bam, Komo-Ocèan, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ed6427f57b62640594ab3791c063303c0f00103f901afda4fa90200000092030c49706574792d792d446f6c65",
+      "name": "Ipety-y-Dole",
+      "city": "Ndendé",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -2.399914,
+        "lon": 11.3561363
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Ipety-y-Dole, Rond-point, Ndendé, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123cca3d1d376294059325c78b9e3e8e9bff00103f901918b1d290100000092030f53746174756520646520576f6e676f",
+      "name": "Statue de Wongo",
+      "city": "Lastoursville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.8096789,
+        "lon": 12.7320848
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Statue de Wongo, Place Albert Tsamba, Lastoursville, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c0483b57be32a405986b9933e63f5f9bff00103f901aeed3f290100000092030e466f7567612d4d61676973746572",
+      "name": "Fouga-Magister",
+      "city": "Benguia I",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.6224091,
+        "lon": 13.4443032
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.aircraft"
+      ],
+      "formatted_address": "Fouga-Magister, Route Economique, Benguia I, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e3e9fb76784214059ca5af91ba3abe5bff00103f901c5449276020000009203064d6172696e61",
+      "name": "Marina",
+      "city": "Port-Gentil",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.6772018,
+        "lon": 8.7586038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marina, Route de Sogara, Port-Gentil, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff733d76bc0e23405944edc8a2fa18da3ff00103f901f8dc4be902000000",
+      "name": "Transgabonaise",
+      "city": "Owendo",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.4077746,
+        "lon": 9.5287816
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Transgabonaise, Bikélé, Owendo, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51191af44afe482b4059915731a6aa7afebff00103f9019588e6fe0200000092030e4261c3af206465204d6f75706961",
+      "name": "Baï de Moupia",
+      "city": "Maloundou 2",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.9049479,
+        "lon": 13.6425651
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baï de Moupia, RP202, Maloundou 2, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be96a13bd2ee2640596c7308c14f01e13ff00103f901851a6d9602000000",
+      "name": "village zomoko",
+      "city": "Lalara",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.5314101,
+        "lon": 11.4664477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "village zomoko, RN2, Lalara, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511d2103797669234059fc9ccc898741d73ff00103f901f96d90f9010000009203094f6b6f6c6173736933",
+      "name": "Okolassi3",
+      "city": "Ntoum",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3633746,
+        "lon": 9.705982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Okolassi3, Transgabonaise, Ntoum, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51660b523aa2e4224059d3799e89faeed83ff00103f90169952f6b00000000",
+      "name": "Avenue du Colonel PARANT",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3895861,
+        "lon": 9.4465502
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Avenue du Colonel PARANT, Centre Ville, Libreville, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119d06630a1112c4059b4eca419e6ef00c0f00103f90185d7b0bc0100000092031143697271756573202843616e796f6e7329",
+      "name": "Cirques (Canyons)",
+      "city": "Mpassa",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -2.1171381,
+        "lon": 14.0344329
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cirques (Canyons), Mpassa, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b796a3f63702440598c48145ad6fde5bff00103f901eb9331a90200000092030b526f69204e6b6f6d62c3a9",
+      "name": "Roi Nkombé",
+      "city": "Lambarene",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.687236,
+        "lon": 10.2195072
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Roi Nkombé, Transgabonaise, Lambarene, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ba505798769234059bfc40e194545d73ff00103f901e56890f9010000009203084f6b6f6c61737369",
+      "name": "Okolassi",
+      "city": "Ntoum",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3636029,
+        "lon": 9.7061117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Okolassi, Transgabonaise, Ntoum, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0d38041d2d7224059f2930fe61b76bebff00103f901c5b1fa930200000092030e54726f7520647520446961626c65",
+      "name": "Trou du Diable",
+      "city": "Komo-Ocèan",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.1189897,
+        "lon": 9.421526
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trou du Diable, Komo-Ocèan, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513930140bd75a2c40590c8fa2732391f6bff00103f9012f1bf6880100000092030e4c652062656c76c3a964c3a87265",
+      "name": "Le belvédère",
+      "city": "Plateaux",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.4104342,
+        "lon": 14.1774219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Le belvédère, Plateaux, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac0892d2c793214059f2c92f28782fe7bff00103f901e32b4b260100000092030742616c616e6365",
+      "name": "Balance",
+      "city": "Port-Gentil",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.7245446,
+        "lon": 8.7886339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Balance, Avenue de la Mosquée, Rombintchozo, Port-Gentil, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112ea33b10a812c4059db40704b9af5f5bff00103f901f71bf68801000000",
+      "name": "Plateaux",
+      "city": "Plateaux",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.3724616,
+        "lon": 14.2520347
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Plateaux, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb1a2d077a602740593e40f7e5cc76f43ff00103f90113f0933f030000009203144dc3a96d6f7269616c206465204d696d62656e67",
+      "name": "Mémorial de Mimbeng",
+      "city": "Mimbeng 1",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 1.279004,
+        "lon": 11.688431
+      },
+      "categories": [
+        "heritage",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Mémorial de Mimbeng, RN2, Mimbeng 1, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab9097daf7b92740591b1b704c05cbca3ff00103f9016126e7880100000092030cecbd94eba788eba994ec9aa9",
+      "name": "코마메용",
+      "city": "Koumameyong",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.2093207,
+        "lon": 11.8632191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "코마메용, RN4, Koumameyong, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fa21db9ec55b2c405997152fbbcc55fdbff00103f901897b59620200000092030c43616e796f6e20626c616e63",
+      "name": "Canyon blanc",
+      "city": "Lékoni",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.8334472,
+        "lon": 14.1792421
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Canyon blanc, Lékoni, Plateaux, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f6a1a6f86922c4059866d3079a832f6bff00103f901211df68801000000",
+      "name": "Plateaux",
+      "city": "Plateaux",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.3873677,
+        "lon": 14.2861819
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Plateaux, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124383f0fffd2244059af528bd2ef6cfabff00103f901a502b8a801000000",
+      "name": "Palmoil plantation",
+      "city": "Mandji",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.6515959,
+        "lon": 10.4121022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Palmoil plantation, RN8, Mandji, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512022da33f02c274059f9bf7ee3c688bdbff00103f901dbd81e5a0100000092030b4d6f6e74204272617a7a61",
+      "name": "Mont Brazza",
+      "city": "Lopé",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.1153683,
+        "lon": 11.5877701
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mont Brazza, Lopé, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ed6e7c5e4c8224059aadf3b20bfeddf3ff00103f901ef14ca2103000000",
+      "name": "Komo-Mondah Department",
+      "city": "Komo-Mondah Department",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.4988859,
+        "lon": 9.3923704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Komo-Mondah Department, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513596557d53e522405921de848c91b6d83ff00103f901ad5e40160100000092030e4162726163612764656c69726573",
+      "name": "Abraca'delires",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3861431,
+        "lon": 9.4479026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Abraca'delires, Rue Pecqueur, Nombakele, Libreville, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f78b7ed9e28f2c40593f952e5805c5f6bff00103f901119089620200000092030f50617263206465204cc3a9636f6e69",
+      "name": "Parc de Léconi",
+      "city": "Plateaux",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.4231008,
+        "lon": 14.2810276
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.with_permit",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parc de Léconi, Plateaux, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d57cf0355fd8224059561b52fb6310db3ff00103f901d319218b02000000",
+      "name": "Boulevard de la Nation",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.4228754,
+        "lon": 9.4226014
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Boulevard de la Nation, Batterie 4, Libreville, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cacbf51153ad2240593c20bf6d5c35e23ff00103f9011ff5f73c0200000092030a4c612063617363616465",
+      "name": "La cascade",
+      "city": "Komo-Mondah Department",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.5690138,
+        "lon": 9.3385244
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "La cascade, Circuit 3, Komo-Mondah Department, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140964fa09919234059445ec598aaaae23ff00103f90129d15c7d0200000092031650617263206e6174696f6e616c206427416b616e6461",
+      "name": "Parc national d'Akanda",
+      "city": "Libreville",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.5833333,
+        "lon": 9.5500002
+      },
+      "categories": [
+        "access_limited",
+        "access_limited.customers",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parc national d'Akanda, Libreville, Komo-Mondah Department, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199ac9b9cebe12740598fe9bfbd2143a9bff00103f9015d26e78801000000",
+      "name": "In view",
+      "city": "Abénélang",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -0.0493403,
+        "lon": 11.9412507
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "In view, RD6405, Akiguelam, Abénélang, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c0897d0b5b02b4059fa2c6f517ec301c0f00102f90197df8b2f000000009203104261c3af206465206c6120446a6f626f",
+      "name": "Baï de la Djobo",
+      "city": "Mpassa",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -2.220455776410401,
+        "lon": 13.845137136875756
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baï de la Djobo, Mpassa, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104102d6810652b4059b4514255f16bed3ff00103f9016f467d510100000092031b496b656920426f6b61626f6b6120746f204d742042656e676f7565",
+      "name": "Ikei Bokaboka to Mt Bengoue",
+      "city": "Ikei Boca-Boca",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.9194266,
+        "lon": 13.6973908
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trailhead Ikei Bokaboka to Mt Bengoué, RN4, Ikei Boca-Boca, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126112bed1e5e2a4059f2a3d0686145f9bff00103f90121c576610200000092030d4d6f6e7420426f7564696e6761",
+      "name": "Mont Boudinga",
+      "city": "Moanda",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": -1.5794386,
+        "lon": 13.1838297
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mont Boudinga, Moanda, Lébombi-Léyou, Gabon",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af33cf5b86692340595ff6a1c15c41d73ff00103f901116a90f90100000092030a4f6b6f6c617373692032",
+      "name": "Okolassi 2",
+      "city": "Ntoum",
+      "country": "Gabon",
+      "country_code": "ga",
+      "coordinates": {
+        "lat": 0.3633644,
+        "lon": 9.7061032
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Okolassi 2, Transgabonaise, Ntoum, Gabon",
+      "description": null,
+      "image": null
+    }
+  ]
+}

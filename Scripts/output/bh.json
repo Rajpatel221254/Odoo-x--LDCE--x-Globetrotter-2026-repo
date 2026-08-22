@@ -1,0 +1,5852 @@
+{
+  "country_code": "bh",
+  "country_name": "Bahrain",
+  "boundary_place_id": "51120077346944494059974bf443b6273a40f00101f9016ec7050000000000c0020b9203074261687261696e",
+  "count": 301,
+  "places": [
+    {
+      "place_id": "51c8e64fc01b4e494059138c39beac453a40f00103f901761a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721671,
+        "lon": 50.6102219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157dd34c7034e494059ce5e6c109c453a40f00103f90118fd53ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2719126,
+        "lon": 50.6094903
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1178c5b164e4940599862580fa9453a40f00103f901721a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721109,
+        "lon": 50.6100573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5147dd184c0d4e494059300cfdb8a2453a40f00103f9016a1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2720142,
+        "lon": 50.6097808
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbc7a4750a4e494059d784b4c6a0453a40f00103f9011cfd53ef02000000",
+      "name": "Avenue 7",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2719845,
+        "lon": 50.6096942
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 7, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51963325a3144e494059d48041d2a7453a40f00103f901701a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.272092,
+        "lon": 50.6100048
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3a6689bd14a494059cc7d721420403a40f00103f9010876a4ee02000000",
+      "name": "Road 4611",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2504895,
+        "lon": 50.5845217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 4611, Manama 0317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510120ddbefd4d494059f47409e297453a40f00103f90114fd53ef02000000",
+      "name": "Busaiteen Avenue",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2718488,
+        "lon": 50.6093062
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Busaiteen Avenue, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512071d9322a4e49405973897ec8b6453a40f00103f9017e1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2723203,
+        "lon": 50.6106628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd7210f4f63d49405917251d31e6393a40f00102f901903b630a0000000092030d4261726261722054656d706c65",
+      "name": "Barbar Temple",
+      "city": "باربار",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.22616869889779,
+        "lon": 50.48409891894469
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Barbar Temple, Road 1803, باربار 526, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8c87c9b594449405903eacda8f9fc3940f00103f901f1c1fe9c01000000",
+      "name": "mohamed",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9881845,
+        "lon": 50.5339846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "mohamed, Avenue 108, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180982952064e49405968791edc9d453a40f00103f90119fd53ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.27194,
+        "lon": 50.6095679
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519fde31e13c50494059ebf2f79c05453a40f00103f9014674a70101000000920324d985d8b7d8a7d8b120d8a7d984d8a8d8add8b1d98ad98620d8a7d984d8afd988d984d98a",
+      "name": "مطار البحرين الدولي",
+      "city": "Arad",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2696169,
+        "lon": 50.6268579
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bahrain International Airport, Road 2403, Arad 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c3a453b2f73d494059a7cea3e2ff183a40f00103f9013e87fcee02000000",
+      "name": "Road 3344",
+      "city": "Malkiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0976545,
+        "lon": 50.4841216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 3344, Malkiya 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51851964dc1e4e49405947f5e7ecae453a40f00103f901781a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2722004,
+        "lon": 50.6103168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a368d432083f494059a1d79fc4e7243a40f00103f9011ac0f6ee02000000",
+      "name": "Wali Al Ahd Highway",
+      "city": "Hamalah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1441615,
+        "lon": 50.4924377
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Wali Al Ahd Highway, Hamalah 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e04158326c4e49405963fa14b655413a40f00103f901e661eb9b0000000092030c53697961646920486f757365",
+      "name": "Siyadi House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2552141,
+        "lon": 50.6126769
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Siyadi House, Lane 905, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51118134ad5e494940593e74e6c358253a40f00103f901e2e871f601000000",
+      "name": "Al Bahair Mini Canyon and Reserve",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1458857,
+        "lon": 50.5732018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Al Bahair Mini Canyon and Reserve, Road 4103, Riffa 743, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107793d9814424940598e4aa077190c3a40f00103f90168c9091202000000",
+      "name": "Road 5431",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0472636,
+        "lon": 50.5162535
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 5431, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d5cd4dd2b4e494059ae1dd66542413a40f00103f90144c4dd1901000000",
+      "name": "Nukhidhah House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2549194,
+        "lon": 50.6107137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Nukhidhah House, Lane 934, Muharraq 203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6dd639fb63e494059c976be9f1a2f3a40f00103f9017ee871f60100000092031f5361617220554e4553434f204172636861656f6c6f676963616c2053697465",
+      "name": "Saar UNESCO Archaeological Site",
+      "city": "Saar",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.184,
+        "lon": 50.4899482
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Saar UNESCO Archaeological Site, Road 2725, Saar 575, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518dbe38a748414940594677b581e03a3a40f00103f901e66d2d1c01000000",
+      "name": "Al-Nakheel Highway",
+      "city": "Karranah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2299882,
+        "lon": 50.5100297
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Al-Nakheel Highway, Karranah 450, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea5c514a084e494059eac7cb3f9f453a40f00103f9011afd53ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2719612,
+        "lon": 50.609628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3c9c51858464940594919ccbadaf93940f00103f901f4c1fe9c01000000",
+      "name": "batool",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9759938,
+        "lon": 50.5495635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "batool, Road 8811, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51265fbf16aa48494059d8e4df1dcf393a40f00103f9014a052bf501000000",
+      "name": "Public entrance to cemetery",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2258166,
+        "lon": 50.5676907
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public entrance to cemetery, Budaiya Highway, Manama 314, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d916afc3e24a494059a090f87024393a40f00103f901f2c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2232123,
+        "lon": 50.5850453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f0a4ed8d94a494059d8e9acbb1e393a40f00103f901eec379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2231252,
+        "lon": 50.5847731
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f191de814b4c494059bf1fc88b963d3a40f00103f901808cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2405784,
+        "lon": 50.5960543
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b7159e0864c494059d14f8248d03d3a40f00103f9013a4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2414594,
+        "lon": 50.5978661
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cbc69447a4c494059be55325b0d3e3a40f00103f901484fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2423913,
+        "lon": 50.5974813
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f5fef5c07d50494059e268d83917443a40f00103f901b6197cef02000000920303487567",
+      "name": "Hug",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2659794,
+        "lon": 50.6288377
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Hug, Road 2403, Muharraq 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f80d4264e4c494059098849b8903d3a40f00103f9017c8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2404895,
+        "lon": 50.596135
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a0e5652dd4a494059fdc2860211393a40f00103f901e6c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2229158,
+        "lon": 50.5848792
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b1ef00a8e53494059d39bf639e33a3a40f00103f9011ea4a30701000000",
+      "name": "Salman Aldosari Site",
+      "city": "Al-Hidd",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2300297,
+        "lon": 50.6527723
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Salman Aldosari Site, Road 1109, Al-Hidd 111, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2eabd42304e494059a0713cfaba453a40f00103f901821a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2723843,
+        "lon": 50.6108478
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aec8f9ac7c4c494059eb47d455cb3d3a40f00103f9014c4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2413839,
+        "lon": 50.5975548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed0a22f7194349405926e5ee737c383a40f00103f9017af94f3c01000000920306537461747565",
+      "name": "Statue",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.220649,
+        "lon": 50.5242299
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Statue, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ebaea4b804c4940594ace893db43d3a40f00103f9012e4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410315,
+        "lon": 50.5976653
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f6370de494c494059e873a4e9a23d3a40f00103f901948cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2407671,
+        "lon": 50.5960043
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ffffe39714a494059b0b783c76d403a40f00103f901fa75a4ee02000000",
+      "name": "Road 4609",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2516751,
+        "lon": 50.5815804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 4609, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511036864a6d4e494059c40ebe8b523f3a40f00103f90194453eef02000000",
+      "name": "Lane 1421",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2473533,
+        "lon": 50.6127103
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Lane 1421, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5169e8fa99d54a494059ecbc32141c393a40f00103f901ecc379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2230847,
+        "lon": 50.5846436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51695dfe9eb34049405976b691fcd2183a40f00103f901f8deb50d0100000092030bd8afd988d8a7d8b1203134",
+      "name": "دوار 14",
+      "city": "Hamad Town",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0969694,
+        "lon": 50.5054816
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Roundabout 14, Hamad Town 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d43dfc46854c494059e9465854c43d3a40f00103f901344fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.241277,
+        "lon": 50.5978173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f627f1b9134e4940597d5ef1d4233f3a40f00103f9019a453eef02000000",
+      "name": "Al-Naham Ahmed Jassim Buteubanya Avenue",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2466405,
+        "lon": 50.609977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Al-Naham Ahmed Jassim Buteubanya Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d93e57f4d4c4940591ed7d0178c3d3a40f00103f9017a8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2404189,
+        "lon": 50.5961151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513212eb9e864e49405947fc2f7ce93e3a40f00103f90168b5dd1901000000",
+      "name": "Badr Ghulum House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2457502,
+        "lon": 50.6134833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Badr Ghulum House, Lane 1622, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111fba996194e49405973c8bc44ab453a40f00103f901741a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721446,
+        "lon": 50.6101559
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51494508347d3d4940591a03a1ab631b3a40f00103f901f07afbee02000000",
+      "name": "Road 2731",
+      "city": "Karzakan",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1069896,
+        "lon": 50.4803834
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 2731, Karzakan 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5109d51753fa4649405947acc5a7003e3a40f00103f901ca4230000200000092030c57617465722047617264656e",
+      "name": "Water Garden",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2421975,
+        "lon": 50.5545143
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Water Garden, Road 4652, Manama 314, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc15551a8c554940598d64ea09a6493a40f00103f9011ae641fd00000000920322d8add986d8a7d98620d8a7d984d8a8d8add8b1d98ad98620d8a7d985d988d8a7d8ac",
+      "name": "حنان البحرين امواج",
+      "city": "Amwaj Islands",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2876898,
+        "lon": 50.6683381
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "حنان البحرين امواج, Road 5718, Amwaj Islands 257, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0257e7b8d434940591a52a0aa9d123a40f00103f901b85406ef02000000",
+      "name": "Zallaq Highway",
+      "city": "Awali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0727183,
+        "lon": 50.5277552
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Zallaq Highway, Awali 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158e71890bd4f494059c0a1a64c20433a40f00103f90105c270210100000092031fd985d986d8aad98720d98820d985d8add985d98ad8a920d8b9d8b1d8a7d8af",
+      "name": "منته و محمية عراد",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2622116,
+        "lon": 50.6229725
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "منته و محمية عراد, Khalifa Al-Kabeer Highway, Muharraq 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab71db638e44494059fc242d4b2a1f3a40f00103f901be3513fd0000000092030ad8aad8acd8b1d8a8d8a9",
+      "name": "تجربة",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1217391,
+        "lon": 50.5355954
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "تجربة, Shaikh Salman Highway, Riffa 912, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515fd4ee57014e4940597b38375c9a453a40f00103f90116fd53ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2718866,
+        "lon": 50.609416
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e451859a7c4c4940592011aedbfb3d3a40f00103f901444fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2421243,
+        "lon": 50.5975526
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51560850f8114e494059996ec8f5a5453a40f00103f9016e1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2720636,
+        "lon": 50.6099234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51274e9848724e4940598dcadda4fb403a40f00102f901d355400f00000000920317536861696b204973612042696e20416c6920486f757365",
+      "name": "Shaik Isa Bin Ali House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.25383978285622,
+        "lon": 50.61286265789777
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shaik Isa Bin Ali House, Road 916, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f96706f1814c4940595609bbcdc03d3a40f00103f901324fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2412232,
+        "lon": 50.5977155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a01111a38c4e494059ce5d013bed3f3a40f00103f90176f5dd1901000000",
+      "name": "Murad House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2497136,
+        "lon": 50.6136669
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Murad House, Lane 1313, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d81c8d8bb4c494059fde5b9ba673b3a40f00102f90134de185100000000",
+      "name": "Road 2209",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.232051535020208,
+        "lon": 50.59948262968371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 2209, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0f94102eb4a494059410fb56d18393a40f00103f901fac379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.223029,
+        "lon": 50.5852969
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b74d99e0f4e494059e73f5a52a4453a40f00103f9016c1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2720386,
+        "lon": 50.6098517
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136ccd078224249405968469ad3c0283a40f00103f901e4e871f601000000",
+      "name": "Royal Burial Mound",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1591923,
+        "lon": 50.516677
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Burial Mound, Road 4239, A'ali 732, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179060dfd134a4940596b65c22ff53f3a40f00103f9014ee8a0ee02000000",
+      "name": "Road 4611",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.249835,
+        "lon": 50.578735
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Road 4611, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2fd5d44804c4940598b10c3b3a93d3a40f00103f901224fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2408707,
+        "lon": 50.5976644
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bc9f495514c4940590f6be0fda73d3a40f00103f901888cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2408446,
+        "lon": 50.5962398
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae68ce554e4149405949337106da3a3a40f00103f901e76d2d1c01000000",
+      "name": "Al-Nakheel Highway",
+      "city": "Karranah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2298893,
+        "lon": 50.5102031
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Al-Nakheel Highway, Karranah 450, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9ad0a79a9504940593727e5a4e6433a40f00103f901b5197cef0200000092031457696e646f7720746f2074686520467574757265",
+      "name": "Window to the Future",
+      "city": "Arad",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2652381,
+        "lon": 50.6301719
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Window to the Future, Road 2403, Arad 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df4b868840554940599b768c86e74a3a40f00103f9011178811c0100000092030cd8a7d985d988d8a7d8acd98b",
+      "name": "امواجً",
+      "city": "Amwaj Islands",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2925953,
+        "lon": 50.6660319
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "امواجً, Amwaj Avenue, Amwaj Islands 257, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51535e865a2e4e494059959ba8a5b9453a40f00103f901811a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.272364,
+        "lon": 50.6107896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ea921bb1c4e494059cbab297fad453a40f00103f901841a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721786,
+        "lon": 50.6102518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513be4c171744c494059e37f3c050a3e3a40f00103f901494fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2423404,
+        "lon": 50.5973036
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0b40309e54a4940593a4f86f425393a40f00103f901f4c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2232354,
+        "lon": 50.5851146
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e1d7a3cbf64c494059e2557b7d523a3a40f00103f90199e9a9ee02000000",
+      "name": "Road 2209",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2278212,
+        "lon": 50.6012816
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 2209, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51022cf2eb874c494059284e49319b3d3a40f00103f901384fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2406493,
+        "lon": 50.597898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dd1445fe4f4c49405976d7231e9a3d3a40f00103f901828cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2406329,
+        "lon": 50.5961912
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516010470d5c4c4940592f17f19d983d3a40f00103f9011c4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.24061,
+        "lon": 50.5965592
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b5c61b0d1404940593f462f59cb073a40f00103f901c69711730100000092030d466573746976616c2043697479",
+      "name": "Festival City",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0304466,
+        "lon": 50.5063992
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Festival City, Road 6204, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a7ee4315e4b49405934e1f2b3ec3e3a40f00103f9013c76a4ee02000000",
+      "name": "King Faisal Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2457993,
+        "lon": 50.5888121
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "King Faisal Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108e00b38f04b49405927f2c92f283c3a40f00103f9014e2da8ee02000000",
+      "name": "Exhibitions Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2349882,
+        "lon": 50.5932684
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Exhibitions Avenue, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518d7dc9c6834c49405990824cd7b83d3a40f00103f9012a4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2411017,
+        "lon": 50.5977715
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac53e57b464c49405960dc572fd03d3a40f00103f901908cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2414579,
+        "lon": 50.595901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146860b2f773f494059accf30105f033a40f00103f901c83713ef02000000",
+      "name": "Road 6226",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0131693,
+        "lon": 50.4958247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 6226, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51805bc1806f4c4940598343b97e0b3e3a40f00103f9014a4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2423629,
+        "lon": 50.5971528
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513501d072ea4c4940598e626f18bb373a40f00103f901de3aa8ee02000000",
+      "name": "Sheikh Abdullah Khalid Al Khalifa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2176986,
+        "lon": 50.6009048
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Abdullah Khalid Al Khalifa Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51878c47a98447494059f8020efc03223a40f00103f901c21d383e01000000",
+      "name": "EMS Glamorous Fashion",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1328733,
+        "lon": 50.558736
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "EMS Glamorous Fashion, Road 1312, Riffa 913, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177e760ffde41494059d8ec022deb073a40f00102f90186bd510900000000920326d8add984d8a8d8a920d8a7d984d8a8d8add8b1d98ad98620d8a7d984d8afd988d984d98ad8a9",
+      "name": "حلبة البحرين الدولية",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.030932248319772,
+        "lon": 50.5146178458371
+      },
+      "categories": [
+        "fee",
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Bahrain International Circuit, Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f2660c15b484940597632ba293d2a3a40f00102f901f8e1645b00000000",
+      "name": "Abu Dhabi Avenue",
+      "city": "Jurdab",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.164995773275642,
+        "lon": 50.56530015177599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Abu Dhabi Avenue, Jurdab 814, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c30c8d27824c494059f717e6a9b33d3a40f00103f901264fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410227,
+        "lon": 50.597722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fa2b2614d4c494059fe0868c7b23d3a40f00103f9018c8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410092,
+        "lon": 50.5961115
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f5e60fb6e4f49405926bbe35eaa3f3a40f00103f901beb101780100000092031156696577206f6e20446f75207368697073",
+      "name": "View on Dou ships",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2486934,
+        "lon": 50.6205744
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View on Dou ships, Road 1655, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b17ebc0de4a4940599b4fc2f121393a40f00103f901f0c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2231742,
+        "lon": 50.5849229
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51580053060e4e494059e2cad93ba3453a40f00103f9016b1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.272022,
+        "lon": 50.609803
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4ece75e714a4940598617e9ea33403a40f00103f901e375a4ee02000000",
+      "name": "Road 4606",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2507922,
+        "lon": 50.5815848
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 4606, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190bfb4a84f4c4940590700d8ca953d3a40f00103f9017e8cbdee0200000092030c496b72616d204b616262616a",
+      "name": "Ikram Kabbaj",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2405669,
+        "lon": 50.596181
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Ikram Kabbaj, Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100e72043224e494059b1434651b1453a40f00103f9017a1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2722369,
+        "lon": 50.6104206
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5134f5ba456041494059e64cc92885093a40f00103f901fbc459f800000000920317d8b7d98ad8b1d8a7d98620d8a7d984d8aed984d98ad8ac",
+      "name": "طيران الخليج",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0371881,
+        "lon": 50.5107505
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gulf Air, Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f55267a4944f4940596aae89bb30423a40f00103f901519e287d0000000092030a5468652046616c636f6e",
+      "name": "The Falcon",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2585561,
+        "lon": 50.6217237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "The Falcon, Khalifa Al-Kabeer Highway, Muharraq 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dab6de25274e494059df1797aab4453a40f00103f9017d1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.272288,
+        "lon": 50.6105697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5145e5153e114e494059e7afeb72a5453a40f00103f9016d1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2720558,
+        "lon": 50.6099012
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc1bb05010454940595a2db0c744383a40f00103f901ce92f2fa0000000092031ed8b3d988d98220d8acd8afd8add981d8b520d8a7d984d8b4d8b9d8a8d98a",
+      "name": "سوق جدحفص الشعبي",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2197995,
+        "lon": 50.5395604
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "سوق جدحفص الشعبي, 11 Road 2143, Jid Hafs 406, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517a28c0666f4a494059e3d6ee682d403a40f00103f901cd75a4ee02000000",
+      "name": "Road 4606",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2506929,
+        "lon": 50.5815247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 4606, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168267387a84c49405992527534b33d3a40f00103f9013b4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410157,
+        "lon": 50.5988931
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8a5bd1cd14a494059c9aa083719393a40f00103f901eac379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.223041,
+        "lon": 50.5845066
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51420356b3734c494059e0e5d830f93d3a40f00103f901464fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2420836,
+        "lon": 50.5972809
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b87d79a524c49405910d5ef1d903d3a40f00103f901788cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2404803,
+        "lon": 50.5962709
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8fd58d29b4e49405937a38bf2713e3a40f00103f90112cc26ef02000000",
+      "name": "Road 1615",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2439262,
+        "lon": 50.6141303
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 1615, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101a777f17e4e49405931a0cd60423f3a40f00103f90156f539ef02000000",
+      "name": "Abdulrahman Al-Fadhel Avenue",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2471066,
+        "lon": 50.613249
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Abdulrahman Al-Fadhel Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173f15c84ce4a4940599bfe918e17393a40f00103f901e8c379ef02000000",
+      "name": "Shaikh Isa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2230157,
+        "lon": 50.5844274
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Shaikh Isa Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51740ef9c2bf494940597b6583f1783f3a40f00103f901765f98ee02000000",
+      "name": "Road 4609",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2479392,
+        "lon": 50.5761646
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Road 4609, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e544502574c4940594dfad6e2ae3d3a40f00103f901e638beee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409498,
+        "lon": 50.5964053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d28437b57d4c494059cc2b3295d93d3a40f00103f9014e4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2416013,
+        "lon": 50.5975863
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516cf019e4894e49405972e54757443e3a40f00103f90110cc26ef0200000092031553616c656d20416c6c616e20313931342d31393831",
+      "name": "Salem Allan 1914-1981",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2432303,
+        "lon": 50.6135831
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Salem Allan 1914-1981, Shaikh Isa Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516765fb90b749494059b707c666ec343a40f00103f90158ba5afd0000000092031dd8a7d984d8acd8b2d98ad8b1d8a920d8a7d984d8a8d8add8b1d98ad986",
+      "name": "الجزيرة البحرين",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2067322,
+        "lon": 50.5759145
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "الجزيرة البحرين, Abdulrahman Jassim Kanoo Avenue, Manama 1859, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3b327dc864c494059384c3448c13d3a40f00103f901354fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2412305,
+        "lon": 50.5978656
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172480fe8f14a4940591b800d8810393a40f00103f90100c479ef0200000092030e576520e29da4204261687261696e",
+      "name": "We ❤ Bahrain",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2229085,
+        "lon": 50.5855074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "We ❤ Bahrain, Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176f97bce824c49405917299485af3d3a40f00103f901254fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409595,
+        "lon": 50.5977419
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518dec4acb484c4940591cb28174b13d3a40f00103f9018b8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.240989,
+        "lon": 50.5959715
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4dd0f2ed34c494059027e326bce363a40f00103f90123cb5afd00000000920328d986d8a7d986d8afd988d8b220d8a7d984d8a8d8add8b1d98ad98620d8a7d984d8acd981d98ad8b1",
+      "name": "ناندوز البحرين الجفير",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2140872,
+        "lon": 50.6001947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ناندوز البحرين الجفير, Road 4005, Manama 338, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae39f6a22c4b49405946555dd1f7363a40f00103f9019343d40401000000920318d985d8b7d8b9d98520d8a7d984d8b3d98a20d8b3d98ad8af",
+      "name": "مطعم السي سيد",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2147189,
+        "lon": 50.5872997
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "مطعم السي سيد, Road 2721, Manama 338, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137da160a7d4c4940597782fdd7b93d3a40f00103f901284fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.241117,
+        "lon": 50.5975659
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0969af3424c4940591c5cdf2cca3d3a40f00103f9018e8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2413662,
+        "lon": 50.5957932
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5144696ff0854e494059a2ff2fe8ce3f3a40f00103f90142c4dd1901000000",
+      "name": "Murad Majlis",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2492509,
+        "lon": 50.6134625
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Murad Majlis, Lane 1318, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111871167ea4c4940598450943ab7373a40f00103f901dc3aa8ee02000000",
+      "name": "Sheikh Abdullah Khalid Al Khalifa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2176396,
+        "lon": 50.6009034
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Abdullah Khalid Al Khalifa Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fdf59716056494059e71fd84c19393a40f00103f901e7437c030100000092031554657272614669726d6120537063206f6666696365",
+      "name": "TerraFirma Spc office",
+      "city": "Al-Hidd",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2230423,
+        "lon": 50.6748182
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "TerraFirma Spc office, 33 Road 1510, Al-Hidd 0510, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a335abe39d4c4940591d7cbcebc73d3a40f00103f9013e4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2413318,
+        "lon": 50.5985684
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac0727fd18414940597804dc9843fd3940f00103f90195a884ff00000000920348d985d8add985d98ad98720d8a7d984d8b9d8b1d98ad98620d8a7d984d985d8add8a7d981d8b6d98720d8a7d984d8acd986d988d8a8d98ad98720d8a7d984d8a8d8add8b1d98ad986",
+      "name": "محميه العرين المحافضه الجنوبيه البحرين",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9893127,
+        "lon": 50.5085751
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "محميه العرين المحافضه الجنوبيه البحرين, Avenue 60, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c02f04fa9474940596b8df799691f3a40f00103f9017e3372f601000000",
+      "name": "Ancient burial mounds",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1227051,
+        "lon": 50.5598545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ancient burial mounds, Road 117, Riffa 913, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170b03731244e4940596f206e98b2453a40f00103f9017c1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2722564,
+        "lon": 50.6104795
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a95379967b3d494059e596fb896f1b3a40f00103f901ef7afbee02000000",
+      "name": "Road 2731",
+      "city": "Karzakan",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1071707,
+        "lon": 50.4803341
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 2731, Karzakan 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5c4ebe54d41494059358beba4b5063a40f00101f9019d9f1d01000000009203074261687261696e",
+      "name": "Bahrain",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.026209170823865,
+        "lon": 50.51018976223114
+      },
+      "categories": [
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights"
+      ],
+      "formatted_address": "Bahrain, Avenue 60, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137fd18b2694349405923b9a0573e123a40f00102f901e1797e0a00000000920322d8b5d8b1d8ad20d8a7d984d985d98ad8abd8a7d98220d8a7d984d988d8b7d986d98a",
+      "name": "صرح الميثاق الوطني",
+      "city": "Awali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.071263767947254,
+        "lon": 50.52666307659313
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Bahrain National Charter Monument, Zallaq Highway, Awali 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a1ed896a64649405999ddee40f83b3a40f00103f901516839fc000000009203115761686f6f6f205761746572207061726b",
+      "name": "Wahooo Water park",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2342568,
+        "lon": 50.5519589
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wahooo Water park, Highway 68, Jid Hafs 410, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170f72812024249405907978e39cf283a40f00103f9019b2672f601000000",
+      "name": "Royal Burial Mound",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.159412,
+        "lon": 50.5156882
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Burial Mound, Road 4243, A'ali 732, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515167ee21e14a494059e432c92313393a40f00103f901e7c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2229483,
+        "lon": 50.5849955
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4df0154274a49405912d1f93aba3a3a40f00102f9017dcc2a5100000000",
+      "name": "Bait Khalaf House",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.22940415,
+        "lon": 50.5793252
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bait Khalaf House, Road 109, Manama 301, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ba49eaae74a49405963f60da727393a40f00103f901f6c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2232613,
+        "lon": 50.5851949
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b44afac5b649494059d4b0845a783f3a40f00103f901755f98ee02000000",
+      "name": "Road 4609",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2479302,
+        "lon": 50.5758903
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Road 4609, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee76627bd24d4940595ad6fd6321403a40f00103f901c1ee3e4301000000920313d8b3d988d98220d8a7d984d985d8add8b1d982",
+      "name": "سوق المحرق",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2505095,
+        "lon": 50.6079859
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "سوق المحرق, Shaik Hamad Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f44eaa22814c4940596749db53cd3d3a40f00103f9014d4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2414143,
+        "lon": 50.5976909
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515000c5c89242494059870cf5053e3a3a40f00103f901756a2bf501000000",
+      "name": "Ancient burial mounds",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2275089,
+        "lon": 50.5201045
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ancient burial mounds, Avenue 24, Jid Hafs 426, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0f78bd99243494059f2e9b12d033e3a40f00103f9013584f31901000000",
+      "name": "Karbabad Beach",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.242236,
+        "lon": 50.527919
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karbabad Beach, Road 3648, Jid Hafs 428, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb6246787b4c494059d3a81b83a93d3a40f00103f9011e4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2408678,
+        "lon": 50.597518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51321f10e84c4c494059ac6928ffa43d3a40f00103f901848cbdee0200000092030950616c657374696e65",
+      "name": "Palestine",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2407989,
+        "lon": 50.596097
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Palestine, Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166b33401d04a49405905813a8a18393a40f00103f901e9c379ef02000000",
+      "name": "Shaikh Isa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2230307,
+        "lon": 50.5844728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Shaikh Isa Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0e83125ed4a494059a83a3f202b393a40f00103f901f9c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2233143,
+        "lon": 50.5853621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f690e5a594c494059faf202eca33d3a40f00103f901e738beee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2407825,
+        "lon": 50.5964768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc2ffa658b4c494059e63c635fb23d3a40f00103f901374fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.241003,
+        "lon": 50.5980041
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160f767507e4c49405990c18a53ad3d3a40f00103f901214fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.240926,
+        "lon": 50.5976048
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1521e824f4c494059c229bd80a83d3a40f00103f901878cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2408524,
+        "lon": 50.5961764
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d594641d8e4e4940594521133af93e3a40f00103f9019b94dd1901000000",
+      "name": "Al-Jalahma House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2459904,
+        "lon": 50.613712
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Al-Jalahma House, Road 1622, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112633ec5164e494059927131ab1c3f3a40f00103f9019d453eef02000000",
+      "name": "Al-Naham Ahmed Jassim Buteubanya Avenue",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2465312,
+        "lon": 50.6100699
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Al-Naham Ahmed Jassim Buteubanya Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a0c022b8739494059f72576c828343a40f00103f901a49284470100000092030cd984d8a7d982d988d986d8a7",
+      "name": "لاقونا",
+      "city": "Budaiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2037473,
+        "lon": 50.4494375
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "لاقونا, Avenue 63, Budaiya 538, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b044566ded4449405919349996fdfd3940f00103f901f3c1fe9c01000000",
+      "name": "hoora",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9921507,
+        "lon": 50.5384957
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "hoora, Road 8811, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164acdb453d3e494059ee43de72f5313a40f00103f901f2c1fe9c01000000",
+      "name": "hamad",
+      "city": "Al Markh",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1951515,
+        "lon": 50.4862449
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "hamad, Road 2329, Al Markh 533, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c362d4b5f64a4940597c821f306ad83940f00103f90115f359f301000000",
+      "name": "Durrat Al Bahrain",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.8453703,
+        "lon": 50.585654
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Durrat Al Bahrain, King Hamad Highway, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112ead8f7975049405927da5548f9433a40f00103f9015e422eee02000000",
+      "name": "Road 2403",
+      "city": "Arad",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2655225,
+        "lon": 50.6296377
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 2403, Arad 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0ef79b427434940594845ad7a0a123a40f00103f901340806ef02000000",
+      "name": "Zallaq Highway",
+      "city": "Awali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0704724,
+        "lon": 50.5246492
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Zallaq Highway, Awali 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51595f6e41004e494059c91d369199453a40f00103f90115fd53ef02000000",
+      "name": "Busaiteen Avenue",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2718745,
+        "lon": 50.6093828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Busaiteen Avenue, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca43f009234e4940598d81d0d5b1453a40f00103f9017b1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2722448,
+        "lon": 50.6104443
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9b2bb9b024e494059ce4aff379b453a40f00103f90117fd53ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2718997,
+        "lon": 50.6094546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e389a02e914249405966ccd512bf3b3a40f00102f901e6ae53050000000092030c4261687261696e20466f7274",
+      "name": "Bahrain Fort",
+      "city": "Al Qalah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.23338430137337,
+        "lon": 50.520055607212065
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Bahrain Fort, Road 3806, Al Qalah 450, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51668bff965b464940591be95619d7f93940f00103f90156c2fe9c01000000",
+      "name": "hasanain",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9759384,
+        "lon": 50.5496701
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "hasanain, Road 8811, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196e24ff97c4c494059814c2146be3d3a40f00103f9012f4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2411846,
+        "lon": 50.5975639
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cf3b0444774c49405985718115f13d3a40f00103f901414fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2419599,
+        "lon": 50.5973897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aba7a0ec7749494059e8b7544a743b3a40f00103f9019a757a0601000000920317d985d982d987d98920d8a7d984d8acd986d8afd988d984",
+      "name": "مقهى الجندول",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2322432,
+        "lon": 50.5739723
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "مقهى الجندول, Road 470, Manama 314, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51626534f2794c4940591853fa53f43d3a40f00103f901424fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2420094,
+        "lon": 50.5974715
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5166e2b1fa7e4c494059ebf6a3f2c03d3a40f00103f901304fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2412254,
+        "lon": 50.5976251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5138a4ac3a064c49405902db1c42f03b3a40f00103f901542da8ee02000000",
+      "name": "Exhibitions Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2341348,
+        "lon": 50.5939401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Exhibitions Avenue, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511884a8b17349494059f15476b0b43c3a40f00103f901b0f995ee02000000",
+      "name": "Road 4626",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2371321,
+        "lon": 50.5738432
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 4626, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51733251e6f34d49405952e4a67e95373a40f00102f901c6dff61c00000000920314456c697465204d65646963616c2043656e746572",
+      "name": "Elite Medical Center",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.217124858613097,
+        "lon": 50.6090057274313
+      },
+      "categories": [
+        "building",
+        "building.healthcare",
+        "building.tourism",
+        "healthcare",
+        "healthcare.clinic_or_praxis",
+        "internet_access",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint",
+        "wheelchair",
+        "wheelchair.yes"
+      ],
+      "formatted_address": "Elite Medical Center, 18th floor Road 2421, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519fb18a92eb4a494059fcc808032a393a40f00103f901f8c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2232973,
+        "lon": 50.5853141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b61fdf94a84c4940590e85cfd6c13d3a40f00103f9013c4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.241239,
+        "lon": 50.5988947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eb77bc24294449405960a120c209263a40f00103f901fdd3f3f40100000092032bd985d986d8b2d98420d8b2d98ad98620d8a7d984d8b9d8a7d8a8d8afd98ad9862d2020d8b9d8a7d984d98a",
+      "name": "منزل زين العابدين-  عالي",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1485864,
+        "lon": 50.5325056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "منزل زين العابدين-  عالي, Road 3242, A'ali 736, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515650acae9e544940598b845be3d8413a40f00103f9014b422eee02000000",
+      "name": "Dry Dock Highway",
+      "city": "Al-Hidd",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2572157,
+        "lon": 50.6610926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Dry Dock Highway, Al-Hidd 254, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517959130b7c4c49405982638511b13d3a40f00103f901204fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409831,
+        "lon": 50.5975355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512222eb5f484c494059a24c593cab3d3a40f00103f901868cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2408941,
+        "lon": 50.5959587
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514171b66fa44c4940591af9bce2a93b3a40f00103f901c483f9ad02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.233061,
+        "lon": 50.5987682
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da3dd4111b4e49405954c37e4fac453a40f00103f901751a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721605,
+        "lon": 50.6102011
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51289595cbeb414940592d0f2d0d57283a40f00103f901c7a7d0210300000092030c42757269616c206d6f756e64",
+      "name": "Burial mound",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1575783,
+        "lon": 50.5150084
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Burial mound, Road 3829, A'ali 736, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0d128136d444940596f545d763e343a40f00103f901f34912f90000000092031cd985d8b3d8acd8af20d8a7d984d8b4d98ad8ae20d8b9d8b2d98ad8b2",
+      "name": "مسجد الشيخ عزيز",
+      "city": "Jeblat Hebshi",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2040781,
+        "lon": 50.5345787
+      },
+      "categories": [
+        "building",
+        "building.place_of_worship",
+        "building.tourism",
+        "religion",
+        "religion.place_of_worship",
+        "religion.place_of_worship.islam",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights.place_of_worship",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "مسجد الشيخ عزيز, Shela Avenue, Jeblat Hebshi 431, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9ec87331a434940597f8c14257c383a40f00103f90179f94f3c01000000920306537461747565",
+      "name": "Statue",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2206443,
+        "lon": 50.5242371
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Statue, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c959fafb44a494059d3c9085ee33f3a40f00103f9010776a4ee02000000",
+      "name": "Road 4611",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2495631,
+        "lon": 50.5836391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 4611, Manama 0317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db90da1f834c4940591506c0d3bf3d3a40f00103f901334fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2412083,
+        "lon": 50.5977516
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51393d940d104e494059ba5d79da2b3f3a40f00103f90199453eef02000000",
+      "name": "Al-Naham Ahmed Jassim Buteubanya Avenue",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2467629,
+        "lon": 50.6098649
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Al-Naham Ahmed Jassim Buteubanya Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff5e65c80c4e494059ccc12275f13f3a40f00103f90177f5dd1901000000",
+      "name": "Amarat Ali Rashed Fakhro",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2497781,
+        "lon": 50.6097651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Amarat Ali Rashed Fakhro, Road 1557, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cde506431d4c494059701ef3a6c73b3a40f00103f90157d9f24103000000",
+      "name": "Exhibitions Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2335152,
+        "lon": 50.594643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Exhibitions Avenue, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b792b01e73d494059a4a7c821e2183a40f00103f901a499fcee02000000",
+      "name": "Road 3352",
+      "city": "Malkiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0972005,
+        "lon": 50.4836122
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 3352, Malkiya 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149ca2775134e494059286b2ffda6453a40f00103f9016f1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2720793,
+        "lon": 50.6099688
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9b7af03e74c494059faedebc039333a40f00103f901e5345a0701000000",
+      "name": "Hilti Bahrain",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2001,
+        "lon": 50.6008
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Hilti Bahrain, Road 4306, Manama 335, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5188b839950c4e494059244ad63ca2453a40f00103f901691a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2720068,
+        "lon": 50.609759
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de38ce12094e49405913ffc1d19f453a40f00103f9011bfd53ef02000000",
+      "name": "Avenue 7",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2719699,
+        "lon": 50.6096519
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 7, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512140868e1d4e4940592a6cabfead453a40f00103f901771a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721862,
+        "lon": 50.610277
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c62dfae40e48494059e43d4037291e3a40f00102f901583d630a000000009203095269666120466f7274",
+      "name": "Rifa Fort",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.117816403564476,
+        "lon": 50.56295454231035
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Rifa Fort, Shaikh Humood Bin Subah Avenue, Riffa 905, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec70cf4e61424940598ade4ec708fd3940f00103f9018fc1fe9c01000000920306d8b9d984d98a",
+      "name": "علي",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9884152,
+        "lon": 50.5185946
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ali, Road 6241, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51401dead21a48494059343d72b55f1e3a40f00103f9014b100def02000000",
+      "name": "Shaikh Humood Bin Subah Avenue",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1186479,
+        "lon": 50.5633186
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Shaikh Humood Bin Subah Avenue, Riffa 905, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da07b4cfbe414940594a3668f9cb283a40f00103f901fda20af601000000",
+      "name": "Royal Burial Mound 1",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1593624,
+        "lon": 50.5136356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Royal Burial Mound 1, Road 4264, A'ali 736, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d006054aaf3949405955d0fe51e5293a40f00103f901850b33f601000000",
+      "name": "Bahrain Crafts Centre",
+      "city": "Northern City",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1636554,
+        "lon": 50.4506619
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bahrain Crafts Centre, Road 315, Northern City 1001, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b54104dea4a494059389f3a5629393a40f00103f901f7c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.223287,
+        "lon": 50.5852753
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197491e99584b49405965fd6662ba3a3a40f00103f901d96a2bf501000000",
+      "name": "Evening Open fish market",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2294065,
+        "lon": 50.5886413
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Evening Open fish market, Road 1869, Manama 321, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159a48977804c494059994c7045bd3d3a40f00103f901314fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2411693,
+        "lon": 50.5976705
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b00c6080334e49405977442a31743f3a40f00103f90175f5dd1901000000",
+      "name": "Fakhro House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2478667,
+        "lon": 50.6109467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Fakhro House, Shaikh Abdulla Bin Hamad Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115cec9e6054c494059d2c6116bf13b3a40f00103f901552da8ee02000000",
+      "name": "Exhibitions Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2341525,
+        "lon": 50.5939301
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Exhibitions Avenue, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143fe99417c4c494059cb074ec7ad3d3a40f00103f9011f4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409329,
+        "lon": 50.597542
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f9ff364484c4940590525bb88a53d3a40f00103f901858cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2408071,
+        "lon": 50.5959593
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a86d6d4c34d494059531d177a69373a40f00103f901c59295f901000000920317d8a7d984d8acd981d98ad8b120d8b3d983d988d98ad8b1",
+      "name": "الجفير سكوير",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2164532,
+        "lon": 50.6075388
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "JUFFAIR SQUARE, Awal Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e855f88e754b4940593c1d7eed4f3e3a40f00103f9013e76a4ee02000000",
+      "name": "Road 1701",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2434071,
+        "lon": 50.5895251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 1701, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519139e004f04b4940596eb2fcaf293c3a40f00103f901502da8ee02000000",
+      "name": "Exhibitions Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2350111,
+        "lon": 50.5932623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Exhibitions Avenue, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f9b278d874c494059fabc3d63ba3d3a40f00103f9012c4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2411253,
+        "lon": 50.5978867
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ae59656434c4940590ef3e505d83d3a40f00103f901928cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2415775,
+        "lon": 50.595805
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511977e681814b494059e8a02174ff373a40f00102f90121e62a5100000000",
+      "name": "Road 2615",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.218741663179486,
+        "lon": 50.58988975289521
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 2615, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51485ae0e12c4e4940595a9d9ca1b8453a40f00103f901801a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2723485,
+        "lon": 50.6107447
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cac0a673ea4c494059573d0565bf373a40f00103f901e03aa8ee02000000",
+      "name": "Sheikh Abdullah Khalid Al Khalifa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2177642,
+        "lon": 50.6009049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Abdullah Khalid Al Khalifa Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5194d0a79f814c494059d3421372ef3d3a40f00103f901454fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2419349,
+        "lon": 50.5977058
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a34b918033f4940592905dd5ed2243a40f00103f90119c0f6ee02000000",
+      "name": "Zaid Bin Omeera Highway",
+      "city": "Hamalah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.143835,
+        "lon": 50.492282
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Zaid Bin Omeera Highway, Hamalah 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178a11408963b494059079c001eac2e3a40f00103f90181c51ba601000000",
+      "name": "Royal camel farm",
+      "city": "Janabiyah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1823138,
+        "lon": 50.4655161
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Royal camel farm, Janabiyah Highway, Janabiyah 533, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51451e77007a4c494059daaa24b20f3e3a40f00103f901474fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.242427,
+        "lon": 50.5974732
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51111ac1c6f53f4940593b08f0ccba193a40f00103f901c5008e020100000092031c4261697420497368617120d8a8d98ad8aa20d8a5d8b3d8add8a7d982",
+      "name": "Bait Ishaq بيت إسحاق",
+      "city": "Hamad Town",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1005066,
+        "lon": 50.499688
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bait Ishaq بيت إسحاق, Road 1045, Hamad Town 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51297c11c8803d49405929cbb50d481b3a40f00103f901f17afbee02000000",
+      "name": "Road 2731",
+      "city": "Karzakan",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1065682,
+        "lon": 50.4804926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 2731, Karzakan 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0be0a952448494059a7655a51391e3a40f00103f9017b010def02000000",
+      "name": "Shaikh Khalid Avenue",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1180621,
+        "lon": 50.5636164
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Shaikh Khalid Avenue, Riffa 905, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514da3c9c518414940590aad3da2f8233a40f00103f901296c514601000000920313d8b3d988d98220d8a7d984d981d8aed8a7d8b1",
+      "name": "سوق الفخار",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1405126,
+        "lon": 50.5085685
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "سوق الفخار, Wali Al Ahd Highway, A'ali 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ff52509b824949405995fbd3fce7013a40f00103f901f5c1fe9c01000000",
+      "name": "ali",
+      "city": "Jaww",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0074461,
+        "lon": 50.5742983
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ali, Road 5926, Jaww, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51285e0ab4e04a4940595f31d92e23393a40f00103f901f1c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2231931,
+        "lon": 50.5849824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177ce609d74464940597083352960223a40f00103f9010768bd0a01000000",
+      "name": "Road 1412",
+      "city": "Riffa",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1342798,
+        "lon": 50.5504338
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 1412, Riffa 912, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51141ed9017c48494059d72e127fb9393a40f00103f901a16b2bf501000000",
+      "name": "Public entrance to graveyard",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2254867,
+        "lon": 50.5662844
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Public entrance to graveyard, Road 1423, Manama 314, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511d9c3ef1524c49405942469b3e963d3a40f00103f9017f8cbdee0200000092030e47696f72676965204370616a616b",
+      "name": "Giorgie Cpajak",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2405738,
+        "lon": 50.5962812
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Giorgie Cpajak, Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b610e4a0844c494059a0e1cd1abc3d3a40f00103f9012d4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2411515,
+        "lon": 50.5977975
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6e67dd23f4c494059da2d138fd53d3a40f00103f901938cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2415399,
+        "lon": 50.5956977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c261eabef414940591d3a3defc6283a40f00103f901e3e871f601000000",
+      "name": "Royal Burial Mound",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1592855,
+        "lon": 50.5151266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Royal Burial Mound, Road 4247, A'ali 736, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fbb0dea8154e49405915281884a8453a40f00103f901711a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721026,
+        "lon": 50.610036
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a8493a144f4e494059edbf29070e413a40f00103f901df61eb9b0000000092031e41205261686d616e2059757375662042696e204a616c616c20486f757365",
+      "name": "A Rahman Yusuf Bin Jalal House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2541203,
+        "lon": 50.6117883
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "A Rahman Yusuf Bin Jalal House, Lane 917, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185121c4de44a494059580c0d7a25393a40f00103f901f3c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2232281,
+        "lon": 50.5850922
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be7cfcefd24a4940591c19f55a1a393a40f00103f901ebc379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2230584,
+        "lon": 50.5845623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8e3f2c4184e494059f6926bafaa453a40f00103f901731a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721357,
+        "lon": 50.6101309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfae70dc734a4940591025b5abeb3f3a40f00103f901dffaa3ee02000000",
+      "name": "Road 4606",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2496898,
+        "lon": 50.5816608
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 4606, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5191b17f434d4c49405904c01d4d9a3d3a40f00103f901818cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2406357,
+        "lon": 50.5961079
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef096d94504c494059d08140c28b3d3a40f00103f901798cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2404138,
+        "lon": 50.5962091
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514940964fa04c49405926e1421ec13d3a40f00103f9013d4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.241228,
+        "lon": 50.5986423
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c01c0b1674e494059ceb00749553f3a40f00103f90157f539ef02000000",
+      "name": "Lane 1421",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2473951,
+        "lon": 50.6125395
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Lane 1421, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121ce2b1e804e4940592b7e3ddb3d3f3a40f00102f9019130c34900000000",
+      "name": "Al-Alawi House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.247037603867437,
+        "lon": 50.61328484667707
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Al-Alawi House, Abdulrahman Al-Fadhel Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120425c397b4c494059fd44af50b53d3a40f00103f901394fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410479,
+        "lon": 50.5975105
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c6b7418dd4d494059a6d65647e93f3a40f00103f901911955ae01000000",
+      "name": "Pearling Testimony of Island Economy",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2496533,
+        "lon": 50.6083098
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pearling Testimony of Island Economy, Al-Naham Ahmed Jassim Buteubanya Avenue, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6176b6e3b4e4940598aa9995a5b393a40f00103f9011d91d7ee02000000",
+      "name": "Prince Saud Al-Faisal Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2240502,
+        "lon": 50.6111887
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Prince Saud Al-Faisal Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e256410c744c49405973a5f9be133e3a40f00103f9014b4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2424888,
+        "lon": 50.5972915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea060abc934c494059d0bf1369d13d3a40f00103f9013f4fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2414766,
+        "lon": 50.5982585
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513d7e6fd39f4c4940596a0190c9983d3a40f00103f901404fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2406126,
+        "lon": 50.5986275
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100a0d4a8d14c4940597fa9faf0873a3a40f00103f90127cdb8ee02000000",
+      "name": "Road 2209",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2286368,
+        "lon": 50.6001483
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 2209, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b40ab82074e494059879e39909a393a40f00103f901136e323701000000",
+      "name": "Gulf Speed One Gokarting @ Najma Sports Club",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2250147,
+        "lon": 50.6096042
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gulf Speed One Gokarting @ Najma Sports Club, Prince Saud Al-Faisal Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dced1fb0174e49405956e35b0eaa453a40f00103f901831a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2721261,
+        "lon": 50.6100979
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e2a1664704a494059565bfb4c07403a40f00103f901776992ef02000000",
+      "name": "Road 4606",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2501114,
+        "lon": 50.5815549
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 4606, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515610035dfb3e494059c93cf20703253a40f00103f9011bc0f6ee02000000",
+      "name": "Wali Al Ahd Highway",
+      "city": "Hamalah",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1445775,
+        "lon": 50.492046
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Wali Al Ahd Highway, Hamalah 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e5ec603804c4940594db21f73af3d3a40f00103f901244fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409584,
+        "lon": 50.5976567
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea526d814e4c4940598f1daf9bad3d3a40f00103f9018a8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409303,
+        "lon": 50.5961458
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195626c0ddd4b4940598ba9cd3df3373a40f00102f9014604730a00000000920317d982d8b5d8b120d8a7d984d982d8b6d98ad8a8d98ad8a9",
+      "name": "قصر القضيبية",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.21855531951,
+        "lon": 50.59268348495713
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gudaibiya Palace, Bani Otbah Avenue, Manama 338, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156479c01475049405991a30884a2403a40f00102f901e947b501000000009203094172616420466f7274",
+      "name": "Arad Fort",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.252479793652643,
+        "lon": 50.627166940029085
+      },
+      "categories": [
+        "access",
+        "access.yes",
+        "fee",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Arad Fort, Road 4229, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51402663c6254e494059688b10c3b3453a40f00103f901851a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2722742,
+        "lon": 50.6105278
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512189a8d3cb48494059d0910145d12a3a40f00103f90149d8f22201000000920315daa4d98ad8a820d8a7d984d8a8d8add8b1d98ad986",
+      "name": "ڤيب البحرين",
+      "city": "Jurdab",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1672557,
+        "lon": 50.5687203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bahrain Vape, Abu Dhabi Avenue, Jurdab 814, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb6a5496d74a494059b09e49511d393a40f00103f901edc379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2231036,
+        "lon": 50.5847042
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51241d2fee504c494059c8f4dfde903d3a40f00103f9017b8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2404918,
+        "lon": 50.5962198
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8e390c3164e494059ac68bd29f63f3a40f00103f90169b5dd1901000000",
+      "name": "Siyadi Shops",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2498499,
+        "lon": 50.6100697
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Siyadi Shops, Road 1501, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136d6b441dc4a494059e41b655820393a40f00103f901efc379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2231498,
+        "lon": 50.5848467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a99729f74c4c494059a9177c9a933d3a40f00103f9017d8cbdee0200000092030d506174726963652042656c696e",
+      "name": "Patrice Belin",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2405335,
+        "lon": 50.5960988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Patrice Belin, Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e0e9f742239494059e96bf184b9343a40f00103f901fb4f07fe00000000920315d8b3d8a7d8add98420d8a7d984d8a8d8afd98ad8b9",
+      "name": "ساحل البديع",
+      "city": "Budaiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2059558,
+        "lon": 50.446364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "ساحل البديع, Avenue 59, Budaiya 538, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f16b7fc23442494059c4d155babb383a40f00103f9010de867d30100000092030cd8a7d984d985d982d8b4d8b9",
+      "name": "المقشع",
+      "city": "Al Maqsha",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2216145,
+        "lon": 50.5172351
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Almaqsha, Road 5020, Al Maqsha 450, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f60d4a4ca4649405946d09849d43d3a40f00103f901a7df54ef02000000",
+      "name": "Highway 68",
+      "city": "Jid Hafs",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2415205,
+        "lon": 50.5530592
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Highway 68, Jid Hafs 410, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110f0ff3e3e4c4940591e6b4606b93d3a40f00103f9018d8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2411045,
+        "lon": 50.5956496
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d897b2c7d4c4940595b615518b63d3a40f00103f901274fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410598,
+        "lon": 50.59757
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a3d714a8a4349405996c4a39e4f2e3a40f00103f901b94a36a902000000920340d985d8b5d986d8b920d8a7d984d988d8b1d8afd8a920d984d8aad8b9d8a8d8a6d8a920d8a7d984d985d988d8a7d8af20d8a7d984d8bad8b0d8a7d8a6d98ad8a9",
+      "name": "مصنع الوردة لتعبئة المواد الغذائية",
+      "city": "Salmabad",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1809024,
+        "lon": 50.5276578
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "مصنع الوردة لتعبئة المواد الغذائية, Avenue 4, Salmabad 701, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c83956ce834c494059c75fff1ab53d3a40f00103f901294fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410447,
+        "lon": 50.5977724
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ac8940f414c4940593791f4c4ce3d3a40f00103f9018f8cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2414363,
+        "lon": 50.5957355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51037d7d08054e494059a0f94102eb3f3a40f00103f90143c4dd1901000000",
+      "name": "Amarat Yousif A. Fakhro",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2496797,
+        "lon": 50.6095286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Amarat Yousif A. Fakhro, Road 1557, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111871167ea4c4940590d0055dcb8373a40f00103f901dd3aa8ee02000000",
+      "name": "Sheikh Abdullah Khalid Al Khalifa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2176645,
+        "lon": 50.6009034
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Abdullah Khalid Al Khalifa Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae92d96a204e4940597cee04fbaf453a40f00103f901791a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2722165,
+        "lon": 50.6103643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512cd670917b4c494059d677d90af53d3a40f00103f901434fcdee02000000",
+      "name": "Shaikh Hamad Causeway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2420203,
+        "lon": 50.597521
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Shaikh Hamad Causeway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513811fddafa3d494059cf108e59f6183a40f00103f9012d87fcee02000000",
+      "name": "Road 3344",
+      "city": "Malkiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.097509,
+        "lon": 50.484218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 3344, Malkiya 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156da3dd41142494059196b24ae08293a40f00103f9017d3372f601000000",
+      "name": "Al'Ali Royal Burial Mound",
+      "city": "A'ali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1602887,
+        "lon": 50.5161691
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Al'Ali Royal Burial Mound, Road 4239, A'ali 732, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107472465e64a49405910e445cb26393a40f00103f901f5c379ef02000000",
+      "name": "Sheikh Duaij Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2232482,
+        "lon": 50.5851561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Duaij Avenue, Manama 308, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b4cde8a27c4c49405938adca749e3d3a40f00103f9011d4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2406991,
+        "lon": 50.5975536
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db28fc636b4c494059e0db4f21b23d3a40f00103f9016fced6ee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409993,
+        "lon": 50.5970273
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51162c7a4c494c494059909037afa03d3a40f00103f901838cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2407331,
+        "lon": 50.5959869
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176d954826a454940596709d748b7fa3940f00103f90155c2fe9c01000000",
+      "name": "mohamed",
+      "city": null,
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 25.9793592,
+        "lon": 50.5423129
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "mohamed, Avenue 108, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516af25981c941494059caa1ff2553083a40f00101f9019c9f1d0100000000",
+      "name": "Gulf of Bahrain Avenue",
+      "city": "Zallaq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.032518744383005,
+        "lon": 50.51396195308628
+      },
+      "categories": [
+        "man_made",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights"
+      ],
+      "formatted_address": "Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e288705ad4549405928b0a5ec99323a40f00103f901969efdf900000000920311416468617269205468656d65205061726b",
+      "name": "Adhari Theme Park",
+      "city": "قرية عذاري",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.1976612,
+        "lon": 50.5443427
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Adhari Theme Park, Shaikh Isa Bin Salman Highway, قرية عذاري 701, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ed9098a7a494940592c6112d32a3b3a40f00103f901bcbd84ee02000000",
+      "name": "Municipality Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2311222,
+        "lon": 50.5740521
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Municipality Avenue, Manama 314, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ebd67c9884c4940598a86d6d4c33d3a40f00103f901364fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2412694,
+        "lon": 50.5979244
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b4190cd9f4e4940597d63be72733e3a40f00103f9019a94dd1901000000",
+      "name": "Al-Ghus House",
+      "city": "Muharraq",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2439491,
+        "lon": 50.6142518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Al-Ghus House, Road 1615, Muharraq 210, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114a97a432b4e494059ae2b6684b7453a40f00103f9017f1a54ef02000000",
+      "name": "Avenue 11",
+      "city": "Busaiteen",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2723315,
+        "lon": 50.6106953
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue 11, Busaiteen 225, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51059ceff1533d494059306a526573183a40f00103f9014d3efcee02000000",
+      "name": "Road 3375",
+      "city": "Malkiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0955108,
+        "lon": 50.4791243
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 3375, Malkiya 902, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7d40220934949405924ffdd4c963e3a40f00103f901117ade1601000000",
+      "name": "Bahrain Festival city",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2444809,
+        "lon": 50.5748024
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bahrain Festival city, Road 4607, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cac573113a4a49405986afaf75a93f3a40f00103f9014fe8a0ee02000000",
+      "name": "Bahrain Bay Park Bridge",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2486795,
+        "lon": 50.5798971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Bahrain Bay Park Bridge, Manama 346, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51821dff05824c4940596d7b16dfab3d3a40f00103f901234fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409038,
+        "lon": 50.597718
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7c79e98504c4940593dafc277ac3d3a40f00103f901898cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2409129,
+        "lon": 50.5962096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e1a183899a50494059111ac1c6f5433a40f00103f9015d422eee02000000",
+      "name": "Road 2403",
+      "city": "Arad",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.265469,
+        "lon": 50.6297161
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 2403, Arad 204, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4a74aa5e93d494059a387eb62e4183a40f00103f901a399fcee02000000",
+      "name": "Road 3352",
+      "city": "Malkiya",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0972349,
+        "lon": 50.4836928
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 3352, Malkiya 1203, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123ae523019454940592f2988cb3b143a40f00103f901d1cf05ef02000000",
+      "name": "Zallaq Highway",
+      "city": "Awali",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.0790374,
+        "lon": 50.5398312
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Zallaq Highway, Awali 905, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51013f9935674b49405991758247653e3a40f00103f9013d76a4ee02000000",
+      "name": "Road 1701",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2437329,
+        "lon": 50.5890872
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Road 1701, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f175638bee4b4940599809d000283c3a40f00103f9014f2da8ee02000000",
+      "name": "Road 1805",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2349854,
+        "lon": 50.5932173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Road 1805, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108c14fc1864c494059f73fc05ab53d3a40f00103f9012b4fcdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2410485,
+        "lon": 50.5978624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 0319, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d8dc987454c494059c81e46add53d3a40f00103f901918cbdee02000000",
+      "name": "Al Fatih Highway",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2415417,
+        "lon": 50.5958719
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Al Fatih Highway, Manama 317, Bahrain",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f944436bea4c4940598829368bbc373a40f00103f901df3aa8ee02000000",
+      "name": "Sheikh Abdullah Khalid Al Khalifa Avenue",
+      "city": "Manama",
+      "country": "Bahrain",
+      "country_code": "bh",
+      "coordinates": {
+        "lat": 26.2177207,
+        "lon": 50.6009039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sheikh Abdullah Khalid Al Khalifa Avenue, Manama 324, Bahrain",
+      "description": null,
+      "image": null
+    }
+  ]
+}

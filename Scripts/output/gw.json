@@ -1,0 +1,175 @@
+{
+  "country_code": "gw",
+  "country_name": "Guinea-Bissau",
+  "boundary_place_id": "519a4a9a9a5f782ec059d36a48dc63a12740f00101f90108f1020000000000c0020b92030d4775696e65612d426973736175",
+  "count": 9,
+  "places": [
+    {
+      "place_id": "51c06268d02b712fc059d62a0b708bbf2540f00103f9011634551901000000",
+      "name": "Turtle's Beach",
+      "city": "Sector de Bubaque",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 10.8741107,
+        "lon": -15.7210374
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Turtle's Beach, Sector de Bubaque, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8f37409e2d72fc05921c8410933952740f00103f901ce4bb40d01000000920312506f72746f205369646a612042696f6d626f",
+      "name": "Porto Sidja Biombo",
+      "city": "Sector de Quinhamel",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.791405,
+        "lon": -15.9216464
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Porto Sidja Biombo, Sector de Quinhamel, Biombo Region, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d872b0c363a2fc0591280249122b72740f00103f9011def797801000000",
+      "name": "Carneval",
+      "city": "Bissau",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.8576856,
+        "lon": -15.6136936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carneval, Avenida dos Combatentes da Liberdade da Pátria, 1021 Bissau, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b03db32440c52fc059509951e229222640f00103f901703655190100000092030d50756e74612043616e6170c3a1",
+      "name": "Punta Canapá",
+      "city": "Sector de Bubaque",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.0667258,
+        "lon": -15.885255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Punta Canapá, Sector de Bubaque, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513e16ecd0fa812fc059159392793f852640f00103f9014d0acd0d0200000092030d506f72746f2064692042616e65",
+      "name": "Porto di Bane",
+      "city": "Sector de Bubaque",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.2602499,
+        "lon": -15.7538667
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Port of Bane, Sector de Bubaque, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518da328869a1b2dc0590dd7b49c95762840f00103f9013da220a202000000",
+      "name": "Tribe",
+      "city": "Mafanco",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 12.2316102,
+        "lon": -14.5539133
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tribe, N1, Mafanco, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d349f73b72b2fc059aea9e27ca0bb2740f00103f901bff1aa96010000009203144d65726361646f20646920436f71756569726f73",
+      "name": "Mercado di Coqueiros",
+      "city": "Bissau",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.8664588,
+        "lon": -15.585384
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coqueiros Craft Market, Avenida da Unidade Africana, 1021 Bissau, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51795e85ef58272fc059d6a8876874b32740f00103f9012d3a16a202000000",
+      "name": "power plant ship",
+      "city": "Bissau",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.8504975,
+        "lon": -15.5768504
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "power plant ship, Avenida 3 de Agosto, 1021 Bissau, Guinea-Bissau",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cd6ca1759e2a2fc059c5d2760250b72740f00103f9019d5b9a53010000009203175061696e656c206465204175677573746f20547269676f",
+      "name": "Painel de Augusto Trigo",
+      "city": "Bissau",
+      "country": "Guinea-Bissau",
+      "country_code": "gw",
+      "coordinates": {
+        "lat": 11.8580323,
+        "lon": -15.5832402
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Painel de Augusto Trigo, Rua Vitorina Costa, 1021 Bissau, Guinea-Bissau",
+      "description": null,
+      "image": null
+    }
+  ]
+}

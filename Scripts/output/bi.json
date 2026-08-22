@@ -1,0 +1,680 @@
+{
+  "country_code": "bi",
+  "country_name": "Burundi",
+  "boundary_place_id": "51d397ef2ab5ee3d4059944be3175e690bc0f00101f901c5fa020000000000c0020b920307427572756e6469",
+  "count": 36,
+  "places": [
+    {
+      "place_id": "514591ff136d103e40593600c056ae7c04c0f00103f9018eed4296000000009203144c616320646573206f69736561757820626f6174",
+      "name": "Lac des oiseaux boat",
+      "city": "Kirundo",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -2.5608794,
+        "lon": 30.0641644
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lac des oiseaux boat, RN 14, Kirundo, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f09ea8119f5a3d4059ae2017e64e1a0bc0f00103f901ea2c75fd0000000092030b4368696d70616e7ac3a973",
+      "name": "Chimpanzés",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3878458,
+        "lon": 29.3539897
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chimpanzees, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d6a7c1d9525a3d4059dbef9aa102910bc0f00103f901f4fd0c1601000000",
+      "name": "RN 3",
+      "city": "Nyabugete",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.4458058,
+        "lon": 29.3528267
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RN 3, Nyabugete, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c2e160ca1b5d3d4059d89e5912a0e60ac0f00103f901a649fb470100000092031e4d61676173696e206465732050726f647569747320456779707469717565",
+      "name": "Magasin des Produits Egyptique",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.36261,
+        "lon": 29.3637053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Blue Sky Egyptian Products, Avenue de l'OUA, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c74aecd6b6b3d4059611a868f88a90ac0f00103f9018440958200000000",
+      "name": "RN 1",
+      "city": "Benga",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.33278,
+        "lon": 29.4196137
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RN 1, Benga, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e59a02999d593d40593ae63c635f120bc0f00103f90142159e2300000000920313486970706f2046656564696e6720506f696e74",
+      "name": "Hippo Feeding Point",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.383971,
+        "lon": 29.350061
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Hippo Feeding Point, Avenue de la Plage, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b44f6caa935a3d40590e5c2f979e1a0bc0f00103f901eb2c75fd000000009203074f697365617578",
+      "name": "Oiseaux",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3879978,
+        "lon": 29.3538157
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Birds, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126474b2f7b573d405938faf3c87a550bc0f00103f90155ae5c4a0100000092030f5061676f6465205061736361736961",
+      "name": "Pagode Pascasia",
+      "city": "Muha",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.4167381,
+        "lon": 29.3417234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pagode Pascasia, Rue du Lycée de Kibenga, Muha, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a5fa29e9bc133e4059c5a9d6c22ca40ec0f00103f901598be5b902000000",
+      "name": "Bridge",
+      "city": "Rutana",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.8301635,
+        "lon": 30.0771013
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bridge, Rutana, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2367cc15d203e40591b7222b0282b0fc0f00103f901a59ce7b6000000009203074b69726f747361",
+      "name": "Kirotsa",
+      "city": "Nyakazu",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.8960737,
+        "lon": 30.1264306
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kirotsa, Nyakazu, Rutana, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c7304ba40633d4059528e137019d10ac0f00103f90170987e8d0200000092031444c3a9706172742047617265206475206e6f7264",
+      "name": "Départ Gare du nord",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3520993,
+        "lon": 29.3877064
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Départ Gare du nord, Boulevard Mwambutsa, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb54b65906ec3d40594e5fcfd72ce70ac0f00103f9011253e2eb0100000092031f53616e63747561697265206465732054616d626f7572732053616372c3a973",
+      "name": "Sanctuaire des Tambours Sacrés",
+      "city": "Kabogi",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3628785,
+        "lon": 29.9219719
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Gishora Drum Sanctuary, RN 15, Kabogi, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a69a594b019f3d4059293c0dbd6a1a0ac0f00103f901d95f05d400000000920316416e6369656e6e65206d6169736f6e20647520726f69",
+      "name": "Ancienne maison du roi",
+      "city": "Muramvya",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.2628989,
+        "lon": 29.6211135
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.manor"
+      ],
+      "formatted_address": "Ancienne maison du roi, RP34, Muramvya, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519075278ef2643d40595f12c2fe46d60ac0f00103f901535d89f8000000009203184b7761204a6f686e736f6e204368657a204a6f686e736f6e",
+      "name": "Kwa Johnson Chez Johnson",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3546276,
+        "lon": 29.3943261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kwa Johnson Chez Johnson, Avenue Bukiriro 7, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51308738317f623e40595713fa4fed320ec0f00103f90163b2564f0200000092031153657361206368657a204a45414e494e45",
+      "name": "Sesa chez JEANINE",
+      "city": "Ngomante",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.7748667,
+        "lon": 30.3847533
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sesa chez JEANINE, Ngomante, Rutana, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2e0737165523e405967c526e8e5060ec0f00103f9018de5564f0200000092031943656e747265206465206ec3a9676f63652047414b554e4755",
+      "name": "Centre de négoce GAKUNGU",
+      "city": "Murara",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.7533682,
+        "lon": 30.3218604
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Centre de négoce GAKUNGU, RN 11, Murara, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b199aa1a7af3d405992167838cbc60ac0f00103f901af0904f3010000009203255369746520486973746f7269717565206475205472616974c3a9206465204b6967616e6461",
+      "name": "Site Historique du Traité de Kiganda",
+      "city": "Kiganda",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3470673,
+        "lon": 29.6861516
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site Historique du Traité de Kiganda, RP 31, Kiganda, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517daaaf53519b3d4059aa317c9f052c0bc0f00103f9010ff1fe4301000000",
+      "name": "R P 109",
+      "city": "Shombo",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3964951,
+        "lon": 29.6067097
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "R P 109, Shombo, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51040dece7035c3d40594b5f63f261010bc0f00103f9018f410d1601000000",
+      "name": "Avenue de l 'Hopital",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3756751,
+        "lon": 29.3594346
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenue de l 'Hopital, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7161c14835a3d40591cec4d0cc9190bc0f00103f901e22c75fd0000000092030a43726f636f64696c6573",
+      "name": "Crocodiles",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3875905,
+        "lon": 29.3535626
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Crocodiles, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51731c2e28c28a3d4059bbe69f2af05f0ac0f00103f9016e40958200000000",
+      "name": "RN 1",
+      "city": "Bugarama",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.2968448,
+        "lon": 29.5420251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RN 1, Bugarama, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513de7b864662e3e4059b633a7261c050bc0f00103f901934cecbf00000000",
+      "name": "RP 201",
+      "city": "Butezi",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3774951,
+        "lon": 30.1812499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RP 201, Butezi, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf99982ec48e3d4059ae8b91dbe5c107c0f00103f901ec6e5db50200000092031d496e67616e7a6f207961206d77616d69204d77657a692047697361626f",
+      "name": "Inganzo ya mwami Mwezi Gisabo",
+      "city": "Mubuga",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -2.9696767,
+        "lon": 29.557681
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.tomb"
+      ],
+      "formatted_address": "Inganzo ya mwami Mwezi Gisabo, RP 307, Mubuga, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fe58d29b9b9e3d40591245ed235c7d0fc0f00103f901c245a0b902000000",
+      "name": "National Park Guards",
+      "city": "Bururi",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.9362109,
+        "lon": 29.6195619
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "National Park Guards, RN 16, Bururi, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51882760e05efa3d40591b8cc7fb27be09c0f00103f90151da08ea010000009203064d75746f7969",
+      "name": "Mutoyi",
+      "city": "Mutoyi",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.2178497,
+        "lon": 29.9780102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mutoyi, Gitega, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51900aad985bcf3d4059ec83d151b38c06c0f00103f90101448597020000009203134368657a2054726970682047617473696e6461",
+      "name": "Chez Triph Gatsinda",
+      "city": "Mwumba",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -2.8187014,
+        "lon": 29.8099914
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chez Triph Gatsinda, RP 55, Mwumba, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0b6d9b342ee3d4059ff9600fc536a0bc0f00103f901ef86c6780100000092031943656e7472652043756c747572656c20646520476974656761",
+      "name": "Centre Culturel de Gitega",
+      "city": "Gitega",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.426918,
+        "lon": 29.9307053
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cultural Centre Gitega, Boulevard du Triomphe, Gitega, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517369577c9e5a3d40599981caf8f7190bc0f00103f901e92c75fd0000000092030853657270656e7473",
+      "name": "Serpents",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.38768,
+        "lon": 29.3539808
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Snakes, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5112256b1ed15c3d4059953ebece97080bc0f00103f9015f01dd8200000000",
+      "name": "Chaussée du Peuple Murundi",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.3791958,
+        "lon": 29.3625659
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chaussée du Peuple Murundi, Bujumbura, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b8b9b64f5d63d4059060a61dadc4d0fc0f00103f901ad70b83702000000920326536f75726365206c6120506c7573206175205375642064752042617373696e206475204e696c",
+      "name": "Source la Plus au Sud du Bassin du Nil",
+      "city": "Muyogoro",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.9130189,
+        "lon": 29.8396819
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Source la Plus au Sud du Bassin du Nil, RN 7, Muyogoro, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51416c9f443a5a3d4059219edb3aeeda0bc0f00103f9016b4da1870000000092031e4d6f6e756d656e74204c6976696e6773746f6e65e280935374616e6c6579",
+      "name": "Monument Livingstone–Stanley",
+      "city": "Ramba",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.4818997,
+        "lon": 29.3524516
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Monument Livingstone–Stanley, RN 3, Ramba, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178cebb56e79d3d40592cc13d2a59a90cc0f00103f9014dc5242603000000",
+      "name": "kukivoka",
+      "city": "Nyagasasa",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.5826896,
+        "lon": 29.6168112
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "kukivoka, RN 7, Nyagasasa, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a6f919cd80753d4059efc27bb3720410c0f00103f901199e6a1301000000",
+      "name": "RN 3",
+      "city": "Gatete",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -4.0043438,
+        "lon": 29.4589966
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RN 3, Gatete, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b823f7cf2e8c3d405967e8e96d7df210c0f00103f90141986a1301000000",
+      "name": "Bridge",
+      "city": "Mukungu",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -4.2368066,
+        "lon": 29.5475893
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bridge, RN 3, Mukungu, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51032be2cf4b9a3d4059be9f1a2fdd5c11c0f00103f901d2676a1301000000",
+      "name": "RN 3",
+      "city": "Nyanza Lac",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -4.3406875,
+        "lon": 29.6027193
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "RN 3, Nyanza Lac, Burundi",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6b9d683ee9d3d405919181ea0a0a90cc0f00103f901eac4242603000000",
+      "name": "kwa moroha",
+      "city": "Nyagasasa",
+      "country": "Burundi",
+      "country_code": "bi",
+      "coordinates": {
+        "lat": -3.5828259,
+        "lon": 29.6169207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "kwa moroha, RN 7, Nyagasasa, Burundi",
+      "description": null,
+      "image": null
+    }
+  ]
+}

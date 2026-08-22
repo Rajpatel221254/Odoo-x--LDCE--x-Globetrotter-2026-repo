@@ -1,0 +1,2883 @@
+{
+  "country_code": "ml",
+  "country_name": "Mali",
+  "boundary_place_id": "518d77ec0cf85102c0598fd838acba5e3040f00101f90111f1020000000000c0020b9203044d616c69",
+  "count": 152,
+  "places": [
+    {
+      "place_id": "51f68887e6f07fe03f59584d7c5aea112f40f00103f90140eb7f0302000000",
+      "name": "Gao - Ansongo - Niger",
+      "city": "Herba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 15.5349911,
+        "lon": 0.5156178
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Gao - Ansongo - Niger, Herba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513666c8676822054059d5a76620e0822f40f00103f901213ccdfd0100000092030954415a415a47415254",
+      "name": "TAZAZGART",
+      "city": null,
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 15.7556162,
+        "lon": 2.6418007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "TAZAZGART, Ménaka - Niger, Ménaka, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f3c71740f76f63f59290350ed23703240f00102f9017620140c00000000920306466f7274696e",
+      "name": "Fortin",
+      "city": "Kidal",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 18.438048202547325,
+        "lon": 1.403823332646226
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fortin, RN18, Kidal, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51151f9f909d570bc059a260c614accd2d40f00103f9014e7fec200000000092031041726368657320416672696361696e65",
+      "name": "Arches Africaine",
+      "city": "Dogani",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.9017035,
+        "lon": -3.417781
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Arches Africaine, Dogani, Bandiagara Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51828debdff5990ec059946c753925e82c40f00103f90154179a33010000009203144c696d69746520416c6c617965204b616b6f6c69",
+      "name": "Limite Allaye Kakoli",
+      "city": "Bandiagara Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.453409,
+        "lon": -3.825176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Allaye Kakoli limit, Sévaré - Bandiagara - Bankass - Koro - Burkina Faso, Bandiagara Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb6d991df38bf7bf59cb8058dbb9612d40f00103f901fee95d2401000000920305446f6c6761",
+      "name": "Dolga",
+      "city": "Douentza Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.6908711,
+        "lon": -1.4716674
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Dolga, camino, Douentza Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518fa850dd5c5c0ac059e51e5c4b12f12c40f00103f90192029920000000009203104f7261636c652064752052656e617264",
+      "name": "Oracle du Renard",
+      "city": "Tuyogou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.4708427,
+        "lon": -3.295099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Oracle du Renard, Route Sangha-Touyogu, Tuyogou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d72f49d042b0fc05970c74043a4e72c40f00103f901c6159a330100000092030c4c696d697465204669636b6f",
+      "name": "Limite Ficko",
+      "city": "Fiko",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.4524251,
+        "lon": -3.8960049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ficko limit, Sévaré - Bandiagara - Bankass - Koro - Burkina Faso, Fiko, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51420d3a7c2ddb1dc059ddc2a9c5964c2840f00103f90128fb679800000000",
+      "name": "Bougouni Cercle",
+      "city": "Bougouni Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.1495878,
+        "lon": -7.4640407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bougouni Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5130eaa408ba4715c059fe3d1d3460252a40f00103f901de425d310100000092030dc389706172676e6520524d4352",
+      "name": "Épargne RMCR",
+      "city": "Wakoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.0729996,
+        "lon": -5.3200456
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Épargne RMCR, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Wakoro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512700b507108c1cc0591a8e42ed12842940f00103f901fee6ac320100000092030e4c696d6974652054696e676f6c65",
+      "name": "Limite Tingole",
+      "city": "Binko",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7579569,
+        "lon": -7.1367799
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Limite Tingole, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Binko, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d61066248cbc26c0596bdb8bc3f4c02c40f00103f901b294b10e0000000092030f466f7274206465204dc3a964696e65",
+      "name": "Fort de Médine",
+      "city": "Médine",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.3768674,
+        "lon": -11.3682567
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Fort de Médine, Kayes - Bafoulabé - Tambaga, Médine, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154ac1a84b90520c059653909a52f442940f00103f9018472202301000000",
+      "name": "mig-21 display",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.633176,
+        "lon": -8.011181
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "mig-21 display, Bamako - Siby - Kourémalé - Guinée, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b00a370e2b820c059e1bdfe7ff7c12840f00103f901ced82062010000009203144c276172636865206465204b616d616e646a616e",
+      "name": "L'arche de Kamandjan",
+      "city": "Kalassa",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3788414,
+        "lon": -8.3611026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "L'arche de Kamandjan, La Grande Traverse, Kalassa, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104801942841620c0591c1da1b0d50b2b40f00103f901303ab52d0100000092031241c3a9726f706f7274204b6f6c6f6b616e69",
+      "name": "Aéroport Kolokani",
+      "city": "Kolokani",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.5231147,
+        "lon": -8.0439778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Aéroport Kolokani, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kolokani, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51843a9b44732f20c059224ac5104a8d2940f00103f901cedfaf910200000092030f6d6169736f6e20736f756d61696c61",
+      "name": "maison soumaila",
+      "city": "Kambila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7759557,
+        "lon": -8.0926763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "maison soumaila, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kambila, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1790bda9a7b1fc0595155fc3acbe32640f00103f90152f3db410300000092030e7361626c652044696f6e6b616c61",
+      "name": "sable Dionkala",
+      "city": "Bougouni Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.4449099,
+        "lon": -7.8707079
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sable Dionkala, Bougouni Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197c228ad642420c0596f3d5464be392b40f00103f901963536300100000092031953697465206d617261c3ae6368657220446f6e6b6f726f6c61",
+      "name": "Site maraîcher Donkorola",
+      "city": "Bougoukorola",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.6127807,
+        "lon": -8.0710806
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site maraîcher Donkorola, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Bougoukorola, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518018d7aebf0320c059427e912b50162940f00103f901c600c07c010000009203124368657a204261737369726f75204b616e65",
+      "name": "Chez Bassirou Kane",
+      "city": "Kalaban Coro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5435804,
+        "lon": -8.0073218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chez Bassirou Kane, Rue 33, Kalaban Coro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7dafb54156a07c0591ff87365ab1a2c40f00103f90198d6fa250100000092030447616d61",
+      "name": "Gama",
+      "city": "Gama",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.0520889,
+        "lon": -2.9267985
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gama, Koro Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51db3928bc5fe81cc059f665c46059842940f00103f901428d762d01000000920307466f7567616e69",
+      "name": "Fougani",
+      "city": "Marka-Coungo",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7584944,
+        "lon": -7.2269277
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fougani, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Marka-Coungo, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f96b5a8aa1320c059f32f93f2a4462940f00103f901e254c309010000009203134162646f756c204b6172696d2043616d617261",
+      "name": "Abdoul Karim Camara",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6379772,
+        "lon": -8.0384114
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Abdoul Karim Camara, Rond-Point Cabral, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51752f41576cc51fc0596cae3f2e16cf2a40f00103f90144d527360200000092030d4c696575207075626c69717565",
+      "name": "Lieu publique",
+      "city": "Sirakoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.4044661,
+        "lon": -7.9427961
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Lieu publique, Sirakoro, Kolokani Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511435e213fc0020c059934039c082362940f00103f901fab6991e0100000092030e4275726561757820555320414446",
+      "name": "Bureaux US ADF",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6064663,
+        "lon": -8.0019232
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "United States American Développement Foundation, RN6, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee7e70992edf1fc059eb4ceb8035542940f00103f901f873ef1f000000009203094d616c692043686963",
+      "name": "Mali Chic",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6644707,
+        "lon": -7.9679512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mali Chic, Rue 234, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51beb8f9ebba1419c059824de7d4dfe42a40f00103f9010642ada00100000092030f43656e74726520536f726f626cc3a9",
+      "name": "Centre Soroblé",
+      "city": "Ségou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.4470202,
+        "lon": -6.2702443
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Soroblé Center, Route de la Corniche, Ségou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51043e9a45832f20c059defd96a5428d2940f00103f9019ee7af910200000092030f4d6169736f6e20736f756d61696c61",
+      "name": "Maison soumaila",
+      "city": "Kambila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7758991,
+        "lon": -8.0927984
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison soumaila, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kambila, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519278793a57ac16c059b9ed314745a22640f00103f90190c664850200000092030c4c27c3a96cc3a97068616e74",
+      "name": "L'éléphant",
+      "city": "Sikasso",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.3169348,
+        "lon": -5.6683015
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "L'éléphant, Route de Kléla, Sikasso, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136a094ff7f820bc0595ffc23c275872c40f00103f901086985630200000092030953616e642044756e65",
+      "name": "Sand Dune",
+      "city": "Yawa",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.2645703,
+        "lon": -3.4387207
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sand Dune, RR28, Yawa, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebc4e57805b209c05983f11d4652102d40f00103f901200599200000000092030b5363656e69632056696577",
+      "name": "Scenic View",
+      "city": "Youga Na",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.5318777,
+        "lon": -3.2119245
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Scenic View, Village Youga, Youga Na, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8b0b101c7a40ec059afd007cbd8e82c40f00103f9010c6e3d360100000092031e4d61726368c3a9206c756e646920646520416c6c617965206b616b6f6c6f",
+      "name": "Marché lundi de Allaye kakolo",
+      "city": "Bandiagara Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.454779,
+        "lon": -3.8304577
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Allaye kakoli monday market, Sévaré - Bandiagara - Bankass - Koro - Burkina Faso, Bandiagara Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127c4b70b28af1ec05962e822cf3f2f2940f00103f90142cfc900010000009203174a45555820564944c3894f204441424f2d475241535345",
+      "name": "JEUX VIDÉO DABO-GRASSE",
+      "city": "Yayabougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5922837,
+        "lon": -7.6710512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "JEUX VIDÉO DABO-GRASSE, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Yayabougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc2a8881aee51fc059946cd0f297452940f00103f9015efbec0c01000000920317537461747565206465206c61204d617465726e6974c3a9",
+      "name": "Statue de la Maternité",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6359249,
+        "lon": -7.9742985
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Statue de la Maternité, Rue 37, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f6ee23f380e20c05919e25817b71d2940f00103f9010272428e0200000092030752756520393034",
+      "name": "Rue 904",
+      "city": "Kalaban Coro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5580375,
+        "lon": -8.0277729
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 904, Route de Kalaban Coro, Kalaban Coro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518507cdae7b0b08c05955d4aaa7a0c63040f00103f9011f63312d0100000092031246616d696c6c6520456c204f756d72616e79",
+      "name": "Famille El Oumrany",
+      "city": "Timbuktu",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 16.7758889,
+        "lon": -3.005607
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Famille El Oumrany, Rue de Chemnitz, Timbuktu, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3c66a7cd0c9a6bf5957ca331f1d4a3040f00102f901ff3b630e00000000920311546f6d62656175206465732041736b6961",
+      "name": "Tombeau des Askia",
+      "city": "Gao",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 16.28950686468519,
+        "lon": -0.04450847166789398
+      },
+      "categories": [
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tomb of Askia Unesco world heritage site, RN18, Gao, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51664cc11a67e30cc059e0a8705f62b32c40f00103f901e17e09290200000092031450616c6169732064274167756962652054616c6c",
+      "name": "Palais d'Aguibe Tall",
+      "city": "Bandiagara",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.3503599,
+        "lon": -3.6110365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Palais d'Aguibe Tall, RR27, Bandiagara, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0204fdc3bbc1fc059c1f00005cd112940f00103f9017ab18fe3000000009203064d69472d3231",
+      "name": "MiG-21",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5347673,
+        "lon": -7.9338221
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.aircraft"
+      ],
+      "formatted_address": "MiG-21, Route Trans-Sahélienne, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ebe8639611e08c059d231f9106ec83040f00102f901f444770a00000000920311466c616d6d65206465206c612050616978",
+      "name": "Flamme de la Paix",
+      "city": "Timbuktu",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 16.782929478491333,
+        "lon": -3.0148338789220537
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Flamme de la Paix, Rue De La Paix, Timbuktu, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e8997a773cd15c059250e8fb39f6b2640f00103f90196262a730000000092031043687574657320646520466172616b6f",
+      "name": "Chutes de Farako",
+      "city": "Mamoribougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.2102028,
+        "lon": -5.4506365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chutes de Farako, Route Trans-Sahélienne / Sikasso - Burkina Faso, Mamoribougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ae5b2d139d520c059a154675a07e02740f00102f901fa6dc51e000000009203084661726120446a65",
+      "name": "Fara Dje",
+      "city": "Kenjegui",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.937556099999997,
+        "lon": -8.416456749999998
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fara Dje, Bamako - Kangaba- Guinea, Kenjegui, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123afbd05c8be1fc0596a7b05b353312940f00103f9015beac7300100000092031142757265617520487964726f204d616c69",
+      "name": "Bureau Hydro Mali",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5963417,
+        "lon": -7.9363099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bureau Hydro Mali, Route de Ségou, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110c01770e0f71fc0598dedb5a0f7522940f00103f901f13c52870200000092031242616d616b6f20506574726f676c79706873",
+      "name": "Bamako Petroglyphs",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6620455,
+        "lon": -7.9920671
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.archaeological_site"
+      ],
+      "formatted_address": "Bamako Petroglyphs, Rue de Bougouni, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c693933fce0a1fc0593991aa37b41a2940f00103f90196185d800100000092030b4175206368616d7020424b",
+      "name": "Au champ BK",
+      "city": "Kobalakoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5521562,
+        "lon": -7.7605524
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Au champ BK, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Kobalakoro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2c3526eecbb1fc0591135762e312f2940f00103f90175a9197f020000009203136368657a204c617373616e6120546f7572c3a9",
+      "name": "chez Lassana Touré",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5921721,
+        "lon": -7.9335191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "chez Lassana Touré, Route de Ségou, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51771b8af150ba0cc059dca5684018532c40f00103f901a130cb200000000092030746616c61697365",
+      "name": "Falaise",
+      "city": "Kani-Kombolé",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.1622944,
+        "lon": -3.5909747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Falaise, Bandiagara Road, Kani-Kombolé, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164366d6bb09507c05924e8d43a16042e40f00103f9019bb96b3c01000000920313526164696f20727572616c20447577616e7361",
+      "name": "Radio rural Duwansa",
+      "city": "Douentza",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 15.0079821,
+        "lon": -2.9480904
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Radio rural Duwansa, RN16, Douentza, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc69053c1fbc1fc059dca8047a97112940f00103f9017bb18fe3000000009203064d69472d3135",
+      "name": "MiG-15",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5343588,
+        "lon": -7.9337129
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.aircraft"
+      ],
+      "formatted_address": "MiG-15, Route Trans-Sahélienne, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c612e4e21f41fc059091456cfee3d2940f00103f901df40f80a0100000092030442494344",
+      "name": "BICD",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6209626,
+        "lon": -7.9884083
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "BICD, Rue 84, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515677764364f218c059adb882b751e22a40f00103f901408d7b0d010000009203504173736f63696174696f6e204d616c69656e6e6520706f7572206c612053c3a96375726974c3a9206574206c6120536f7576657261696e6574c3a920416c696d656e74616972652820414d4153534129",
+      "name": "Association Malienne pour la Sécurité et la Souveraineté Alimentaire( AMASSA)",
+      "city": "Banankoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.4420297,
+        "lon": -6.2367106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "AMASSA, Segou - Niono - Kourouma - Tonka - Goundam - Tomboctou - Bourem, Banankoro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157d0b4c4ca4010c05959d306712f8e2c40f00103f901d430163b01000000920307c389676c697365",
+      "name": "Église",
+      "city": "Somadougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.2777057,
+        "lon": -4.0632735
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Church, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Somadougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de98f96937dd15c05998c3ee3b86cb2840f00103f9012250daed0000000092031347616c65726965204661736f2044656d62c3a9",
+      "name": "Galerie Faso Dembé",
+      "city": "Ouolobougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3975085,
+        "lon": -5.4660317
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Galerie Faso Dembé, Bla - Koutiala - Koury - Burkina Faso, Ouolobougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118699890c5ec1ec0596249b9fb1c6b2a40f00103f901dd02fc7c0100000092032f4d61676173696e2064652073746f636b616765206427c3a96368616c6f747465206465204b6f73736f756d616cc3a9",
+      "name": "Magasin de stockage d'échalotte de Kossoumalé",
+      "city": "Kossoumale",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.2092055,
+        "lon": -7.7312224
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Magasin de stockage d'échalotte de Kossoumalé, Kossoumale, Kolokani Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c36db2626e919c059fb8161af666f2a40f00103f901c6425d3101000000920316526f75746520446f75676f756e696b6f726f20396b6d",
+      "name": "Route Dougounikoro 9km",
+      "city": "Banamba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.2175803,
+        "lon": -6.4776846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Dougounikoro road 9km, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Banamba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5134d8d479541023c059a92391c71d482c40f00103f901bdbfcd230100000092030d53616d626120426572c3a96e6f",
+      "name": "Samba Beréno",
+      "city": "Blissibougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.1408522,
+        "lon": -9.5318945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Samba Beréno, L110, Blissibougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51320d79baa9870fc059b80d59935dfb2c40f00103f901096e3d360100000092030f50c3a961676520476f756e64616761",
+      "name": "Péage Goundaga",
+      "city": "Fiko",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.4909483,
+        "lon": -3.9412417
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tolls Goundaga, Sévaré - Bandiagara - Bankass - Koro - Burkina Faso, Fiko, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c04053983ba20c059bdb89e3248c32840f00103f9010e7fcaa201000000920306df96df8fdf98",
+      "name": "ߖߏߘ",
+      "city": "Kalassa",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3814102,
+        "lon": -8.3642824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ߖߘ, La Grande Traverse, Kalassa, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f325af29eb221ac0593755528259502a40f00103f901c9425d31010000009203104c696d697465205a616d626f75676f75",
+      "name": "Limite Zambougou",
+      "city": "Banamba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.1569329,
+        "lon": -6.5341002
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Zambougou limit, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Banamba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c134b1659e2d21c059bcce86fc335f2c40f00103f90105b5c3740200000092030d48414d45415520285745524529",
+      "name": "HAMEAU (WERE)",
+      "city": "Kolokani Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.1859435,
+        "lon": -8.5890991
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "HAMEAU (WERE), Kolokani Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9efa1e9910b1fc0594f3e3db665742940f00103f901a547921b010000009203134665726d65206465204d2e20444f554d424941",
+      "name": "Ferme de M. DOUMBIA",
+      "city": "Djinkoni",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7273385,
+        "lon": -7.7612988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ferme de M. DOUMBIA, Route de Koulikoro, Djinkoni, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f835cf3f4cb08c059405fc4888e1e2c40f00103f901215c5b36010000009203164c6f67656d656e747320736f6369617578204b6f726f",
+      "name": "Logements sociaux Koro",
+      "city": "Tendely",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.0596812,
+        "lon": -3.0995883
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Logements sociaux Koro, Sévaré - Bandiagara - Bankass - Koro - Burkina Faso, Tendely, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b11cfc8d6990bc059ebe97ea9fa842c40f00103f901e731cb200000000092030953616e642044756e65",
+      "name": "Sand Dune",
+      "city": "Korou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.2597249,
+        "lon": -3.4501167
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sand Dune, RR28, Korou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510542a154b12f20c059720976b28a8d2940f00103f9018dc0af910200000092030d4d6169736f6e206d617269616d",
+      "name": "Maison mariam",
+      "city": "Kambila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7764488,
+        "lon": -8.0931498
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison mariam, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kambila, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511fe8b2e2652f20c05986e05dd3288d2940f00103f90156f3af910200000092030f6d6169736f6e20736f756d61696c61",
+      "name": "maison soumaila",
+      "city": "Kambila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7757021,
+        "lon": -8.0925742
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "maison soumaila, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kambila, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fd16e99786412c059a52435fe8e962a40f00103f901f09d42270100000092030c576f726c6420566973696f6e",
+      "name": "World Vision",
+      "city": "Tominian",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.2940597,
+        "lon": -4.5981163
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "World Vision, Route de Tominian, Tominian, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150f05effbf9b1fc059454ce4ddec262940f00103f901b152fb7c0100000092030f446a65737369206b6f676e6f73736f",
+      "name": "Djessi kognosso",
+      "city": "Kati Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5760259,
+        "lon": -7.9020996
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Djessi kognosso, Route Trans-Sahélienne, Kati Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c537143e5be70bc059747b4963b4762c40f00103f9019bb60b9a0000000092033042616e64696167617261204573636172706d656e7420554e4553434f20576f726c642048657269746167652053697465",
+      "name": "Bandiagara Escarpment UNESCO World Heritage Site",
+      "city": "Bandiagara",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.231845,
+        "lon": -3.487967
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bandiagara Escarpment UNESCO World Heritage Site, Bandiagara, Bandiagara Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5140964fa099c91fc059cb91dfec202c2940f00103f901b9e5079e0100000092030b426f6e6669206b6f697465",
+      "name": "Bonfi koite",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5861887,
+        "lon": -7.9468751
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bonfi koite, Rue 851, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51450e1137a70a20c05963940ca59b312940f00103f9014de19cce01000000",
+      "name": "preg",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5968906,
+        "lon": -8.020807
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "preg, Rue 612, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abecbb22f88f0bc0595ff9e24169862c40f00103f901096985630200000092030953616e642044756e65",
+      "name": "Sand Dune",
+      "city": "Korou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.2625218,
+        "lon": -3.4452975
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sand Dune, RR28, Korou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bde27fd730b20c059055bdbca01452940f00103f9016656927e01000000920309536f757320626f6973",
+      "name": "Sous bois",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6347793,
+        "lon": -8.0223693
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sous bois, Rue 331, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8a30a35f9ac0cc059242c859be77f3040f00103f90145b6dc3b01000000920308446a696e646a696e",
+      "name": "Djindjin",
+      "city": "Goundam",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 16.4996278,
+        "lon": -3.5844597
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Djindjin, Segou - Niono - Kourouma - Tonka - Goundam - Tomboctou - Bourem, Goundam, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a92cb7f482f22c0595ed0e748d34d2940f00103f901c51a97a802000000920315426172726167652d446a656775696c612d41445253",
+      "name": "Barrage-Djeguila-ADRS",
+      "city": "Diaguila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6520026,
+        "lon": -9.09235
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Barrage-Djeguila-ADRS, Diaguila, Kita Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e08849134a0a19c059d4635b069ce12a40f00103f90161cc9b0e0200000092031546616d696c6c6520414d41444f5520424f55415245",
+      "name": "Famille AMADOU BOUARE",
+      "city": "Ségou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.4406435,
+        "lon": -6.2600482
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Famille AMADOU BOUARE, Rue 100, Ségou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e2e2581bcd925c0598cf09b6791222e40f00103f90173a094f5010000009203064775656d6f75",
+      "name": "Guemou",
+      "city": "Gory Diafounou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 15.0675156,
+        "lon": -10.9252663
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Guemou, Kayes - Nioro - Goumbou, Gory Diafounou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2d0b2ee1ff31ec0596eb191da7a7c2940f00103f901b7233e650100000092030c4e6f747265206368616d7073",
+      "name": "Notre champs",
+      "city": "Fougadougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7431248,
+        "lon": -7.7374265
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Notre champs, Route de Koulikoro, Fougadougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c13dd69210720c059a23d038f144e2940f00103f901fdcb9b0e0200000092030f4e414d4f5259204b45495441204c41",
+      "name": "NAMORY KEITA LA",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6525006,
+        "lon": -8.0139268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "NAMORY KEITA LA, Avenue Kasse Keita, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee505e752e0e20c05988b77306eb282940f00103f901c51ddcb20100000092031841697265206c6f69736972206b616c6162616e20636f726f",
+      "name": "Aire loisir kalaban coro",
+      "city": "Kalaban Coro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5799181,
+        "lon": -8.0276982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Aire loisir kalaban coro, Rue 158, Kalaban Coro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510cbdb49723ba20c059cb72c8bc44bf2840f00103f901e1b9172000000000920306536f6d6d6574",
+      "name": "Sommet",
+      "city": "Kalassa",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3735713,
+        "lon": -8.3635528
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sommet, La Grande Traverse, Kalassa, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e2cd1abcaf0a20c059207af76cc2ce2840f00103f9015db740940200000092031346616d696c6c65205a616e6120506965727265",
+      "name": "Famille Zana Pierre",
+      "city": "Kabe",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.4038271,
+        "lon": -8.020872
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Famille Zana Pierre, Kabe, Kati Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed17a2f9520a20c0595650acae9e122940f00103f9017229bbab0200000092031944616e61796120636f7574757265206368657a20426f756261",
+      "name": "Danaya couture chez Bouba",
+      "city": "Kati Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5363669,
+        "lon": -8.0201643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Danaya couture chez Bouba, Rue 144, Kati Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c38602113d9411c059be9470d701b62940f00103f901d7425d3101000000920311526f757465206465204d61666f756ec3a8",
+      "name": "Route de Mafounè",
+      "city": "Mouni",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.8554828,
+        "lon": -4.3947642
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mafounè Road, Piste rurale, Mouni, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5153f30b65971a20c059b2cf08dbf4602940f00103f901fd17810f02000000920307464f5547414e49",
+      "name": "FOUGANI",
+      "city": "Sananfara",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6893681,
+        "lon": -8.0519363
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "FOUGANI, RR9, Sananfara, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e08e26cdd51920c05936316eb42d602940f00103f9015915140f0200000092030e46414d494c4c4520444941525241",
+      "name": "FAMILLE DIARRA",
+      "city": "Sananfara",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6878487,
+        "lon": -8.0504593
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "FAMILLE DIARRA, RR9, Sananfara, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121fb6a589dce1fc0592bbd361b2b3d2940f00103f9016eda2be300000000",
+      "name": "Rue 266",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6194695,
+        "lon": -7.9517721
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 266, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51693e42284abd1fc0595c261eabefb72840f00103f901fd86201a01000000920310436f75766f697220536564696d616c69",
+      "name": "Couvoir Sedimali",
+      "city": "Sanankoroba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3592504,
+        "lon": -7.9348532
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Couvoir Sedimali, Route Trans-Sahélienne, Sanankoroba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d421dc099ba61fc059a6e8ed748c002840f00103f9010d2bda290100000092031a4c61697465726965206465204f75656c65737365626f75676f75",
+      "name": "Laiterie de Ouelessebougou",
+      "city": "Ouélessébougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.0010716,
+        "lon": -7.9127008
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Laiterie de Ouelessebougou, Route Trans-Sahélienne, Ouélessébougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51feaa6dd4543420c059445e20521d502b40f00103f901973536300100000092031653697465206d617261c3ae63686572204d70656c6c61",
+      "name": "Site maraîcher Mpella",
+      "city": "Mpélla",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.6564737,
+        "lon": -8.1022097
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site maraîcher Mpella, Mpélla, Kolokani Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a79ecc26a1b20c0597459f1b2cb042b40f00103f901961376300100000092030a476f75616b6f75726f75",
+      "name": "Gouakourou",
+      "city": "Kolokani",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.5093666,
+        "lon": -8.0535489
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Gouakourou, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kolokani, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51429ce2cc0ab81fc059d5e132b8f72a2940f00103f90129af08060200000092030d4368657a204f75617474617261",
+      "name": "Chez Ouattara",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5839212,
+        "lon": -7.9297287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chez Ouattara, Rue 601, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512cd505bccc3020c05900c63368e8a72940f00103f90165adb52d0100000092030e526f7574652046616c616469c3a8",
+      "name": "Route Faladiè",
+      "city": "Kati-Dral",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.827945,
+        "lon": -8.095312
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Route Faladiè, L177, Kati-Dral, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5186f425659c4019c059211e8997a7d72a40f00103f9014560d3600100000092031463656e7472652063756c747572656c204b4f5245",
+      "name": "centre culturel KORE",
+      "city": "Ségou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.4212005,
+        "lon": -6.3130966
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "centre culturel KORE, Boulevard de l'Indépendance, Ségou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51888043a8522b20c059bd1de1b4e0852940f00103f9016178c90f0100000092030c5465727261696e206b6f6b6f",
+      "name": "Terrain koko",
+      "city": "Kati",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.76148,
+        "lon": -8.084615
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Terrain koko, Rue 95, Kati, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511529835957531fc05906bcccb0512a2940f00103f9015de0a2f70100000092030d4d6169736f6e2054696e74696f",
+      "name": "Maison Tintio",
+      "city": "Kobalakoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5826545,
+        "lon": -7.8313879
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Maison Tintio, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Kobalakoro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9ee5dde772f20c0596742380b208d2940f00103f9019fe7af910200000092030f6d6169736f6e20736f756d61696c61",
+      "name": "maison soumaila",
+      "city": "Kambila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7756351,
+        "lon": -8.0927114
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "maison soumaila, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kambila, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f55e2118acad15c0594e51e4ff44472a40f00103f9013bc7d64e00000000920324436f6f70c3a97261746976652064657320506f7469c3a872657320646520446a616e736f",
+      "name": "Coopérative des Potières de Djanso",
+      "city": "Fani",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.1391983,
+        "lon": -5.4196018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Coopérative des Potières de Djanso, L557, Fani, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5178ca0f012cb71ec0593b2064b4e92f2940f00103f90199b8762d0100000092030c526f757465206b6f6b6f756e",
+      "name": "Route kokoun",
+      "city": "Yayabougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5935799,
+        "lon": -7.6788788
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Route kokoun, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Yayabougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514badf71beda01fc0591fc1e84da0572940f00103f90169519924010000009203144d6169736f6e2048616d69646f7520546f757265",
+      "name": "Maison Hamidou Toure",
+      "city": "Solomanibougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6711449,
+        "lon": -7.9071545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison Hamidou Toure, Route Nationale Bamako - Koulikoro, Solomanibougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b6ca8bd2ddd15c0599ccd99a37dc62840f00103f901cd819cf000000000",
+      "name": "2ème Q Rue 25",
+      "city": "Koutiala",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3876773,
+        "lon": -5.4659948
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "2ème Q Rue 25, Koutiala, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9893e1f650820c059461b9139e0142940f00103f9012d1e14940200000092030953686f7720636c7562",
+      "name": "Show club",
+      "city": "Kalaban Coro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5407732,
+        "lon": -8.0163965
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Show club, Rue 33, Kalaban Coro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512abeeb7df4ab26c0598272dbbe47652d40f00103f901bd127388020000009203104d6f6e20706f737465204d696e696572",
+      "name": "Mon poste Minier",
+      "city": "Kayes Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.697813,
+        "lon": -11.3358497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mon poste Minier, Kayes Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cad1d2cbde3426c0594bd1257733062c40f00103f90136bfb61501000000",
+      "name": "RN22",
+      "city": "Gouina",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.0121114,
+        "lon": -11.1032623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RN22, Gouina, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518027d2a2e3df1fc0591d51460147372940f00103f901fd4d8e4e0200000092030f66616d696c6c652053616d616bc3a9",
+      "name": "famille Samaké",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6079636,
+        "lon": -7.9686418
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "famille Samaké, Rue 100, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae105663096b19c059190fa5ac95cb2a40f00103f9019fc8352301000000",
+      "name": "Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti",
+      "city": "Banamba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.3976263,
+        "lon": -6.354528
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Banamba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae7da603febd1fc05997d5856929b62840f00103f9013727921b01000000920310436f75766f697220536564696d616c69",
+      "name": "Couvoir Sedimali",
+      "city": "Sanankoroba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.3557847,
+        "lon": -7.9355393
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Couvoir Sedimali, Route Trans-Sahélienne, Sanankoroba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c50a6def09081ac0599a93bcdf0d5a2a40f00103f901c7425d31010000009203104c696d697465205a616d626f75676f75",
+      "name": "Limite Zambougou",
+      "city": "Banamba",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.1758871,
+        "lon": -6.5078504
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Zambougou limit, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Banamba, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165b84b2c3a7b18c059711706d1ffb32a40f00103f9015ff8ca2a0100000092030c466f72c3aa74204661697261",
+      "name": "Forêt Faira",
+      "city": "Falema",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.3515611,
+        "lon": -6.1203391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Faira Forest, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Falema, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fac4f0c7a3e215c0594ed53db2b9c22840f00103f90193707bf000000000",
+      "name": "Rue 13",
+      "city": "Koutiala",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.380323,
+        "lon": -5.4713279
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 13, Koutiala, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f22b312a04e51fc0594c71b092ea3a2940f00103f901310dfef8000000009203114e67612053656e6520286d794147524f29",
+      "name": "Nga Sene (myAGRO)",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6150709,
+        "lon": -7.9736487
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nga Sene (myAGRO), Rue 32, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51528a0c61eb1820c05994d3e81f8e7f2940f00103f901b96d1e5b020000009203064b6174692035",
+      "name": "Kati 5",
+      "city": "Kati",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7491312,
+        "lon": -8.0486708
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kati 5, Rue 72, Kati, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515fce6c57e8bb1fc059f3e505d8472f2940f00103f90191b3d8ff0100000092030f4368657a20446a616e6775696ec3a8",
+      "name": "Chez Djanguinè",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.592345,
+        "lon": -7.9335035
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Chez Djanguinè, Route de Ségou, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be182543e9ae1fc059c4a00216af042840f00103f9019942dc290100000092030d4665726d6520416c6920736f77",
+      "name": "Ferme Ali sow",
+      "city": "Ouélessébougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.0091483,
+        "lon": -7.9208117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ferme Ali sow, Route Trans-Sahélienne, Ouélessébougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a849d62d50420c0592a5206b3ae2a2940f00103f901f3519cce01000000",
+      "name": "Mali",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5833641,
+        "lon": -8.0094405
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mali, Rue 732, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3ce3b0444ab26c059d9ccc6ef12652d40f00103f90159127388020000009203044d696e65",
+      "name": "Mine",
+      "city": "Kayes Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.6974101,
+        "lon": -11.3345033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mine, Kayes Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51242b1ac638d21ac059b452ad2aa00d2a40f00103f901a575d766010000009203154b6f6e696261626f75676f752042616d6f75737361",
+      "name": "Konibabougou Bamoussa",
+      "city": "Tigui",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.0266126,
+        "lon": -6.7052947
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "chez le marabout, Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Tigui, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b209d5720c1d20c059cb8a3ca473612940f00103f9019917810f02000000920308534f4bc39452c394",
+      "name": "SOKÔRÔ",
+      "city": "Sananfara",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6903354,
+        "lon": -8.0567356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "SOKÔRÔ, RR9, Sananfara, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518da08c4c1b2d27c059f9895ea16a032d40f00103f901e14beb660200000092030f4945522053616dc3a9206265726765",
+      "name": "IER Samé berge",
+      "city": "Samé Plantation",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.5066729,
+        "lon": -11.5880989
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "IER Samé berge, RN1, Samé Plantation, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4ea8f300c0c20c059a0d16751e92d2940f00103f9019dc7beab02000000",
+      "name": "Mahmou kei",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5896707,
+        "lon": -8.0235305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mahmou kei, Rue 754, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119575c1c950b17c05968b3452d28832640f00103f9010e7292870200000092031747726f7474657320646573204d6973736972696b6f726f",
+      "name": "Grottes des Missirikoro",
+      "city": "Fantarasso",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.2561659,
+        "lon": -5.761311
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Missirikoro Grotte, Route de Sikasso à Fourou, Fantarasso, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c489f9032f0820c059f943d8953b0c2940f00103f90179ef3a4d01000000920308426120626f757261",
+      "name": "Ba boura",
+      "city": "Kati Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5238921,
+        "lon": -8.0159837
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ba boura, Route Grantiguibougou/ Kabala S, Kati Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513315e29178990cc059618fe44dd9043140f00103f901f1906c7802000000",
+      "name": "Goundam Cercle",
+      "city": "Goundam Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 17.0189408,
+        "lon": -3.574937
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Goundam Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c6c372c33b8110c05917136ee4180b2d40f00102f90195cd655200000000",
+      "name": "Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti",
+      "city": "Sévaré",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.52167428821262,
+        "lon": -4.126204542045292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Sévaré, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea6c12cd4d3121c059ce4763fe1b512c40f00103f9018178c3740200000092030959455245444a495241",
+      "name": "YEREDJIRA",
+      "city": "Kolokani Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.1584167,
+        "lon": -8.5962967
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "YEREDJIRA, Kolokani Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51313c9bfae50823c0590940924891572c40f00103f901f13d86220100000092031942616c616c6120286368616d702063756c74697661626c6529",
+      "name": "Balala (champ cultivable)",
+      "city": "Fatao",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.1710303,
+        "lon": -9.5173796
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Balala (champ cultivable), RR5, Fatao, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51083e61e4c00a23c059e31c75745c512c40f00103f9016df2f12b0100000092030e42616d626172612042616c616c61",
+      "name": "Bambara Balala",
+      "city": "Dindanko",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.1589085,
+        "lon": -9.5210029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bambara Balala, RR5, Dindanko, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e91f8ebffe0d20c05920d4450a651d2940f00103f9012483428e0200000092030752756520393337",
+      "name": "Rue 937",
+      "city": "Kalaban Coro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.5574115,
+        "lon": -8.0273342
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rue 937, Route de Kalaban Coro, Kalaban Coro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdd94ccf05e715c0590863fa14b6d52840f00103f901b9ebc6650100000092030642657468656c",
+      "name": "Bethel",
+      "city": "Ouolobougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.4174048,
+        "lon": -5.4756081
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Bethel, Bla - Koutiala - Koury - Burkina Faso, Ouolobougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f9b605f0bbae26c059e26d4a1ef4b52c40f00103f90135cc373a0000000092030c46c3a96c6f752046616c6c73",
+      "name": "Félou Falls",
+      "city": "Mamoudouya",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 14.3553781,
+        "lon": -11.3412776
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Félou Falls, Kayes - Bafoulabé - Tambaga, Mamoudouya, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a51fc319b2a815c05993d7947549022a40f00103f9016d79002801000000",
+      "name": "Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti",
+      "city": "Yangasso",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.0044667,
+        "lon": -5.4147419
+      },
+      "categories": [
+        "religion",
+        "religion.place_of_worship",
+        "religion.place_of_worship.islam",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.sights.place_of_worship"
+      ],
+      "formatted_address": "Bamako - Fana - Segou - Bla - San - Tominian - Sofara - Sévaré - Mopti, Yangasso, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5179ffc46dd91a20c05967327788da092b40f00103f90197137630010000009203154f65726f64726f6d65206465204b6f6c6f6b616e69",
+      "name": "Oerodrome de Kolokani",
+      "city": "Kolokani",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.5192454,
+        "lon": -8.0524401
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Oerodrome de Kolokani, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kolokani, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155f1eb2c1fd616c059836e2f698c7e2940f00103f90199d6fa25010000009203074b657469657269",
+      "name": "Ketieri",
+      "city": "Bancoumana",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.747165,
+        "lon": -5.7091033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ketieri, Bla - Koutiala - Koury - Burkina Faso, Bancoumana, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5810761c9e81fc0593130e186ce452940f00103f9019912a7480100000092031856696c6c6120536972697573204172742047616c6c657279",
+      "name": "Villa Sirius Art Gallery",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6363413,
+        "lon": -7.9773307
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Villa Sirius Art Gallery, Rue 555, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a379008bfcfa22c0590833b78ce5132a40f00103f9019d656dde010000009203224c656374757265205075626c6971756520646520436572636c65206465204b697461",
+      "name": "Lecture Publique de Cercle de Kita",
+      "city": "Kita",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 13.0388607,
+        "lon": -9.490208
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Lecture Publique de Cercle de Kita, Rue Mission/CSRF, Kita, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5125743c0be7df1fc0591953550d67372940f00103f9015d14e7ed0100000092030e46616d696c6c6520546f7572c3a9",
+      "name": "Famille Touré",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6082081,
+        "lon": -7.9686548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Famille Touré, Rue 100, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ca0ee4d1d0920c0597132bb383b3f2940f00103f90149a429630200000092032b4172743344204174656c6965722064652064657373696e2064276172747320657420746563686e69717565",
+      "name": "Art3D Atelier de dessin d'arts et technique",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6234987,
+        "lon": -8.0178017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Art3D Atelier de dessin d'arts et technique, Rue 94, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51207d93a641a116c059a5710399f8962640f00103f9015fad558702000000",
+      "name": "Sikasso - Zégoua - Cote d'Ivoire",
+      "city": "Sirakoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.2948654,
+        "lon": -5.657477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Sikasso - Zégoua - Cote d'Ivoire, Sirakoro, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180b163c856d020c05989038d3e8bea2740f00103f901f928bc2e0100000092031f4369746520546f757269737469717565204b6f75726f756b616e2046756761",
+      "name": "Cite Touristique Kouroukan Fuga",
+      "city": "Kenjegui",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.9580936,
+        "lon": -8.4069121
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cite Touristique Kouroukan Fuga, Bamako - Kangaba- Guinea, Kenjegui, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d647f13b972f20c059d1764cdd958d2940f00103f901f1d9af910200000092030d6d6169736f6e206d617269616d",
+      "name": "maison mariam",
+      "city": "Kambila",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.776534,
+        "lon": -8.0929507
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "maison mariam, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kambila, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513f75070ced2f20c059d581621a3cb62940f00103f901832cc7300100000092030846616e616669c3a8",
+      "name": "Fanafiè",
+      "city": "Kati-Dral",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.8559273,
+        "lon": -8.0936054
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fanafiè, Mauritanie - Gogui - Nioro du Sahel - Diéma - Bamako, Kati-Dral, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a154b1e7210920c059b4194c68373f2940f00103f9017932ca4d0200000092032a4172743344204174656c6965722064652064657373696e20642761727420657420746563686e69717565",
+      "name": "Art3D Atelier de dessin d'art et technique",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6234696,
+        "lon": -8.0178368
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Art3D Atelier de dessin d'art et technique, Rue 94, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b5f24b4e50820c059f8510dfb3d312940f00103f90175342fff0000000092031d6167656e63652043616e616c202b204261636f2d446a69636f726f6e69",
+      "name": "agence Canal + Baco-Djicoroni",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.596176,
+        "lon": -8.0173775
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "agence Canal + Baco-Djicoroni, Rue 612, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7aefe19ef6c22c059c843dfddca762940f00103f901611a97a802000000920310426172726167652d446f676f66696c69",
+      "name": "Barrage-Dogofili",
+      "city": "Dalala",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.7320165,
+        "lon": -9.2127617
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Barrage-Dogofili, RN25, Dalala, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed0be8853b0720c059ad50a4fb39452940f00103f901852a212301000000",
+      "name": "Air Force museum mig 17 an-2",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.635208,
+        "lon": -8.014126
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Air Force museum mig 17 an-2, Rue 204, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51135e279aac0620c0597a200d0286402940f00103f9017567cb4d020000009203224b454954412046616e7461204f554f4c4f4755454d205465696e74757269c3a87265",
+      "name": "KEITA Fanta OUOLOGUEM Teinturière",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6260224,
+        "lon": -8.0130356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "KEITA Fanta OUOLOGUEM Teinturière, Rue 46, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0a8705f623721c05912e456f77e852740f00103f901112a18200000000092030d486970706f2056696577696e67",
+      "name": "Hippo Viewing",
+      "city": "Kenjegui",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.7607343,
+        "lon": -8.6081724
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Hippo Viewing, Bamako - Kangaba- Guinea, Kenjegui, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ddd330d7fd7e1fc0590a3ce6f2d5f42640f00103f901b5f3db410300000092030b7361626c65204469656261",
+      "name": "sable Dieba",
+      "city": "Bougouni Cercle",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.4781948,
+        "lon": -7.8740152
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "sable Dieba, Bougouni Cercle, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c2ecaf6884b816c05966d58cb1b8a02640f00103f90159dd5687020000009203154c612046656d6d65204163637565696c6c616e7465",
+      "name": "La Femme Accueillante",
+      "city": "Sikasso",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.3139091,
+        "lon": -5.6801926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "La Femme Accueillante, Rond-Point de la Femme Accueillante, Sikasso, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b61a6db0cb9b1fc05974000eebd7fb2740f00103f901919ed829010000009203134665726d652053c3a96b6f75204469616c6c6f",
+      "name": "Ferme Sékou Diallo",
+      "city": "Ouélessébougou",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.9918817,
+        "lon": -7.9021442
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Ferme Sékou Diallo, Route Trans-Sahélienne, Ouélessébougou, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104d2b47a3d2620c0599ef58480d73e2940f00103f901f1f8d74d0100000092030e4bc3a96dc3a920426f7572616d61",
+      "name": "Kémé Bourama",
+      "city": "Bamako",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 12.6227379,
+        "lon": -8.0746878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Kémé Bourama, Rue Ali Farka Toure, Bamako, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114a639c31e0c17c059d8d64fff59832640f00103f901d5412d730000000092031547726f747465206465204d6973736972696b6f726f",
+      "name": "Grotte de Missirikoro",
+      "city": "Fantarasso",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.256546,
+        "lon": -5.7618361
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grotte de Missirikoro, Route de Sikasso à Fourou, Fantarasso, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51245690b0b9a416c05950fae70e079e2640f00103f9015bdd56870200000092030e4c652042616c61666f6e69737465",
+      "name": "Le Balafoniste",
+      "city": "Sikasso",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.3086476,
+        "lon": -5.6608646
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Le Balafoniste, Rond-Point du Balafoniste, Sikasso, Mali",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f038a000e5a216c059bad0a634ac9b2640f00103f901c5887a7c0100000092030b4c65207669657578206e69",
+      "name": "Le vieux ni",
+      "city": "Sirakoro",
+      "country": "Mali",
+      "country_code": "ml",
+      "coordinates": {
+        "lat": 11.3040482,
+        "lon": -5.6590767
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Le vieux ni, Sikasso - Zégoua - Cote d'Ivoire, Sirakoro, Mali",
+      "description": null,
+      "image": null
+    }
+  ]
+}

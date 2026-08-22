@@ -1,0 +1,931 @@
+{
+  "country_code": "gn",
+  "country_name": "Guinea",
+  "boundary_place_id": "5195acd4fdad6a25c05973b3e496fb712540f00101f9010af1020000000000c0020b9203064775696e6561",
+  "count": 50,
+  "places": [
+    {
+      "place_id": "51dc31d010e98628c059faf9a534513a2840f00103f901e85c364301000000",
+      "name": "Maleya",
+      "city": "Maleya",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 12.1139008,
+        "lon": -12.2634969
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maleya, Mali Prefecture, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51de8fdb2f9f8027c0591234c1cb67c42440f00103f9013a6e4746000000009203044b4f4241",
+      "name": "KOBA",
+      "city": "Koba",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.3836044,
+        "lon": -11.7512145
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "KOBA, Koba, Mamou Prefecture, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f67ba32038828c0599504f23680602540f00103f901904ec92a0100000092031d5465727261737365206465206c2768c3b474656c20647520466f757461",
+      "name": "Terrasse de l'hôtel du Fouta",
+      "city": "Dalaba",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.6884782,
+        "lon": -12.2656494
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Terrasse de l'hôtel du Fouta, N5, Dalaba, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5192e68f696d0a2ac0594991c6b2aacb2540f00103f901e65fc6b200000000",
+      "name": "N24",
+      "city": "Télimélé",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.8977867,
+        "lon": -13.020366
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N24, Télimélé, Kindia Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abc6b71c54572bc059415b1833d3172340f00103f901f87d1c92010000009203134d6164696e61206d61726b657420656e746572",
+      "name": "Madina market enter",
+      "city": "Conakry",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.5465332,
+        "lon": -13.6705636
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Madina market enter, Boulevard du 28 Septembre, 299 Conakry, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f1603024cc3529c0593fbe29519bf52540f00103f901387149da00000000",
+      "name": "N22",
+      "city": "Diaga, Misside",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.9797006,
+        "lon": -12.6050731
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N22, Diaga, Misside, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b535221807f320c059741f251bb4641e40f00103f901306e22380100000092030f536f757263652047626572656d7969",
+      "name": "Source Gberemyi",
+      "city": "Thuo",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.5983433,
+        "lon": -8.4746635
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Source Gberemyi, N19, Thuo, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513969d086b20221c0598da08c4c1b911e40f00103f9010e9893a701000000",
+      "name": "Bossou Chimpaneez National Park",
+      "city": "Bossou",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.6417057,
+        "lon": -8.5052683
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bossou Chimpaneez National Park, N19, Bossou, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3f034f4aab120c059b7a5c46460d31e40f00103f901fada4d3801000000920320506f696e74206465205072c3a96cc3a876656d656e742041726169676ec3a965",
+      "name": "Point de Prélèvement Araignée",
+      "city": "Keoulenta",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.7064224,
+        "lon": -8.3470074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Point de Prélèvement Araignée, Lola - Danané, Keoulenta, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517615f7c4dffb28c0599be5b2d139ff2540f00103f9015ebf46330100000092030f506f6e7420646573204c69616e6573",
+      "name": "Pont des Lianes",
+      "city": "Diaga, Misside",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.998488,
+        "lon": -12.4919416
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont des Lianes, N22, Diaga, Misside, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb129d6516492ac059adeb6179a1aa2340f00103f901ca125a6800000000",
+      "name": "N1",
+      "city": "Silingbin",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.8332632,
+        "lon": -13.142749
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N1, Silingbin, Kindia Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518bb0975c7b6924c059a36e0ca606732740f00103f90134a4938502000000",
+      "name": "N30",
+      "city": "Tomba-kanssa",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.7246601,
+        "lon": -10.2060193
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "N30, Tomba-kanssa, Kankan Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdb84f03b6a028c059a47ee309b24f2640f00102f90189822859000000009203115265736964656e63652042617272792033",
+      "name": "Residence Barry 3",
+      "city": "Labé",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.155655201931332,
+        "lon": -12.313888648492503
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Residence Barry 3, 1 Route de Daralabé, 4000 Labé, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511d716d4d5fe828c059bc197fec3f1c2640f00103f9019d51fc8100000000",
+      "name": "Rue Banjul",
+      "city": "Pita",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.0551752,
+        "lon": -12.4538521
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue Banjul, Pita, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea77616bb69e29c059e3f9b1eec4112440f00103f90159e110cf0200000092031243617363616465206465205461626f756e61",
+      "name": "Cascade de Tabouna",
+      "city": "Kindia",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.0347056,
+        "lon": -12.8099855
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cascade de Tabouna, N1, Kindia, Kindia Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b0ae6f91dfc28c0594d81cccea2fb2540f00103f901cefea671000000009203144b616d6261646167612046616c6c732056696577",
+      "name": "Kambadaga Falls View",
+      "city": "Diaga, Misside",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.9914765,
+        "lon": -12.4924162
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kambadaga Falls View, N22, Diaga, Misside, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa81e673ee662bc059ec2c1fee8f082340f00103f901a29f7b410100000092031c4174656c69657220646520636f7574757265204d6d65204b65697461",
+      "name": "Atelier de couture Mme Keita",
+      "city": "Conakry",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.5167231,
+        "lon": -13.701038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Atelier de couture Mme Keita, 11e Boulevard, 258 Conakry, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126f103a106f12ac059539852f245962340f00103f9018eeb882e0100000092031f54c3aa7465206475204d6f6e7420647520436869656e207175692066756d65",
+      "name": "Tête du Mont du Chien qui fume",
+      "city": "Dubréka",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.7935024,
+        "lon": -13.4707537
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tête du Mont du Chien qui fume, N3, Dubréka, Kindia Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e3c3ec65db0929c059916456ef70972640f00103f901f621daaf0000000092030e4368757465732064652053616c61",
+      "name": "Chutes de Sala",
+      "city": "Pellel Koura",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.2957835,
+        "lon": -12.519252
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chutes de Sala, Route des chutes sala, Pellel Koura, Labé Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513eb6c079cc1f29c059c49f974000572640f00103f901fb3da9120300000092030d50c3a9746f756e2062696e6469",
+      "name": "Pétoun bindi",
+      "city": "Sonké",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.1699238,
+        "lon": -12.5621069
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pétoun bindi, Route de sonkè missidè, Sonké, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f6f065a2088d2cc059ae1fac10a0f42540f00103f9010b07276e01000000920315436f6d706c65786520426f6bc3a920486f7572c3a9",
+      "name": "Complexe Boké Houré",
+      "city": "Boké",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.9777837,
+        "lon": -14.2754565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Complexe Boké Houré, N23, Boké, Boké Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9aa6e3f2abb21c0590e3d7320354f2140f00103f9015ac50d9d020000009203085247535f4f756c34",
+      "name": "RGS_Oul4",
+      "city": "Wataferedou 1",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 8.6547022,
+        "lon": -8.8655567
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "RGS_Oul4, SimFer Access, Wataferedou 1, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51383f0ffffa1e29c059f0ada305c3542640f00103f901ff72a9120300000092030d4b61207761796c6f756268c3a8",
+      "name": "Ka wayloubhè",
+      "city": "Sonké",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.1655504,
+        "lon": -12.5605087
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ka wayloubhè, Route de Sorondo, Sonké, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef53faaead3429c059e3c6889f5af42540f00103f9013a7149da00000000",
+      "name": "N22",
+      "city": "Diaga, Misside",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.9772539,
+        "lon": -12.6028876
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N22, Diaga, Misside, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121e4bcff8f1f29c0599a2732ce3a562640f00103f901bf6ea9120300000092030c50c3a9746f756e204d616e69",
+      "name": "Pétoun Mani",
+      "city": "Sonké",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.1684174,
+        "lon": -12.5616455
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pétoun Mani, Route de sonkè missidè, Sonké, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab4198dbbd8428c059ad6d8ac745612540f00103f9017a8ac82a01000000920315567565207375722044616c6162612063656e747265",
+      "name": "Vue sur Dalaba centre",
+      "city": "Dalaba",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.6899855,
+        "lon": -12.259261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vue sur Dalaba centre, N5, Dalaba, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f4abcf20f6d28c0591ce9b1d2495f2540f00103f9016d7424400100000092030c506f6e742064752064696575",
+      "name": "Pont du dieu",
+      "city": "Dalaba",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.6861101,
+        "lon": -12.2130123
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont du dieu, N5, Dalaba, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb64dde45c2329c059d02b9e7aa4592640f00103f901ed029d20030000009203064c6f6e646f6e",
+      "name": "London",
+      "city": "Touro",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.175083,
+        "lon": -12.5690681
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "London, 30 Route de Ninguélandé, 200 Touro, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b2c34e67dd8128c059dd1e29c709382840f00103f901a983439e02000000",
+      "name": "Tensira",
+      "city": "Tensira",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 12.1094496,
+        "lon": -12.2536423
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tensira, Mali Prefecture, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e5f67f7328628c059769caecd8a5e2540f00102f9015b5f5b1a0000000092031243617365204d797269616d204d616b656261",
+      "name": "Case Myriam Makeba",
+      "city": "Dalaba",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.684652736248818,
+        "lon": -12.26210759293431
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Case Myriam Makeba, N5, Dalaba, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4cb947b26f42ac05948c32973f3912340f00103f901f1347e2e0100000092031150697363696e65204e61747572656c6c65",
+      "name": "Piscine Naturelle",
+      "city": "Dubréka",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.7850605,
+        "lon": -13.4768561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piscine Naturelle, N3, Dubréka, Kindia Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511f189bb1c3cf28c0594ff0a88cda302640f00103f901e9dec9a80100000092030d506f6e74206465206c69616e65",
+      "name": "Pont de liane",
+      "city": "Pita",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.0954174,
+        "lon": -12.4057899
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rope bridge, rue a Télimélé, Pita, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc5c2338e4092ac059a1720289dcca2540f00103f90181f0a0f000000000",
+      "name": "N24",
+      "city": "Télimélé",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.8962138,
+        "lon": -13.0193193
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N24, Télimélé, Kindia Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d825a67d71c29c059cd3a884270552640f00103f9017b45a912030000009203124b6f757261686f756e204e6775c3a9726f75",
+      "name": "Kourahoun Nguérou",
+      "city": "Sonké",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.1668721,
+        "lon": -12.5563309
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kourahoun Nguérou, Allée de Kourahoun nguérou, Sonké, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51aa81e673ee8228c059f365b33401602540f00103f9012bea31330100000092032b43656e7472652064274578706f736974696f6e2065742064652056656e746520546f757269737469717565",
+      "name": "Centre d'Exposition et de Vente Touristique",
+      "city": "Dalaba",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.6875092,
+        "lon": -12.2557255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centre d'Exposition et de Vente Touristique, N5, Dalaba, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df4614a463e828c05946990d32c91c2640f00103f901030ee31d03000000",
+      "name": "Rue Banjul",
+      "city": "Pita",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.0562225,
+        "lon": -12.4538852
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue Banjul, Pita, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512922c32ade882bc05952b81e85eb012340f00103f9012b8824960100000092030a506c61676520536f726f",
+      "name": "Plage Soro",
+      "city": "Conakry",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.50375,
+        "lon": -13.76732
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plage Soro, Boulevard Maritime, 258 Conakry, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c10ead5ffa7c28c059d0a2d2e352942640f00103f90159d9a3330100000092031143687574657320646520446f6e676f7261",
+      "name": "Chutes de Dongora",
+      "city": "Labé",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.2896949,
+        "lon": -12.2440977
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chutes de Dongora, Rue de la Grande Mosquée, Labé, Labé Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac0892d2c7f328c05913bbb6b75b0a2640f00103f90155dc7f2e03000000",
+      "name": "N22",
+      "city": "Diaga, Misside",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.020231,
+        "lon": -12.4761339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N22, Diaga, Misside, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e86dcb17de125c059fdb15aaa1c402540f00103f90155dc77f80200000092032243656e7472652067c3a96f677261706869717565206465206c61204775696ec3a965",
+      "name": "Centre géographique de la Guinée",
+      "city": "N'Déma",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.6252187,
+        "lon": -10.9404121
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Centre géographique de la Guinée, N29, N'Déma, Faranah Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51900b73277d8e29c059dbe10a838df22540f00103f901fb9b49da00000000",
+      "name": "N22",
+      "city": "Donghol-touma",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 10.9737359,
+        "lon": -12.7782986
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "N22, Donghol-touma, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51938e359a3e2a29c0597fea2175af4f2640f00102f901b95986550000000092030d46656c6c6f206b617373697961",
+      "name": "Fello kassiya",
+      "city": "Timbi-Madina",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 11.15563550986303,
+        "lon": -12.582508868253433
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fello kassiya, Route de Bantaghi, Timbi-Madina, Mamou Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518f0bbdb497632bc0596d2695df580a2340f00103f901add27d3e0100000092030f537461747565206465204e696d6261",
+      "name": "Statue de Nimba",
+      "city": "Conakry",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 9.5202093,
+        "lon": -13.6945168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Statue de Nimba, Rond-Point de Nimba, 299 Conakry, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513ae63c635ff220c059b47cb83f72661e40f00103f901e5f9e3370100000092030f456e7472c3a9652072657365727665",
+      "name": "Entrée reserve",
+      "city": "Thuo",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.6000452,
+        "lon": -8.473384
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Entrée reserve, N19, Thuo, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51927538ba4a9f21c059c3bef8fdf6f01e40f00103f90179e11183000000009203184361727265666f7572204469782d487569742d486f726961",
+      "name": "Carrefour Dix-Huit-Horia",
+      "city": "N'Zérékoré",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.7353172,
+        "lon": -8.811117
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carrefour Dix-Huit-Horia, Rue Nimba, N'Zérékoré, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51215f9dbef9d820c059e3056c62dc981e40f00103f901357535390100000092030e52697669c3a8726520204d616465",
+      "name": "Rivière  Made",
+      "city": "Lola Prefecture",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.6492782,
+        "lon": -8.4237804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rivière  Made, Lola Prefecture, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516e3315e2919821c0598b749a6093f01e40f00103f90123b362e90200000092030d4c6573204261732d466f6e6473",
+      "name": "Les Bas-Fonds",
+      "city": "N'Zérékoré",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.7349372,
+        "lon": -8.797988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Les Bas-Fonds, Rue Nimba, N'Zérékoré, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9db1c9da90221c05946ec134031921e40f00103f90199a293a701000000",
+      "name": "Bossou Chimpaneez National Park",
+      "city": "Bossou",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.642766,
+        "lon": -8.5052003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bossou Chimpaneez National Park, N19, Bossou, Nzérékoré Region, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107c776082dd920c059153b1a87fa8d1e40f00103f901db1735390100000092030f4d6f6e7420546f6d67626f6e67626f",
+      "name": "Mont Tomgbongbo",
+      "city": "Lola Prefecture",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.638651,
+        "lon": -8.4241717
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mont Tomgbongbo, Lola Prefecture, Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e82572657d820c059160e29ab8e991e40f00103f901d17435390100000092031347726f74746520536572696e67626172612031",
+      "name": "Grotte Seringbara 1",
+      "city": "Lola Prefecture",
+      "country": "Guinea",
+      "country_code": "gn",
+      "coordinates": {
+        "lat": 7.6499583,
+        "lon": -8.4225399
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grotte Seringbara 1, Lola Prefecture, Guinea",
+      "description": null,
+      "image": null
+    }
+  ]
+}

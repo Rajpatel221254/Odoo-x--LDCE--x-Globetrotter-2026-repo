@@ -1,0 +1,272 @@
+{
+  "country_code": "gq",
+  "country_name": "Equatorial Guinea",
+  "boundary_place_id": "519bba3ce7b808254059a62a6d718dcff93ff00101f90117f1020000000000c0020b92031145717561746f7269616c204775696e6561",
+  "count": 14,
+  "places": [
+    {
+      "place_id": "5150bb7fb0898a23405943970d174dedfd3ff00102f901e8e0881d00000000920314546f727265206465206c61204c69626572746164",
+      "name": "Torre de la Libertad",
+      "city": "Bata",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 1.8704348469268133,
+        "lon": 9.770581737129447
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Torre de la Libertad, Paseo Marítimo, Bata, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e725ff93bfa32640592d6ddd729a0afa3ff00102f9018a0e941d0000000092030e546f7272652064652052656c6f6a",
+      "name": "Torre de Reloj",
+      "city": "Mongomo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 1.6275886999999998,
+        "lon": 11.319821000000003
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Torre de Reloj, Plaza Mongomo, Mongomo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185d1d83b5687234059590c782113d0fd3ff00102f901c021891d0000000092030f546f7272652064656c2052656c6f6a",
+      "name": "Torre del Reloj",
+      "city": "Bata",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 1.8632994944935233,
+        "lon": 9.764329786507696
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Torre del Reloj, Avenida de S. S. Juan Pablo II, Bata, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51709c6f9fb0632340594a1e99582af9f13ff00103f901c61c237501000000",
+      "name": "Puente kogo - akoga",
+      "city": "Cogo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 1.1233314,
+        "lon": 9.6947069
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Puente kogo - akoga, Carretera Bata - Cogo, Cogo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51621b4c1eaa9021405907d90d36d0e70c40f00103f90194e7f65101000000",
+      "name": "Trailhead",
+      "city": "Malabo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.6131901,
+        "lon": 8.7825479
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trailhead, Camino al Pico Basilé, Malabo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b34291eee76021405941d653abaffe0d40f00103f901fefc80140100000092031d4368616e74696572206465206661627269636174696f6e206427454347",
+      "name": "Chantier de fabrication d'ECG",
+      "city": "Malabo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.7493585,
+        "lon": 8.6892695
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ECG Fabrication Yard, Autopista de Malabo, Malabo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b040940928c23405993d1b7bbbdbafd3ff00103f9019e23df1e0100000092030c436173612056616e65737361",
+      "name": "Casa Vanessa",
+      "city": "Bata",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 1.8580911,
+        "lon": 9.7745533
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Casa Vanessa, Calle de la Organización Unidad Africana, Bata, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f3ab42330d12140590167ce9fdb100e40f00103f9012d17017801000000",
+      "name": "Natural Park",
+      "city": "Sipopo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.7582314,
+        "lon": 8.9085704
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natural Park, Playa pública de Sipopo, Sipopo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e730179c07e214059da571ea4a7b80d40f00103f901258c42600100000092030d46696e63612053616d70616b61",
+      "name": "Finca Sampaka",
+      "city": "Sampaka",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.7151635,
+        "lon": 8.7475622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Finca Sampaka, Carretera Malabo - San Carlos de Lubá, Sampaka, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ce80bc62d93214059cbb6781d163f0d40f00103f90195e7f65101000000920310506f696e742064652064c3a970617274",
+      "name": "Point de départ",
+      "city": "Malabo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.6558039,
+        "lon": 8.7874586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trailhead, Camino al Pico Basilé, Malabo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b1cbc653d93234059843f68e2c2c6fd3ff00103f9014d356d0e01000000920339456e7472616461204e656e652041726d656e676f6c202d204e676f6cc3b3202d2042617461202d204775696e65612065637561746f7269616c",
+      "name": "Entrada Nene Armengol - Ngoló - Bata - Guinea ecuatorial",
+      "city": "Bata",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 1.8610257,
+        "lon": 9.7875778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Entrada Nene Armengol - Ngoló - Bata - Guinea ecuatorial, Carretera de Circunvalación de Bata, Bata, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164e94317d453214059353a313553eb0a40f00103f901e1f4ad5c0100000092030d5669737461206465204d6f6b61",
+      "name": "Vista de Moka",
+      "city": "Moka",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.3649048,
+        "lon": 8.6637275
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vista de Moka, Carretera San Carlos de Luba - Moka, Moka, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51670c7382363d214059018d2d5ff2da0940f00103f9014bef831c01000000920311436f72617ac3b36e206465204d6f616261",
+      "name": "Corazón de Moaba",
+      "city": "Belebu",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.2319076,
+        "lon": 8.6195565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Corazón de Moaba, Carretera San Carlos de Luba - San Antonio de Ureca, Belebu, Equatorial Guinea",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c415061b8d86214059e3f2695f8abc0c40f00103f90151125ff20200000092031a4e756573747261205365c3b16f7261206465206c612049736c61",
+      "name": "Nuestra Señora de la Isla",
+      "city": "Malabo",
+      "country": "Equatorial Guinea",
+      "country_code": "gq",
+      "coordinates": {
+        "lat": 3.5920608,
+        "lon": 8.7627953
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Nuestra Señora de la Isla, Camino al Pico Basilé, Malabo, Equatorial Guinea",
+      "description": null,
+      "image": null
+    }
+  ]
+}

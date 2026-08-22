@@ -1,0 +1,5836 @@
+{
+  "country_code": "cv",
+  "country_name": "Cape Verde",
+  "boundary_place_id": "51b1f5b127260238c059da311a9e03003040f00101f901de2c080000000000c0020b92030a43617065205665726465",
+  "count": 308,
+  "places": [
+    {
+      "place_id": "51bf72ce99fe0a39c059771ac4622f1d3140f00103f901cc2580f102000000",
+      "name": "Paúl",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1140043,
+        "lon": -25.0429474
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paúl, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516682e15cc31639c0598bf95ee8b61d3140f00103f9012af6bdf8000000009203184775646f206465204d6174696e686f20646520436f726461",
+      "name": "Gudo de Matinho de Corda",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1160722,
+        "lon": -25.0889185
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gudo de Matinho de Corda, Lombo de Pedra, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510158d3abb75a38c0598f41ddf6f39e3040f00103f901ea553ea902000000",
+      "name": "EN1-SN-01",
+      "city": "Cachaço",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6209101,
+        "lon": -24.3543651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-SN-01, 3120-Cachaço, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5110a1004004ef38c059f8b53f619adf3040f00103f901d6eeb07b00000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8734494,
+        "lon": -24.9336586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e1f65f42601c39c0592b4b19dde61c3140f00103f90142b8d0ab01000000",
+      "name": "Lombo de Pedra",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1128977,
+        "lon": -25.1108438
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lombo de Pedra, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9d754ccf70a39c0592457fb85681e3140f00103f901f03a35c402000000",
+      "name": "Aldeinho Kaminhu",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1187824,
+        "lon": -25.0428436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Aldeinho Kaminhu, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51456823cf69fd38c059eee3bd2e63e23040f00102f90120679f0b0000000092030f546f7272652064652042656cc3a96d",
+      "name": "Torre de Belém",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.88432590614314,
+        "lon": -24.989895769256936
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights.tower"
+      ],
+      "formatted_address": "Torre de Belém, Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5142881a3b97ec38c059dbe85212c8d53040f00103f901b01c26b802000000",
+      "name": "EN2-SV-02",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8350841,
+        "lon": -24.9241826
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-02, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b8cf85ec172139c059db53cd075f293140f00103f901ece2705201000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Boca de Ambas Ribeiras",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1616063,
+        "lon": -25.1292713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, 1139-Boca de Ambas Ribeiras, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ccda0132cfe536c059b1755f84dfc43040f00103f9017c21e82e03000000",
+      "name": "Salinas de Pedra de Lume Crater Walk",
+      "city": "Pedra de Lume",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7690356,
+        "lon": -22.8976928
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Salinas de Pedra de Lume Crater Walk, Pedra de Lume, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd304278b41539c05906178623a3263140f00103f901ac447b400100000092030844656c676164696d",
+      "name": "Delgadim",
+      "city": "Coculi",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1509268,
+        "lon": -25.084785
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Delgadim, Porto Novo-R.Grande, 1139-Coculi, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5126c5c72764e938c0590ffa884e85e03040f00103f90112301c9600000000",
+      "name": "EN3-SV-05",
+      "city": "Norte da Baia II",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8770341,
+        "lon": -24.9116845
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SV-05, Norte da Baia II, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b3ee1f0bd1fd38c059e60819c8b3e13040f00103f901b406964001000000",
+      "name": "Rua de Morgoinho",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8816495,
+        "lon": -24.991471
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Morgoinho, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160ac6f6072e736c05939b709f7ca983040f00103f9015e5f364001000000",
+      "name": "Tv. D'Estilador",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.596847,
+        "lon": -22.904089
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tv. D'Estilador, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51043f051b321b39c059b7d4415e0f1c3140f00103f901b21895a901000000",
+      "name": "Lombo de Pedra",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1096095,
+        "lon": -25.1062333
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lombo de Pedra, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a32f73709fff38c05911a1b6b2e9e73040f00103f90164460bc302000000",
+      "name": "2110 Ponta João Ribeiro",
+      "city": "Ponta João Ribeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.9059097,
+        "lon": -24.9985266
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "2110 Ponta João Ribeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebac16d8631a39c059306475abe7303140f00103f9016a76e11801000000",
+      "name": "Rua de Papasa",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.191035,
+        "lon": -25.103086
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Papasa, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5152c19778f6b536c0592670eb6e9e2a3040f00103f9014250613d03000000",
+      "name": "orientierung",
+      "city": "Norte (Fundo das Figueiras)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.16648,
+        "lon": -22.7107921
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "orientierung, EN3-BV-01, 5129-Norte (Fundo das Figueiras), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154909f8d5c1139c0595dc7139c552e3140f00103f9010a92060d03000000920323496d6167656d206465204e6f7373612053656e686f726120646f20526f73c3a172696f",
+      "name": "Imagem de Nossa Senhora do Rosário",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1809938,
+        "lon": -25.0678185
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Imagem de Nossa Senhora do Rosário, Porto Novo-R.Grande, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518852318452fe38c0597f94c78965e33040f00103f9016ac7f3280300000092031977616974696e6720706c61636520666f722066657272696573",
+      "name": "waiting place for ferries",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8882681,
+        "lon": -24.9934466
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "waiting place for ferries, Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b78ab443b21239c0591e2cadd051d43040f00103f90158d1c5ba00000000",
+      "name": "Rua de Morgoinho",
+      "city": "Santo André",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8293734,
+        "lon": -25.0730326
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Morgoinho, 2115-Santo André, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e812b8f24e536c0593f7eb7c1d1ba3040f00102f90198151e0e0000000092030d4d6f6e74652056656e646f736f",
+      "name": "Monte Vendoso",
+      "city": "Sal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.729763133333332,
+        "lon": -22.8950891
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.wreck"
+      ],
+      "formatted_address": "Monte Vendoso, Ribeira de Tarafe, 4110-Sal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197ce545b79dd36c059b52b211a1f343040f00102f901703217140000000092030b53616e7461204d61726961",
+      "name": "Santa Maria",
+      "city": "Sal Rei",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.203599579904864,
+        "lon": -22.865133007244903
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.wreck"
+      ],
+      "formatted_address": "Santa Maria, EN3-BV-02, 5110-Sal Rei, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51703fe08101f636c059c571e0d5720d3040f00103f901864d613d03000000",
+      "name": "third stop",
+      "city": "Boa Vista",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.0525335,
+        "lon": -22.9609605
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "third stop, Boa Vista, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d5919e8356d38c059a6118eb4afa33040f00103f901d28a9aa90200000092030b43617262656972696e686f",
+      "name": "Carbeirinho",
+      "city": "Tarrafal de São Nicolau",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6393998,
+        "lon": -24.4266038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Carbeirinho, EN3-SN-01, Tarrafal de São Nicolau, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51664f029b73fc38c059f09183c8d8e33040f00103f9011873610d03000000",
+      "name": "Avenida Baltazar Lopes da Silva",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8900266,
+        "lon": -24.986139
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Avenida Baltazar Lopes da Silva, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5163320ba30ffe38c0590620ff16aee43040f00103f901206858a301000000",
+      "name": "Avenida Marginal",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8932814,
+        "lon": -24.9924261
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b0ae0ad4620c39c059f7dfefbcf91a3140f00103f9012a09c7ba00000000",
+      "name": "Paúl",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1053732,
+        "lon": -25.048383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paúl, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173c9271a5ae936c05982829c418d363040f00103f901c245022b010000009203055669676961",
+      "name": "Vigia",
+      "city": "Boa Vista",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.2130929,
+        "lon": -22.9115311
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vigia, 5110 Boa Vista, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516ee00ed429ab37c0590249d8b793382e40f00103f90176d6462503000000",
+      "name": "EN3-ST-19",
+      "city": "Assomada (Santa Catarina)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.110502,
+        "lon": -23.668607
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-19, 7310-Assomada (Santa Catarina), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519cdac6cddd8137c059c9b6ce2ccad62d40f00102f901c0b2910b00000000920317507261c3a761204c75c3ad732064652043616dc3b56573",
+      "name": "Praça Luís de Camões",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.919511223062175,
+        "lon": -23.507290707634283
+      },
+      "categories": [
+        "sport",
+        "tourism",
+        "tourism.sights",
+        "tourism.sights.square"
+      ],
+      "formatted_address": "7600 Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512e94a707608237c059c2ab4088bfd52d40f00103f901103d523d01000000",
+      "name": "Avenida Amilcar Cabral",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9174769,
+        "lon": -23.5092778
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenida Amilcar Cabral, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ae484c50c33537c0593bfe0b04014a2e40f00103f9015e4b363c010000009203104d6f6e74696e686f206465204c756d65",
+      "name": "Montinho de Lume",
+      "city": "Porto Inglês",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.144539,
+        "lon": -23.2100115
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Montinho de Lume, EN3-MA-03, Porto Inglês, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111d9ac9fa3be37c059eab93b212a872e40f00103f901ceb09525030000009203084c617472696e6573",
+      "name": "Latrines",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2639933,
+        "lon": -23.7446842
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Latrines, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ea9da6e825738c059f5f3a62215162e40f00103f901127a3c2c03000000920326506c69732073706563746163756c61697265732064652073747261746573206465206c617665",
+      "name": "Plis spectaculaires de strates de lave",
+      "city": "Laranjo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.04313,
+        "lon": -24.341834
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plis spectaculaires de strates de lave, EN1-FG-01, 8110-Laranjo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5199b85510039937c059db65643502662e40f00103f901402910ba020000009203104372757a206465204261727265697261",
+      "name": "Cruz de Barreira",
+      "city": "Ponta Verde",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1992356,
+        "lon": -23.597703
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cruz de Barreira, Tarrafal-Calheta-Praia, 7215-Ponta Verde, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104af963b333737c059b68311fb047c2e40f00103f9019c248e88020000009203054265616368",
+      "name": "Beach",
+      "city": "Calheta",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2422255,
+        "lon": -23.2156255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Beach, EN3-MA-01, 1234-Calheta, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fbab6cc4389a37c059e4c8b9032bd52d40f00103f901c2c9373600000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9163438,
+        "lon": -23.6024287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51399b8e006ebe37c059fe34a44055872e40f00103f901d2d09525030000009203124469736369706c696e6172792063656c6c73",
+      "name": "Disciplinary cells",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2643223,
+        "lon": -23.743866
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Disciplinary cells, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ed6877a3eaaa37c05957b66a323e5f2e40f00103f9010e02663002000000",
+      "name": "Gomgom Hiking Path (Orange)",
+      "city": "Gomgom",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1860214,
+        "lon": -23.6676428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gomgom Hiking Path (Orange), Gomgom, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f34872af82c237c059430070ecd9932e40f00103f901aa38d42403000000",
+      "name": "Rua Centro",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.288772,
+        "lon": -23.7598066
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Centro, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512c5aca43f09937c0590e78aa8dfbd42d40f00103f901fccc373600000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9159817,
+        "lon": -23.6013224
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ba71e6b22c8337c059ccc9d5d9dad02d40f00103f9010842f5a1000000009203134d697261646f75726f20646f2042726173696c",
+      "name": "Miradouro do Brasil",
+      "city": "Prainha",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9079197,
+        "lon": -23.5124008
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Brasil, Rua Eng. Antonio Graça, 7602-Prainha, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d235936fb69d37c0598f5f2e98ae122e40f00103f90196da952503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0364883,
+        "lon": -23.616065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511825e82ff4b037c059c28a53ad85612e40f00103f90182ae952503000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Serra Malagueta",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.190473,
+        "lon": -23.691226
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, Serra Malagueta, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512907b309305238c05905018d2d5f0e2e40f00103f9018a312c7a00000000",
+      "name": "EN3-FG-09",
+      "city": "Mosteiros",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0280699,
+        "lon": -24.3210455
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-FG-09, 8110-Mosteiros, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c922a875768137c059950ed6ff39d82d40f00103f9018e040e7a00000000920318446573636f6265727461206465204361626f205665726465",
+      "name": "Descoberta de Cabo Verde",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9223175,
+        "lon": -23.5057138
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Descoberta de Cabo Verde, Rua Serpa Pinto, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b6366fa801739c059299e6978691d3140f00103f901e6a5d45301000000",
+      "name": "Lombo de Pedra",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1148906,
+        "lon": -25.0918118
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lombo de Pedra, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5147205ed72f1039c05906b4194c681d3140f00103f901f0f1937400000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1148727,
+        "lon": -25.06323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51339e526f571139c059901bd9f04f2e3140f00103f901c4b8060d030000009203314d697261646f75726f20547572c3ad737469636f206461204e6f7373612053656e686f726120646f20526f73c3a172696f",
+      "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1809073,
+        "lon": -25.0677404
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro Turístico da Nossa Senhora do Rosário, Porto Novo-R.Grande, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac883f2f81ec38c0590a302c7fbed53040f00103f901c45a46b802000000",
+      "name": "EN2-SV-02",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.834938,
+        "lon": -24.9238462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-02, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c46dbe7e7ec38c05931a9eb9adadf3040f00103f9014c539f4001000000",
+      "name": "EN3-SV-05",
+      "city": "Norte da Baia II",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8744294,
+        "lon": -24.9254136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SV-05, Norte da Baia II, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e73345251afd38c0594e0b5ef415e23040f00103f901747e3c40010000009203134e696c642d726f20696e746572617274203938",
+      "name": "Nild-ro interart 98",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8831475,
+        "lon": -24.9886802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Nild-ro interart 98, Rua do Coco, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101adaf647de736c059104647cdb2983040f00103f901425f36400100000092030922422e4cc3a97a6122",
+      "name": "\"B.Léza\"",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.5964783,
+        "lon": -22.9042571
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "\"B.Léza\", Tv. D'Estilador, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b83187eea3c437c05915de8a694b962e40f00103f9013e8d512401000000",
+      "name": "Rua Centro",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2935441,
+        "lon": -23.7681264
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Centro, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514f571c73438038c059e71a66683cc92d40f00103f9018c0a773102000000",
+      "name": "Praça",
+      "city": "São Filipe",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.893039,
+        "lon": -24.5010292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Praça, 8220-São Filipe, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165613e0fa45738c059f3823e479ae62d40f00103f901a4d93d2c03000000",
+      "name": "gravelsliding",
+      "city": "Santa Catarina do Fogo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9503958,
+        "lon": -24.3423471
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "gravelsliding, Santa Catarina do Fogo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b563343c071039c0593784cf7b082f3140f00103f901283f14ff02000000",
+      "name": "Ribeira Grande - Janela-Paúl",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1837232,
+        "lon": -25.0626104
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Ribeira Grande - Janela-Paúl, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c3c632b61e836c059a21b65b30d993040f00102f90136daca0b00000000920314486973746f7269632053616c74205363616c6573",
+      "name": "Historic Salt Scales",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.597865307030254,
+        "lon": -22.90773268864369
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Historic Salt Scales, Rua Georges Vynckier, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5158cc6328820b39c0592a94e068221f3140f00103f90122ee35c402000000",
+      "name": "Paúl",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1216188,
+        "lon": -25.0449548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paúl, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511efb592c451639c0593da3080495203140f00103f90140b8d0ab01000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1272738,
+        "lon": -25.086993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1210-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e2f4d11e01639c0598a16eafa4f343140f00103f901e801fbad01000000",
+      "name": "Leuchtturm",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.2043454,
+        "lon": -25.0893565
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Leuchtturm, Avenida de Nossa Senhora do Livramento, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b5d66196874c38c059c2f869dc9b9d3040f00103f901fef3af7e0100000092031742616c74617a6172204c6f7065732064612053696c7661",
+      "name": "Baltazar Lopes da Silva",
+      "city": "Ribeira Brava",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6156595,
+        "lon": -24.2989439
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Baltazar Lopes da Silva, Rua Amilcar Cabral, 3120-Ribeira Brava, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e976402322de38c059097657d17adb3040f00103f901703f187800000000",
+      "name": "EN3-SV-05",
+      "city": "Norte da Baia II",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8573428,
+        "lon": -24.8677084
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SV-05, Norte da Baia II, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0bbcd1b27fd36c059fbb8ecc671c23040f00103f90136ab0fab02000000",
+      "name": "Shell mount",
+      "city": "Palmeira",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7595486,
+        "lon": -22.988878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shell mount, Travessa C, Palmeira, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f701486de20c39c0593ce3569cc51a3140f00103f901e2fbaeb002000000",
+      "name": "Paúl",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1045778,
+        "lon": -25.05033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Paúl, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c34e2baf3f0839c059648b52d2f92d3140f00102f9017a6c634a0000000092031a554e4553434f2050617472696dc3b36e696f204d756e6469616c",
+      "name": "UNESCO Património Mundial",
+      "city": "Sinagoga",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.179593224670853,
+        "lon": -25.032221744607124
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "UNESCO Património Mundial, Ribeira Grande - Janela-Paúl, 7630-Sinagoga, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5142435abe89f838c059c746c5a464163140f00103f90126cb112201000000",
+      "name": "EN1-SA-03",
+      "city": "Paul",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0874732,
+        "lon": -24.9708518
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-SA-03, Paul, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180c05ebc7a0c39c059a8a4f386a01f3140f00103f901581e5452010000009203134d697261646f75726f20447261676f6569726f",
+      "name": "Miradouro Dragoeiro",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1235432,
+        "lon": -25.0487478
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro Dragoeiro, Paúl, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fc30e7be412839c0598c26bca9ed173140f00103f9015c655bfb0000000092030a4c6f6d626f204775646f",
+      "name": "Lombo Gudo",
+      "city": "Manta Velha",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0934702,
+        "lon": -25.1572532
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lombo Gudo, Garça de Cima, Manta Velha, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1edfec23c5538c05941d47d00529f3040f00103f901a23610800100000092031b4d697261646f75726f20646f204d6f6e74652043696e74696e6861",
+      "name": "Miradouro do Monte Cintinha",
+      "city": "Cabeçalinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.622345,
+        "lon": -24.3329584
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Monte Cintinha, EN1-SN-01, 3120-Cabeçalinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510cd58338c5b136c05901c0b167cf0b3040f00103f901884d613d03000000",
+      "name": "orientierung",
+      "city": "Cabeça de Tarafes",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.0461335,
+        "lon": -22.6944156
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "orientierung, EM-BV-04, Cabeça de Tarafes, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a14acd1e687538c05995b7239c16e42d40f00103f901ae793c2c0300000092030d42616f6261622067c3a9616e74",
+      "name": "Baobab géant",
+      "city": "São Lourenço",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.945485,
+        "lon": -24.45862
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab géant, EN3-FG-02, 8220-São Lourenço, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f75eb90f64a38c0590da43094b8d32d40f00103f901fc383436000000009203084573706967c3a36f",
+      "name": "Espigão",
+      "city": "Cova Matinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9135176,
+        "lon": -24.2928248
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Espigão, EN1-FG-01, 8235-Cova Matinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51753348669a0f39c0592c3b0ecd86043140f00103f9010402142a03000000",
+      "name": "Porto Novo-Ribeira Grande",
+      "city": "Porto Novo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0176819,
+        "lon": -25.0609497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Porto Novo-Ribeira Grande, 1310-Porto Novo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5138f92d3a594c38c0594e59f21da19d3040f00103f901fe21969a0100000092030b436f706120436162616e61",
+      "name": "Copa Cabana",
+      "city": "Ribeira Brava",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6157397,
+        "lon": -24.2982365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Copa Cabana, Rua Baltazar Lopes, 3120-Ribeira Brava, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149dd297865b836c059551ffe501f233040f00103f901b24e613d03000000",
+      "name": "orientierung",
+      "city": "Norte (Fundo das Figueiras)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1371966,
+        "lon": -22.7202983
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "orientierung, EN3-BV-01, 5129-Norte (Fundo das Figueiras), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514227840eba2039c059ecfe0cca8f2f3140f00103f901ed90d52203000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Boca de Coruja",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1857878,
+        "lon": -25.127839
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, 1139-Boca de Coruja, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a0048b76fe538c0599026288fb8dd3040f00103f901c5e3197800000000",
+      "name": "EN3-SV-05",
+      "city": "Norte da Baia II",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8660974,
+        "lon": -24.8962359
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SV-05, Norte da Baia II, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ca83fb104e638c059b2fd1afff4dd3040f00103f901e1431080010000009203094d697261646f75726f",
+      "name": "Miradouro",
+      "city": "Norte da Baia II",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8670196,
+        "lon": -24.8985091
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro, EN3-SV-05, Norte da Baia II, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b8269bd84ff38c0596f8099efe0e73040f00103f901cbe97e7a00000000920310466f726d657220417274696c6c657279",
+      "name": "Former Artillery",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.905776,
+        "lon": -24.9981192
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Former Artillery, Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162ba10ab3f3e39c059f1a952697aff3040f00103f901770d924001000000",
+      "name": "EN3-SA-10",
+      "city": "Porto Novo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.9979616,
+        "lon": -25.243159
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SA-10, Porto Novo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ced1ba908e736c059ec905154ec983040f00103f9019da8c9ee0200000092031341727465666163746f73206465207065647261",
+      "name": "Artefactos de pedra",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.5973561,
+        "lon": -22.9024759
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Artefactos de pedra, Rua 15 de Agosto, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ca92944fea1039c0598d841156be1a3140f00103f9018eac599d01000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Agua das Caldeiras",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1044668,
+        "lon": -25.0660753
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Agua das Caldeiras, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51719417f4391839c059277a2af1ca333140f00103f90100c7fe5d01000000",
+      "name": "Rua de Papasa",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.2023154,
+        "lon": -25.0946343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rua de Papasa, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511de736e15efd38c059b176ca598e1e3140f00103f901daf36f72010000009203184e6f7373612053656e686f72612064612050696564616465",
+      "name": "Nossa Senhora da Piedade",
+      "city": "Janela",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1193596,
+        "lon": -24.989729
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Nossa Senhora da Piedade, Janela-Paul, 7630-Janela, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b196f1a5a62b39c059606523c621053140f00103f9015fee924001000000",
+      "name": "EN3-SA-09",
+      "city": "Lagedos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0200466,
+        "lon": -25.1705116
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SA-09, Lagedos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bdb7335d990f39c059cee33098bf1c3140f00103f9014339482200000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1122985,
+        "lon": -25.0609339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5141da5abadd2639c059e036099403fe3040f00103f901b0bd6b560100000092030743616e68c3a36f",
+      "name": "Canhão",
+      "city": "Ponta Sul",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.9922421,
+        "lon": -25.1518208
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Canyon, EN1-SA-04, Ponta Sul, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51caf0e9fbbafb38c059912a8a5759e33040f00103f901b3144d4001000000",
+      "name": "Rua José da Paz Monteiro",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.888082,
+        "lon": -24.9833219
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua José da Paz Monteiro, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d146640e38e536c059e38bf67821a73040f00103f901c0d4005b0000000092030a7669657720706f696e74",
+      "name": "view point",
+      "city": "Murdeira",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6528545,
+        "lon": -22.8953866
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "view point, EN1-SL-01, Murdeira, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e84680822fe38c05972c7f6b589e43040f00103f901286858a301000000",
+      "name": "Avenida Marginal",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8927263,
+        "lon": -24.9927068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51edb0d35977e736c059ebe5779acc983040f00103f9015a5f364001000000",
+      "name": "Tv. D'Estilador",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.596872,
+        "lon": -22.9041649
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Tv. D'Estilador, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a77dbe09f2b39c059bd18ca8976053140f00103f901b5133b0801000000920316436f6f706572617469766120426162696cc3b36e6961",
+      "name": "Cooperativa Babilónia",
+      "city": "Lagedos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.02134,
+        "lon": -25.1704083
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cooperativa Babilónia, EN3-SA-09, Lagedos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512a583e26ad4d38c059a8ce5955e5a73040f00103f901c08a9aa90200000092030b42757261636f20417a756c",
+      "name": "Buraco Azul",
+      "city": "Estância de Brás(Estância Braz)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6558431,
+        "lon": -24.3034233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Buraco Azul, EN1-SN-01, 3120-Estância de Brás(Estância Braz), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a3af20cd58fc38c0596eb02605cce23040f00103f9016db4ac07010000009203144361736120436573c3a172696120c389766f7261",
+      "name": "Casa Cesária Évora",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8859256,
+        "lon": -24.98573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cesária Évora Home, Avenida Fernando Ferreira Fortes, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51881a3b97982b39c0593d5fb35c362a3140f00103f9015354edfe02000000",
+      "name": "EN3-SA-06",
+      "city": "Cruzinha",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.164892,
+        "lon": -25.1702971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SA-06, Cruzinha, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a58422dbc3939c05987927f1c83083140f00103f901aaf75c3902000000",
+      "name": "Grogue artisanal distillery",
+      "city": "Curral das Vacas",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0332506,
+        "lon": -25.2255276
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grogue artisanal distillery, EN3-SA-09, Curral das Vacas, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d53c47e4bb1439c0596b48dc63e9d33040f00103f90171e8182203000000",
+      "name": "Rua de Morgoinho",
+      "city": "Santo André",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.82778,
+        "lon": -25.080992
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Morgoinho, 2115-Santo André, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f188658e402339c0593b2064b4e92d3140f00103f9012590d52203000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Boca de Ambas Ribeiras",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1793473,
+        "lon": -25.1377038
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, 1139-Boca de Ambas Ribeiras, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c130aa5670ed36c059fba765b50a983040f00103f9013906e1b20200000092032b50726f6a6563742042696f6469766572736974793b50726f6a65746f2042696f6469766572736964616465",
+      "name": "Project Biodiversity;Projeto Biodiversidade",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.5939134,
+        "lon": -22.9274954
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Project Biodiversity - Sea Turtles Conservation Hatchery, Avenida dos Hoteis, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185991139d8ac36c059d8e5a5acf0203040f00103f901b34e613d03000000",
+      "name": "spot",
+      "city": "Cabeça de Tarafes",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1286724,
+        "lon": -22.6751743
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "spot, EN3-BV-01, 5129-Cabeça de Tarafes, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518af557d988b936c0595bc1806fe41f3040f00103f901894d613d03000000",
+      "name": "orientierung",
+      "city": "Cabeça de Tarafes",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1245794,
+        "lon": -22.7247444
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "orientierung, EN3-BV-01, 5129-Cabeça de Tarafes, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b423ee8d95438c059eff906cb7d9f3040f00103f9017d969e2001000000",
+      "name": "EN1-SN-01",
+      "city": "Cabeçalinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6230132,
+        "lon": -24.33145
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-SN-01, 3120-Cabeçalinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5148dcb3793cfd38c05908ca2fe0fde23040f00102f90121679f0b00000000920306c38167756961",
+      "name": "Águia",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.88668633620003,
+        "lon": -24.989204031382798
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Águia, Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136edbd535cfc36c0593719558671c53040f00103f9013d6d46a802000000",
+      "name": "Rua Socol",
+      "city": "Palmeira",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7712635,
+        "lon": -22.9857838
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Socol, Palmeira, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b613596b00a39c059e8830ab3751f3140f00103f9011fa5d45301000000920307416e74656e6e61",
+      "name": "Antenna",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1228897,
+        "lon": -25.041757
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Antenna, Aldeinho Kaminhu, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515f0f817e3a1139c05906d671fc501d3140f00103f90139b9e2fc00000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.114517,
+        "lon": -25.0672988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5161a35126da1039c0590eb10b50641b3140f00103f901116d762203000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Agua das Caldeiras",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1069994,
+        "lon": -25.0658287
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Agua das Caldeiras, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51806b8203b51539c0593f79b361a8263140f00103f901675c967b0000000092030844656c676164696d",
+      "name": "Delgadim",
+      "city": "Coculi",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1510068,
+        "lon": -25.0847933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Delgadim, Porto Novo-R.Grande, 1139-Coculi, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c6d9194bfd4c38c0592f7ebf3d749d3040f00102f901d7d7bf1e00000000920311416e7469676f2053656d696ec3a172696f",
+      "name": "Antigo Seminário",
+      "city": "Ribeira Brava",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.615054949999998,
+        "lon": -24.30073995
+      },
+      "categories": [
+        "building",
+        "building.place_of_worship",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights.place_of_worship.church"
+      ],
+      "formatted_address": "Antigo Seminário, Rua de Penede, 3120-Ribeira Brava, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f87a2409ff038c059d8b628b341de3040f00103f901c96e352203000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.86819,
+        "lon": -24.93993
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b49080d1e51539c059b1c1c2499ad33040f00103f901993d192203000000",
+      "name": "Rua de Morgoinho",
+      "city": "Santo André",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.826573,
+        "lon": -25.085538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Morgoinho, 2115-Santo André, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be26b5615e1539c059834d9d47c5d33040f00103f901d5e8182203000000",
+      "name": "Rua de Morgoinho",
+      "city": "Santo André",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.827229,
+        "lon": -25.0834714
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Morgoinho, 2115-Santo André, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103f11538345438c0593c3833558b9d3040f00103f9010d1f8c7b000000009203094d697261646f75726f",
+      "name": "Miradouro",
+      "city": "Cabeçalinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6154073,
+        "lon": -24.3289218
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro, EN1-SN-01, 3120-Cabeçalinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5135d7c45d185a38c0599f77634161a03040f00103f9011d6b229f0100000092032656697374612050616e6f72616d69636120646520436861206465204d6f6e746520476f72646f",
+      "name": "Vista Panoramica de Cha de Monte Gordo",
+      "city": "Cachaço",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.626484,
+        "lon": -24.3519343
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vista Panoramica de Cha de Monte Gordo, EN1-SN-01, 3120-Cachaço, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51051555bfd2dd38c059ea92718c64db3040f00103f9019a3d192203000000",
+      "name": "EN3-SV-05",
+      "city": "Norte da Baia II",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.857003,
+        "lon": -24.866497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SV-05, Norte da Baia II, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118dd30c0f40a39c05948814fbd7f1f3140f00103f9019ab166ac01000000",
+      "name": "Aldeinho Kaminhu",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1230429,
+        "lon": -25.0427971
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Aldeinho Kaminhu, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516d99c239d9fc38c05901892650c4e23040f00103f9011ccb7c7a00000000920307416c6369646573",
+      "name": "Alcides",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.885808,
+        "lon": -24.9876896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Alcides, Rua António A. Gonçalves, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150fbad9d28fd38c059530f875bf4e23040f00103f901329a599d01000000920317436573c3a17269612045766f7261206279205668696c73",
+      "name": "Cesária Evora by Vhils",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8865411,
+        "lon": -24.988901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Cesária Evora by Vhils, Praça Dom Luís, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51153026a2040839c0598e35c8c9691a3140f00103f90102dcaa740000000092030c5069636f206461204372757a",
+      "name": "Pico da Cruz",
+      "city": "Paul",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1031767,
+        "lon": -25.0313207
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Pico da Cruz, 1210 Paul, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e27ddf1811039c0591316cbe31f1e3140f00103f901282b0cf900000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1176741,
+        "lon": -25.0644828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c2f7fe06ed2739c0598de266028f1f3140f00103f9018ed4b8560100000092030743616e68c3a36f",
+      "name": "Canhão",
+      "city": "Manta Velha",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1232759,
+        "lon": -25.1559605
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Canyon, Garça de Cima - Ribeira Grande, Manta Velha, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51702c83c53c2e39c059117e9873df183140f00103f901eee2705201000000",
+      "name": "Maroços",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0971596,
+        "lon": -25.1806148
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maroços, Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8aedb5669e736c05926885f56cd983040f00103f901605f36400100000092030c53c3a36f204564756172646f",
+      "name": "São Eduardo",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.5968832,
+        "lon": -22.9039511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "São Eduardo, Tv. D'Estilador, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518509a359d9ee38c059978c63247be83040f00103f9015c3b14010100000092031453616c616d616e736120676f6c66636f75727365",
+      "name": "Salamansa golfcourse",
+      "city": "Salamansa",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.908129,
+        "lon": -24.933004
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Salamansa golfcourse, EN3-SV-02, Salamansa, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc7fe2b66cf336c059f735374b6ecb3040f00103f90107b9005b0000000092030c46617461204d6f7267616e61",
+      "name": "Fata Morgana",
+      "city": "Espargos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7946517,
+        "lon": -22.9508776
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fata Morgana, Rua Chã Matia, 4110-Espargos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d46b82462dd36c05912729472ad243040f00103f9011edbbb4b000000009203104465736572746f206465205669616e61",
+      "name": "Deserto de Viana",
+      "city": "Rabil",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1432716,
+        "lon": -22.8647788
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Deserto de Viana, EN3-BV05, 0235-Rabil, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a7165b52ffe436c0597d09151c5e983040f00103f90174f029a10200000092030e5368656c6c2043656d6574657279",
+      "name": "Shell Cemetery",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.595186,
+        "lon": -22.8945209
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shell Cemetery, Rua 15 de Agosto, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ae0c5b1e41039c05922fe614b8f2e3140f00103f901190e04230300000092030f5061696e746564205374616972732e",
+      "name": "Painted Stairs.",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.181874,
+        "lon": -25.0659896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Painted Stairs., Rua Ladeira, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511323f02ce6e836c05934ec4152559a3040f00103f90101dc45c102000000920306617669c3a36f",
+      "name": "avião",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6028644,
+        "lon": -22.9097622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "avião, EN1-SL-01, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514225ae635cbf36c0599e899fb5911b3040f00103f901799f924f0000000092030c4f646a6f2064e280994d6172",
+      "name": "Odjo d’Mar",
+      "city": "Boa Vista",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1076921,
+        "lon": -22.7475035
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Odjo d’Mar hiking trail, 5129-Boa Vista, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b432b41902139c0591e7c17a53a2f3140f00103f9018990d52203000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Boca de Coruja",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1844886,
+        "lon": -25.1311074
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, 1139-Boca de Coruja, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514953f30b651139c059bf88111d5d2e3140f00103f901c3b8060d03000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1811083,
+        "lon": -25.0679481
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172a9a514cf3239c0592090f06206ff3040f00103f901fb414c0e0200000092030953656c6164696e6861",
+      "name": "Seladinha",
+      "city": "Baboso",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.9961912,
+        "lon": -25.1984723
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Seladinha, EN3-SA-10, Baboso, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5128f796cd77e736c059797d4166c2983040f00103f901415f36400100000092030746656d616e6a61",
+      "name": "Femanja",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.5967163,
+        "lon": -22.9041718
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Femanja, Tv. D'Estilador, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bfd9418067e836c0599e49f663eec53040f00103f90107fcc27301000000",
+      "name": "Salinas de Pedra de Lume Crater Walk",
+      "city": "Pedra de Lume",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7731688,
+        "lon": -22.9078293
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Salinas de Pedra de Lume Crater Walk, Pedra de Lume, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516711e566131339c05932c7f2ae7a043140f00103f90149d2044e0100000092030e4469766520426c7565204564656e",
+      "name": "Dive Blue Eden",
+      "city": "Porto Novo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.017497,
+        "lon": -25.0745148
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dive Blue Eden, Avenida Amilcar Cabral, 1310-Porto Novo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a39d899fb50f39c0598b8c0e48c21c3140f00103f901c1ee762203000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1123395,
+        "lon": -25.0613651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bebc00fbe8fc38c0594ef27e3738e23040f00103f9019d65e321030000009203084672657371756573",
+      "name": "Fresques",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8836703,
+        "lon": -24.98793
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Fresques, Rua do Coco, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51170d198f52e536c05991d26c1e87c53040f00103f9013576e11801000000",
+      "name": "Salinas de Pedra de Lume Crater Walk",
+      "city": "Pedra de Lume",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.771593,
+        "lon": -22.895791
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Salinas de Pedra de Lume Crater Walk, Pedra de Lume, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517214961b8fe336c059f7a7c74de71f3040f00102f901c1ca380e0000000092031a4172746573616e61746f204f6c6172696120646520526162696c",
+      "name": "Artesanato Olaria de Rabil",
+      "city": "Rabil",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.124623166317146,
+        "lon": -22.888902401104538
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Artesanato Olaria de Rabil, EN3-BV-01, 0235-Rabil, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5125a71bcd36fe38c05988e013460ee43040f00103f901edf9ef2103000000",
+      "name": "Avenida Marginal",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8908428,
+        "lon": -24.9930237
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519025bdb909be36c05952da7635d4033040f00103f9014d4e613d03000000",
+      "name": "fourth stop",
+      "city": "Boa Vista",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.0149568,
+        "lon": -22.7423359
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "fourth stop, Boa Vista, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510e4e44bfb61039c059614326cfab1a3140f00103f901ae70739100000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Agua das Caldeiras",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1041841,
+        "lon": -25.0652885
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Agua das Caldeiras, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebeef08dd75838c0592f21d566529f3040f00103f90124301080010000009203094d697261646f75726f",
+      "name": "Miradouro",
+      "city": "Cachaço",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6223511,
+        "lon": -24.3470391
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro, EN1-SN-01, 3120-Cachaço, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517088a70d3dfe38c05980780206eee33040f00103f901eef9ef2103000000",
+      "name": "Alto São Nicolau",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8903507,
+        "lon": -24.9931191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Alto São Nicolau, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511cbe3be8c85a38c059e099756b3ea13040f00103f9016b4c3fa902000000",
+      "name": "EN1-SN-01",
+      "city": "Cachaço",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6298587,
+        "lon": -24.3546281
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-SN-01, 3120-Cachaço, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510da7cccd37ee38c05969e4f38aa7e03040f00103f9017543192203000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8775565,
+        "lon": -24.930539
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3052d24605c39c059a1624106970d3140f00103f901a5f85f240200000092031b5765737465726e6d6f737420706f696e74206f6620416672696361",
+      "name": "Westernmost point of Africa",
+      "city": "Porto Novo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0530857,
+        "lon": -25.360842
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Westernmost point of Africa, potential connestion path, Porto Novo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a9296e81a91f39c0594e97c5c4e62f3140f00103f9010d94d52203000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Boca de Coruja",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.187115,
+        "lon": -25.1236802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, 1139-Boca de Coruja, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518037932529e536c0591e38c2fddbba3040f00103f901e90080f90000000092030973686970777265636b",
+      "name": "shipwreck",
+      "city": "Sal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7299193,
+        "lon": -22.8951591
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "shipwreck, Ribeira de Tarafe, 4110-Sal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519869fb57562a39c0597b88a13083043140f00103f901c96157080100000092033250726f6a6563746f20646520446573656e766f6c76696d656e746f20436f6d756e69746172696f206465204c616a65646f73",
+      "name": "Projecto de Desenvolvimento Comunitario de Lajedos",
+      "city": "Lagedos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0176268,
+        "lon": -25.16538
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Projecto de Desenvolvimento Comunitario de Lajedos, EN3-SA-09, Lagedos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510cefcdca511d39c059fe6c9a2d0f1e3140f00103f90141b8d0ab01000000",
+      "name": "Chã das Pedras - Coculi",
+      "city": "Ribeirão",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1174191,
+        "lon": -25.1145293
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Chã das Pedras - Coculi, 1139-Ribeirão, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51520dfb3db1ee38c05985ed27637ce03040f00103f9011143192203000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.876898,
+        "lon": -24.932392
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5103efe4d363e736c059e8c479933a983040f00103f901c794fd5a000000009203195375626d657267656420436872697374757320537461747565",
+      "name": "Submerged Christus Statue",
+      "city": "Santa Maria",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.5946438,
+        "lon": -22.903867
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Submerged Christus Statue, Travessa De Filtre, 4111-Santa Maria, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517ffacf9a1fef38c0590f2a711de3de3040f00103f901694c352203000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.870653,
+        "lon": -24.934076
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515e126745d4d436c059e1a991a7f6153040f00103f901874d613d03000000",
+      "name": "second stop",
+      "city": "Boa Vista",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.0857949,
+        "lon": -22.831364
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "second stop, EN3-BV-01, Boa Vista, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513fc91d3691e336c059aaf7af07ee1f3040f00103f901f9a5491901000000",
+      "name": "EN3-BV-01",
+      "city": "Rabil",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1247258,
+        "lon": -22.8889345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-BV-01, 0235-Rabil, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5136dabb500a1039c059eed68dd2002f3140f00103f901273f14ff02000000",
+      "name": "Ribeira Grande - Janela-Paúl",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1836063,
+        "lon": -25.0626574
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Ribeira Grande - Janela-Paúl, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516a4df38e531c39c05980c1c991291c3140f00103f90155a4d0ab01000000",
+      "name": "EN3-SA-08",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1100093,
+        "lon": -25.11065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SA-08, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c540d0c6a3539c059afb893e3a9143140f00103f9012bf06c2d03000000",
+      "name": "EN3-SA-09",
+      "city": "Jorge Luiz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0807173,
+        "lon": -25.2086494
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SA-09, Jorge Luiz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510411f3f6312639c059d390a79b7a213140f00103f901b323d76b00000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Lombo de Santa",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1307771,
+        "lon": -25.1491999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, Lombo de Santa, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ed0e748d31139c0593d85b762da223140f00103f901b50d042303000000",
+      "name": "Ribeira Grande-Xôxô",
+      "city": "Coculi",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1361448,
+        "lon": -25.0696302
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ribeira Grande-Xôxô, 1139-Coculi, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea1ca8f8641039c059db98e83ddf2e3140f00103f9011fc2774001000000",
+      "name": "Janela-Paúl",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1830939,
+        "lon": -25.0640407
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Janela-Paúl, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185324399fc1939c059010ddbbbab313140f00103f901a1a65c2203000000",
+      "name": "Rua de Papasa",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1940267,
+        "lon": -25.1015106
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Papasa, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51740987dee2fd38c059e839d8518be33040f00103f9016da9887a0000000092031f4761676f20436f7574696e686f20652053616361647572612043616272616c",
+      "name": "Gago Coutinho e Sacadura Cabral",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8888446,
+        "lon": -24.991743
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Gago Coutinho e Sacadura Cabral, Avenida Marginal, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb48fce5ee5c38c05953fbbec980a93040f00103f90155a319e70200000092030e526f636861205363726962696461",
+      "name": "Rocha Scribida",
+      "city": "Ribeira da Prata",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6621214,
+        "lon": -24.3630203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rocha Scribida, EN3-SN-01, Ribeira da Prata, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510f4240be84da36c059b1db679599263040f00103f901f580bf0e03000000",
+      "name": "EN3-BV05",
+      "city": "Rabil",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.150781,
+        "lon": -22.853588
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-BV05, 0235-Rabil, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510173e3cc65fb38c059639236fa3de43040f00103f9016f7bd5fd02000000",
+      "name": "Rua Officinas Navais (Rua Cidade Invicta)",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8915707,
+        "lon": -24.9820221
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Rua Officinas Navais (Rua Cidade Invicta), 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eaffc12c59b436c05950244edd4b2c3040f00103f9014150613d03000000",
+      "name": "spot",
+      "city": "Norte (Fundo das Figueiras)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1730326,
+        "lon": -22.7044857
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "spot, EN3-BV-01, 5129-Norte (Fundo das Figueiras), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ada7b118d02e39c059aa4313cda8183140f00103f901efe2705201000000",
+      "name": "Maroços",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0963257,
+        "lon": -25.1828628
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maroços, Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513387a4164a2039c0598978ebfcdb2f3140f00103f9015191d52203000000",
+      "name": "Garça de Cima - Ribeira Grande",
+      "city": "Boca de Coruja",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1869505,
+        "lon": -25.1261305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Garça de Cima - Ribeira Grande, 1139-Boca de Coruja, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b16a10e676f136c0593a05f9d9c8c13040f00103f901a176fc130000000092030c4d6f6e74652043757272616c",
+      "name": "Monte Curral",
+      "city": "Espargos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.756971,
+        "lon": -22.9432205
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Curral, 4110 Espargos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a380a3d3a92939c0591605b0b783033140f00103f9014708f7ff02000000",
+      "name": "EN3-SA-09",
+      "city": "Ponta Sul",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0137286,
+        "lon": -25.1627476
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-SA-09, Ponta Sul, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127214729d71039c059b0d3febdca2e3140f00103f901fd706a170300000092031a416e74c3b36e696f2064612053696c766120204d6172c3a7616c",
+      "name": "António da Silva  Marçal",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1827811,
+        "lon": -25.0657831
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "António da Silva  Marçal, Tv. do Rosariense, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f70c3c52d8fe38c05999c57a59c91f3140f00103f901f9a4d1e501000000",
+      "name": "Janela-Paúl - Porto Novo",
+      "city": "Janela",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1241661,
+        "lon": -24.9954883
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Janela-Paúl - Porto Novo, 7630-Janela, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5115fda19927ef38c0599a492fc5b0de3040f00103f901434ab7cb00000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8698848,
+        "lon": -24.934198
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51daa040e9551039c059f49084d8f41d3140f00103f9013fb8d0ab01000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1170173,
+        "lon": -25.0638109
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51868db27e332b39c0598fa3def87f2a3140f00103f901bdc8434002000000",
+      "name": "Palmeira Da Cruz Ecolodge",
+      "city": "Cruzinha",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1660152,
+        "lon": -25.1687545
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Palmeira Da Cruz Ecolodge, EN3-SA-06, Cruzinha, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51779d0df9671c39c05945b2913534313140f00103f9012db0d52203000000",
+      "name": "Rua de Papasa",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1922029,
+        "lon": -25.1109615
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Papasa, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51978b9d95591939c05909d11044cc313140f00103f901ed55794001000000",
+      "name": "Rua de Papasa",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1945231,
+        "lon": -25.0990232
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Papasa, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a5bf97c283e436c05909e5d8d53fbd3040f00103f901ad456e3a010000009203124261696120646f73207475626172c3b56573",
+      "name": "Baia dos tubarões",
+      "city": "Pedra de Lume",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.7392553,
+        "lon": -22.8926355
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shark bay, EN3-SL-02, 4110-Pedra de Lume, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce97cdd2040839c0594e1e60f7671a3140f00103f901ade7f42803000000",
+      "name": "Aldeinho Kaminhu",
+      "city": "Lombinho",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1031489,
+        "lon": -25.0313236
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Aldeinho Kaminhu, 1210-Lombinho, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515826b2c5241a39c0591a4927b792303140f00103f9016bf6a1f10200000092031c4d697261646f75726f207061726120617320466f6e7461696e686173",
+      "name": "Miradouro para as Fontainhas",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1897387,
+        "lon": -25.1021236
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro para as Fontainhas, Rua Titanic, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a39d899fb50f39c0598b8c0e48c21c3140f00103f901756d762203000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1123395,
+        "lon": -25.0613651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5172edfabb2dab36c0592b1895d409163040f00103f901b14e613d03000000",
+      "name": "insel",
+      "city": "Cabeça de Tarafes",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.0860875,
+        "lon": -22.6686666
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "insel, EM-BV-04, Cabeça de Tarafes, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517bb9f4d48f1439c0590695021c8c203140f00103f901774f10800100000092032d42656c76c3a964c3a8726520617665632076756520737572206c652076696c6c61676520646520436f7264612e",
+      "name": "Belvédère avec vue sur le village de Corda.",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1271379,
+        "lon": -25.0803197
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Belvédère avec vue sur le village de Corda., Porto Novo-R.Grande, 1210-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117fabbd28d1b39c059973d642541313140f00103f901c53660c702000000",
+      "name": "Rua de Papasa",
+      "city": "Ponta do Sol",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1924003,
+        "lon": -25.1076328
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Papasa, 1120-Ponta do Sol, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a7269fcc2fb38c0592e8cf4a276e33040f00103f901bf144d4001000000",
+      "name": "Rua Guiné-Bissau",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.888529,
+        "lon": -24.983444
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Guiné-Bissau, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce548847e21539c0597ac7293a92d33040f00103f901fd3d192203000000",
+      "name": "Rua de Morgoinho",
+      "city": "Santo André",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.82645,
+        "lon": -25.085484
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua de Morgoinho, 2115-Santo André, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e94a5f63f22939c059af8273a14d173140f00103f9019d223d6c01000000",
+      "name": "Maroços",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0910283,
+        "lon": -25.1638548
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maroços, Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fb969416891439c0596898350c7a203140f00103f9014df0f0f7020000009203194368c3a3206465204d61746f20286d697261646f75726f2029",
+      "name": "Chã de Mato (miradouro )",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1268623,
+        "lon": -25.0802168
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Chã de Mato (miradouro ), Porto Novo-R.Grande, 1210-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51979efa511edd38c05917bc43e5bada3040f00103f901d93d974001000000",
+      "name": "EN2-SV-02",
+      "city": "Calhau",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8544143,
+        "lon": -24.8637439
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-02, Calhau, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511895d409680639c059d9710d7dc1e03040f00103f90105385c0d0300000092031343616e68c3a36f2022313220566f6c74617322",
+      "name": "Canhão \"12 Voltas\"",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8779524,
+        "lon": -25.025025
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Canhão \"12 Voltas\", Estrada de Lazareto, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5101023164d01039c059ffa0e4c40d1e3140f00103f901d9240bf900000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Espongeiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1173976,
+        "lon": -25.0656798
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1310-Espongeiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100c80913461139c059f15a536a402e3140f00103f9010b92060d03000000",
+      "name": "Porto Novo-R.Grande",
+      "city": "Ribeira Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.1806704,
+        "lon": -25.0674755
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Porto Novo-R.Grande, 1110-Ribeira Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5123765c435f4c38c0599d7bb4dda99d3040f00103f9016742107c0100000092031544722e204ac3ba6c696f204a6f73c3a92044696173",
+      "name": "Dr. Júlio José Dias",
+      "city": "Ribeira Brava",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.6158732,
+        "lon": -24.2983286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Dr. Júlio José Dias, Rua Baltazar Lopes, 3120-Ribeira Brava, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c1a3326a63dd36c0591c3cb8e0b1243040f00103f901e94d613d03000000",
+      "name": "first stop",
+      "city": "Rabil",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.1433392,
+        "lon": -22.8647982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "first stop, EN3-BV05, 0235-Rabil, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510092448a5c3b39c059ee7c3f355e0a3140f00103f90169d344aa010000009203154a6f6e204c2742696e6f2028426f72646569726129",
+      "name": "Jon L'Bino (Bordeira)",
+      "city": "Curral das Vacas",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 17.0405,
+        "lon": -25.2318808
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jon L'Bino (Bordeira), EN3-SA-09, Curral das Vacas, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e7fb3deb9fb38c0594636a15a8edf3040f00103f901b9be7e7a0000000092031f466f726d657220466c6967687420446566656e736520417274696c6c657279",
+      "name": "Former Flight Defense Artillery",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8732659,
+        "lon": -24.9833049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Former Flight Defense Artillery, Rua le Bateaux, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d38d0b62fbee38c0599553f135badf3040f00103f9010f301c9600000000",
+      "name": "EN2-SV-01",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8739351,
+        "lon": -24.9335233
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN2-SV-01, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b9235289a1fb38c059ac2aea82b0e33040f00103f90109164d4001000000",
+      "name": "Estrada da Cruz",
+      "city": "Mindelo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 16.8894121,
+        "lon": -24.9829336
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Estrada da Cruz, 2110-Mindelo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51714ea4f6f09a37c059b891438a06d52d40f00102f901b646654a0000000092031a554e4553434f2050617472696dc3b36e696f204d756e6469616c",
+      "name": "UNESCO Património Mundial",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.916065521953769,
+        "lon": -23.605239310373182
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "UNESCO Património Mundial, Rua da Banana, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512488a9e3e78137c0595bf4a9be4ed52d40f00103f90126bdb136000000009203154d697261646f75726f20646f204372757a6569726f",
+      "name": "Miradouro do Cruzeiro",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9166164,
+        "lon": -23.5074446
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro do Cruzeiro, Rua Neves Ferreira, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e92cb308c55a38c059b51666a19de32d40f00103f90142e93d2c03000000",
+      "name": "gravelsliding",
+      "city": "Santa Catarina do Fogo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.944562,
+        "lon": -24.354569
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "gravelsliding, Santa Catarina do Fogo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5167f6d445657e38c059bf9767caf3e52d40f00103f901fea0cb5e0200000092030c416368616461204d616c7661",
+      "name": "Achada Malva",
+      "city": "Santo António",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9491256,
+        "lon": -24.4937328
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Achada Malva, EN1-FG-01, 8220-Santo António, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c06f75ed78237c05948eefa16e7d52d40f00103f9019e7d340f0000000092030e416d696c6361722043616272616c",
+      "name": "Amilcar Cabral",
+      "city": "Tahiti Chã d’Areia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9177787,
+        "lon": -23.5110988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Amilcar Cabral, Avenida Machado Santos, 7600-Tahiti Chã d’Areia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c855760b6e7f38c0596ccf2c0950cb2d40f00103f9013640de7400000000920315427573746f204a6fc3a36f2046696775657265646f",
+      "name": "Busto João Figueredo",
+      "city": "São Filipe",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.897095,
+        "lon": -24.4977729
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Busto João Figueredo, Rua do Pensão Las Vegas, 8220-São Filipe, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5176148cef309037c059663b95c272ea2d40f00103f901f45bffc600000000920335436170656c612046756e6572617269612064652046726179204672616e636973636f2064652053616e746f2041676f7374696e686f",
+      "name": "Capela Funeraria de Fray Francisco de Santo Agostinho",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9579068,
+        "lon": -23.5632467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Capela Funeraria de Fray Francisco de Santo Agostinho, EN3-ST-03, 7629-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514128efe368b237c059d498107349692e40f00103f9016cb0952503000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Mato Galo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2056385,
+        "lon": -23.696913
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, Mato Galo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5ce6ff3219b37c059799c58969e132e40f00103f901867a472503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0383193,
+        "lon": -23.6059868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513457bc47ecb337c05957050f78056f2e40f00103f901f4d1fdc900000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2168386,
+        "lon": -23.7028241
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514fc12b932bb238c05976d8e9acbbbe2d40f00103f901a66080730100000092031b4d697261646f75726f20646520437574656c6f204d656e74697261",
+      "name": "Miradouro de Cutelo Mentira",
+      "city": "Nova Sintra",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8725256,
+        "lon": -24.6959774
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Praça Eugénio Tavares, 9110-Nova Sintra, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51715af0a2af9c37c059a032fe7dc6152e40f00103f901e97a472503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.04253,
+        "lon": -23.612055
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518225b26a6bad37c059f52a323a20392e40f00103f90177d6462503000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Assomada (Santa Catarina)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.111574,
+        "lon": -23.6774203
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, 7310-Assomada (Santa Catarina), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e90df7915b6f38c0591bf16437330a2e40f00103f901137a3c2c0300000092031150697363696e65206e61747572656c6c65",
+      "name": "Piscine naturelle",
+      "city": "São Jorge",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.019922,
+        "lon": -24.434991
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piscine naturelle, EN1-FG-01, São Jorge, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b01e77bfcb638c059109b238678bb2d40f00103f90111051080010000009203144d697261646f75726f204d69726142656c657a61",
+      "name": "Miradouro MiraBeleza",
+      "city": "Cova Rodela",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8661539,
+        "lon": -24.7147901
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro MiraBeleza, Nova Sintra -Nossa Senhora do Monte - Cachaço, 9110-Cova Rodela, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51991fc9f66b5a38c05917fd570c0dfe2d40f00103f901d9b8197a00000000",
+      "name": "ER-FG-01",
+      "city": "Mosteiros",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9961933,
+        "lon": -24.3532099
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ER-FG-01, 8110-Mosteiros, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5177baf3c473be37c0595ac05f2750872e40f00103f9016eb095250300000092030b44696e696e672068616c6c",
+      "name": "Dining hall",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2642834,
+        "lon": -23.743954
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dining hall, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104029d499bbe37c059f1af2f2306872e40f00103f901b4af9525030000009203074b69746368656e",
+      "name": "Kitchen",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2637187,
+        "lon": -23.744557
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kitchen, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a09adc39de7c37c05932c687d9cbe22d40f00103f9015744e62b03000000",
+      "name": "Avenida Aristides Pereira",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9429615,
+        "lon": -23.4877659
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Avenida Aristides Pereira, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5180a54e9bcc9d37c059c8de41a2bf122e40f00103f901715d962503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0366183,
+        "lon": -23.6164033
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518811c2a38d5738c0593e23111ac1e62d40f00103f901dee83d2c03000000",
+      "name": "gravelsliding",
+      "city": "Santa Catarina do Fogo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.950692,
+        "lon": -24.342005
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "gravelsliding, Santa Catarina do Fogo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be310400c77038c05940571124a5b72d40f00103f901e166df1c03000000",
+      "name": "EM-SF-06",
+      "city": "Patim",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8586818,
+        "lon": -24.4405365
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EM-SF-06, Patim, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ee27e76767038c05926c808a870f82d40f00103f9016b077745020000009203104d6f6e746520466f6e7461696e686173",
+      "name": "Monte Fontainhas",
+      "city": "Ribeira Filipe",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9852345,
+        "lon": -24.4393076
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Monte Fontainhas, EN3-FG-01, Ribeira Filipe, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf1bc17c686f38c0598ced5ae784092e40f00103f901f572e72903000000",
+      "name": "EN1-FG-01",
+      "city": "São Jorge",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0185921,
+        "lon": -24.4351881
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-FG-01, São Jorge, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e5a61fa5e9f37c059c6dd205a2b222e40f00103f901ea35462503000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Picos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.066737,
+        "lon": -23.622543
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, 7329-Picos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51242a5437174b38c0592635b401d8d02d40f00103f9015de83b2c03000000",
+      "name": "EN1-FG-01",
+      "city": "Cova Figueira",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.907898,
+        "lon": -24.293323
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-FG-01, 8235-Cova Figueira, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114e97e4e419e37c05970229ffc82722e40f00103f90170a872950000000092031043656e74726f20526162656c61646f73",
+      "name": "Centro Rabelados",
+      "city": "Achada Monte",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2236556,
+        "lon": -23.618184
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centro Rabelados, Tarrafal-Calheta-Praia, 7215-Achada Monte, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f2a1323f03637c059be6d01fcae472e40f00103f90156f7e64d0100000092032443656e74726f20646f204d657267756c686f20414141204d61696f20506c6f6e67c3a965",
+      "name": "Centro do Mergulho AAA Maio Plongée",
+      "city": "Porto Inglês",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1400069,
+        "lon": -23.2146017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Diving Center AAA Maio Plongée, Avenida Amílcar Cabral, Porto Inglês, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d3461a811d8237c05939db920b84d72d40f00103f9010a7c7d230300000092030f5061696e746564205374616972732e",
+      "name": "Painted Stairs.",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9209293,
+        "lon": -23.5082627
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Painted Stairs., Rua António Pussich, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516445685fd4a137c0594f7d7b325a162e40f00103f901f044bea501000000",
+      "name": "Huwans trajeto",
+      "city": "Ribeira Grande de Santiago",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0436569,
+        "lon": -23.6321468
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Huwans trajeto, 7329-Ribeira Grande de Santiago, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51435fd5b4e69a37c05983f5245580d42d40f00103f901f7cc37360000000092031a50656c6f7572696e686f206461204369646164652056656c6861",
+      "name": "Pelourinho da Cidade Velha",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9150416,
+        "lon": -23.6050828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.pillory"
+      ],
+      "formatted_address": "Pelourinho da Cidade Velha, Largo do Pelourinho, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189f43691f4ac37c059e18332e8df592e40f00103f901925cf0ac01000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Serra Malagueta",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1755364,
+        "lon": -23.6756068
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, Serra Malagueta, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5109ee51c94ab338c0591bc3f759c0bb2d40f00103f901ea44e9a0010000009203184d697261646f75726f206465204d61746f204772616e6465",
+      "name": "Miradouro de Mato Grande",
+      "city": "Cova Rodela",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8667019,
+        "lon": -24.7003599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro de Mato Grande, EM-BR-07, 9110-Cova Rodela, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a2009fb76be37c0591a3966344d872e40f00103f9016db09525030000009203074b69746368656e",
+      "name": "Kitchen",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2642609,
+        "lon": -23.744003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kitchen, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51213a048e047637c05944a7e7dd58f02d40f00103f9015d47282c03000000",
+      "name": "EN3-ST-01",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.969428,
+        "lon": -23.461007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-01, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d2059654b5338c05904650921d6112e40f00103f901117a3c2c03000000",
+      "name": "EN1-FG-01",
+      "city": "Mosteiros",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0348368,
+        "lon": -24.3253692
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-FG-01, 8110-Mosteiros, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f54596f2f4c38c0593db25eb12be22d40f00103f901c1e83b2c03000000",
+      "name": "EN1-FG-01",
+      "city": "Cutelo Capado",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9417396,
+        "lon": -24.2975988
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-FG-01, Cutelo Capado, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5156c9117c1d9c37c0591bc28c84111a2e40f00103f9016189957b00000000",
+      "name": "7425 São Jorge dos Órgãos",
+      "city": "São Jorge dos Órgãos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0509149,
+        "lon": -23.6098249
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "7425 São Jorge dos Órgãos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ece739f778237c0597bf25597f8d42d40f00103f90107a1086500000000920313457374617475612044696f676f20476f6d6573",
+      "name": "Estatua Diogo Gomes",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9159591,
+        "lon": -23.5096378
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial"
+      ],
+      "formatted_address": "Estatua Diogo Gomes, Avenida Amilcar Cabral, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512b5c4535db9b37c0590e68e90ab6112e40f00103f9011af7952503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.034592,
+        "lon": -23.6088136
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e7b3f281d39f37c059bf6cf1df72132e40f00103f9012843bea501000000",
+      "name": "EN3-ST-07",
+      "city": "Achada Louro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0379858,
+        "lon": -23.6243211
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Achada Louro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512fe065868dbe37c0590ead044136872e40f00103f90170b09525030000009203124469736369706c696e6172792063656c6c73",
+      "name": "Disciplinary cells",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2640858,
+        "lon": -23.744347
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Disciplinary cells, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51be254a8cafad37c059748a9f104b582e40f00103f901a63ae62c0300000092030956696577706f696e74",
+      "name": "Viewpoint",
+      "city": "Serra Malagueta",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1724477,
+        "lon": -23.6784599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint, Tarrafal-Assomada-Praia, Serra Malagueta, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511bd9959691be37c059d42afa4333872e40f00103f90184ae9525030000009203074c61756e647279",
+      "name": "Laundry",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.264063,
+        "lon": -23.744409
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Laundry, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513cc32f50adaf38c059ae81ad122cba2d40f00103f901064f9e9a000000009203154d697261646f75726f204d61746f204772616e6465",
+      "name": "Miradouro Mato Grande",
+      "city": "Mato Grande",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8636175,
+        "lon": -24.6862383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro Mato Grande, EM-BR-07, 9110-Mato Grande, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5175e95f92ca9a37c059708802c7af112e40f00103f9019ff9653002000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0345442,
+        "lon": -23.6046535
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51589643e625a037c0593dae57a2fd252e40f00103f9019996071c030000009203174d697261646f75726f20646520416c746120426f737361",
+      "name": "Miradouro de Alta Bossa",
+      "city": "Picos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0742007,
+        "lon": -23.6255783
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro de Alta Bossa, Tarrafal-Assomada-Praia, 7329-Picos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ab09ea40a3637c05993acc3d155462e40f00103f9019525363c0100000092031243617361204c2e20412e20436172646f736f",
+      "name": "Casa L. A. Cardoso",
+      "city": "Porto Inglês",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1373735,
+        "lon": -23.2110999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Casa L. A. Cardoso, Rua 3 de Maio ( Calhetinha), Porto Inglês, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51616c21c841b938c0593c29386167b72d40f00103f901d17e07a1010000009203164d697261646f75726f204d69726147726163696f7361",
+      "name": "Miradouro MiraGraciosa",
+      "city": "Nossa Senhora do Monte",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8582106,
+        "lon": -24.72366
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro MiraGraciosa, Nova Sintra -Nossa Senhora do Monte - Cachaço, 9110-Nossa Senhora do Monte, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5162d7f6764bbe37c059a438471d1d872e40f00103f90183ae9525030000009203084c617472696e6573",
+      "name": "Latrines",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.263894,
+        "lon": -23.743339
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Latrines, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b9c49107225338c059703e75ac520a2e40f00103f90125e93b2c03000000920334506c616e746174696f6e20646520636166c3a9206574206465207065746974732070696d656e7473207472c3a87320666f727473",
+      "name": "Plantation de café et de petits piments très forts",
+      "city": "Pai António",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.020162,
+        "lon": -24.324738
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Plantation de café et de petits piments très forts, EN3-FG-09, 8110-Pai António, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515be03ce64d6f38c059307ebf3d740a2e40f00103f901757a3c2c030000009203054172636865",
+      "name": "Arche",
+      "city": "São Jorge",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0204181,
+        "lon": -24.4347824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Arche, EN1-FG-01, São Jorge, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f58f74bcb85938c059671591bccefd2d40f00103f901c1ac663002000000",
+      "name": "ER-FG-01",
+      "city": "Mosteiros",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9957179,
+        "lon": -24.3504751
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ER-FG-01, 8110-Mosteiros, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5190c4268d2c9037c0595fd8f5662fea2d40f00103f901bdb567c500000000920312436170656c61206465205472696e64616465",
+      "name": "Capela de Trindade",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9573929,
+        "lon": -23.5631798
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.memorial",
+        "tourism.sights.memorial.monument"
+      ],
+      "formatted_address": "Capela de Trindade, EN3-ST-03, 7629-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5165e99ed0469937c0596568e15751dc2d40f00103f901c952d98a02000000",
+      "name": "Baobab tree",
+      "city": "Salineiro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9303081,
+        "lon": -23.5987368
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab tree, EN3-ST-06, 7629-Salineiro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c322d0aae08137c0592e292d12c9d62d40f00103f90113f802840200000092031344722e20416e74c3b36e696f204c6572656e6f",
+      "name": "Dr. António Lereno",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9195028,
+        "lon": -23.5073344
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Dr. António Lereno, Rua Serpa Pinto, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d88b570f4e8237c0597036678ef6d52d40f00103f9010f3d523d01000000920315416c6578616e64726520416c627571756572717565",
+      "name": "Alexandre Albuquerque",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9178967,
+        "lon": -23.5090036
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Alexandre Albuquerque, Rua Patrice Lumumba, 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168b3ea73b59937c0596f9f55664a132e40f00103f901fd3a462503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.037677,
+        "lon": -23.600425
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d1f0c1c6505338c059ea6fae06cd0b2e40f00103f901f79b967b00000000",
+      "name": "EN3-FG-09",
+      "city": "Pai António",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0230486,
+        "lon": -24.3254513
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-FG-09, 8110-Pai António, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea4207b87b6238c0590548d9c7afe02d40f00103f9019de16b2c03000000",
+      "name": "Estrada para Bangaeira",
+      "city": "Chã das Caldeiras",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9388411,
+        "lon": -24.3847003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Estrada para Bangaeira, Chã das Caldeiras, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e71e6d776a9f37c059c8cf46ae9b122e40f00103f901395e962503000000",
+      "name": "EN3-ST-07",
+      "city": "Achada Louro",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.036344,
+        "lon": -23.6227183
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Achada Louro, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519bccd3145cc537c059d784590d2e962e40f00103f9016d42d42403000000",
+      "name": "Rua Centro",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2933201,
+        "lon": -23.7709363
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Centro, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51527644cf77a737c059357ee195242f2e40f00103f9019f71473600000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "Assomada (Santa Catarina)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.092076,
+        "lon": -23.6541719
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, 7310-Assomada (Santa Catarina), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fed5e3bed59a37c0595ee9c605b1112e40f00103f90185ae95250300000092030e5275692056617a204c6574726173",
+      "name": "Rui Vaz Letras",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0345537,
+        "lon": -23.604824
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rui Vaz Letras, EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516664350296c137c059ee0ad869ff8e2e40f00103f90195de6f300200000092030f546172726166616c204c6574726173",
+      "name": "Tarrafal Letras",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2792924,
+        "lon": -23.7561952
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tarrafal Letras, Rua Macaco, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e69b3a0e6b038c059dda45824dcbe2d40f00103f9019991cb91000000009203154d697261646f75726f2053616e7461204d61726961",
+      "name": "Miradouro Santa Maria",
+      "city": "Nova Sintra",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8727733,
+        "lon": -24.6910191
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro Santa Maria, Furna-Nova Sintra, 9110-Nova Sintra, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5117cca9ae8da237c0598a1af1097e182e40f00103f901ee395a7f00000000",
+      "name": "Huwans trajeto",
+      "city": "Ribeira Grande de Santiago",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0478366,
+        "lon": -23.6349744
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Huwans trajeto, 7329-Ribeira Grande de Santiago, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5168b3ea73b59937c0596f9f55664a132e40f00103f901edf4462503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.037677,
+        "lon": -23.600425
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511079cbd58f8737c0599175dd00d8452e40f00103f901cd68c8c2010000009203076dc3ba7369636f",
+      "name": "músico",
+      "city": "Pedra Badejo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1364136,
+        "lon": -23.5295385
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "músico, Largo Catchás, 7410-Pedra Badejo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a637aa7a9b9a37c05980ba2c2dc4d32d40f00102f901b746654a0000000092031a554e4553434f2050617472696dc3b36e696f204d756e6469616c",
+      "name": "UNESCO Património Mundial",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.913606082639717,
+        "lon": -23.60393492370317
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "UNESCO Património Mundial, EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164f899c46ac537c059b623e6a3d6952e40f00103f901ab985124010000009203144661726f6c20646120506f6e7461205072657461",
+      "name": "Farol da Ponta Preta",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2926532,
+        "lon": -23.7711604
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Farol da Ponta Preta, Rua Centro, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5150c422861d9a37c0594f594dd713d52d40f00103f90121dfce24030000009203074369737465726e",
+      "name": "Cistern",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.916167,
+        "lon": -23.602013
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cistern, EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51094db791578237c059c808a87004cd2d40f00103f9017944e62b03000000",
+      "name": "Avenida Rotary International",
+      "city": "Prainha",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9004245,
+        "lon": -23.5091487
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Avenida Rotary International, 7602-Prainha, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a09cb2e43b9c37c059af48a70936112e40f00103f9017df7952503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0336154,
+        "lon": -23.6102889
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518cc45feeee5638c05979a3a025d9d42d40f00103f901f73c343600000000",
+      "name": "EN3-FG-05",
+      "city": "Santa Catarina do Fogo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9157192,
+        "lon": -24.3395833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-FG-05, 8235-Santa Catarina do Fogo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0b56ede935a38c05946d09849d4e32d40f00103f901a5d93d2c03000000",
+      "name": "gravelsliding",
+      "city": "Santa Catarina do Fogo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.944979,
+        "lon": -24.3538188
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "gravelsliding, Santa Catarina do Fogo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a9baa7b64ab37c059db334b02d4442e40f00103f901993a462503000000",
+      "name": "Assomada-Calheta",
+      "city": "Lem Martim",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.13443,
+        "lon": -23.669502
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Assomada-Calheta, 7310-Lem Martim, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517cc0971d3daf37c059c5909c4cdce62d40f00103f901a12d6b740100000092030e506f72746f204d6f73717569746f",
+      "name": "Porto Mosquito",
+      "city": "Porto Mosquito",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9508995,
+        "lon": -23.6845263
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Porto Mosquito, EN3-ST-05, Porto Mosquito, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51280582a55f8937c0595e5a1eb5d33c2e40f00103f901d7797d1301000000",
+      "name": "ER-SR-09",
+      "city": "Pedra Badejo",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1188027,
+        "lon": -23.5366157
+      },
+      "categories": [
+        "natural",
+        "natural.mountain",
+        "natural.mountain.peak",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "ER-SR-09, 7410-Pedra Badejo, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5124366964a1c137c059f9c500e4df922e40f00103f901e93ed42403000000",
+      "name": "Rua Centro",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2868644,
+        "lon": -23.7563689
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Centro, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5146393d940db238c059d8b221a413be2d40f00103f9014397927b01000000920319457567c3a96e696f206465205061756c612054617661726573",
+      "name": "Eugénio de Paula Tavares",
+      "city": "Nova Sintra",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8712436,
+        "lon": -24.6955197
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Eugénio de Paula Tavares, Praça Eugénio Tavares, 9110-Nova Sintra, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c5a39e4f2e7537c0590a383a9d1af22d40f00103f901636a46280100000092030d506f6e74612053616d62616c61",
+      "name": "Ponta Sambala",
+      "city": "Vale da Custa",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9728593,
+        "lon": -23.4577379
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ponta Sambala, EN3-ST-01, Vale da Custa, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dba8a9c0249637c05915b5ea29280f2e40f00103f901857a472503000000",
+      "name": "Tarrafal-Assomada-Praia",
+      "city": "São Domingos",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0296033,
+        "lon": -23.5864983
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tarrafal-Assomada-Praia, 7515-São Domingos, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195b5f23746b338c05921b88086edbd2d40f00103f9015368583f01000000",
+      "name": "Nova Sintra -Nossa Senhora do Monte - Cachaço",
+      "city": "Cova Rodela",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8709528,
+        "lon": -24.7002902
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nova Sintra -Nossa Senhora do Monte - Cachaço, 9110-Cova Rodela, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5151c76d24139a37c059fe1df3960fd52d40f00102f90107239b040000000092031d5265616c20466f7274616c657a612064652053c3a36f2046696c697065",
+      "name": "Real Fortaleza de São Filipe",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.916134564568889,
+        "lon": -23.601854588319217
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.castle"
+      ],
+      "formatted_address": "Real Fortaleza de São Filipe, EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51840772f5089a37c059f522241cc4d42d40f00103f901e9cb373600000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9155587,
+        "lon": -23.6016992
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf58294eff9937c059937eb1ad55d52d40f00103f901e9dfce2403000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9166693,
+        "lon": -23.6015519
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d128e0f698037c0593f9358ada7d52d40f00103f9012d89b2300200000092030f416dc3ad6c6361722043616272616c",
+      "name": "Amílcar Cabral",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9172949,
+        "lon": -23.5016031
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Amílcar Cabral, Avenida da Macaronesia (Rua da Achada Grande), 7600-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ab24b20fb28237c0594eb0a481c4d72d40f00103f9014de0ce240300000092030d53756e646179204d61726b6574",
+      "name": "Sunday Market",
+      "city": "Tahiti Chã d’Areia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9214211,
+        "lon": -23.5105295
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sunday Market, Avenida Cidade de Lisboa, 7600-Tahiti Chã d’Areia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d9d946f24bc137c0597602f5c18d6f2e40f00103f901f97f49600200000092031750697363696e61204e61747572616c2064652043756261",
+      "name": "Piscina Natural de Cuba",
+      "city": "Cutelo Branco",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2178784,
+        "lon": -23.7550651
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piscina Natural de Cuba, EN3-ST-26, Cutelo Branco, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d704076ae7c237c059f6e571bd12952e40f00103f9010942d42403000000",
+      "name": "Rua Centro",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2911586,
+        "lon": -23.7613436
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rua Centro, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d42f3dc6338f37c0593643b6f4dae82d40f00102f9015b2457130000000092030e416e746967612050726973c3a36f",
+      "name": "Antiga Prisão",
+      "city": "Praia",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.954795500992628,
+        "lon": -23.55938376420802
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Old Jail, EN3-ST-03, 7629-Praia, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5131c390e6d99a37c0596132fa76b7d32d40f00103f901bddece2403000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9135091,
+        "lon": -23.6048874
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee601ff8739b37c059741882d206122e40f00103f90119f7952503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0352083,
+        "lon": -23.6072383
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3f05476b03437c059deea94a2f0402e40f00103f9017182909d010000009203214d697261646f75726f20646520507261696120646520506f6e7461205072657461",
+      "name": "Miradouro de Praia de Ponta Preta",
+      "city": "Porto Inglês",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.1268359,
+        "lon": -23.2058176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Miradouro de Praia de Ponta Preta, Rua Ponta Preta, Porto Inglês, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a4ec4c0d1b8038c059090745d618cb2d40f00102f9018b36940b000000009203164d697261646f7572612064612042696c61204261786f",
+      "name": "Miradoura da Bila Baxo",
+      "city": "São Filipe",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.896673866201597,
+        "lon": -24.500412780075422
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bila Baxo Viewpoint, Rua Achada Pato, 8220-São Filipe, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fcebcb88c19a37c0597a22e3ace3d32d40f00103f9014557c02303000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9138464,
+        "lon": -23.6045156
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187dc0c37e09b37c0590c9f63f668142e40f00103f901b17b472503000000",
+      "name": "EN3-ST-07",
+      "city": "Rui Vaz",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.0398633,
+        "lon": -23.60889
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-07, 7425-Rui Vaz, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517b1ffde549be37c059ad2e4c4b51872e40f00103f901d1d09525030000009203074c61756e647279",
+      "name": "Laundry",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2642921,
+        "lon": -23.7433151
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Laundry, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510217bf84657f38c0597bc6191e56cb2d40f00103f901212e31c4020000009203094167756164696e6861",
+      "name": "Aguadinha",
+      "city": "São Filipe",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.8971414,
+        "lon": -24.4976428
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights"
+      ],
+      "formatted_address": "Aguadinha, EN1-FG-01, 8220-São Filipe, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514ed60341db7338c059f8718f00c9f32d40f00103f9017748513600000000",
+      "name": "EN1-FG-01",
+      "city": "Ponta Verde",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9761429,
+        "lon": -24.4525643
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN1-FG-01, Ponta Verde, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8d52368279a37c059026ecca1fbd42d40f00103f90185dfce2403000000",
+      "name": "EN3-ST-05",
+      "city": "Ribeira Grande de Santiago (Cidade Velha)",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.9159823,
+        "lon": -23.6021638
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "EN3-ST-05, 7629-Ribeira Grande de Santiago (Cidade Velha), Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51309ba50980be37c05915c4e51d4c872e40f00103f9016fb0952503000000920309496e6669726d617279",
+      "name": "Infirmary",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2642526,
+        "lon": -23.7441412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Infirmary, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f446f7bd97be37c0596b37b00bf5862e40f00103f901b5af95250300000092030f486f6c616e64696e68612063656c6c",
+      "name": "Holandinha cell",
+      "city": "Tarrafal",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 15.2635883,
+        "lon": -23.7445029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Holandinha cell, Tarrafal-Assomada-Praia, 7110-Tarrafal, Cape Verde",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51800b57ac865738c059056f48a302e72d40f00103f90109913c2703000000",
+      "name": "gravelsliding",
+      "city": "Mosteiros",
+      "country": "Cape Verde",
+      "country_code": "cv",
+      "coordinates": {
+        "lat": 14.951192,
+        "lon": -24.3418987
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "gravelsliding, Mosteiros, Cape Verde",
+      "description": null,
+      "image": null
+    }
+  ]
+}

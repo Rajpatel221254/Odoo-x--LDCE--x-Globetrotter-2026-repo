@@ -1,0 +1,2032 @@
+{
+  "country_code": "fj",
+  "country_name": "Fiji",
+  "boundary_place_id": "513b83d08b6460664059bdb2c178bc1f32c0f00101f90163b9080000000000c0020b92030446696a69",
+  "count": 109,
+  "places": [
+    {
+      "place_id": "51432e82101a266640596543ed6de92b31c0f00103f9011619c49202000000",
+      "name": "Ridge Walk",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1715306,
+        "lon": 177.1906817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ridge Walk, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51902e36ad142666405979ca6aba9e2c31c0f00103f901d862511203000000",
+      "name": "Ridge Walk",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.174297,
+        "lon": 177.190024
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ridge Walk, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b2ef4d21e23664059633abe07f9ac31c0f00103f901fcfd1a7100000000",
+      "name": "Nadroga-Navosa",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6756749,
+        "lon": 177.0975127
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e0b5ef4152666405946764aac312b31c0f00103f9017a19c4920200000092031053756e7365742076696577706f696e74",
+      "name": "Sunset viewpoint",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1687267,
+        "lon": 177.19018
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sunset viewpoint, Ridge Walk, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b1a206d3702166405957aa5505b47631c0f00103f9014ea8ba3b02000000",
+      "name": "Vanua Levu",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.4636844,
+        "lon": 177.0450225
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vanua Levu, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51941dd1f31d2d664059d5e2f84619b031c0f00103f90108809a8e0100000092030c567564612076696c6c616765",
+      "name": "Vuda village",
+      "city": "Lautoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6878857,
+        "lon": 177.4099063
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vuda village, Viseisei Village Road, Lautoka, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51181b04673a2c6640598ba9f413ce9431c0f00103f90112ec0d270100000092030d536176616c612049736c616e64",
+      "name": "Savala Island",
+      "city": "Lautoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.5812695,
+        "lon": 177.3821292
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Savala Island, Lautoka, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c2409c2155766405936f6364767ce31c0f00103f9010863fc610200000092030d4a61616269277320706f696e74",
+      "name": "Jaabi's point",
+      "city": "Lomaiviti",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.8062634,
+        "lon": 178.721406
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Jaabi's point, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515c70abc54c466640597efa74e1ac3732c0f00103f901daaa15d10200000092030c546f676f7275204265616368",
+      "name": "Togoru Beach",
+      "city": "Namosi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.2174817,
+        "lon": 178.1968716
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Togoru Beach, Queens Road, Namosi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514eaeced62631664059e0d517aeb31432c0f00103f90102045e82010000009203084e616b616c61766f",
+      "name": "Nakalavo",
+      "city": "Naduri",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.0808667,
+        "lon": 177.5359911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nakalavo, Cagasi Trek, Naduri, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d822b3c4544266405928e84020e13d32c0f00103f901acadf51c01000000920304476f6c66",
+      "name": "Golf",
+      "city": "Pacific Harbour",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.2417164,
+        "lon": 178.0728477
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Golf, Fairway Place, Pacific Harbour, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cb521b53f736640598808a469f5c830c0f00103f901ea7c6191010000009203124c6576756b616c61696c61692056696c6c61",
+      "name": "Levukalailai Villa",
+      "city": "Lavukalili",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7849947,
+        "lon": 179.6015268
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Levukalailai Villa, Hibiscus Highway, Lavukalili, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c3aa7fea62a6640590de8e0f489f530c0f00103f90186983ac902000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9591363,
+        "lon": 177.3328851
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51daf346f73d2466405995302eb022ac31c0f00103f901565bd9190100000092030953616e642042616e6b",
+      "name": "Sand Bank",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6724043,
+        "lon": 177.1325642
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sand Bank, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51432be6d69a2c664059b05989d40fe730c0f00103f901c803811203000000",
+      "name": "Nacula",
+      "city": "Nacula",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9025853,
+        "lon": 177.3939013
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nacula, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51da5dfb5df32d664059ac414e4ea3a131c0f00103f901db15daef00000000",
+      "name": "Field 40 Road",
+      "city": "Lautoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6313981,
+        "lon": 177.4359579
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Field 40 Road, Lautoka, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51326a08d8982466405991d9b4adc15e31c0f00103f90170aa3195020000009203154e6767617261696c7574756c75747520506f696e74",
+      "name": "Nggarailutulutu Point",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3701428,
+        "lon": 177.1436577
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nggarailutulutu Point, Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512777e9703e266640597529649de02b31c0f00103f9016e0586880100000092030a476f6174204265616368",
+      "name": "Goat Beach",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1713961,
+        "lon": 177.1951222
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Goat Beach, Ridge Walk, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b9e8bf62a82c66405921edda3928ec30c0f00103f901b0cb658401000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9224888,
+        "lon": 177.3955549
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51681c8fbe2e4c6640595a8e46f421ba31c0f00103f9014225bd31010000009203114e61757361746f6b612056696c6c616765",
+      "name": "Nausatoka Village",
+      "city": "Nasautoka Village",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7270806,
+        "lon": 178.3807061
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nausatoka Village, King's Highway, Nasautoka Village, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d66df70ba2c664059731c2e28c2ec30c0f00103f901c3f6648401000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9248376,
+        "lon": 177.3977589
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516605d039094f6640594169030bbb0f32c0f00103f901168160cf0200000092031c4e61747572616c20506f6f6c7320616e6420576174657266616c6c73",
+      "name": "Natural Pools and Waterfalls",
+      "city": "Nasinu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.0614478,
+        "lon": 178.4698762
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natural Pools and Waterfalls, Colo-I-Suva Park Road, Nasinu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a2a1087b63066405903907f0b571c32c0f00103f901a5385be3020000009203214e616b6162757461202d204c617069746120506f74746572792056696c6c616765",
+      "name": "Nakabuta - Lapita Pottery Village",
+      "city": "Sigatoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1107032,
+        "lon": 177.5222812
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nakabuta - Lapita Pottery Village, Sigatoka Valley Road, Sigatoka, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515aad5d243e7766405917c0ef3a76b730c0f00103f9018c3414910100000092030a4e616b6f626f2052642e",
+      "name": "Nakobo Rd.",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7166478,
+        "lon": 179.7263357
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nakobo Rd., Hibiscus Highway, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51091e3a98a82c66405917a6a5a8e9eb30c0f00103f9018903811203000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9215341,
+        "lon": 177.3955804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ce3d4183e29664059d90af54fcbf831c0f00103f901c6bb4510010000009203085a69702046696a69",
+      "name": "Zip Fiji",
+      "city": "Bavu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.9718523,
+        "lon": 177.2888302
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zip Fiji, Queens Road, Bavu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5805d4dde25664059aa436e861bd831c0f00103f901debb6a820100000092030d4e616d6f74752049736c616e64",
+      "name": "Namotu Island",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.84417,
+        "lon": 177.1833865
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Namotu Island, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515db4119943236640590a7778190fac31c0f00103f901ddfd1a710000000092030d4c6f6f6b6f757420506f696e74",
+      "name": "Lookout Point",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6721054,
+        "lon": 177.1020017
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Lookout Point, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518a69f008782c66405911e4a08499ae31c0f00103f90162b8838e010000009203124d6f62696c20506574726f6c2054616e6b73",
+      "name": "Mobil Petrol Tanks",
+      "city": "Lautoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.68203,
+        "lon": 177.3896527
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mobil Petrol Tanks, Vuda Point Road, Lautoka, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c9d754cc775a66405932152c1f93a631c0f00103f901e2aade930100000092031f537472616e6465642053696e752d692d776173612d746f6c75204665727279",
+      "name": "Stranded Sinu-i-wasa-tolu Ferry",
+      "city": "Levuka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6506824,
+        "lon": 178.8271238
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Stranded Sinu-i-wasa-tolu Ferry, Levuka, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ebf1310ee44e6640596fb72407ec0e32c0f00103f9018dab0e6202000000",
+      "name": "Waterfall Track",
+      "city": "Naitasiri",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.058289,
+        "lon": 178.4653388
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waterfall Track, Naitasiri, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510a890f4772246640591abc5411135931c0f00103f90151e344cb02000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3479472,
+        "lon": 177.1389499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511cd36e4f2b42664059de0610994d4132c0f00103f9018ecdd0cf02000000",
+      "name": "Queens Road",
+      "city": "Pacific Harbour",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.2550903,
+        "lon": 178.0677869
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Queens Road, Pacific Harbour, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abc9f89c6040664059caf2bfa6186331c0f00103f9011dbf271803000000",
+      "name": "King's Highway",
+      "city": "Vunitogoloa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3870949,
+        "lon": 178.0117936
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "King's Highway, Vunitogoloa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb0d2b817924664059dbb463343c5931c0f00103f901e0efeab100000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3485749,
+        "lon": 177.1398321
+      },
+      "categories": [
+        "no_access",
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5197862bb17c7c6640597463d57b85be30c0f00103f9010eb56e3301000000",
+      "name": "Cakaudrove",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7442243,
+        "lon": 179.8902212
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189b2b794732466405987a9882e035931c0f00103f90106f583800100000092030c546f70205669657720333630",
+      "name": "Top View 360",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3477048,
+        "lon": 177.139109
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Top View 360, Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514cb5053a09296640593f4c0c13571531c0f00103f9017a238132010000009203125061746820746f20777265636b2073697465",
+      "name": "Path to wreck site",
+      "city": "Gunu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.0833599,
+        "lon": 177.2823763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Path to wreck site, Low tide walk to Gunu, Gunu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d65ecaace82b664059c4e8cc818dc531c0f00102f9019d99b43b000000009203124269672042756c612057617465727061726b",
+      "name": "Big Bula Waterpark",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.77169047596614,
+        "lon": 177.37215270543555
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Big Bula Waterpark, Denarau Island Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51598baaba22236640593701e19e42ad31c0f00103f90121fe1a71000000009203155475696c617761204c6f6f6b6f757420506f696e74",
+      "name": "Tuilawa Lookout Point",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6767978,
+        "lon": 177.0979894
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tuilawa Lookout Point, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516f84a0fe8e4d664059a7f809b1442532c0f00103f9011c49a4310300000092031952617475204570656e69736120536572752043616b6f626175",
+      "name": "Ratu Epenisa Seru Cakobau",
+      "city": "Suva",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1455794,
+        "lon": 178.4237054
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Ratu Epenisa Seru Cakobau, Victoria Parade, Suva, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5104e78c28ed2b664059a192848e67f130c0f00103f901891d5bc802000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9429864,
+        "lon": 177.3727
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5130e8ce5d5c24664059b88c4061f55e31c0f00103f901db62511203000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3709317,
+        "lon": 177.1362752
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d5061b62e2c664059a97290c657f330c0f00103f901a10b3ac902000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9505581,
+        "lon": 177.3807022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f8e351855a2466405980cddebeb35431c0f00103f90146172e1203000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3308677,
+        "lon": 177.1360499
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157a0ccf52c26664059ed4acb48bd2931c0f00103f9016d0586880100000092030a4d616e74612052617973",
+      "name": "Manta Rays",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1630445,
+        "lon": 177.1929883
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Manta Rays, Ridge Walk, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd88ba6af92e6640595c340983d7b531c0f00103f90116388b7701000000",
+      "name": "Sabeto Road",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7103197,
+        "lon": 177.4679464
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sabeto Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518542041c82246640590c48b192455831c0f00103f901a2f4838001000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3448116,
+        "lon": 177.1408825
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51abdb8fcac3346640592e1801bad43132c0f00103f901d3aaea8901000000",
+      "name": "Queens Road",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1946522,
+        "lon": 177.6489003
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Queens Road, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51921914720a4f664059876f61dd780f32c0f00103f901158160cf0200000092031c4e61747572616c20506f6f6c7320616e6420576174657266616c6c73",
+      "name": "Natural Pools and Waterfalls",
+      "city": "Naitasiri",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.060438,
+        "lon": 178.4700251
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natural Pools and Waterfalls, Waterfall Track, Naitasiri, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511aca3fe93a4c664059d9c00c7cfb1532c0f00103f9016964c296010000009203115669657720746f77617264732053757661",
+      "name": "View towards Suva",
+      "city": "Lami",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.0858686,
+        "lon": 178.3821913
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View towards Suva, Mt. Karoromba Trail, Lami, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515303722e6a24664059c34da14ed4cb31c0f00103f901673b685801000000920307436c6f75642039",
+      "name": "Cloud 9",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7962083,
+        "lon": 177.1379616
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cloud 9, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51352a70b28d4e664059b0912408572632c0f00103f9017da976930100000092030c4a657420536b692053757661",
+      "name": "Jet Ski Suva",
+      "city": "Suva",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1497655,
+        "lon": 178.454797
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jet Ski Suva, Beach Road, Suva, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c7b13f9afb216640599c12b5d9fd9731c0f00103f901bd34ad870100000092030d59616e7579612069736c616e64",
+      "name": "Yanuya island",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.5937172,
+        "lon": 177.0619632
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Yanuya island, Beach track, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f2214d61ca2b664059187cf54c8ac631c0f00103f901190a83270100000092030b476f6c6620436f75727365",
+      "name": "Golf Course",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7755478,
+        "lon": 177.3684546
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Golf Course, Denarau Island Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5170873c388e2c66405918fa714573ae31c0f00103f90161b8838e01000000920312546f74616c20506574726f6c2054616e6b73",
+      "name": "Total Petrol Tanks",
+      "city": "Lautoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6814464,
+        "lon": 177.3923608
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Total Petrol Tanks, Vuda Point Road, Lautoka, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b7555a90372f66405998e94dfb9cb731c0f00103f901eb79808e0100000092031452697365206265796f6e64207468652052656566",
+      "name": "Rise beyond the Reef",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7172391,
+        "lon": 177.4755327
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Rise beyond the Reef, Sabeto Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193510a5fc45a664059b896242aafb031c0f00103f9013d82f4b30100000092031043657373696f6e204d6f6e756d656e74",
+      "name": "Cession Monument",
+      "city": "Levuka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6901728,
+        "lon": 178.8364711
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cession Monument, Levuka, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5154d3e4183f2a664059cf17d6e8301a32c0f00103f901395d6d3e0300000092030b4171756120436162616e61",
+      "name": "Aqua Cabana",
+      "city": "Navihabahaba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1023088,
+        "lon": 177.3202023
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Aqua Cabana, Maro Road, Navihabahaba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511476f63a8e4e664059b7b6f0bc542632c0f00103f901075468920100000092031d5375766120416476656e74757265732d204a657420536b692053757661",
+      "name": "Suva Adventures- Jet Ski Suva",
+      "city": "Suva",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1497305,
+        "lon": 178.4548621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Suva Adventures- Jet Ski Suva, Beach Road, Suva, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ce6f986850316640591058defa552132c0f00103f9017e406ab301000000920310546176756e692048696c6c20466f7274",
+      "name": "Tavuni Hill Fort",
+      "city": "Toga",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1302182,
+        "lon": 177.5410655
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tavuni Hill Fort, Kavanagasau Road, Toga, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51daacfa5c2d2d664059b0ecdd7aa81e32c0f00103f901994ada890000000092030d4b756c612045636f205061726b",
+      "name": "Kula Eco Park",
+      "city": "Sigatoka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1197583,
+        "lon": 177.4117875
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "wheelchair",
+        "wheelchair.limited"
+      ],
+      "formatted_address": "Kula Eco Park, Queens Road, Sigatoka, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118117b57f32e66405984b5d6bc4fb631c0f00103f901c1388b7701000000",
+      "name": "Sabeto Road",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7121542,
+        "lon": 177.4672048
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sabeto Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bdbd1017a57166405971d75c7f5cc630c0f00103f9018d341491010000009203124e6162616c6562616c652056696c6c616765",
+      "name": "Nabalebale Village",
+      "city": "Lavukalili",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7748489,
+        "lon": 179.5514026
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nabalebale Village, Hibiscus Highway, Lavukalili, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bd416ac9995a664059153ce0151cab31c0f00103f9019fb1b1930100000092030847756e20526f636b",
+      "name": "Gun Rock",
+      "city": "Levuka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6683973,
+        "lon": 178.8312728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Gun Rock, Levuka, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510000000000806640597276210cf2cb30c0f00103f90101e4dd9300000000920311446174656c696e65204d6f6e756d656e74",
+      "name": "Dateline Monument",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7966621,
+        "lon": 180
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dateline Monument, West Coast Road, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d4919273471664059c141d6ae64a230c0f00103f9010df1211a03000000",
+      "name": "Cakaudrove",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.6343488,
+        "lon": 179.5376163
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511333b1afab2166405981afe8d66b7431c0f00103f9014da8ba3b02000000",
+      "name": "Navadra",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.4547705,
+        "lon": 177.0522078
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Navadra, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d0aae0012f216640598b28379bd89b31c0f00103f9013d1c45e001000000",
+      "name": "hike trail",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6087739,
+        "lon": 177.0369882
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "hike trail, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514b3f3ca68924664059417859b8515931c0f00103f901a74a918101000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3489032,
+        "lon": 177.1418029
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155490966f1316640590658f503688331c0f00103f9018de5bf3101000000920310416e696d616c2053616e637475617279",
+      "name": "Animal Sanctuary",
+      "city": "Natawarau Village",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.5133059,
+        "lon": 177.5607176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Animal Sanctuary, King's Highway, Natawarau Village, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bbbfd595aa5a664059a9af9dde7bae31c0f00103f9014d4cf7b3010000009203134c6576756b6120546f776e20436f756e63696c",
+      "name": "Levuka Town Council",
+      "city": "Levuka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6815776,
+        "lon": 178.8333234
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Levuka Town Council, Levuka, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f75b3b51924d66405906291d51462532c0f00103f901ab635f35000000009203144f6c64205061726c69616d656e7420486f757365",
+      "name": "Old Parliament House",
+      "city": "Suva",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1456042,
+        "lon": 178.424111
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Old Parliament House, Constitution Avenue, Suva, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ee42739dc634664059ebb76576cc3132c0f00103f901d1aaea8901000000",
+      "name": "Queens Road",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1945261,
+        "lon": 177.649245
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Queens Road, Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bc35fae21c3066405963fe1bc583c131c0f00103f901df35738f02000000920316536c656570696e67204769616e74205a69706c696e65",
+      "name": "Sleeping Giant Zipline",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7559169,
+        "lon": 177.5035262
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sleeping Giant Zipline, Holika Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ad48f196d02b6640597bcdbc6603f230c0f00103f901c9c2044c01000000920311426c7565204c61676f6f6e204265616368",
+      "name": "Blue Lagoon Beach",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9453644,
+        "lon": 177.3692126
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Blue Lagoon Beach, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51df347d76002b664059552e54feb5f630c0f00103f901a10e5bc802000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9637145,
+        "lon": 177.3438065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5102678412017b664059eee0719bbaac30c0f00103f901922214910100000092030c4e617461767520437265656b",
+      "name": "Natavu Creek",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.6747224,
+        "lon": 179.8438809
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natavu Creek, Buca Bay Road, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a54e4013215a6640592820370d9ba231c0f00103f90121592f8201000000",
+      "name": "墓地",
+      "city": "Lomaiviti",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6351784,
+        "lon": 178.8165375
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "墓地, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5189905fe48a7b6640593f5d386b4b9c30c0f00103f90199221491010000009203104b616e616b616e612056696c6c616765",
+      "name": "Kanakana Village",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.6105258,
+        "lon": 179.8607046
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kanakana Village, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f0b5b1239f2a66405932c7f2ae7af830c0f00103f901b11e39c902000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.970622,
+        "lon": 177.3319262
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51663f9cd16025664059ed7f80b56a3131c0f00103f90107a973f00000000092030e576179612056696577706f696e74",
+      "name": "Waya Viewpoint",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1930345,
+        "lon": 177.1680687
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waya Viewpoint, Abandoned Track, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516444d3c94a476640591c7809893b7831c0f00102f9011b8fe11700000000920310636174686f6c6963206d697373696f6e",
+      "name": "catholic mission",
+      "city": "Naiserelagi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.469658436595736,
+        "lon": 178.22787944090953
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "catholic mission, King's Highway, Naiserelagi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510809ac77d330664059a6d997c7f5b631c0f00103f901bfd330270100000092031d5a69706c696e6520616e64204f726368696420576174657266616c6c73",
+      "name": "Zipline and Orchid Waterfalls",
+      "city": "Nadi",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7146878,
+        "lon": 177.5258139
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zipline and Orchid Waterfalls, Sabeto Road, Nadi, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5129d1ed80065a664059fe80070610a231c0f00103f901d14e6e9301000000920306436177616369",
+      "name": "Cawaci",
+      "city": "Lomaiviti",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.633057,
+        "lon": 178.8132939
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Cawaci, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185e6dfd381246640594a60730e9e5931c0f00103f9019dae658401000000",
+      "name": "Tipping Rock Trail",
+      "city": "Yamata",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.350068,
+        "lon": 177.1408481
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Tipping Rock Trail, Yamata, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c0362c57c973664059186250018bc530c0f00103f9018e34149101000000920310546163696c6576752056696c6c616765",
+      "name": "Tacilevu Village",
+      "city": "Lavukalili",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7716523,
+        "lon": 179.6183277
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Tacilevu Village, Hibiscus Highway, Lavukalili, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51eec627096e2566405969b8b711053131c0f00103f901bc0381cf0200000092031053756e7365742056696577706f696e74",
+      "name": "Sunset Viewpoint",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1914836,
+        "lon": 177.1696821
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sunset Viewpoint, Abandoned Track, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5121bdf26aca66664059a45a9fcd05a330c0f00103f9017106f9880100000092031a57616973616c69207261696e666f726573742072657365727665",
+      "name": "Waisali rainforest reserve",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.6368073,
+        "lon": 179.2122092
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Waisali rainforest reserve, Cross Island Road, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5155f65d117c77664059b84082e2c7b030c0f00103f9018a3414910100000092030e4472656b656e697761692052642e",
+      "name": "Drekeniwai Rd.",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.69055,
+        "lon": 179.733895
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Drekeniwai Rd., Hibiscus Highway, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513849f3c7b47a6640594e74a785dcac30c0f00103f901e2eb139101000000920310566174756e6f76752056696c6c616765",
+      "name": "Vatunovu Village",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.6752399,
+        "lon": 179.834568
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vatunovu Village, Buca Bay Road, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5105a8041f1e7b664059d15735adb9be30c0f00103f901059ca08f0100000092031044616b756e6962612056696c6c616765",
+      "name": "Dakuniba Village",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7450207,
+        "lon": 179.8474269
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dakuniba Village, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5148f2a66c222c664059c916ee015ff230c0f00103f901070c5bc802000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9467622,
+        "lon": 177.3792022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6f1cc70282666405924665133ff2b31c0f00103f901752d7c8f01000000",
+      "name": "Ridge Walk",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1718628,
+        "lon": 177.1924366
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ridge Walk, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514cd8c8bf603866405987dc0c37e06531c0f00103f901358c191b0200000092030b5661746961207768617266",
+      "name": "Vatia wharf",
+      "city": "Natunuku",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.3979525,
+        "lon": 177.7618102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Vatia wharf, King's Highway, Natunuku, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cb5667c76c4266405919d3a9c7eb3f32c0f00102f901dddab50b0000000092031c5061636966696320486172626f757220417274732056696c6c616765",
+      "name": "Pacific Harbour Arts Village",
+      "city": "Pacific Harbour",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.24969146629437,
+        "lon": 178.07577867682843
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pacific Harbour Arts Village, Queens Road, Pacific Harbour, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513833558ba323664059565cc1db28ad31c0f00103f901d9141b1a01000000",
+      "name": "Nadroga-Navosa",
+      "city": "Nadroga-Navosa",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6764047,
+        "lon": 177.1137139
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Nadroga-Navosa, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51edf54949aa5a66405913a2d7fa7dae31c0f00103f901dba14f9a0100000092030b4f76616c617520436c7562",
+      "name": "Ovalau Club",
+      "city": "Levuka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6816098,
+        "lon": 178.8332869
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ovalau Club, Levuka, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515bd3bce3945a66405946274badf7ab31c0f00103f901151d9393010000009203115761696c61696c61692056696c6c616765",
+      "name": "Wailailai Village",
+      "city": "Levuka",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.671748,
+        "lon": 178.830675
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Wailailai Village, Levuka, Lomaiviti, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127dd96c8c5526640596ebe11ddb3ac31c0f00103f901950d098f01000000920311426f617420746f204c6576756b6120284f",
+      "name": "Boat to Levuka (O",
+      "city": "Tailevu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6746195,
+        "lon": 178.5866435
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Boat to Levuka (Ovalau island), Tailevu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cfde74264871664059455fe6e03ec330c0f00103f901ddd03f93010000009203144e756b7562616c6176752050656e696e73756c61",
+      "name": "Nukubalavu Peninsula",
+      "city": "Lavukalili",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.7626782,
+        "lon": 179.5400574
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nukubalavu Peninsula, Hibiscus Highway, Lavukalili, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e5924f34f44d664059e60bb50133c831c0f00103f90141814b7d01000000920311557275e280997320576174657266616c6c",
+      "name": "Uru’s Waterfall",
+      "city": "Tailevu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7820283,
+        "lon": 178.4360601
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Uru’s Waterfall, King's Highway, Tailevu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5100f7860cb52c664059766b990cc7ed30c0f00103f901b5f6648401000000",
+      "name": "Ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.9288185,
+        "lon": 177.3971007
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510b4856d9d2256640593de87ef3872d31c0f00103f9018921939202000000",
+      "name": "Abandoned Track",
+      "city": "Ba",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.1778557,
+        "lon": 177.1819884
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Abandoned Track, Ba, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51858373fcc6316640599f83786eeb2c32c0f00103f901996ff222010000009203174b554c412057696c6420416476656e757265205061726b",
+      "name": "KULA Wild Advenure Park",
+      "city": "Korotogo",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1754674,
+        "lon": 177.5555403
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "KULA Wild Advenure Park, Queens Road, Korotogo, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f56e87e1fe4c664059e32a604c44c331c0f00103f901dd24bd310100000092030f4c696d6573746f6e65204361766573",
+      "name": "Limestone Caves",
+      "city": "Tailevu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.7627609,
+        "lon": 178.4061134
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Limestone Caves, King's Highway, Tailevu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b780371c3526640599bd31ba496ac31c0f00103f9013fc0088f0100000092030e4e61746f7669206c616e64696e67",
+      "name": "Natovi landing",
+      "city": "Tailevu",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -17.6741736,
+        "lon": 178.5863576
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Natovi landing, Tailevu, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143b577fc8d4d664059065d67e8442532c0f00103f9011d49a431030000009203145261747520536972204c616c612053756b756e61",
+      "name": "Ratu Sir Lala Sukuna",
+      "city": "Suva",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -18.1455827,
+        "lon": 178.4235823
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Ratu Sir Lala Sukuna, Victoria Parade, Suva, Fiji",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519f364f1a4f7a664059ae50ffb4acac30c0f00103f901952214910100000092030b4c6f612056696c6c616765",
+      "name": "Loa Village",
+      "city": "Cakaudrove",
+      "country": "Fiji",
+      "country_code": "fj",
+      "coordinates": {
+        "lat": -16.6745103,
+        "lon": 179.8221561
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Loa Village, Buca Bay Road, Cakaudrove, Fiji",
+      "description": null,
+      "image": null
+    }
+  ]
+}

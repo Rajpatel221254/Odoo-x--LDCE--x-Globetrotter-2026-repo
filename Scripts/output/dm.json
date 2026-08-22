@@ -1,0 +1,1210 @@
+{
+  "country_code": "dm",
+  "country_name": "Dominica",
+  "boundary_place_id": "51961aeb2cc4ae4ec05977c9eeb897d22e40f00101f9016fb2040000000000c0020b920308446f6d696e696361",
+  "count": 64,
+  "places": [
+    {
+      "place_id": "51ed3257618ea04ec0594ab8904770b72e40f00103f901881f491b0100000092030c736563726574206265616368",
+      "name": "secret beach",
+      "city": "Morne Jaune",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3582785,
+        "lon": -61.2543451
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "secret beach, Siloy Road, Morne Jaune, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c90af4edfa34ec0590c5de4f9677d2e40f00103f90162915cda00000000",
+      "name": "Old Mill Road",
+      "city": "Bagatelle",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2449339,
+        "lon": -61.2802523
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Old Mill Road, Bagatelle, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516eda311a9eab4ec059cb0f5ce509302f40f00103f90190b747da00000000920320506f696e7465204261707469737465204573746174652043686f636f6c617465",
+      "name": "Pointe Baptiste Estate Chocolate",
+      "city": "Calibishie",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5938255,
+        "lon": -61.3407624
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pointe Baptiste Estate Chocolate, Red Rocks Road, Calibishie, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5185b6f704e4b64ec0594986771442d62e40f00103f9019e3496fe02000000",
+      "name": "Edward Olivier Leblanc Highway",
+      "city": "Mero",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.4184729,
+        "lon": -61.4288336
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.mural"
+      ],
+      "formatted_address": "Edward Olivier Leblanc Highway, Mero, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516c3aa7fee6ab4ec059872b0c361acd2e40f00103f9017209218602000000",
+      "name": "President Doctor Nicholas Liverpool Highway",
+      "city": "Pont Cassé",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.4005906,
+        "lon": -61.3429869
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "President Doctor Nicholas Liverpool Highway, Pont Cassé, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d277ffa076ac4ec05974443dfcb4cd2e40f00102f9012684774500000000",
+      "name": "President Doctor Nicholas Liverpool Highway",
+      "city": "Pont Cassé",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.40177143333333,
+        "lon": -61.34737026666666
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "President Doctor Nicholas Liverpool Highway, Pont Cassé, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515b481ba265b54ec0597896c5692d0d2f40f00103f901a430707e02000000",
+      "name": "Syndicate rainforest trail",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5257371,
+        "lon": -61.4171641
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Syndicate rainforest trail, Saint John Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120ac10a0f0ba4ec0597802ab34731e2f40f00103f9011e7da013010000009203195361696c207769746820536f70686961204368617274657273",
+      "name": "Sail with Sophia Charters",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5594727,
+        "lon": -61.4604683
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Sail with Sophia Charters, Lizard Trail, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516bbccf4c8bb04ec059d6dfb7c60c992e40f00103f9011ec722410200000092030b4d6f726e65204272756365",
+      "name": "Morne Bruce",
+      "city": "Roseau",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2989256,
+        "lon": -61.3792511
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Morne Bruce Road, Roseau, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51341f2114a5ac4ec0598a3265f1ac2a2f40f00103f901decb92fe02000000920311426c61636b626561726473206461697279",
+      "name": "Blackbeards dairy",
+      "city": "Calibishie",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5833507,
+        "lon": -61.3487878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Blackbeards dairy, Savanne Paille Road, Calibishie, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515cfee8407bb34ec0591b50caff3f392f40f00103f901d28636150100000092031541752050617263207377696d6d696e672061726561",
+      "name": "Au Parc swimming area",
+      "city": "Thibaud",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.6118164,
+        "lon": -61.4021989
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Au Parc swimming area, Northern Link Road, Thibaud, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511718682dbba54ec05912c8db0022a32e40f00103f90198e442da00000000",
+      "name": "Waitukubuli Trail (branch)",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3186188,
+        "lon": -61.2947747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waitukubuli Trail (branch), Saint George Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e0ab0c99e1a74ec0594e4f0e55e7cb2e40f00103f901da74218602000000",
+      "name": "Castle Bruce Road",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3982493,
+        "lon": -61.3115722
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Castle Bruce Road, Saint David Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9baf083f3ab4ec059a46fd23428722e40f00103f901628836150100000092031f6172636861656f6c6f67792073697465202870726976617465206c616e6429",
+      "name": "archaeology site (private land)",
+      "city": "Galion",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.222963,
+        "lon": -61.343369
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "archaeology site (private land), Bois Collette Road, Galion, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51404a5af3efa74ec059a62e3fb175cb2e40f00102f901ba89774500000000",
+      "name": "Castle Bruce Road",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.397382296526597,
+        "lon": -61.31201021107381
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Castle Bruce Road, Saint David Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ea1fe97871ac4ec059ffaac88dc7792e40f00103f9012848953003000000",
+      "name": "Waitukubuli Trail Segment 2",
+      "city": "Soufriere",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2378506,
+        "lon": -61.3472129
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waitukubuli Trail Segment 2, Soufriere, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513394c95f10a14ec0599d12109370012f40f00103f901c6c5df6300000000",
+      "name": "Memorial Park Road",
+      "city": "Bataka",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.502812,
+        "lon": -61.2583122
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Memorial Park Road, Bataka, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51876f61dd78b24ec0598d7bf31b262e2f40f00103f90122bc47da000000009203155275696e7320426c656e6865696d20457374617465",
+      "name": "Ruins Blenheim Estate",
+      "city": "La Source",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5901345,
+        "lon": -61.3943135
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ruins Blenheim Estate, Melville Hall - Portsmouth Road, La Source, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e25bb3f050bc4ec059bca24a83912d2f40f00103f901de4a47da00000000",
+      "name": "East Cabrit Trail",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5890008,
+        "lon": -61.4712201
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "East Cabrit Trail, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ccf6f4edbaa4ec059de1d19abcda72e40f00103f9012058e91e0100000092031d56696577706f696e7420666f722054726166616c6761722046616c6c73",
+      "name": "Viewpoint for Trafalgar Falls",
+      "city": "Trafalgar",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.327741,
+        "lon": -61.3348177
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Viewpoint for Trafalgar Falls, Botanical Gardens, Trafalgar, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5195e9e115d2a64ec059e46b2ae67ba12e40f00103f901fea9907e02000000",
+      "name": "Waitukubuli Trail (branch)",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3153984,
+        "lon": -61.3032863
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waitukubuli Trail (branch), Saint George Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5137e4fad236b54ec05985c7235dd80b2f40f00103f9019e87361501000000",
+      "name": "Syndicate rainforest trail",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5231351,
+        "lon": -61.4157356
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Syndicate rainforest trail, Saint John Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e97294cd66ba4ec0590a86730d33242f40f00103f901b474579d00000000920316496e6469616e20526976657220426f61742052696465",
+      "name": "Indian River Boat Ride",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.570702,
+        "lon": -61.4562623
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Indian River Boat Ride, Michael Douglas Boulevard, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516962708390a04ec059f287557204bf2e40f00103f901da405cda000000009203145275696e7320526f73616c696520457374617465",
+      "name": "Ruins Rosalie Estate",
+      "city": "Rosalie",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3730808,
+        "lon": -61.2544102
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ruins Rosalie Estate, Rosalie Road, Rosalie, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51740415fa05ab4ec059f862395332b22e40f00103f901d9661f3003000000",
+      "name": "Waitukubuli trail segment 4",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3480402,
+        "lon": -61.3361199
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waitukubuli trail segment 4, Saint Paul Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51faefc16b97b04ec05914beadaa4dd22e40f00103f90189b6dbee010000009203024c4c",
+      "name": "LL",
+      "city": "Saint Joseph",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.4107488,
+        "lon": -61.379621
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "LL, Warner Road, Saint Joseph, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cbba7f2c44b14ec0597be706f98f972e40f00103f901152b78580100000092030f476f7665726d656e7420486f757365",
+      "name": "Goverment House",
+      "city": "Roseau",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2960203,
+        "lon": -61.384893
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "House of the president, Jewel Street, Roseau, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c94731882ab4ec0591b1b704c05a32e40f00103f90169985125010000009203167363726577732073756c70687572696320706f6f6c73",
+      "name": "screws sulphuric pools",
+      "city": "Morne Prosper",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3183998,
+        "lon": -61.3399077
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "screws sulphuric pools, Trafalgar Road, Morne Prosper, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5149ee61f2e6b14ec0595cbe03f2cbaa2e40f00102f901db518b15000000009203184f6c64204d696c6c2043756c747572616c2043656e747265",
+      "name": "Old Mill Cultural Centre",
+      "city": "Canefield",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.333587229687673,
+        "lon": -61.389860437219404
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Old Mill Cultural Centre, Edward Olivier Leblanc Highway, Canefield, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d3c52d8a0ac4ec0594c16f71f992a2f40f00103f901d053c45f02000000920311426c61636b626561726473204461697279",
+      "name": "Blackbeards Dairy",
+      "city": "Calibishie",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5831995,
+        "lon": -61.3486586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Blackbeards Dairy, Savanne Paille Road, Calibishie, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515d55511784bc4ec05977bcc96fd12d2f40f00103f9016095a87702000000",
+      "name": "Blue Trail",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5894885,
+        "lon": -61.4727811
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Blue Trail, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514c24873e0ebd4ec059f56e87e17e2b2f40f00103f901b19afe3003000000",
+      "name": "yellow trail",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5849524,
+        "lon": -61.4769972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "yellow trail, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5139865b994bb14ec05943554ca59f982e40f00103f90112c51bda0000000092031c426973686f702041726e6f6c6420426f67686165727420486f757365",
+      "name": "Bishop Arnold Boghaert House",
+      "city": "Roseau",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.298093,
+        "lon": -61.3851196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bishop Arnold Boghaert House, Independence Street, Roseau, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f67013ffc1aa4ec059754bbc4dc9a72e40f00103f90159f343da0000000092030f54726166616c6761722046616c6c73",
+      "name": "Trafalgar Falls",
+      "city": "Trafalgar",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3277077,
+        "lon": -61.3340453
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trafalgar Falls, Botanical Gardens, Trafalgar, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513b06bf68eaab4ec0590800338408312f40f00103f901994d7b3103000000",
+      "name": "Red Rocks Road",
+      "city": "Calibishie",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5957681,
+        "lon": -61.3430911
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Red Rocks Road, Calibishie, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d7fe29b05bae4ec059a82c544843772e40f00103f9015b68361501000000920310427562626c6520426561636820535041",
+      "name": "Bubble Beach SPA",
+      "city": "Soufriere",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2329352,
+        "lon": -61.3621731
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Bubble Beach SPA, Victoria Street, Soufriere, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5107d15ad1e6a54ec059211917b3caa12e40f00103f9016de442da00000000",
+      "name": "Waitukubuli Trail (branch)",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3159996,
+        "lon": -61.2961065
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waitukubuli Trail (branch), Saint George Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d41c4bc7da24ec0599996fd5f1afb2e40f00103f901c9957e5902000000",
+      "name": "Horse Back Ridge",
+      "city": "Bataka",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.4904356,
+        "lon": -61.2694622
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Horse Back Ridge, Bataka, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517e607df266b54ec0597693ce763b0d2f40f00103f901d518687b00000000",
+      "name": "Syndicate rainforest trail",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5258443,
+        "lon": -61.4172042
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Syndicate rainforest trail, Saint John Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510c9645bcd0a64ec0591b33e43334a12e40f00103f9010aaa907e02000000",
+      "name": "Waitukubuli Trail (branch)",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3148514,
+        "lon": -61.3032451
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Waitukubuli Trail (branch), Saint George Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515ab90cddf0a54ec0599f66914dc17d2e40f00102f90122ee92150000000092030a4d696c6c205275696e73",
+      "name": "Mill Ruins",
+      "city": "Dubuc",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.245615409850243,
+        "lon": -61.29641306992808
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Mill Ruins, Dubuc - Fond Saint Jean Road, Dubuc, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513dee5bad13ba4ec0595f741eba45252f40f00103f9010af073ee0200000092030e43616c7970736f277320486f6d65",
+      "name": "Calypso's Home",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5727976,
+        "lon": -61.4537255
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Calypso's Home, Granby Street, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cef45cf0b3ab4ec059ccd9965c20a82e40f00103f90181d9e2640200000092031756696577206f662054726166616c6761722066616c6c73",
+      "name": "View of Trafalgar falls",
+      "city": "Trafalgar",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3283719,
+        "lon": -61.3414288
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View of Trafalgar falls, Waitukubuli National Trail Segment 4, Trafalgar, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5193bba1331fae4ec05966493e8bfc762e40f00102f90151d18f1500000000920313526f73652773204c696d6520466163746f7279",
+      "name": "Rose's Lime Factory",
+      "city": "Scotts Head",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.232395507195815,
+        "lon": -61.360327199908305
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.ruines"
+      ],
+      "formatted_address": "Rose's Lime Factory, Victoria Street, Scotts Head, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517aebb24e4ba04ec0597286e28e37bd2e40f00103f9017a2c5cda00000000920316436f6d6d756e69747920547572746c652047726f7570",
+      "name": "Community Turtle Group",
+      "city": "Riviere Ciriques",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3695645,
+        "lon": -61.2522982
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Community Turtle Group, Turtle Beach Trail, Riviere Ciriques, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515702cef7f8b04ec0594d3c56dfaf982e40f00103f9011fdd1bda0000000092031163727573686564207363686f6f6c627573",
+      "name": "crushed schoolbus",
+      "city": "Roseau",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2982168,
+        "lon": -61.3825979
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "crushed schoolbus, Bath Road, Roseau, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f31bcb6031bc4ec059e60c20d7e12b2f40f00103f901552b603603000000",
+      "name": "East Cabrit Trail",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5857074,
+        "lon": -61.4702569
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "East Cabrit Trail, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a34571701a94ec059b9e3a837feb32e40f00103f9016967d87301000000",
+      "name": "Boeri Lake Trail",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3515489,
+        "lon": -61.3203458
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Boeri Lake Trail, Saint David Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b2a024f9cbc4ec0595d3dece2b32a2f40f00102f9012f6fc22c0000000092030c466f727420536869726c6579",
+      "name": "Fort Shirley",
+      "city": "Portsmouth",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.583403674447874,
+        "lon": -61.473520160730196
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.fort"
+      ],
+      "formatted_address": "Fort Shirley, yellow trail, Portsmouth, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512d7777a564b74ec05952a4bae101db2e40f00102f901dd05690a000000009203164d61636f756368657269652044697374696c6c657279",
+      "name": "Macoucherie Distillery",
+      "city": "Salisbury",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.427748731645043,
+        "lon": -61.43275898297575
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Macoucherie Distillery, Macoucherie Road, Salisbury, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159631a97bba84ec0591a2dacc0352c2f40f00103f9019d873615010000009203056265616368",
+      "name": "beach",
+      "city": "Wesley",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5863476,
+        "lon": -61.3182248
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "beach, Melville Hall - Portsmouth Road, Wesley, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108e2eb1379b14ec059953ec88496982e40f00102f901d9518b150000000092030d4e6f72776f6f6420486f757365",
+      "name": "Norwood House",
+      "city": "Roseau",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.298023366397766,
+        "lon": -61.38650750177118
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Norwood House, King George V Street, Roseau, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c8be1a56a7b04ec059d53b81559a992e40f00103f90113c51bda0000000092030b4d6f726e65204272756365",
+      "name": "Morne Bruce",
+      "city": "Roseau",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3000056,
+        "lon": -61.3801067
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Morne Bruce, Jack's Walk, Roseau, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5173918ce612b04ec0594200153367922e40f00103f901cfd01f0e01000000920310416e63686f7261676520446976696e67",
+      "name": "Anchorage Diving",
+      "city": "Castle Comfort",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2859436,
+        "lon": -61.3755768
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Anchorage Diving, Victoria Street, Castle Comfort, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519808652b79ac4ec059f83a04e9bd882e40f00103f9016d105dda00000000",
+      "name": "Grand Bay Road",
+      "city": "Loubiere",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.2670739,
+        "lon": -61.3474478
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Grand Bay Road, Loubiere, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e80d9cd8e8a34ec05979e4b44c2bbe2e40f00103f901d90b7176010000009203104a7573742054686572652052616e6368",
+      "name": "Just There Ranch",
+      "city": "Grand Fond",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3714241,
+        "lon": -61.2805434
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Just There Ranch, Newfoundland Road, Grand Fond, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a64176830daf4ec05998df6932e3312f40f00103f90117ed00f8020000009203284f7572204c616479206f66204c6f7572646573204d656469746174696f6e2056696577706f696e74",
+      "name": "Our Lady of Lourdes Meditation Viewpoint",
+      "city": "Bense",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5974365,
+        "lon": -61.3675999
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Our Lady of Lourdes Meditation Viewpoint, Melville Hall - Portsmouth Road, Bense, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d8dfc8f264b54ec059ba3885f0c30c2f40f00103f901a330707e02000000",
+      "name": "Syndicate rainforest trail",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.5249324,
+        "lon": -61.4171432
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Syndicate rainforest trail, Saint John Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ae5338fb2ba4ec059106d116278462f40f00103f901bb17687b0000000092030e436170756368696e20506f696e74",
+      "name": "Capuchin Point",
+      "city": "Penville",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.6376372,
+        "lon": -61.4585742
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Capuchin Point, Waitukubuli Trail 13, Penville, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511ebf5c305db94ec059b4ef4053653a2f40f00103f9016519e2e90000000092030c4d616c2d456e2d47616d6d65",
+      "name": "Mal-En-Gamme",
+      "city": "Cocoyer",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.6140543,
+        "lon": -61.4481564
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mal-En-Gamme, Northern Link Road, Cocoyer, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a905e56cf0a74ec0596448049953cc2e40f00103f9015f7e5bda00000000",
+      "name": "Castle Bruce Road",
+      "city": null,
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3990753,
+        "lon": -61.3120247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Castle Bruce Road, Saint David Parish, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5160f18a96f29e4ec05978befad3a1ee2e40f00103f901b960757e000000009203154c27457363616c69657220546574652d436869656e",
+      "name": "L'Escalier Tete-Chien",
+      "city": "Sineku",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.4660784,
+        "lon": -61.2417782
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "L'Escalier Tete-Chien, East Coast Road, Sineku, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e6c3fd9133ac4ec059e2efcd250ba62e40f00103f901cd2b54100100000092031756696577206f662054726166616c6761722046616c6c73",
+      "name": "View of Trafalgar Falls",
+      "city": "Trafalgar",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.3243038,
+        "lon": -61.3453238
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "View of Trafalgar Falls, Trafalgar Road, Trafalgar, Dominica",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5184cd4aa47eb84ec05950ea8145343c2f40f00103f90121bc47da000000009203164d6f726e6520417520446961626c6520437261746572",
+      "name": "Morne Au Diable Crater",
+      "city": "Cocoyer",
+      "country": "Dominica",
+      "country_code": "dm",
+      "coordinates": {
+        "lat": 15.6175863,
+        "lon": -61.4413648
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Morne Au Diable Crater, Northern Link Road, Cocoyer, Dominica",
+      "description": null,
+      "image": null
+    }
+  ]
+}

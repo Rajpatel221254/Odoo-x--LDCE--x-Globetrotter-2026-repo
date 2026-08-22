@@ -1,0 +1,491 @@
+{
+  "country_code": "km",
+  "country_name": "Comoros",
+  "boundary_place_id": "518a89720e4324464059afe9e687b66828c0f00101f901ee2c080000000000c0020b920307436f6d6f726f73",
+  "count": 26,
+  "places": [
+    {
+      "place_id": "51531d177a69a545405958946d3bc8c626c0f00103f901f6c2497a010000009203164d61726368c3a9206465204d697473616d696f756c69",
+      "name": "Marché de Mitsamiouli",
+      "city": "Mitsamiouli",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3882464,
+        "lon": 43.2922814
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Marché de Mitsamiouli, Route Nationale 1, Mitsamiouli, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51126a865451ad454059cfe6278bb18227c0f00103f9012463301d01000000920322506f696e74206465207675652063616c64657261206e6f7264204b61727468616c61",
+      "name": "Point de vue caldera nord Karthala",
+      "city": "Mzaki مزاكي",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7552608,
+        "lon": 43.3540445
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karthala Northern Crater Viewpoint, Montée du Karthala الطريق الجبلية قرطالة, Mzaki مزاكي, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511cb7f3588eaf454059474552c197c026c0f00103f901cd5c3e96010000009203044175746f",
+      "name": "Auto",
+      "city": "Cembenoi-Lac-Salé",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3761578,
+        "lon": 43.3715316
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Auto, Route Nationale 3, Cembenoi-Lac-Salé, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5142ee7d05c4af454059cab3812a24bf26c0f00103f901262ccab400000000",
+      "name": "Route Nationale 3",
+      "city": "Cembenoi-Lac-Salé",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3733228,
+        "lon": 43.3731696
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route Nationale 3, Cembenoi-Lac-Salé, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9ff6673e6b4454059fad0aa3bbbd126c0f00103f9014c6310fa00000000920310c3ae6c652064657320746f7274756573",
+      "name": "île des tortues",
+      "city": "Mboinkou",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.4096316,
+        "lon": 43.4132828
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "île des tortues, Route Nationale 3, Mboinkou, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513c9e3b6645db45405959a4897780bb28c0f00103f90174bb5b5702000000",
+      "name": "Route Nationale 32",
+      "city": "M'lédjélé",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -12.3662145,
+        "lon": 43.7130554
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route Nationale 32, M'lédjélé, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5147437c163aac454059968224a24e7f27c0f00103f901226fcfc102000000",
+      "name": "Volcano Monitoring Station",
+      "city": "Mzaki مزاكي",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7486468,
+        "lon": 43.3455227
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Volcano Monitoring Station, Montée du Karthala الطريق الجبلية قرطالة, Mzaki مزاكي, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d3782f9d09d454059bf81c98d227b27c0f00103f90148e016670000000092030c49636f6e6920437261746572",
+      "name": "Iconi Crater",
+      "city": "Bambao ya Mboini",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.740498,
+        "lon": 43.2329399
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Iconi Crater, Boulevard de la République Populaire de China, Bambao ya Mboini, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d03648d27f32464059fcab22371e5728c0f00103f901b10de7a1000000009203244d617261686162612053616d626920d985d8b1d8add8a8d8a720d8b3d8a7d985d8a8d98a",
+      "name": "Marahaba Sambi مرحبا سامبي",
+      "city": "Mutsamudu",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -12.1701524,
+        "lon": 44.3945258
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Marahaba Sambi مرحبا سامبي, Habomo \"Le Paradis\", Mutsamudu, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51adad8ed25ba0454059b905a62e746827c0f00103f901756ff57901000000920317566965696c6c652076696c6c65206465204d6f726f6e69",
+      "name": "Vieille ville de Moroni",
+      "city": "Moroni",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7040114,
+        "lon": 43.2528022
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vieille ville de Moroni, Boulevard Karthala شارع القرطالة, Moroni, Hadouja هادوجا, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fb61f3a4ea84540593efe1c3059c226c0f00103f901aff69e650200000092031154726f752064752070726f7068c3a87465",
+      "name": "Trou du prophète",
+      "city": "Mboinkou",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3795867,
+        "lon": 43.3148873
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Trou du prophète, Route Nationale 3, Mboinkou, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519d1782774db3454059ec8db51a6dcc26c0f00103f90149e7497a0100000092031c50616e6f72616d6120647520526f6368657220647520447261676f6e",
+      "name": "Panorama du Rocher du Dragon",
+      "city": "Cembenoi-Lac-Salé",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3992699,
+        "lon": 43.4008016
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Panorama du Rocher du Dragon, Route Nationale 3, Cembenoi-Lac-Salé, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111346612f5ad45405979268f029f8627c0f00103f9015b59301d01000000920328506f696e742064652076756520737572206c652063726174c3a87265206475204b61727468616c61",
+      "name": "Point de vue sur le cratère du Karthala",
+      "city": "Mzaki مزاكي",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7629319,
+        "lon": 43.3590415
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Karthala Crater Viewpoint, Montée du Karthala الطريق الجبلية قرطالة, Mzaki مزاكي, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510369b57691b7454059e877abf8d06f27c0f00103f9014168c3900200000092030642616f626162",
+      "name": "Baobab",
+      "city": "Dimani",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7183912,
+        "lon": 43.4341267
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Baobab, Route Nationale 3, Dimani, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b76bf8cc48a34540599ae89898d37227c0f00103f9012a30167b0100000092032f526f75746520647520706f696e742064652064c3a9706172742076657273204b61727468616c612028333830206d29",
+      "name": "Route du point de départ vers Karthala (380 m)",
+      "city": "Bambao ya Djou",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7242706,
+        "lon": 43.2756592
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Starting Point Road to Karthala (380 m), Rue École Primaire Bis, Bambao ya Djou, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517f06e5c7a99e45405994dffd4c187027c0f00103f901dad71e6001000000",
+      "name": "Avenue du Président Ali Soilihi 1",
+      "city": "Moroni",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7189354,
+        "lon": 43.2395563
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Avenue du Président Ali Soilihi 1, Moroni, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cdd13eb1a9d4454059c3d89d49f6a728c0f00103f9013933037b010000009203124d6169736f6e204c6976696e6773746f6e65",
+      "name": "Maison Livingstone",
+      "city": "Moimbao",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -12.3280509,
+        "lon": 43.6614286
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison Livingstone, Route Nationale 32, Moimbao, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518b602d8892af45405964c0a3d7b0c026c0f00103f901ade7497a01000000920319506f696e7420646520767565206475204c61632053616cc3a9",
+      "name": "Point de vue du Lac Salé",
+      "city": "Cembenoi-Lac-Salé",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3763492,
+        "lon": 43.3716593
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Point de vue du Lac Salé, Route Nationale 3, Cembenoi-Lac-Salé, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108db995313aa4540599e65715a4b7827c0f00103f901b553167b0100000092031c46696e206465206c6120726f75746520347834202831353830206d29",
+      "name": "Fin de la route 4x4 (1580 m)",
+      "city": "Mzaki مزاكي",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7349499,
+        "lon": 43.3287148
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "End of the 4x4 road (1580 m), Montée du Karthala الطريق الجبلية قرطالة, Mzaki مزاكي, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510778d2c265ae4540591cc98a86318627c0f00103f901ef810a2503000000",
+      "name": "Montée du Karthala الطريق الجبلية قرطالة",
+      "city": "Mzaki مزاكي",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.7620966,
+        "lon": 43.3624805
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Montée du Karthala الطريق الجبلية قرطالة, Mzaki مزاكي, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519918816731a04540592758d240e26527c0f00103f901e53e9e9e00000000",
+      "name": "Rue de la Corniche شارع الكرنيش",
+      "city": "Moroni",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.6989918,
+        "lon": 43.2515077
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rue de la Corniche شارع الكرنيش, Moroni, Hadouja هادوجا, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d531f84553b345405966b098c750c826c0f00103f901e5e6497a01000000920310526f6368657220647520447261676f6e",
+      "name": "Rocher du Dragon",
+      "city": "Cembenoi-Lac-Salé",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3912413,
+        "lon": 43.4009788
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Dragon Rock, Route Nationale 3, Cembenoi-Lac-Salé, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518ce953d856a74540593f517ef733c526c0f00103f90139c324970100000092030c4772616e642042616f626162",
+      "name": "Grand Baobab",
+      "city": "Mitsamiouli",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.3851621,
+        "lon": 43.3073378
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Grand Baobab, Route Nationale 3, Mitsamiouli, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51235a3c0675a04540590da661f8886827c0f00103f901c9db157b0100000092033f56696575782063696d657469c3a872652069736c616d6971756520d985d982d8a8d8b1d8a920d8a5d8b3d984d8a7d985d98ad8a920d982d8afd98ad985d8a9",
+      "name": "Vieux cimetière islamique مقبرة إسلامية قديمة",
+      "city": "Moroni",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -11.70417,
+        "lon": 43.2535713
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Vieux cimetière islamique مقبرة إسلامية قديمة, Boulevard Karthala شارع القرطالة, Moroni, Hadouja هادوجا, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513138a23ad832464059cc7e7c858c5528c0f00102f90121fcf728000000009203074369746164656c",
+      "name": "Citadel",
+      "city": "Mutsamudu",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -12.167087718436413,
+        "lon": 44.397223786553134
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Citadel, Stairs to the citadel, Mutsamudu, Comoros",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c201881634ef454059fb134b8050bd28c0f00103f9016585027b010000009203124d6169736f6e2064657320546f7274756573",
+      "name": "Maison des Tortues",
+      "city": "Djando",
+      "country": "Comoros",
+      "country_code": "km",
+      "coordinates": {
+        "lat": -12.3697548,
+        "lon": 43.8687771
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison des Tortues, Route Régionale 302, Djando, Comoros",
+      "description": null,
+      "image": null
+    }
+  ]
+}

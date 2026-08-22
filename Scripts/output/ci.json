@@ -1,0 +1,2632 @@
+{
+  "country_code": "ci",
+  "country_name": "Côte d’Ivoire",
+  "boundary_place_id": "512c9a7395934516c059318d70a47df51f40f00101f9010bf1020000000000c0020b92030b49766f727920436f617374",
+  "count": 136,
+  "places": [
+    {
+      "place_id": "5150e48aa1bcc216c0599a1c0053e52e2340f00102f90176355617000000009203325369746520746f757265737469717565206465204b6f6e69202f20666f726765726f6e7320747261646974696f6e6e656c73",
+      "name": "Site tourestique de Koni / forgerons traditionnels",
+      "city": "Koni",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.591593354953421,
+        "lon": -5.690172695257459
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Site tourestique de Koni / forgerons traditionnels, Korhogo - Niellé, Koni, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159bcfd5eafad13c059e23fdd4081b71740f00103f90186176d1e0200000092033743656e7472616c65206f66662067726964206e616e6f2072c3a973656175204b616e67616b726f202845636c65722049766f6972652029",
+      "name": "Centrale off grid nano réseau Kangakro (Ecler Ivoire )",
+      "city": "Eticoon (Socrogbo)",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.929204,
+        "lon": -4.9196143
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centrale off grid nano réseau Kangakro (Ecler Ivoire ), Divo-Tissalé, Eticoon (Socrogbo), Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51769cecb0d3c913c0597606fcd0bb671f40f00103f9010ea7ba4f020000009203134b4f4e414e20204e274755455353414e4b524f",
+      "name": "KONAN  N'GUESSANKRO",
+      "city": "Sokolo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.8513024,
+        "lon": -4.9470966
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "KONAN  N'GUESSANKRO, Sokolo, Gbêkê, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510675dbcf73ed10c059c2c9ece2ec3c1640f00103f901c2f0260c010000009203106f7269656e74616c206772616e697465",
+      "name": "oriental granite",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5594974,
+        "lon": -4.2318871
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "oriental granite, Anyama, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c28fc591627b10c05984ff63d7ac791640f00103f901c4c3ac1201000000920312496e6469616e206372757368657220534742",
+      "name": "Indian crusher SGB",
+      "city": "Agnéby-Tiassa",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.6188234,
+        "lon": -4.1204932
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Indian crusher SGB, Agnéby-Tiassa, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51371f3240fdea10c059bb75a33440261640f00103f90104c0120c010000009203065133204e6577",
+      "name": "Q3 New",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5373543,
+        "lon": -4.2294817
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Q3 New, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51215624cbeeee10c05956c49f9740e01540f00103f901d2d6e40c010000009203045a332d33",
+      "name": "Z3-3",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4689964,
+        "lon": -4.2333328
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Z3-3, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b80d59935db710c059d59ddd1099c81740f00103f901521b627b010000009203074d6f6e206c6f74",
+      "name": "Mon lot",
+      "city": "Agboville",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.9458964,
+        "lon": -4.1790679
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Mon lot, A2, Agboville, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514a253ca1d7e710c05941e9b06774dc1540f00103f901d6da110a01000000",
+      "name": "Autoroute du Nord",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4652878,
+        "lon": -4.2264085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51cc8cc8c1b6ef10c059b17a76af49251640f00103f901eebf2c0b0100000092031243656e747265206f6620616c6c2063697465",
+      "name": "Centre of all cite",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5364139,
+        "lon": -4.2340956
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centre of all cite, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513059260d7fb70fc0594f05dcf3fc091540f00103f9015201d79c02000000",
+      "name": "Rue Kra Amani",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.259754,
+        "lon": -3.9645978
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rue Kra Amani, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bed82038d31110c0590979f30afa411540f00103f901e62dde1703000000",
+      "name": "Boulevard de la Paix",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3144304,
+        "lon": -4.0174073
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Boulevard de la Paix, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511e5abff4513110c0599f03cb1132081540f00103f901eab902230100000092031370796c6f6e6520313620767269646920796f70",
+      "name": "pylone 16 vridi yop",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2580035,
+        "lon": -4.0481642
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "pylone 16 vridi yop, Rue Odah Laurent, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510ef049cc581111c059ced60b4ff9f91540f00103f901883c23090100000092031276696c6c616765206368696566204261676f",
+      "name": "village chief Bago",
+      "city": "Bago",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4941151,
+        "lon": -4.2669403
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "village chief Bago, Autoroute du Nord, Bago, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d5d63ed3015f12c05976feedb25f4b2240f00103f901322507c9010000009203135a6f6e6520636f757075726520666f75636865",
+      "name": "Zone coupure fouche",
+      "city": "Kong",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.1472145,
+        "lon": -4.5927804
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Zone coupure fouche, B312, Kong, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51453af2f6d65612c059a28d6d63fdd01640f00103f9016679ad12010000009203146e6577206c616e6420666f722063727573686572",
+      "name": "new land for crusher",
+      "city": "Soukou-Obou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.7040916,
+        "lon": -4.5848044
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "new land for crusher, A3, Soukou-Obou, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d4b25a05d63612c0591e6a807797a01640f00103f901c2c3ac12010000009203154368696e6120637275736865722073696b656e7369",
+      "name": "China crusher sikensi",
+      "city": "Sikensi",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.6568278,
+        "lon": -4.5535508
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "China crusher sikensi, B108, Sikensi, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519c1320afac9910c0590e21f829d8801640f00103f901d2191e130100000092031b6f66666963652076696c6c61676520636869656620617a61676561",
+      "name": "office village chief azagea",
+      "city": "Azaguié Makouguié",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.6258246,
+        "lon": -4.1500728
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "office village chief azagea, Azaguié Makouguié, Agnéby-Tiassa, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51778ce1a073f510c0597d941117801e1640f00103f901ea657903010000009203024334",
+      "name": "C4",
+      "city": "Bago",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5297855,
+        "lon": -4.2396989
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "C4, Autoroute du Nord, Bago, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e3aa0b657f010c059d9d946f24be31540f00103f901265d7e07010000009203024d33",
+      "name": "M3",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4719694,
+        "lon": -4.2347096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "M3, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5175f6df9403771ec059bcb43c6aa76d2040f00103f9019865b62a0200000092031c5369746520c3a96f6c69656e205a61616c6120656e6572676f732031",
+      "name": "Site éolien Zaala energos 1",
+      "city": "Zaala",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.2141679,
+        "lon": -7.6162246
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site éolien Zaala energos 1, Zaala, Bafing, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b6d782de1bbb16c0597be706f98ff32240f00103f901e28fb33401000000920309536869656e2d6c6f77",
+      "name": "Shien-low",
+      "city": "Tangafla",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.4757078,
+        "lon": -5.6827235
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Shien-low, A12, Tangafla, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517fbb4791107012c0595cf86640624c2240f00102f901127dc13e000000009203174772616e6465204d6f737175c3a965206465204b6f6e67",
+      "name": "Grande Mosquée de Kong",
+      "city": "Kong",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.149187099999999,
+        "lon": -4.609438199999999
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Grande Mosquée de Kong, B312, Kong, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518337ff0af4fc17c0594591ff136d142340f00103f90180b33af901000000920314466162726963616e742064652062616c61666f6e",
+      "name": "Fabricant de balafon",
+      "city": "Tangafla",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.5398947,
+        "lon": -5.9970247
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fabricant de balafon, A12, Tangafla, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5120240b98c0ed08c05911f0b5b123832340f00103f901acf5e36c0100000092030c4b6f75616dc3a92079616172",
+      "name": "Kouamé yaar",
+      "city": "Lankaré",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.7561317,
+        "lon": -3.11609
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Kouamé yaar, Lankaré, Bounkani, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5114b2e47d83af05c059d84c32738e582040f00102f901147dc13e000000009203154d6f737175c3a96520646520536f726f62616e676f",
+      "name": "Mosquée de Sorobango",
+      "city": "Sorobango",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.172961807146223,
+        "lon": -2.7107000193993915
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Old Mosque of Sorobango, Sorobango, Gontougo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51963e74417d0315c059749593f540681b40f00103f901269f13bd02000000",
+      "name": "Route de Mami Adjoua",
+      "city": "Djahakro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 6.8518103,
+        "lon": -5.2534075
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Route de Mami Adjoua, Djahakro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515eeafb0a123210c059785f7053d38a1540f00102f901908c5e17000000009203134d6169736f6e206465206c61204e6174757265",
+      "name": "Maison de la Nature",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.385571769460391,
+        "lon": -4.048896953225805
+      },
+      "categories": [
+        "building",
+        "building.tourism",
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison de la Nature, Route du gouverneur Reste, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c87e710404f610c0596b234333f4e41540f00103f901462a3c070100000092030743697465204d31",
+      "name": "Cite M1",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4735878,
+        "lon": -4.2402497
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Cite M1, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d71eacb5e6651ac059bc15d39684051340f00103f90144e42d4b00000000920318456d626f7563687572652064752053616e2050c3a964726f",
+      "name": "Embouchure du San Pédro",
+      "city": "San-Pédro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 4.7553886,
+        "lon": -6.5995129
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Embouchure du San Pédro, Route du Port, San-Pédro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bf68ead044d30dc05972ab7bbf2cc81440f00103f901b2981433010000009203114c61204d6169736f6e2047616e616d6574",
+      "name": "La Maison Ganamet",
+      "city": "Grand-Bassam",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.1954832,
+        "lon": -3.7281586
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Ganamet House, Boulevard Louis Alphonse Bonhoure, Grand-Bassam, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f35bcf6b47ac16c059deb9e64471d92240f00103f901ec0b5ae800000000920318746973736572616e647320747261646974696f6e6e656c73",
+      "name": "tisserands traditionnels",
+      "city": "Waraniéné",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.4246923,
+        "lon": -5.6682412
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "tisserands traditionnels, Piste, Waraniéné, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b735d88aec6912c05902052857c2502240f00103f90116fde2cc0100000092030a466c6167656c6c652031",
+      "name": "Flagelle 1",
+      "city": "Kong",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.1577327,
+        "lon": -4.6034414
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Flagelle 1, B312, Kong, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519b7c694073d414c0591c1659219b2e2340f00103f901e64dffe10100000092031442415220286c65206d6f6e646520617261626529",
+      "name": "BAR (le monde arabe)",
+      "city": "Ferkéssédougou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.5910273,
+        "lon": -5.2074709
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "BAR (arabe world), A12, Ferkéssédougou, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517d073f7100251ac0595f07ce1951621d40f00103f9012a611dd90100000092030b4368616d702042696cc3a9",
+      "name": "Champ Bilé",
+      "city": "Vavoua",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.3460125,
+        "lon": -6.5361345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Champ Bilé, Vavoua, Haut-Sassandra, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515085e40929141dc0595338279b17b42140f00103f9010e73e41d0200000092032c43656e7472616c65206f66662d677269642053616e616e6b6f726f6261202845636c65722049766f69726529",
+      "name": "Centrale off-grid Sanankoroba (Ecler Ivoire)",
+      "city": "Sanankoroba",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.8517426,
+        "lon": -7.2696878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centrale off-grid Sanankoroba (Ecler Ivoire), Sanankoroba, Département de Odienné, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e8d3cf40d16916c0596728ee7893a72240f00103f90145a067f901000000920308506f746572696573",
+      "name": "Poteries",
+      "city": "M'Bolokaha",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.327297,
+        "lon": -5.6033373
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Poteries, B309, M'Bolokaha, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f0d0dd5def91ec059f0a1e991abb92040f00103f90185176d1e0200000092033243656e7472616c65206f66662067726964204f726f7373616e6973736f2d446f73736f202845636c65722049766f69726529",
+      "name": "Centrale off grid Orossanisso-Dosso (Ecler Ivoire)",
+      "city": "Dokonédou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.3626371,
+        "lon": -7.7440141
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centrale off grid Orossanisso-Dosso (Ecler Ivoire), Dokonédou, Bafing, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519a311697f49d17c059a10040040b422440f00102f901107dc13e0000000092032c4d6f737175c3a965206465204e616d62697261206f75204e616d626f757261206d697373697269206b6f726f",
+      "name": "Mosquée de Nambira ou Namboura missiri koro",
+      "city": "Nambira",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 10.1289903,
+        "lon": -5.904253349999999
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Mosquée de Nambira ou Namboura missiri koro, Nambira, Poro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51203a4e1b1f7712c0598067d6adf9a02240f00103f901015308d80100000092031f5369746520696e7374616c6c6174696f6e20706f6d706520736f6c61697265",
+      "name": "Site installation pompe solaire",
+      "city": "Paraka",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.3144049,
+        "lon": -4.6163296
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site installation pompe solaire, Paraka, Tchologo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d65d8f78686e13c0597e6e0d11dcd51e40f00103f901c86de1c3020000009203154c65732046616c61697365732064652042726f626f",
+      "name": "Les Falaises de Brobo",
+      "city": "Gbêkê",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.7088473,
+        "lon": -4.8578204
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Les Falaises de Brobo, Gbêkê, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ba391cf2bde0fc059454eba884a2e1540f00103f901c2a61e0e0100000092030d70726f7465696e2073686f616c",
+      "name": "protein shoal",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2952062,
+        "lon": -3.983482
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Prima, Rue Angeline Nadié, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518e1df928c8c40dc0590ae764f382fd2140f00103f90111e2de7b010000009203104d6172652061757820427566666c6573",
+      "name": "Mare aux Buffles",
+      "city": "Bounkani",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.9951397,
+        "lon": -3.7210849
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Mare aux Buffles, Piste Principale Bania-Gawi, Bounkani, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515609bbcdc01d16c059e8e73c19d2872140f00103f9018f8c18750200000092031342616e64616d61204e616265646a616b616861",
+      "name": "Bandama Nabedjakaha",
+      "city": "Nabédjakaha",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.7652748,
+        "lon": -5.5290558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Bandama Nabedjakaha, Nabédjakaha, Hambol, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f7fb6ab356e90fc0591202a898393b1540f00103f9019af99f110100000092030b6d6f746f72207061727473",
+      "name": "motor parts",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3078369,
+        "lon": -3.9889349
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "motor parts, Avenue Martin Luther King, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e46fabcbba7112c0598a6eb939d54b2240f00102f901117dc13e00000000920317506574697465204d6f737175c3a965206465204b6f6e67",
+      "name": "Petite Mosquée de Kong",
+      "city": "Kong",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.148111156354634,
+        "lon": -4.61106413110608
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Petite Mosquée de Kong, B312, Kong, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513a877ce1dfe115c05911fddafae9171c40f00103f90170dd43e202000000",
+      "name": "Kossou",
+      "city": "Kossou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.0233535,
+        "lon": -5.4705806
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kossou, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a0635122d35b14c059c3cc881c6cb31d40f00103f9015c331162020000009203084173736f616b726f",
+      "name": "Assoakro",
+      "city": "Djébonoua",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.4252171,
+        "lon": -5.0896726
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Assoakro, A3, Djébonoua, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516b555c6622b607c059e888d750c5942040f00103f901e5e904fa0100000092031b466f72c3aa742053616372c3a965206465204c414f5544492d4241",
+      "name": "Forêt Sacrée de LAOUDI-BA",
+      "city": "Kouassi-N'dawa",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.2905679,
+        "lon": -2.9639328
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Forêt Sacrée de LAOUDI-BA, Koutouba - Bondoukou, Kouassi-N'dawa, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ac13e17030ed10c05979083e61e4281640f00103f90136e6260c010000009203025134",
+      "name": "Q4",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5399337,
+        "lon": -4.2316301
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Q4, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51728ba16780c714c059aa7360f22e2e2440f00102f9010f7dc13e000000009203134d6f737175c3a965206465204b616f75617261",
+      "name": "Mosquée de Kaouara",
+      "city": "Kaouara",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 10.090201925538924,
+        "lon": -5.194825762972743
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Mosquée de Kaouara, A300E, Kaouara, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515a0cc3ec0aea10c059ae2cd15966291640f00103f901e9657903010000009203024332",
+      "name": "C2",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5404295,
+        "lon": -4.2285573
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "C2, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e895fc998b491ec059f9f5436cb0a81d40f00103f901e16e0f080200000092032d53696e6765732073616372c3a973206465206c6120466f7265742053616372c3a96520646520476265706c6575",
+      "name": "Singes sacrés de la Foret Sacrée de Gbepleu",
+      "city": "Man",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.4147355,
+        "lon": -7.5718216
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Singes sacrés de la Foret Sacrée de Gbepleu, Rue du Lycée Professionnel, Man, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5138f581e49deb10c059ed2f16e181241640f00103f901d2e0120c010000009203065132204e6577",
+      "name": "Q2 New",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5356517,
+        "lon": -4.2300945
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Q2 New, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51f3322f2c24ad13c059981d3dd928c61740f00103f901d50c6e1e0200000092032e43656e7472616c65206f66662067726964206e616e6f204e69656e656b726f202845636c65722049766f69726529",
+      "name": "Centrale off grid nano Nienekro (Ecler Ivoire)",
+      "city": "Eticoon (Socrogbo)",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.9435152,
+        "lon": -4.9190833
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centrale off grid nano Nienekro (Ecler Ivoire), Divo-Tissalé, Eticoon (Socrogbo), Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e041fd78f9ef10c0597ee60709ac271640f00103f9016de0120c010000009203064134204e6577",
+      "name": "A4 New",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5387422,
+        "lon": -4.2343501
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A4 New, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b95d1e21b91b10c059b2dd98f969c71540f00103f901e9642c200100000092032244657373696e617465757220506c616e204f75767261676573203039313638383732",
+      "name": "Dessinateur Plan Ouvrages 09168872",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4447402,
+        "lon": -4.0270734
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Designer As-Buildings, Rue 144, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ecc26a871af010c0593d4c56a071e41540f00103f901b378e40c010000009203025932",
+      "name": "Y2",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4730897,
+        "lon": -4.2344762
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Y2, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d4a3db088f610c059795d1a1aaae51540f00103f90189bd3c0701000000920314636172206c6f636174696f6e2073697465206d31",
+      "name": "car location site m1",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4742817,
+        "lon": -4.2407558
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "car location site m1, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51650ffe8f5dc30fc059c390e6d9f6871540f00103f901baa3470e010000009203064e657761797a",
+      "name": "Newayz",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3827776,
+        "lon": -3.9703933
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Newayz, Rue L187, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51938554f602a010c059eb98a9ff62841640f00103f9018d25d8a80200000092030f5465727261696e20617a6167756965",
+      "name": "Terrain azaguie",
+      "city": "Azaguié Makouguié",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.6292839,
+        "lon": -4.1562613
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Terrain azaguie, Azaguié Makouguié, Agnéby-Tiassa, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ef18c341e7ea10c05943e966da591f1640f00103f901d1e0120c010000009203024333",
+      "name": "C3",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5306162,
+        "lon": -4.2293978
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "C3, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51741b1e0c860410c05952aa8e66764f1540f00103f901cd4237ff00000000",
+      "name": "Avenue Hassan II",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3276001,
+        "lon": -4.0044176
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.sculpture"
+      ],
+      "formatted_address": "Avenue Hassan II, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bde5458199ca16c0591415600e71de2240f00103f901f95978f8010000009203125065726c6573206465204b6170c3a96cc3a9",
+      "name": "Perles de Kapélé",
+      "city": "Waraniéné",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.4344563,
+        "lon": -5.6978512
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Perles de Kapélé, Piste, Waraniéné, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dfa3fe7a85f510c05934fb97ffeb1f1640f00103f901edbf2c0b010000009203026334",
+      "name": "c4",
+      "city": "Bago",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5311737,
+        "lon": -4.239767
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "c4 correct, Autoroute du Nord, Bago, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51300b92e3f3a319c0591ee8a1b60dfb2440f00102f901157dc13e000000009203154d6f737175c3a9652064652054656e6772c3a96c61",
+      "name": "Mosquée de Tengréla",
+      "city": "Tengréla",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 10.490339000000002,
+        "lon": -6.41011005
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Mosquée de Tengréla, A5, Tengréla, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5111244ad63c7206c059c00303081f0e2040f00103f901bd7c60af0100000092030d43525420424f4e444f554b4f55",
+      "name": "CRT BONDOUKOU",
+      "city": "Bondoukou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.0275805,
+        "lon": -2.8057801
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "CRT BONDOUKOU, A1, Bondoukou, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519e1feb4e1cbd1dc059f6ce0df21fa71e40f00103f901ad1e7744010000009203054368616d70",
+      "name": "Champ",
+      "city": "Gan II",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.6632078,
+        "lon": -7.4346783
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Champ, Route, Gan II, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5108ab56cb42100ac059d5100b6b19d71540f00103f901d1dfb6040300000092031170726f7068c3a87465204173736f756261",
+      "name": "prophète Assouba",
+      "city": "Ayébo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4600579,
+        "lon": -3.2579399
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "prophète Assouba, A100, Ayébo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5187bdf506044f18c05990c07a3771d51340f00103f901bbbeabb5020000009203144d6169736f6e20647520676f757665726e657572",
+      "name": "Maison du gouverneur",
+      "city": "Sassandra",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 4.9584397,
+        "lon": -6.0771638
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Maison du gouverneur, San Pédro - Sassandra, Sassandra, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517c389b09e0a719c0596d7a1a301fc82340f00102f9010bfc5717000000009203114d6f737175c3a965206465204b6f75746f",
+      "name": "Mosquée de Kouto",
+      "city": "Gbon",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.890862944824415,
+        "lon": -6.413940572832981
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Mosquée de Kouto, A5, Gbon, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e1d05b3cbc1f1cc05924d5777e51321240f00103f901514719fe0100000092031350697363696e6573206e61747572656c6c6573",
+      "name": "Piscines naturelles",
+      "city": "San-Pédro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 4.549139,
+        "lon": -7.0309915
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Piscines naturelles, San-Pédro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e4141dc9e55710c05974dcdf8f91921540f00103f901a56029a00200000092031653434945524945204348494e4f4953205a6f6e652049",
+      "name": "SCIERIE CHINOIS Zone I",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3931334,
+        "lon": -4.0858375
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "SCIERIE CHINOIS Zone I, Route de prison, voie de Yopougon-N'Dotré, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51800ef3e505e810c059af66536463dc1540f00103f901d7da110a0100000092030763697465204d31",
+      "name": "cite M1",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4652229,
+        "lon": -4.226585
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "cite M1, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51dc87179f5d8916c05910f7a287ebe62240f00103f9017558c8ca02000000",
+      "name": "Jaime Korhogo",
+      "city": "Korhogo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.4510157,
+        "lon": -5.6341462
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Jaime Korhogo, A12, Korhogo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515dead621ed450bc0593e18c27b58991440f00103f9017559c0200100000092030c746f6666206c6f6973697273",
+      "name": "toff loisirs",
+      "city": "Assinie-Mafia",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.1497516,
+        "lon": -3.4091437
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "toff loisirs, Route Assouindé-Assinie-Mafia, Assinie-Mafia, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517edf64c0feb015c0592bbc708c09762140f00103f9012b8c18750200000092030753696e6b616861",
+      "name": "Sinkaha",
+      "city": "Sinkaha",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.7305416,
+        "lon": -5.4228468
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Sinkaha, Hambol, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51320ee48f58b916c059910a630b41f22240f00103f90199145be800000000",
+      "name": "A12",
+      "city": "Tangafla",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.4731525,
+        "lon": -5.6810019
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A12, Tangafla, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51678b5a50ce760fc05957f77e5990041540f00103f9016516a30c01000000920307616972706f7274",
+      "name": "airport",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2544569,
+        "lon": -3.9330107
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "airport, Rue des Irokos, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510d5762f94e1f15c0592d9b94dd274a1b40f00103f9017fe0e5600000000092031e4c65732043726f636f64696c65732064652059616d6f7573736f756b726f",
+      "name": "Les Crocodiles de Yamoussoukro",
+      "city": "Yamoussoukro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 6.8224177,
+        "lon": -5.2805747
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Les Crocodiles de Yamoussoukro, Rue des Maquis, Yamoussoukro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51662a696a7e711ec059068a0e3796361d40f00103f901818bc12f0300000092030b626f73736f206831303030",
+      "name": "bosso h1000",
+      "city": "Gongouiné II",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.3033074,
+        "lon": -7.6108338
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "bosso h1000, Route Man-Duékoué, Gongouiné II, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51224619bb8e3a1dc059558440d3b7d52140f00103f9017373e41d0200000092033043656e7472616c6520736f6c61697265206f66662d6772696420446167616261202845636c65722049766f6972652029",
+      "name": "Centrale solaire off-grid Dagaba (Ecler Ivoire )",
+      "city": "Dagaba",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 8.9174181,
+        "lon": -7.3071851
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centrale solaire off-grid Dagaba (Ecler Ivoire ), Dagaba, Département de Odienné, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519160aa99b50410c059e1760d9f19211540f00103f901850e4ba002000000920313534349455249452054726569636876696c6c65",
+      "name": "SCIERIE Treichville",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2823243,
+        "lon": -4.004599
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "SCIERIE Treichville, Rue Moriféré Soumaoro, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "517874c872b7f010c0595cd71eacb5261640f00103f901c1f0260c010000009203024133",
+      "name": "A3",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5378024,
+        "lon": -4.2350748
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A3, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51727385d2725b16c059bd94151e8ff42240f00103f901c54473370100000092030a434f5452204146205341",
+      "name": "COTR AF SA",
+      "city": "Korhogo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.4776544,
+        "lon": -5.5893052
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "COTR AF SA, A12, Korhogo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51759dfccc0f6a11c05955432cac65ac1540f00103f901be2f49240100000092030f5354204a4f534550482045504f5558",
+      "name": "ST JOSEPH EPOUX",
+      "city": "Vieil Aklodj",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4183566,
+        "lon": -4.3535759
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "ST JOSEPH EPOUX, Vieil Aklodj, Grands-Ponts, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51af8273a14dc90ec059c014d4a6a0411540f00103f901e9af763b0200000092031456696c6c61676520416b6f75c3aa2d416762616e",
+      "name": "Village Akouê-Agban",
+      "city": "Bingerville",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3140894,
+        "lon": -3.8482926
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Village Akouê-Agban, Boulevard Dominique Ouattara, Bingerville, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5164ca197fee3c1ec059413ab3ea35a32340f00102f901137dc13e000000009203244d6f737175c3a9652064652053616d6174696775696c61206f75204d6973736972696261",
+      "name": "Mosquée de Samatiguila ou Missiriba",
+      "city": "Samatiguila",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.818770727518428,
+        "lon": -7.5595035418979
+      },
+      "categories": [
+        "building",
+        "building.historic",
+        "building.place_of_worship",
+        "building.tourism",
+        "heritage",
+        "heritage.unesco",
+        "tourism",
+        "tourism.attraction",
+        "tourism.sights",
+        "tourism.sights.place_of_worship.mosque"
+      ],
+      "formatted_address": "Mosquée de Samatiguila ou Missiriba, A7, Samatiguila, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51bb4ca83baae50fc059d9716836349a1540f00103f9017a82de1b0100000092030d4d6169736f6e20616e6772c3a9",
+      "name": "Maison angré",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4005898,
+        "lon": -3.9871411
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Maison angré, Rue L148, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b958ac3cdc690fc0594051346a192c1640f00103f9014b96264f0100000092030c477265656e2056616c6c6579",
+      "name": "Green Valley",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5430657,
+        "lon": -3.9266896
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Green Valley, Route d'Alépé, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d39ffd48115112c05935a039460da11640f00103f901c3c3ac1201000000920312536f64656d69205261686f6c20686f757365",
+      "name": "Sodemi Rahol house",
+      "city": "Kroufian",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.6572772,
+        "lon": -4.5791675
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sodemi Rahol house, A3, Kroufian, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519ea921bb1cf010c059687ae46abf281640f00103f90103c0120c010000009203024134",
+      "name": "A4",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5397927,
+        "lon": -4.2344846
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A4, A3, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5116ac27a9023c10c0596baf4f4a52fb1540f00103f901275d7e0701000000920319536f75732d2070726566656374757265206427416e79616d61",
+      "name": "Sous- prefecture d'Anyama",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4954311,
+        "lon": -4.0586039
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Sous- prefecture d'Anyama, Rue Col-Maj Kouamé Brou, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e9baf083f36912c0594a89134ec1502240f00103f90115fde2cc0100000092030a5a6f6d616e6472652031",
+      "name": "Zomandre 1",
+      "city": "Kong",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 9.1577248,
+        "lon": -4.603468
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Zomandre 1, B312, Kong, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51d66ebbd05cb70fc059a56ec218ec091540f00103f9015301d79c02000000",
+      "name": "Rue Kra Amani",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2596897,
+        "lon": -3.9645325
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork",
+        "tourism.attraction.artwork.statue"
+      ],
+      "formatted_address": "Rue Kra Amani, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51076d8324fd871ac059e485747808f31240f00103f90121ad4c490100000092031243656e7472616c2053616e2d50c3a964726f",
+      "name": "Central San-Pédro",
+      "city": "San-Pédro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 4.737337,
+        "lon": -6.6328016
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Central San-Pédro, Rue de la République, San-Pédro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e99b340d8a861ac0592e41a1f9f72c1740f00103f901b9a1a6fd01000000920311436875746573206465206c61204e617761",
+      "name": "Chutes de la Nawa",
+      "city": "Galéa 1",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.7939147,
+        "lon": -6.631386
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Nawa waterfall, route d'accés au barrage de Soubré, Galéa 1, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5157a30d76796918c0591a790f86f0c61340f00103f901899d7aad0100000092032353697465204c616e63656d656e7420646520547261766175782053617373616e647261",
+      "name": "Site Lancement de Travaux Sassandra",
+      "city": "6 kilos",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 4.9442769,
+        "lon": -6.1030024
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site Lancement de Travaux Sassandra, San Pédro - Sassandra, 6 kilos, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a114addc0bec10c059cb0ef10f5b221640f00103f90135e1120c010000009203025131",
+      "name": "Q1",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5335505,
+        "lon": -4.230514
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Q1, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "518847e2e5e9dc0fc059aa32e774b41d1540f00103f9015c9eb2e50200000092030e6368696e6f6973206d61636f7279",
+      "name": "chinois macory",
+      "city": "Abia-Abety",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2790087,
+        "lon": -3.982868
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "chinois macory, Boulevard Phillipe Grégoire Yacé, Abia-Abety, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5159c40b7d0bf610c0597fcb52a170dc1540f00103f90151be3c070100000092030763697465206d34",
+      "name": "cite m4",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4652734,
+        "lon": -4.2402782
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "cite m4, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51caf6c6b546e915c059e40fabe408261c40f00103f9015b4b67dc0100000092030a4b6f73736f752044616d",
+      "name": "Kossou Dam",
+      "city": "Marahoué",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.0371433,
+        "lon": -5.4778088
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Kossou Dam, Marahoué, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51b55abb48fcf510c059943ab7bf69281640f00103f90115677903010000009203024331",
+      "name": "C1",
+      "city": "Bago",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.5394659,
+        "lon": -4.2402202
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "C1, Autoroute du Nord, Bago, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5127c68db6851211c059437bab64b6da1540f00103f901c7d795060100000092031b76696c6c616765206368656620736f6e676f20326e642073697465",
+      "name": "village chef songo 2nd site",
+      "city": "Bago",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4635864,
+        "lon": -4.2680882
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "village chef songo 2nd site, Autoroute du Nord, Bago, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5118d23cdbfe5013c059d306712f7a981e40f00103f9014b4f9c1002000000",
+      "name": "A8",
+      "city": "Brobo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.6489036,
+        "lon": -4.8290972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "A8, Brobo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "515197d6f03ec80dc05952c02ca347c21440f00103f901f104b7f10200000092031b456d626f75636875726520647520666c6575766520436f6d6fc3ab",
+      "name": "Embouchure du fleuve Comoë",
+      "city": "Grand-Bassam",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.1897264,
+        "lon": -3.7227763
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Embouchure du fleuve Comoë, Rue de l'Abissa, Grand-Bassam, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "514e10d0d8f21d16c059c8f4dfde90991b40f00103f9019d225dc60200000092030d4c6120436f6e666c75656e6365",
+      "name": "La Confluence",
+      "city": "Toumbokro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 6.8999667,
+        "lon": -5.5292467
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "La Confluence, A6, Toumbokro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511b67d311c04514c059f1d35d7e4cf81a40f00103f9018390acc302000000",
+      "name": "Route Toumodi-Abli",
+      "city": "Kétékré Bonikro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 6.7424793,
+        "lon": -5.0681155
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Route Toumodi-Abli, Kétékré Bonikro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "513132b7312c0d10c059c97f379325491540f00103f9012f1e3aff0000000092030443706563",
+      "name": "Cpec",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3214324,
+        "lon": -4.0128639
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Cpec, Avenue Abdoulaye Fadiga, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510202e7d6b5a710c0591c284b08b1861640f00103f90181501e13010000009203156d6f756e7461696e2062656e636820617a61677565",
+      "name": "mountain bench azague",
+      "city": "Azaguié Makouguié",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.6315347,
+        "lon": -4.1637796
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "mountain bench azague, Azaguié Makouguié, Agnéby-Tiassa, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5198970d7c56730fc0599cf28d8de5521540f00103f90129784a9b01000000920309506172616469736961",
+      "name": "Paradisia",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3309538,
+        "lon": -3.9313173
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Paradisia, Rue Kéké Alain Adjoungoua, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "519917bbd80f3410c0597d23ba675d8b1540f00103f901c9bea4eb00000000920318506172636f757273206465206c274578706f726174657572",
+      "name": "Parcours de l'Exporateur",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3860985,
+        "lon": -4.0508417
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Parcours de l'Exporateur, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c4115ac5d1f310c05931009efefde31540f00103f90129e6440c010000009203067931206e6577",
+      "name": "y1 new",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4726486,
+        "lon": -4.2381049
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "y1 new, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c42c0f2d0dd70fc0593ff960be616f1540f00103f9018d14fd5f0100000092031066616973657572206465207374617273",
+      "name": "faiseur de stars",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3587713,
+        "lon": -3.9800056
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "faiseur de stars, Rue Dr Amalatchy Jacqueline N'cho, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5171c6d56df5b110c059a71f798c975b1540f00103f901e72821090100000092031c4d696e736974727920416772696c63756c7475726520736f6e676f6e",
+      "name": "Minsitry Agrilculture songon",
+      "city": "Adiapo Moronou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3394453,
+        "lon": -4.1737878
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Minsitry Agrilculture songon, Boulevard Koui Mamadou, Adiapo Moronou, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512f6d382c0dcc0ec05998d1d9136e431540f00103f901d1fe763b0200000092030e5369746520322064652036206861",
+      "name": "Site 2 de 6 ha",
+      "city": "Bingerville",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3158496,
+        "lon": -3.8496345
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Site 2 de 6 ha, Boulevard Dominique Ouattara, Bingerville, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "510470b378b13820c059529b38b9df511c40f00103f901ebe760d8010000009203144e61747572616c20627269646765204c69616e61",
+      "name": "Natural bridge Liana",
+      "city": "Vatouo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.079955,
+        "lon": -8.110729
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Natural bridge Liana, Pont de Lianes, Vatouo, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51e71a66683c8915c059d80b056c07f31a40f00103f90141348f680100000092030c4f626a656374696620524641",
+      "name": "Objectif RFA",
+      "city": "Loukoukro",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 6.737333,
+        "lon": -5.3840195
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Objectif RFA, Sinfra-Yamoussoukro, Loukoukro, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5196d05d1267ed10c0594597dccdf8e31540f00103f90101c99a0c010000009203067933206e6577",
+      "name": "y3 new",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4726288,
+        "lon": -4.2318385
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "y3 new, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511a75633035d80fc05982ecab61751a1540f00103f901eb3530380100000092030c556e697665727320416b616e",
+      "name": "Univers Akan",
+      "city": "Abia-Abety",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2758384,
+        "lon": -3.9805702
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Univers Akan, Boulevard Phillipe Grégoire Yacé, Abia-Abety, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5119a7c6f07da613c0594e9cdcef50a41740f00103f9014d186d1e0200000092033b43656e7472616c6520736f6c61697265206f66662d6772696620646962796b726f2d62726168696d616b726f202845636c65722049766f69726529",
+      "name": "Centrale solaire off-grif dibykro-brahimakro (Ecler Ivoire)",
+      "city": "Eticoon (Socrogbo)",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.910465,
+        "lon": -4.9125898
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centrale solaire off-grif dibykro-brahimakro (Ecler Ivoire), Divo-Tissalé, Eticoon (Socrogbo), Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51fd82ddb06d210fc059e2cd757522041540f00103f9010db2a783010000009203334d697373696f6e20696e7465726e6174696f6e616c2063656e74726520646520666f726d6174696f6e20706173746f72616c65",
+      "name": "Mission international centre de formation pastorale",
+      "city": "Gonzagueville",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2540377,
+        "lon": -3.8913225
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Mission international centre de formation pastorale, Rue Louis Degonzague, Gonzagueville, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51c029070ec30210c0594413cda89e791540f00103f901e166bec80200000092030f4c69657520646520707269c3a87265",
+      "name": "Lieu de prière",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3687693,
+        "lon": -4.0026972
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Lieu de prière, Rue K103, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ec7eba2649dc0fc059e395da41db901540f00103f901c0fddc130200000092030f466162726971756520737461747574",
+      "name": "Fabrique statut",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3914614,
+        "lon": -3.9825614
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Fabrique statut, Rue L84, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516fe12f1cbedb0fc0590be3b89dc72a1540f00103f901c3d675910000000092030d47616c6572696520416d616e69",
+      "name": "Galerie Amani",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2917771,
+        "lon": -3.9822962
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Galerie Amani, Avenue Amadou Thiam, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5174000eebd7e710c05926c808a870dc1540f00103f9019948120a0100000092030743697465204d34",
+      "name": "Cite M4",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4652735,
+        "lon": -4.2264096
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "nukyoanho, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51503d2d9a29e810c05965b7859d18e81540f00103f90179677903010000009203024d32",
+      "name": "M2",
+      "city": "Anyama",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.4766564,
+        "lon": -4.2267212
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "M2, Autoroute du Nord, Anyama, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512ae44a3d0b8a1ec0593ba69311bcce1d40f00103f90147ae5e1001000000",
+      "name": "A7",
+      "city": "Gagouin",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.4518893,
+        "lon": -7.6348085
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "A7, Gagouin, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51a2a5e14a2cef10c05982644ba0d2e21440f00103f9019961d0fd0000000092030a416272656279204c6163",
+      "name": "Abreby Lac",
+      "city": "Avagou",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2215066,
+        "lon": -4.2335674
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Abreby Lac, Boulevard Henriette Dagri Diabaté, Avagou, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "516045a1c096f20fc059cf70b9b0242f1540f00103f901cd69c80d010000009203155472616e7369746f7220436f7465205a6f6e652033",
+      "name": "Transitor Cote Zone 3",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2960384,
+        "lon": -3.9934516
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Transitor Cote Zone 3, Boulevard du Canal, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5143869f49acb60fc0591d3e44fef40a1540f00103f9019df86daa0100000092031b43656e7472652050696c6f746520646520506f72742d426f756574",
+      "name": "Centre Pilote de Port-Bouet",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2607002,
+        "lon": -3.9641958
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Centre Pilote de Port-Bouet, Avenue Marie Koré, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "5144e44fafefce0fc059e1b37570b0171540f00103f9014133890f01000000920312544e5420636f7572696572206f6666696365",
+      "name": "TNT courier office",
+      "city": "Abia-Abety",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.273134,
+        "lon": -3.9760431
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "TNT courier office, Boulevard Phillipe Grégoire Yacé, Abia-Abety, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51ad7eb61f3a0610c059f499fdcbff2d1540f00103f901a95794420100000092030441726173",
+      "name": "Aras",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2949211,
+        "lon": -4.0060811
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "Aras, Avenue Françis Wodié, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "51715bb631d1db0fc0596cfcd357a12a1540f00103f901099e8ebc0200000092031447414c455279206427617274204d6172636f7279",
+      "name": "GALERy d'art Marcory",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.2916311,
+        "lon": -3.9823326
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.artwork"
+      ],
+      "formatted_address": "GALERy d'art Marcory, Rue Berté Siaka, Abidjan, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "511c823eece0eb10c059d2f01c80c34a1540f00103f901f104311f01000000",
+      "name": "Rocade Y4",
+      "city": "Adonkoi",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 5.3230114,
+        "lon": -4.2303502
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction",
+        "tourism.attraction.viewpoint"
+      ],
+      "formatted_address": "Rocade Y4, Adonkoi, Ivory Coast",
+      "description": null,
+      "image": null
+    },
+    {
+      "place_id": "512511d033ac3820c0599ba0979bb9511c40f00103f90143a7bebc0000000092030e506f6e74206465206c69616e6573",
+      "name": "Pont de lianes",
+      "city": "Vatouo",
+      "country": "Ivory Coast",
+      "country_code": "ci",
+      "coordinates": {
+        "lat": 7.0798096,
+        "lon": -8.1106888
+      },
+      "categories": [
+        "tourism",
+        "tourism.attraction"
+      ],
+      "formatted_address": "Pont de lianes, Pont de Lianes, Vatouo, Ivory Coast",
+      "description": null,
+      "image": null
+    }
+  ]
+}

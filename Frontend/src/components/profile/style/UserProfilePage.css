@@ -277,6 +277,28 @@
   transform: translateY(-1px);
 }
 
+.logout-profile-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 18px;
+  border-radius: 10px;
+  background: rgba(239, 68, 68, 0.14);
+  color: #f87171;
+  font-weight: 700;
+  font-size: 13.5px;
+  border: 1px solid rgba(239, 68, 68, 0.35);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.logout-profile-action-btn:hover {
+  background: rgba(239, 68, 68, 0.24);
+  border-color: #ef4444;
+  color: #fca5a5;
+  transform: translateY(-1px);
+}
+
 .user-bio-text {
   font-size: 14px;
   line-height: 1.6;

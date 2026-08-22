@@ -1,4 +1,12 @@
 import mongoose from 'mongoose';
+import dns from 'dns';
+
+// Configure DNS servers for reliable MongoDB Atlas SRV resolution
+try {
+  dns.setServers(['8.8.8.8', '8.8.4.4', '1.1.1.1']);
+} catch (err) {
+  console.warn('[MongoDB] Failed to set custom DNS servers:', err.message);
+}
 
 /**
  * Connect to MongoDB database using Mongoose

@@ -178,7 +178,7 @@ const EXPLORE_PLACES_CITIES = [
     name: 'Paris',
     country: 'France',
     attractions: 'Eiffel Tower · Louvre Museum · Notre-Dame · Montmartre',
-    image: loginImg3,
+    image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80',
     tripsPlanned: '145k planned'
   },
   {
@@ -186,7 +186,7 @@ const EXPLORE_PLACES_CITIES = [
     name: 'Tokyo',
     country: 'Japan',
     attractions: 'Tokyo Tower · Senso-ji Temple · Shibuya Crossing · Shinjuku',
-    image: loginImg2,
+    image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80',
     tripsPlanned: '182k planned'
   },
   {
@@ -194,7 +194,7 @@ const EXPLORE_PLACES_CITIES = [
     name: 'New York City',
     country: 'United States',
     attractions: 'Statue of Liberty · Central Park · Times Square · Brooklyn Bridge',
-    image: homeImg1,
+    image: 'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=80',
     tripsPlanned: '210k planned'
   },
   {
@@ -202,7 +202,7 @@ const EXPLORE_PLACES_CITIES = [
     name: 'Rome',
     country: 'Italy',
     attractions: 'Colosseum · Vatican City · Pantheon · Trevi Fountain',
-    image: homeImg2,
+    image: 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80',
     tripsPlanned: '128k planned'
   },
   {
@@ -210,7 +210,7 @@ const EXPLORE_PLACES_CITIES = [
     name: 'Bangkok',
     country: 'Thailand',
     attractions: 'Grand Palace · Wat Arun · Chatuchak Market · Chao Phraya',
-    image: homeImg3,
+    image: 'https://images.unsplash.com/photo-1563492065599-3520f775eeed?auto=format&fit=crop&w=800&q=80',
     tripsPlanned: '94k planned'
   },
   {
@@ -218,7 +218,7 @@ const EXPLORE_PLACES_CITIES = [
     name: 'London',
     country: 'United Kingdom',
     attractions: 'Tower of London · British Museum · Buckingham Palace · Big Ben',
-    image: loginImg1,
+    image: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80',
     tripsPlanned: '168k planned'
   }
 ];
@@ -230,7 +230,7 @@ const COMMUNITY_TRAVEL_GUIDES = [
     author: 'Elisa Li',
     views: '105,590 views',
     saves: '514 saves',
-    image: loginImg3,
+    image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80',
     summary: 'Studied abroad in Paris and visited 6 times. Complete walking guide from historic Latin Quarter cafes to hidden sunset viewpoints.'
   },
   {
@@ -239,7 +239,7 @@ const COMMUNITY_TRAVEL_GUIDES = [
     author: 'Tuyet Sato',
     views: '36,112 views',
     saves: '691 saves',
-    image: loginImg2,
+    image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80',
     summary: 'Spent 3 months in Tokyo, Kyoto, and Osaka. Contains all the best arcade districts, themed cafes, and quiet bamboo gardens.'
   },
   {
@@ -248,7 +248,7 @@ const COMMUNITY_TRAVEL_GUIDES = [
     author: 'Marcus Vance',
     views: '48,220 views',
     saves: '820 saves',
-    image: homeImg1,
+    image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80',
     summary: 'Everything you need to know about navigating the Berner Oberland, Jungfraujoch cogwheel trains, and staying in alpine huts.'
   },
   {
@@ -257,7 +257,7 @@ const COMMUNITY_TRAVEL_GUIDES = [
     author: 'Gillian Morris',
     views: '28,075 views',
     saves: '342 saves',
-    image: homeImg2,
+    image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=800&q=80',
     summary: 'Scenic driving route from Bergen through Geirangerfjord up to the Arctic Circle in Tromsø.'
   }
 ];

@@ -30,7 +30,8 @@ import {
   Trash2,
   Bookmark,
   Award,
-  Luggage
+  Luggage,
+  LogOut
 } from 'lucide-react';
 import './style/UserProfilePage.css';
 
@@ -312,6 +313,18 @@ const UserProfilePage = () => {
     setTimeout(() => setToastMessage(''), 3500);
   };
 
+  const handleLogout = async () => {
+    try {
+      await axiosInstance.post('/auth/logout');
+    } catch (err) {
+      console.error('Logout error:', err);
+    } finally {
+      localStorage.removeItem('token');
+      localStorage.removeItem('user');
+      navigate('/login');
+    }
+  };
+
   // Total Statistics Calculations
   const totalTripsCount = preplannedTrips.length + previousTrips.length;
   const countriesCount = 8;
@@ -402,6 +415,15 @@ const UserProfilePage = () => {
                     >
                       <Edit3 size={15} />
                       <span>Edit Profile</span>
+                    </button>
+                    <button
+                      type="button"
+                      className="logout-profile-action-btn"
+                      onClick={handleLogout}
+                      title="Log Out"
+                    >
+                      <LogOut size={15} />
+                      <span>Log Out</span>
                     </button>
                   </div>
                 </div>

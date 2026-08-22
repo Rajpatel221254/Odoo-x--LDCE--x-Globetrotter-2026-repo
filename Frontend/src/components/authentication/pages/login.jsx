@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import './style/login.css';
 import { Eye, EyeOff, ArrowRight, AlertCircle, Camera, User } from 'lucide-react';
+import axiosInstance from '../../../api/axiosInstance.js';
 
 import loginImage1 from '../../../assets/login_image_1.jpg';
 import loginImage2 from '../../../assets/login_image_2.jpg';
@@ -42,6 +43,7 @@ const LoginPage = () => {
   const [password, setPassword] = useState('');
   const [additionalInfo, setAdditionalInfo] = useState('');
   const [avatarPreview, setAvatarPreview] = useState(null);
+  const [avatarFile, setAvatarFile] = useState(null);
 
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
@@ -58,6 +60,7 @@ const LoginPage = () => {
   const handleAvatarChange = (e) => {
     const file = e.target.files?.[0];
     if (file) {
+      setAvatarFile(file);
       const reader = new FileReader();
       reader.onloadend = () => {
         setAvatarPreview(reader.result);
@@ -71,16 +74,54 @@ const LoginPage = () => {
     setError('');
     setLoading(true);
 
-    setTimeout(() => {
-      setLoading(false);
-      if (!isLogin) {
-        // If registering, navigate to login on completion
-        navigate('/login');
+    try {
+      if (isLogin) {
+        // Login API Call
+        const response = await axiosInstance.post('/auth/login', {
+          email,
+          password
+        });
+        
+        const { token, data } = response.data;
+        localStorage.setItem('token', token);
+        localStorage.setItem('user', JSON.stringify(data));
+        
+        setLoading(false);
+        navigate('/');
       } else {
-        // Successful login
+        // Registration API Call using FormData for multipart/form-data
+        const formData = new FormData();
+        formData.append('firstName', firstName);
+        formData.append('lastName', lastName);
+        formData.append('email', email);
+        formData.append('phoneNumber', phone);
+        formData.append('password', password);
+        
+        if (city) formData.append('city', city);
+        if (country) formData.append('country', country);
+        if (additionalInfo) formData.append('additionalInfo', additionalInfo);
+        if (avatarFile) {
+          formData.append('profilePhoto', avatarFile);
+        }
+
+        const response = await axiosInstance.post('/auth/register', formData, {
+          headers: {
+            'Content-Type': 'multipart/form-data'
+          }
+        });
+
+        const { token, data } = response.data;
+        localStorage.setItem('token', token);
+        localStorage.setItem('user', JSON.stringify(data));
+
+        setLoading(false);
         navigate('/');
       }
-    }, 800);
+    } catch (err) {
+      setLoading(false);
+      console.error('Auth error:', err);
+      setError(err.response?.data?.message || err.message || 'An error occurred during authentication.');
+    }
   };
 
   const handleGoogleLogin = () => {

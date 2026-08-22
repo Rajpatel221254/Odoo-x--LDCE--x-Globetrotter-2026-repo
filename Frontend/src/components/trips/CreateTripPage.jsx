@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import axiosInstance from '../../api/axiosInstance.js';
 import TripMap from './TripMap.jsx';
 import {
   Calendar,
@@ -458,7 +459,8 @@ const CreateTripPage = () => {
   }, [destinationInput]);
 
   // Select Destination and update Map Center, Title, Cover, Attractions, Restaurants & Hotels
-  const selectDestinationItem = (dest) => {
+  // Select Destination and update Map Center, Title, Cover, Attractions, Restaurants & Hotels
+  const selectDestinationItem = async (dest) => {
     const rawKey = (dest.key || dest.name.split(',')[0]).toLowerCase().trim();
     const shortName = dest.name.split(',')[0].trim();
     
@@ -470,8 +472,6 @@ const CreateTripPage = () => {
     const lng = dest.lng || (matchedDB ? matchedDB.lng : 77.2090);
     const coverImage = matchedDB ? matchedDB.coverImage : 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80';
 
-    const cityData = getDynamicPlacesForCity(shortName, lat, lng, matchedDB, coverImage);
-
     setDestinationInput(dest.name);
     setSelectedDestination({
       name: dest.name,
@@ -482,16 +482,58 @@ const CreateTripPage = () => {
     });
 
     setTripTitle(`Trip to ${shortName}`);
-    setRecommendedPlaces(cityData.attractions);
-    setMyPlaces(cityData.attractions);
-
-    setRecommendedRestaurants(cityData.restaurants);
-    setMyRestaurants(cityData.restaurants.slice(0, 2));
-
-    setRecommendedHotels(cityData.hotels);
-    setMyHotels(cityData.hotels.slice(0, 1));
-
     setShowSuggestions(false);
+
+    try {
+      // Query backend for real places/activities in this city
+      const response = await axiosInstance.get(`/places?cityId=${encodeURIComponent(shortName)}&limit=100`);
+      if (response.data.success && response.data.data && response.data.data.length > 0) {
+        const dbPlaces = response.data.data;
+        
+        const attractions = dbPlaces.filter(p => !['restaurant', 'food', 'cafe', 'hotel', 'stay', 'accommodation'].includes(p.category?.toLowerCase()));
+        const restaurants = dbPlaces.filter(p => ['restaurant', 'food', 'cafe', 'bar'].includes(p.category?.toLowerCase()));
+        const hotels = dbPlaces.filter(p => ['hotel', 'stay', 'accommodation', 'resort'].includes(p.category?.toLowerCase()));
+
+        const mapToFrontend = (item) => ({
+          id: item._id,
+          name: item.name,
+          category: item.category || 'Sightseeing',
+          image: item.image || coverImage,
+          lat: item.latitude || lat,
+          lng: item.longitude || lng,
+          rating: 4.8,
+          cost: item.estimatedCost ? `₹${item.estimatedCost}` : 'Free',
+          icon: item.category === 'Park' ? '🌳' : '🏛️',
+          color: '#f05a36'
+        });
+
+        setRecommendedPlaces(attractions.map(mapToFrontend));
+        setMyPlaces(attractions.map(mapToFrontend));
+
+        setRecommendedRestaurants(restaurants.map(mapToFrontend));
+        setMyRestaurants(restaurants.map(mapToFrontend).slice(0, 2));
+
+        setRecommendedHotels(hotels.map(mapToFrontend));
+        setMyHotels(hotels.map(mapToFrontend).slice(0, 1));
+      } else {
+        const cityData = getDynamicPlacesForCity(shortName, lat, lng, matchedDB, coverImage);
+        setRecommendedPlaces(cityData.attractions);
+        setMyPlaces(cityData.attractions);
+        setRecommendedRestaurants(cityData.restaurants);
+        setMyRestaurants(cityData.restaurants.slice(0, 2));
+        setRecommendedHotels(cityData.hotels);
+        setMyHotels(cityData.hotels.slice(0, 1));
+      }
+    } catch (error) {
+      console.warn('[CreateTripPage] Failed to fetch places from backend, falling back to mock generator:', error);
+      const cityData = getDynamicPlacesForCity(shortName, lat, lng, matchedDB, coverImage);
+      setRecommendedPlaces(cityData.attractions);
+      setMyPlaces(cityData.attractions);
+      setRecommendedRestaurants(cityData.restaurants);
+      setMyRestaurants(cityData.restaurants.slice(0, 2));
+      setRecommendedHotels(cityData.hotels);
+      setMyHotels(cityData.hotels.slice(0, 1));
+    }
   };
 
   // Calendar Helpers
@@ -691,6 +733,38 @@ const CreateTripPage = () => {
     const aiMsg = { sender: 'ai', text: reply };
     setAiChatLog([...aiChatLog, userMsg, aiMsg]);
     setAiPrompt('');
+  };
+
+  const handleStartPlanning = async () => {
+    try {
+      let isoCurrency = 'USD';
+      if (currency === '₹') isoCurrency = 'INR';
+      else if (currency === '€') isoCurrency = 'EUR';
+      else if (currency === '£') isoCurrency = 'GBP';
+
+      const payload = {
+        name: tripTitle || `Trip to ${selectedDestination.shortName}`,
+        description: `${companionType} trip with ${tripmates.join(', ')}`,
+        startDate: startDate.toISOString(),
+        endDate: endDate.toISOString(),
+        totalBudget: Number(maxBudget) || 0,
+        currency: isoCurrency,
+        status: 'planning'
+      };
+
+      // POST to backend
+      const response = await axiosInstance.post('/trips', payload);
+      const createdTrip = response.data.data;
+      console.log('Trip created successfully on backend:', createdTrip);
+      
+      // Store trip ID in localStorage for routing & itinerary mapping
+      localStorage.setItem('activeTripId', createdTrip._id);
+      
+      setInWorkspace(true);
+    } catch (err) {
+      console.error('Failed to create trip:', err);
+      alert(err.response?.data?.message || err.message || 'Failed to create trip. Please ensure you are logged in.');
+    }
   };
 
   const m1DaysCount = getDaysInMonth(m1Year, m1Month);
@@ -923,7 +997,7 @@ const CreateTripPage = () => {
               <button
                 type="button"
                 className="start-planning-btn"
-                onClick={() => setInWorkspace(true)}
+                onClick={handleStartPlanning}
               >
                 Start planning
               </button>

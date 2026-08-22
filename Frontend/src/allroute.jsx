@@ -1,5 +1,6 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
+import ProtectedRoute from './components/common/ProtectedRoute.jsx';
 
 // Authentication Pages (Screen 1 & 2)
 import Login from './components/authentication/pages/login.jsx';
@@ -45,37 +46,37 @@ const AllRoutes = () => {
       <Route path="/sign-up" element={<Login />} />
       <Route path="/register" element={<Login />} />
 
-      {/* Screen 4: Create a New Trip */}
-      <Route path="/create-trip" element={<CreateTripPage />} />
-      <Route path="/plan-trip" element={<CreateTripPage />} />
+      {/* Screen 4: Create a New Trip (Protected) */}
+      <Route path="/create-trip" element={<ProtectedRoute><CreateTripPage /></ProtectedRoute>} />
+      <Route path="/plan-trip" element={<ProtectedRoute><CreateTripPage /></ProtectedRoute>} />
 
-      {/* Screen 5: Build Itinerary */}
-      <Route path="/build-itinerary" element={<BuildItineraryPage />} />
+      {/* Screen 5: Build Itinerary (Protected) */}
+      <Route path="/build-itinerary" element={<ProtectedRoute><BuildItineraryPage /></ProtectedRoute>} />
 
-      {/* Screen 6: User Trip Listing */}
-      <Route path="/trips" element={<TripListingPage />} />
-      <Route path="/my-trips" element={<TripListingPage />} />
+      {/* Screen 6: User Trip Listing (Protected) */}
+      <Route path="/trips" element={<ProtectedRoute><TripListingPage /></ProtectedRoute>} />
+      <Route path="/my-trips" element={<ProtectedRoute><TripListingPage /></ProtectedRoute>} />
 
-      {/* Screen 7: User Profile */}
-      <Route path="/profile" element={<UserProfilePage />} />
-      <Route path="/user-profile" element={<UserProfilePage />} />
+      {/* Screen 7: User Profile (Protected) */}
+      <Route path="/profile" element={<ProtectedRoute><UserProfilePage /></ProtectedRoute>} />
+      <Route path="/user-profile" element={<ProtectedRoute><UserProfilePage /></ProtectedRoute>} />
 
       {/* Screen 8: Activity / City Search */}
       <Route path="/explore" element={<ActivitySearchPage />} />
       <Route path="/search" element={<ActivitySearchPage />} />
       <Route path="/activities" element={<ActivitySearchPage />} />
 
-      {/* Screen 9: Itinerary View with Budget */}
-      <Route path="/itinerary-view" element={<ItineraryDetailsPage />} />
-      <Route path="/itinerary" element={<ItineraryDetailsPage />} />
+      {/* Screen 9: Itinerary View with Budget (Protected) */}
+      <Route path="/itinerary-view" element={<ProtectedRoute><ItineraryDetailsPage /></ProtectedRoute>} />
+      <Route path="/itinerary" element={<ProtectedRoute><ItineraryDetailsPage /></ProtectedRoute>} />
 
       {/* Screen 10: Community Tab */}
       <Route path="/community" element={<CommunityPage />} />
       <Route path="/feed" element={<CommunityPage />} />
 
-      {/* Screen 11: Calendar View */}
-      <Route path="/calendar" element={<CalendarViewPage />} />
-      <Route path="/schedule" element={<CalendarViewPage />} />
+      {/* Screen 11: Calendar View (Protected) */}
+      <Route path="/calendar" element={<ProtectedRoute><CalendarViewPage /></ProtectedRoute>} />
+      <Route path="/schedule" element={<ProtectedRoute><CalendarViewPage /></ProtectedRoute>} />
 
       {/* Fallback Route */}
       <Route path="*" element={<Navigate to="/" replace />} />

@@ -73,6 +73,47 @@ export const uploadProfilePhoto = (req, res, next) => {
 };
 
 /**
+ * Middleware for handling single trip cover image upload.
+ * Supports field names: 'coverImage', 'image', 'photo', 'file'
+ */
+export const uploadCoverImage = (req, res, next) => {
+  const uploadHandler = upload.fields([
+    { name: 'coverImage', maxCount: 1 },
+    { name: 'image', maxCount: 1 },
+    { name: 'photo', maxCount: 1 },
+    { name: 'file', maxCount: 1 },
+  ]);
+
+  uploadHandler(req, res, (err) => {
+    if (err instanceof multer.MulterError) {
+      if (err.code === 'LIMIT_FILE_SIZE') {
+        const error = new Error('File too large. Maximum allowed cover image size is 5MB.');
+        error.statusCode = 400;
+        return next(error);
+      }
+      const error = new Error(`Upload error: ${err.message}`);
+      error.statusCode = 400;
+      return next(error);
+    } else if (err) {
+      return next(err);
+    }
+
+    if (req.files) {
+      const file =
+        req.files.coverImage?.[0] ||
+        req.files.image?.[0] ||
+        req.files.photo?.[0] ||
+        req.files.file?.[0];
+      if (file) {
+        req.file = file;
+      }
+    }
+
+    next();
+  });
+};
+
+/**
  * Helper to upload a single file with custom field name
  */
 export const uploadSingle = (fieldName = 'photo') => {

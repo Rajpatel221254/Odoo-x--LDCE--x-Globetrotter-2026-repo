@@ -1,9 +1,8 @@
 /**
  * validate(schema)
  *
- * Returns an Express middleware that validates req.body against the given
- * Zod schema. On failure, it forwards a structured 422 error to the global
- * error handler, matching the existing { success, message } response format.
+ * Middleware that validates req.body against a Zod schema.
+ * Formats errors with field names and returns a 422 Unprocessable Entity.
  *
  * @param {import('zod').ZodSchema} schema
  */
@@ -11,14 +10,25 @@ export const validate = (schema) => (req, res, next) => {
   const result = schema.safeParse(req.body);
 
   if (!result.success) {
-    // Collect all Zod issue messages into one readable string
-    const messages = result.error.issues.map((i) => i.message).join('. ');
+    // Format error message with exact field names: "name: Trip name is required, startDate: startDate is required"
+    const messages = result.error.issues
+      .map((issue) => {
+        const field = issue.path.join('.');
+        return field ? `${field}: ${issue.message}` : issue.message;
+      })
+      .join('; ');
+
     const err = new Error(messages);
     err.statusCode = 422;
+    err.details = result.error.issues.map((i) => ({
+      field: i.path.join('.'),
+      message: i.message,
+    }));
+
     return next(err);
   }
 
-  // Replace req.body with the parsed (and potentially transformed) data
+  // Replace req.body with parsed/sanitized data
   req.body = result.data;
   next();
 };

@@ -1,54 +1,80 @@
 import mongoose from 'mongoose';
 
-const PlaceSchema = new mongoose.Schema({
-  cityId: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'City',
-    required: true
+const PLACE_CATEGORIES = ['Tourist attraction', 'Museum', 'Landmark', 'Park', 'Activity'];
+
+const PlaceSchema = new mongoose.Schema(
+  {
+    cityId: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'City',
+      required: true,
+    },
+    // externalId — the spec-compliant unique identifier from the external source (Geoapify place_id)
+    externalId: {
+      type: String,
+      unique: true,
+      sparse: true,
+      trim: true,
+    },
+    // placeId — kept for backward compatibility with existing seeded data
+    placeId: {
+      type: String,
+      unique: true,
+      sparse: true,
+      trim: true,
+    },
+    name: {
+      type: String,
+      required: true,
+      trim: true,
+    },
+    category: {
+      type: String,
+      required: true,
+      enum: PLACE_CATEGORIES,
+      trim: true,
+    },
+    description: {
+      type: String,
+      trim: true,
+    },
+    latitude: {
+      type: Number,
+      required: true,
+    },
+    longitude: {
+      type: Number,
+      required: true,
+    },
+    estimatedCost: {
+      type: Number,
+      default: 0,
+      min: 0,
+    },
+    currency: {
+      type: String,
+      default: 'USD',
+      trim: true,
+    },
+    duration: {
+      type: Number,
+      default: 60,
+      min: 0,
+    },
+    image: {
+      type: String,
+      trim: true,
+    },
   },
-  name: {
-    type: String,
-    required: true,
-    trim: true
-  },
-  category: {
-    type: String,
-    required: true,
-    enum: ['Tourist attraction', 'Museum', 'Landmark', 'Park', 'Activity'],
-    trim: true
-  },
-  description: {
-    type: String,
-    trim: true
-  },
-  latitude: {
-    type: Number,
-    required: true
-  },
-  longitude: {
-    type: Number,
-    required: true
-  },
-  estimatedCost: {
-    type: Number,
-    default: 0 // Default cost: free (0) if not specified
-  },
-  duration: {
-    type: Number,
-    default: 120 // Default duration: 120 minutes (2 hours) if not specified
-  },
-  image: {
-    type: String,
-    trim: true
-  },
-  placeId: {
-    type: String,
-    required: true,
-    unique: true, // Unique index to prevent duplicate place records
-    trim: true
+  {
+    timestamps: true,
   }
-}, {
-  timestamps: true
-});
+);
+
+// Indexes for filtering and range queries
+PlaceSchema.index({ cityId: 1 });
+PlaceSchema.index({ cityId: 1, category: 1 });
+PlaceSchema.index({ cityId: 1, estimatedCost: 1 });
+PlaceSchema.index({ cityId: 1, duration: 1 });
 
 export default mongoose.model('Place', PlaceSchema);

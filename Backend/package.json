@@ -1,16 +1,14 @@
 {
   "name": "globetrotter-backend",
   "version": "1.0.0",
-  "description": "GlobeTrotter Backend API - Phase 1",
+  "description": "GlobeTrotter Backend API — Phase 2: Travel Data & Discovery",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
-    "import:cities": "node scripts/importCities.js",
-    "import:places": "node scripts/importPlaces.js",
-    "update:places": "node scripts/updatePlaces.js",
-    "verify": "node scripts/verifyDb.js"
+    "seed:cities": "node scripts/seedCities.js",
+    "seed:places": "node scripts/seedPlaces.js"
   },
   "keywords": [
     "travel",

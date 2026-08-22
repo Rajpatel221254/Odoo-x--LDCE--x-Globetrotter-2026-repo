@@ -1,0 +1,360 @@
+/* User Profile Page (Screen 7) Styles */
+.user-profile-page-container {
+  min-height: 100vh;
+  width: 100%;
+  background-color: #12111a;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Outfit', sans-serif;
+}
+
+.user-profile-main {
+  flex: 1;
+  width: 100%;
+  padding: 32px 48px 80px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  box-sizing: border-box;
+}
+
+/* Profile Header Card */
+.user-profile-header-card {
+  background: linear-gradient(135deg, #181622 0%, #1e1b2b 100%);
+  border-radius: 28px;
+  border: 1px solid #2d2b3c;
+  padding: 36px 40px;
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+.user-avatar-large-wrapper {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.user-avatar-large {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  border: 3px solid #ffffff;
+  object-fit: cover;
+}
+
+.online-status-dot {
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  width: 20px;
+  height: 20px;
+  background-color: #10b981;
+  border: 3px solid #181622;
+  border-radius: 50%;
+}
+
+.user-header-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.user-name-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.user-full-name {
+  font-size: 28px;
+  font-weight: 800;
+  color: #ffffff;
+  margin-bottom: 2px;
+}
+
+.user-handle {
+  font-size: 14.5px;
+  color: #a78bfa;
+  font-weight: 600;
+}
+
+.edit-profile-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 20px;
+  border-radius: 12px;
+  background: #ffffff;
+  border: none;
+  color: #12111a;
+  font-size: 13.5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.edit-profile-btn:hover {
+  background-color: #f1f5f9;
+  transform: translateY(-1px);
+}
+
+.user-bio-text {
+  font-size: 14.5px;
+  color: #cbd5e1;
+  line-height: 1.6;
+  max-width: 700px;
+}
+
+.user-info-badges-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.user-badge-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13.5px;
+  color: #94a3b8;
+  background-color: #211f30;
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1px solid #363349;
+}
+
+/* Stats Section */
+.profile-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.profile-stat-box {
+  background-color: #181622;
+  border: 1px solid #2d2b3c;
+  border-radius: 20px;
+  padding: 22px 24px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.stat-icon-circle {
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.stat-meta {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-number {
+  font-size: 26px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.stat-title {
+  font-size: 13.5px;
+  color: #94a3b8;
+}
+
+/* Profile Trips Section */
+.profile-trips-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.profile-trips-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.profile-section-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.view-all-trips-link {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 600;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.view-all-trips-link:hover {
+  opacity: 0.8;
+}
+
+.profile-trips-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.profile-trip-card {
+  background-color: #181622;
+  border-radius: 20px;
+  border: 1px solid #2d2b3c;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.25s ease;
+}
+
+.profile-trip-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
+}
+
+.profile-trip-img-wrap {
+  position: relative;
+  width: 100%;
+  height: 160px;
+}
+
+.profile-trip-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-trip-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+.profile-trip-badge.active {
+  background-color: rgba(16, 185, 129, 0.9);
+  color: #ffffff;
+}
+
+.profile-trip-badge.completed {
+  background-color: rgba(148, 163, 184, 0.9);
+  color: #ffffff;
+}
+
+.profile-trip-info {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.profile-trip-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.profile-trip-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #94a3b8;
+}
+
+.profile-card-footer {
+  margin-top: auto;
+  padding-top: 12px;
+}
+
+.view-trip-btn {
+  width: 100%;
+  padding: 9px;
+  border-radius: 10px;
+  background-color: #242232;
+  border: 1px solid #3d3b4e;
+  color: #ffffff;
+  font-size: 13.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.view-trip-btn:hover {
+  background-color: #ffffff;
+  color: #12111a;
+}
+
+/* =========================================================================
+   COMPREHENSIVE RESPONSIVE MEDIA QUERIES
+   ========================================================================= */
+
+@media (max-width: 850px) {
+  .user-profile-main {
+    padding: 24px 20px 60px 20px;
+    gap: 24px;
+  }
+
+  .user-profile-header-card {
+    flex-direction: column;
+    text-align: center;
+    padding: 24px;
+    gap: 20px;
+  }
+
+  .user-name-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .user-info-badges-grid {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .user-profile-main {
+    padding: 16px 14px 50px 14px;
+  }
+
+  .profile-stats-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .profile-stat-box {
+    padding: 14px;
+    gap: 12px;
+  }
+
+  .stat-number {
+    font-size: 20px;
+  }
+
+  .profile-trips-cards-grid {
+    grid-template-columns: 1fr;
+  }
+}

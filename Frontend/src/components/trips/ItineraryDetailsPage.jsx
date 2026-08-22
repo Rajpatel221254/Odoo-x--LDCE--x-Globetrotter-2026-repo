@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import Navbar from '../common/Navbar.jsx';
 import Footer from '../landing/Footer.jsx';
+import axiosInstance from '../../api/axiosInstance.js';
 import {
   Search,
   SlidersHorizontal,
@@ -15,7 +16,9 @@ import {
   CheckCircle,
   Share2,
   Download,
-  Compass
+  Compass,
+  Loader2,
+  AlertCircle
 } from 'lucide-react';
 import './style/ItineraryDetailsPage.css';
 
@@ -117,10 +120,56 @@ const ItineraryDetailsPage = () => {
   const location = useLocation();
   const stateData = location.state || {};
 
-  const tripTitle = stateData.tripTitle || 'Swiss Alps & Bernese Oberland Grand Itinerary';
-  const destination = stateData.destination || 'Interlaken, Jungfrau & Zurich, Switzerland';
+  const [tripData, setTripData] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
-  const totalExpense = ITINERARY_DAYS.reduce(
+  const queryParams = new URLSearchParams(location.search);
+  const tripId = queryParams.get('tripId');
+
+  useEffect(() => {
+    if (tripId) {
+      const fetchTripDetails = async () => {
+        try {
+          setLoading(true);
+          const res = await axiosInstance.get(`/trips/${tripId}`);
+          setTripData(res.data.data);
+          setError(null);
+        } catch (err) {
+          console.error('Error fetching trip details:', err);
+          setError(err.response?.data?.message || err.message || 'Failed to load trip details.');
+        } finally {
+          setLoading(false);
+        }
+      };
+      fetchTripDetails();
+    }
+  }, [tripId]);
+
+  const tripTitle = tripData ? tripData.name : (stateData.tripTitle || 'Swiss Alps Oberland Grand Itinerary');
+  const destination = tripData && tripData.stops && tripData.stops.length > 0
+    ? [...new Set(tripData.stops.map(s => s.cityId?.name).filter(Boolean))].join(' & ')
+    : (stateData.destination || 'Interlaken & Zurich, Switzerland');
+
+  const displayDays = tripData && tripData.stops && tripData.stops.length > 0
+    ? tripData.stops.map((stop, idx) => ({
+        dayNumber: idx + 1,
+        dayTitle: `Stop ${idx + 1}: ${stop.cityId?.name || 'Unknown City'}, ${stop.cityId?.country || ''}`,
+        activities: [
+          {
+            id: stop._id,
+            time: 'Stay Duration',
+            title: `Visit and explore ${stop.cityId?.name} (Dates: ${new Date(stop.startDate).toLocaleDateString()} to ${new Date(stop.endDate).toLocaleDateString()})`,
+            location: `${stop.cityId?.name}, ${stop.cityId?.region || ''}`,
+            type: 'Sightseeing & Exploration',
+            expense: stop.notes ? 0 : 50,
+            notes: stop.notes || 'No notes for this stop.'
+          }
+        ]
+      }))
+    : ITINERARY_DAYS;
+
+  const totalExpense = displayDays.reduce(
     (total, day) =>
       total + day.activities.reduce((dTotal, a) => dTotal + a.expense, 0),
     0
@@ -131,21 +180,37 @@ const ItineraryDetailsPage = () => {
       <Navbar />
 
       <main className="itinerary-details-main">
-        {/* Page Header */}
-        <div className="itinerary-header-banner">
-          <div>
-            <span className="screen-badge">Screen 9 • Itinerary View & Budget Breakdown</span>
-            <h1 className="itinerary-main-heading">Itinerary for {destination}</h1>
-            <p className="itinerary-sub-heading">{tripTitle}</p>
+        {/* Error Banner */}
+        {error && (
+          <div className="auth-error-banner animate-shake" style={{ marginBottom: '20px' }}>
+            <AlertCircle size={16} />
+            <span>{error}</span>
           </div>
+        )}
 
-          <div className="itinerary-actions-box">
-            <div className="total-budget-card">
-              <span className="budget-title">Total Trip Expenses</span>
-              <span className="budget-val">${totalExpense.toLocaleString()}</span>
-            </div>
+        {/* Loading Spinner */}
+        {loading ? (
+          <div className="trips-loading-state" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '300px', gap: '15px' }}>
+            <Loader2 className="animate-spin" size={40} style={{ color: 'var(--primary-color, #f05a36)' }} />
+            <p style={{ color: '#888' }}>Loading itinerary details from database...</p>
           </div>
-        </div>
+        ) : (
+          <>
+            {/* Page Header */}
+            <div className="itinerary-header-banner">
+              <div>
+                <span className="screen-badge">Screen 9 • Itinerary View & Budget Breakdown</span>
+                <h1 className="itinerary-main-heading">Itinerary for {destination}</h1>
+                <p className="itinerary-sub-heading">{tripTitle}</p>
+              </div>
+
+              <div className="itinerary-actions-box">
+                <div className="total-budget-card">
+                  <span className="budget-title">Total Trip Expenses</span>
+                  <span className="budget-val">${totalExpense.toLocaleString()}</span>
+                </div>
+              </div>
+            </div>
 
         {/* Controls Toolbar matching wireframe */}
         <div className="controls-toolbar">
@@ -176,7 +241,7 @@ const ItineraryDetailsPage = () => {
 
         {/* Itinerary Schedule Sequence Days matching wireframe */}
         <section className="days-schedule-container">
-          {ITINERARY_DAYS.map((day) => {
+          {displayDays.map((day) => {
             const dayExpense = day.activities.reduce(
               (sum, a) => sum + a.expense,
               0
@@ -245,6 +310,8 @@ const ItineraryDetailsPage = () => {
             );
           })}
         </section>
+          </>
+        )}
       </main>
 
       <Footer />

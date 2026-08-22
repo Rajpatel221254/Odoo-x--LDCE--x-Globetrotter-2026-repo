@@ -9,6 +9,7 @@ import tripStopRoutes from './tripStop.routes.js';
 import itineraryRoutes from './itinerary.routes.js';
 import expenseRoutes from './expense.routes.js';
 import shareRoutes from './share.routes.js';
+import storyRoutes from './story.routes.js';
 
 const router = express.Router();
 
@@ -16,6 +17,7 @@ const router = express.Router();
 router.use('/health', healthRoutes);
 router.use('/auth', authRoutes);
 router.use('/share', shareRoutes);
+router.use('/stories', storyRoutes);
 
 // ─── Protected user, trip, itinerary & expense routes ────────────────────────
 router.use('/users', userRoutes);
@@ -29,3 +31,4 @@ router.use('/cities', cityRoutes);
 router.use('/places', placeRoutes);
 
 export default router;
+

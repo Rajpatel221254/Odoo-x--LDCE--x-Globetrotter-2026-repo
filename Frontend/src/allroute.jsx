@@ -1,17 +1,84 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
+
+// Authentication Pages (Screen 1 & 2)
 import Login from './components/authentication/pages/login.jsx';
+
+// Main Landing Page (Screen 3)
+import LandingPage from './components/landing/LandingPage.jsx';
+
+// Create a New Trip Page (Screen 4)
+import CreateTripPage from './components/trips/CreateTripPage.jsx';
+
+// Build Itinerary Screen (Screen 5)
+import BuildItineraryPage from './components/trips/BuildItineraryPage.jsx';
+
+// User Trip Listing Screen (Screen 6)
+import TripListingPage from './components/trips/TripListingPage.jsx';
+
+// User Profile Screen (Screen 7)
+import UserProfilePage from './components/profile/UserProfilePage.jsx';
+
+// Activity / City Search Page (Screen 8)
+import ActivitySearchPage from './components/explore/ActivitySearchPage.jsx';
+
+// Itinerary View Screen with Budget Section (Screen 9)
+import ItineraryDetailsPage from './components/trips/ItineraryDetailsPage.jsx';
+
+// Community Tab Screen (Screen 10)
+import CommunityPage from './components/community/CommunityPage.jsx';
+
+// Calendar View Screen (Screen 11)
+import CalendarViewPage from './components/calendar/CalendarViewPage.jsx';
 
 const AllRoutes = () => {
   return (
     <Routes>
-      <Route path="/" element={<Navigate to="/login" replace />} />
+      {/* Screen 3: Landing Page */}
+      <Route path="/" element={<LandingPage />} />
+      <Route path="/landing" element={<LandingPage />} />
+      <Route path="/dashboard" element={<LandingPage />} />
+
+      {/* Screen 1 & 2: Auth */}
       <Route path="/login" element={<Login />} />
       <Route path="/signup" element={<Login />} />
-      <Route path="/sign up" element={<Login />} />
       <Route path="/sign-up" element={<Login />} />
-      {/* Fallback route */}
-      <Route path="*" element={<Navigate to="/login" replace />} />
+      <Route path="/register" element={<Login />} />
+
+      {/* Screen 4: Create a New Trip */}
+      <Route path="/create-trip" element={<CreateTripPage />} />
+      <Route path="/plan-trip" element={<CreateTripPage />} />
+
+      {/* Screen 5: Build Itinerary */}
+      <Route path="/build-itinerary" element={<BuildItineraryPage />} />
+
+      {/* Screen 6: User Trip Listing */}
+      <Route path="/trips" element={<TripListingPage />} />
+      <Route path="/my-trips" element={<TripListingPage />} />
+
+      {/* Screen 7: User Profile */}
+      <Route path="/profile" element={<UserProfilePage />} />
+      <Route path="/user-profile" element={<UserProfilePage />} />
+
+      {/* Screen 8: Activity / City Search */}
+      <Route path="/explore" element={<ActivitySearchPage />} />
+      <Route path="/search" element={<ActivitySearchPage />} />
+      <Route path="/activities" element={<ActivitySearchPage />} />
+
+      {/* Screen 9: Itinerary View with Budget */}
+      <Route path="/itinerary-view" element={<ItineraryDetailsPage />} />
+      <Route path="/itinerary" element={<ItineraryDetailsPage />} />
+
+      {/* Screen 10: Community Tab */}
+      <Route path="/community" element={<CommunityPage />} />
+      <Route path="/feed" element={<CommunityPage />} />
+
+      {/* Screen 11: Calendar View */}
+      <Route path="/calendar" element={<CalendarViewPage />} />
+      <Route path="/schedule" element={<CalendarViewPage />} />
+
+      {/* Fallback Route */}
+      <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   );
 };

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import './style/login.css';
-import { Eye, EyeOff, ArrowRight, AlertCircle } from 'lucide-react';
+import { Eye, EyeOff, ArrowRight, AlertCircle, Camera, User } from 'lucide-react';
 
 import loginImage1 from '../../../assets/login_image_1.jpg';
 import loginImage2 from '../../../assets/login_image_2.jpg';
@@ -36,7 +36,13 @@ const LoginPage = () => {
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
   const [email, setEmail] = useState('');
+  const [phone, setPhone] = useState('');
+  const [city, setCity] = useState('');
+  const [country, setCountry] = useState('');
   const [password, setPassword] = useState('');
+  const [additionalInfo, setAdditionalInfo] = useState('');
+  const [avatarPreview, setAvatarPreview] = useState(null);
+
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
 
@@ -48,6 +54,17 @@ const LoginPage = () => {
 
     return () => clearInterval(interval);
   }, []);
+
+  const handleAvatarChange = (e) => {
+    const file = e.target.files?.[0];
+    if (file) {
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        setAvatarPreview(reader.result);
+      };
+      reader.readAsDataURL(file);
+    }
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -130,6 +147,30 @@ const LoginPage = () => {
         {/* Right Form Section */}
         <div className="right-form-section">
           <div className="right-form-content-inner">
+            {/* Profile Photo Circle Upload */}
+            <div className="avatar-upload-wrapper">
+              <label htmlFor="avatar-upload" className="avatar-circle-box" title="Upload profile photo">
+                {avatarPreview ? (
+                  <img src={avatarPreview} alt="User Avatar" className="avatar-img-preview" />
+                ) : (
+                  <div className="avatar-empty-placeholder">
+                    <User size={28} className="avatar-icon" />
+                    <span className="avatar-text">Photo</span>
+                    <div className="avatar-camera-badge">
+                      <Camera size={12} />
+                    </div>
+                  </div>
+                )}
+                <input
+                  type="file"
+                  id="avatar-upload"
+                  accept="image/*"
+                  className="avatar-file-hidden"
+                  onChange={handleAvatarChange}
+                />
+              </label>
+            </div>
+
             <div className="form-header">
               <h1 className="form-title">
                 {isLogin ? "Log in to account" : "Create an account"}
@@ -162,45 +203,101 @@ const LoginPage = () => {
 
             <form className="auth-form" onSubmit={handleSubmit}>
               {!isLogin && (
-                <div className="input-row-dual">
-                  <div className="input-field-wrapper">
-                    <input
-                      type="text"
-                      className={`auth-input ${firstName ? 'active-filled' : ''}`}
-                      placeholder="First name"
-                      value={firstName}
-                      onChange={(e) => setFirstName(e.target.value)}
-                      required
-                    />
+                <>
+                  {/* First Name & Last Name */}
+                  <div className="input-row-dual">
+                    <div className="input-field-wrapper">
+                      <input
+                        type="text"
+                        className={`auth-input ${firstName ? 'active-filled' : ''}`}
+                        placeholder="First Name"
+                        value={firstName}
+                        onChange={(e) => setFirstName(e.target.value)}
+                        required
+                      />
+                    </div>
+                    <div className="input-field-wrapper">
+                      <input
+                        type="text"
+                        className={`auth-input ${lastName ? 'active-filled' : ''}`}
+                        placeholder="Last Name"
+                        value={lastName}
+                        onChange={(e) => setLastName(e.target.value)}
+                        required
+                      />
+                    </div>
                   </div>
-                  <div className="input-field-wrapper">
-                    <input
-                      type="text"
-                      className={`auth-input ${lastName ? 'active-filled' : ''}`}
-                      placeholder="Last name"
-                      value={lastName}
-                      onChange={(e) => setLastName(e.target.value)}
-                    />
+
+                  {/* Email & Phone Number */}
+                  <div className="input-row-dual">
+                    <div className="input-field-wrapper">
+                      <input
+                        type="email"
+                        className={`auth-input ${email ? 'active-filled' : ''}`}
+                        placeholder="Email Address"
+                        value={email}
+                        onChange={(e) => setEmail(e.target.value)}
+                        required
+                      />
+                    </div>
+                    <div className="input-field-wrapper">
+                      <input
+                        type="tel"
+                        className={`auth-input ${phone ? 'active-filled' : ''}`}
+                        placeholder="Phone Number"
+                        value={phone}
+                        onChange={(e) => setPhone(e.target.value)}
+                        required
+                      />
+                    </div>
                   </div>
+
+                  {/* City & Country */}
+                  <div className="input-row-dual">
+                    <div className="input-field-wrapper">
+                      <input
+                        type="text"
+                        className={`auth-input ${city ? 'active-filled' : ''}`}
+                        placeholder="City"
+                        value={city}
+                        onChange={(e) => setCity(e.target.value)}
+                        required
+                      />
+                    </div>
+                    <div className="input-field-wrapper">
+                      <input
+                        type="text"
+                        className={`auth-input ${country ? 'active-filled' : ''}`}
+                        placeholder="Country"
+                        value={country}
+                        onChange={(e) => setCountry(e.target.value)}
+                        required
+                      />
+                    </div>
+                  </div>
+                </>
+              )}
+
+              {/* Email (for Login View) */}
+              {isLogin && (
+                <div className="input-field-wrapper">
+                  <input
+                    type="email"
+                    className={`auth-input ${email ? 'active-filled' : ''}`}
+                    placeholder="Email / Username"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    required
+                  />
                 </div>
               )}
 
-              <div className="input-field-wrapper">
-                <input
-                  type="email"
-                  className={`auth-input ${email ? 'active-filled' : ''}`}
-                  placeholder="Email"
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  required
-                />
-              </div>
-
+              {/* Password */}
               <div className="input-field-wrapper">
                 <input
                   type={showPassword ? "text" : "password"}
                   className={`auth-input ${password ? 'active-filled' : ''}`}
-                  placeholder="Enter your password"
+                  placeholder={isLogin ? "Enter your password" : "Password"}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   required
@@ -214,8 +311,25 @@ const LoginPage = () => {
                 </div>
               </div>
 
+              {/* Additional Information (Optional, Registration view) */}
+              {!isLogin && (
+                <div className="input-field-wrapper">
+                  <textarea
+                    className={`auth-input auth-textarea ${additionalInfo ? 'active-filled' : ''}`}
+                    placeholder="Additional Information ...."
+                    rows={3}
+                    value={additionalInfo}
+                    onChange={(e) => setAdditionalInfo(e.target.value)}
+                  />
+                </div>
+              )}
+
               <button type="submit" className="submit-account-btn" disabled={loading}>
-                {loading ? <div className="btn-spinner"></div> : (isLogin ? "Log in" : "Create account")}
+                {loading ? (
+                  <div className="btn-spinner"></div>
+                ) : (
+                  isLogin ? "Log in" : "Register Users"
+                )}
               </button>
 
               <div className="or-divider">

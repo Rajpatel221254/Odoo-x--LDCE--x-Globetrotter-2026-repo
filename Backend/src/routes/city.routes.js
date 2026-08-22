@@ -1,24 +1,20 @@
 import express from 'express';
-import City from '../../models/City.js';
+import { getCities, getCityById } from '../controllers/cities.controller.js';
 
 const router = express.Router();
 
 /**
  * @route   GET /api/cities
- * @desc    Get all cities from the database
+ * @desc    List cities with optional search (?search=), country/region filters, and pagination
  * @access  Public
  */
-router.get('/', async (req, res, next) => {
-  try {
-    const cities = await City.find({}).sort({ name: 1 });
-    res.json({
-      success: true,
-      count: cities.length,
-      data: cities
-    });
-  } catch (error) {
-    next(error);
-  }
-});
+router.get('/', getCities);
+
+/**
+ * @route   GET /api/cities/:cityId
+ * @desc    Get a single city by MongoDB ObjectId or city name
+ * @access  Public
+ */
+router.get('/:cityId', getCityById);
 
 export default router;

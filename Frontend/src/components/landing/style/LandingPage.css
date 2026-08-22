@@ -1,0 +1,1288 @@
+/* Landing Page (Wanderlog Dark UI with User Asset Map & Pastel Accents) */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Syne:wght@700;800;900&display=swap');
+
+.landing-page-container {
+  min-height: 100vh;
+  width: 100%;
+  max-width: 100%;
+  background-color: #12111a;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-family: 'Outfit', sans-serif;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+.landing-main-content {
+  flex: 1;
+  width: 100%;
+  max-width: 100%;
+  padding: 24px 48px 80px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  box-sizing: border-box;
+}
+
+/* ==========================================================================
+   1. HERO CARD (WANDERLOG STYLE)
+   ========================================================================== */
+.wanderlog-hero-card {
+  position: relative;
+  width: 100%;
+  min-height: 540px;
+  border-radius: 32px;
+  overflow: hidden;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 70px 40px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.hero-bg-layer {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 1.2s ease-in-out, transform 6s ease-out;
+  transform: scale(1.04);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.hero-bg-layer.active {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.hero-dark-overlay {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, rgba(18, 17, 26, 0.45) 0%, rgba(14, 13, 20, 0.92) 100%);
+  z-index: 1;
+  pointer-events: none;
+}
+
+.hero-center-content {
+  position: relative;
+  z-index: 2;
+  max-width: 860px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.hero-pill-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 18px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  font-size: 13.5px;
+  font-weight: 600;
+  backdrop-filter: blur(10px);
+}
+
+.hero-giant-title {
+  font-family: 'Syne', 'Outfit', sans-serif;
+  font-size: 68px;
+  font-weight: 900;
+  line-height: 1.1;
+  color: #ffffff;
+  letter-spacing: -1px;
+  text-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+}
+
+.hero-lead-description {
+  font-size: 18px;
+  color: #cbd5e1;
+  line-height: 1.6;
+  max-width: 720px;
+}
+
+.hero-actions-group {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hero-primary-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 36px;
+  border-radius: 30px;
+  font-size: 16px;
+}
+
+.hero-secondary-btn {
+  padding: 16px 32px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1.5px solid rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+  font-size: 15.5px;
+  font-weight: 600;
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  transition: all 0.2s ease;
+}
+
+.hero-secondary-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.hero-social-proof {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.proof-stars {
+  display: flex;
+  gap: 3px;
+}
+
+.proof-text {
+  font-size: 14px;
+  color: #94a3b8;
+}
+
+.proof-text strong {
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   2. USER ASSET MAP SECTION (map.png - EXACT IMAGE 2)
+   ========================================================================== */
+.travel-map-interactive-section {
+  width: 100%;
+  position: relative;
+}
+
+.travel-map-frame-box {
+  width: 100%;
+  border-radius: 30px;
+  overflow: hidden;
+  position: relative;
+  border: 2px solid rgba(56, 189, 248, 0.35);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+  background-color: #aadaff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-map-rendered-img {
+  width: 100%;
+  height: auto;
+  max-height: 520px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Top-Left Floating Stats Badge */
+.map-stats-floating-badge {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: #2b3542;
+  border-radius: 16px;
+  padding: 12px 22px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  z-index: 10;
+}
+
+.map-stat-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.map-stat-num {
+  font-size: 26px;
+  font-weight: 900;
+  color: #ffffff;
+  line-height: 1.1;
+}
+
+.map-stat-sub {
+  font-size: 10.5px;
+  font-weight: 700;
+  color: #cbd5e1;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.map-stat-divider {
+  width: 1px;
+  height: 28px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.map-rank-badge {
+  font-size: 15px;
+  font-weight: 800;
+  color: #f59e0b;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Top-Right "Add visited places" Button */
+.add-visited-places-floating-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 12px 24px;
+  border-radius: 30px;
+  background-color: #ffffff;
+  color: #111827;
+  font-size: 14.5px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+  transition: all 0.2s ease;
+}
+
+.add-visited-places-floating-btn:hover {
+  background-color: #f1f5f9;
+  transform: translateY(-2px);
+}
+
+/* ==========================================================================
+   3. PRESS MENTIONS SECTION
+   ========================================================================== */
+.press-mentions-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+}
+
+.press-sub-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #7b7891;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.press-cards-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  width: 100%;
+}
+
+.press-quote-card {
+  background-color: #181622;
+  border: 1px solid #2d2b3c;
+  border-radius: 16px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: transform 0.2s;
+}
+
+.press-quote-card:hover {
+  transform: translateY(-3px);
+  border-color: #4b4862;
+}
+
+.press-brand-tag {
+  font-size: 13px;
+  font-weight: 700;
+  color: #38bdf8;
+}
+
+.press-quote-text {
+  font-size: 12.5px;
+  color: #cbd5e1;
+  line-height: 1.45;
+  font-style: italic;
+}
+
+/* ==========================================================================
+   4. FEATURE DEEP DIVE (LIGHT GREEN BACKGROUND ACCENT)
+   ========================================================================== */
+.light-green-bg-card {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border-radius: 34px;
+  padding: 52px 48px;
+  border: 2px solid #86efac;
+  box-shadow: 0 20px 50px rgba(16, 185, 129, 0.08);
+}
+
+.dark-title {
+  color: #064e3b !important;
+}
+
+.dark-sub {
+  color: #047857 !important;
+}
+
+.green-pill {
+  background: rgba(16, 185, 129, 0.16) !important;
+  color: #065f46 !important;
+  border-color: #86efac !important;
+}
+
+.light-mode-tabs {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  border: 1px solid #86efac !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+}
+
+.feature-tab-btn.active-green {
+  background-color: #059669 !important;
+  color: #ffffff !important;
+  font-weight: 700;
+  box-shadow: 0 4px 14px rgba(5, 150, 105, 0.3);
+}
+
+.feature-showcase-box.light-box-shadow {
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.06) !important;
+}
+
+.dark-heading {
+  color: #0f172a !important;
+}
+
+.dark-desc {
+  color: #334155 !important;
+}
+
+.dark-bullet {
+  color: #1e293b !important;
+}
+
+.green-solid-btn {
+  background-color: #059669 !important;
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  border: none !important;
+  padding: 13px 28px !important;
+  border-radius: 24px !important;
+  cursor: pointer !important;
+  box-shadow: 0 6px 18px rgba(5, 150, 105, 0.25) !important;
+  transition: all 0.2s ease !important;
+}
+
+.green-solid-btn:hover {
+  background-color: #047857 !important;
+  transform: translateY(-2px);
+}
+
+.section-title-centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  max-width: 780px;
+}
+
+.section-tag-pill {
+  padding: 5px 14px;
+  border-radius: 20px;
+  background: rgba(167, 139, 250, 0.12);
+  border: 1px solid rgba(167, 139, 250, 0.3);
+  color: #a78bfa;
+  font-size: 12.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.section-main-title {
+  font-size: 36px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.5px;
+}
+
+.section-subtitle {
+  font-size: 16px;
+  color: #94a3b8;
+  line-height: 1.55;
+}
+
+.feature-tab-selectors {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 6px;
+  background-color: #1a1826;
+  border: 1px solid #2d2b3c;
+  border-radius: 36px;
+}
+
+.feature-tab-btn {
+  padding: 11px 22px;
+  border-radius: 30px;
+  background: transparent;
+  border: none;
+  color: #64748b;
+  font-size: 14.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.feature-tab-btn:hover {
+  color: #111827;
+}
+
+.feature-showcase-box {
+  width: 100%;
+  border-radius: 28px;
+  padding: 44px;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 44px;
+  align-items: center;
+}
+
+.showcase-content-col {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.showcase-heading {
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.showcase-desc {
+  font-size: 15.5px;
+  line-height: 1.65;
+}
+
+.showcase-bullets-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 6px 0;
+}
+
+.bullet-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14.5px;
+  font-weight: 500;
+}
+
+.showcase-actions {
+  padding-top: 8px;
+}
+
+.showcase-visual-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.showcase-img-frame {
+  position: relative;
+  width: 100%;
+  height: 340px;
+  border-radius: 22px;
+  overflow: hidden;
+  border: 1.5px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+.showcase-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.showcase-overlay-badge {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  padding: 7px 14px;
+  border-radius: 10px;
+  background: rgba(18, 17, 26, 0.88);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   5. 12 POWER TOOLS GRID
+   ========================================================================== */
+.power-tools-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+  width: 100%;
+}
+
+.power-tools-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 100%;
+}
+
+.tool-card-box {
+  background-color: #181622;
+  border: 1px solid #2d2b3c;
+  border-radius: 20px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: all 0.25s ease;
+}
+
+.tool-card-box:hover {
+  transform: translateY(-4px);
+  border-color: #55526e;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.4);
+}
+
+.tool-icon-wrapper {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background-color: #242234;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tool-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.tool-desc {
+  font-size: 13.5px;
+  color: #94a3b8;
+  line-height: 1.5;
+}
+
+.tools-bottom-action {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.tools-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 15px 36px;
+  border-radius: 30px;
+  font-size: 15.5px;
+}
+
+/* ==========================================================================
+   6. PLACES EXPLORER SECTION
+   ========================================================================== */
+.places-explorer-section {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  width: 100%;
+}
+
+.explorer-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+.view-all-places-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 9px 20px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  color: #ffffff;
+  font-size: 13.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.view-all-places-btn:hover {
+  background-color: #ffffff;
+  color: #12111a;
+}
+
+.places-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  width: 100%;
+}
+
+.place-city-card {
+  background-color: #181622;
+  border: 1px solid #2d2b3c;
+  border-radius: 22px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.place-city-card:hover {
+  transform: translateY(-5px);
+  border-color: #55526e;
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.5);
+}
+
+.place-img-box {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.place-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.place-city-card:hover .place-img {
+  transform: scale(1.06);
+}
+
+.place-trips-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #10b981;
+  font-size: 11.5px;
+  font-weight: 700;
+  backdrop-filter: blur(6px);
+}
+
+.place-card-body {
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+
+.place-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.place-name {
+  font-size: 21px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.place-country {
+  font-size: 13px;
+  color: #94a3b8;
+}
+
+.place-attractions-list {
+  font-size: 13.5px;
+  color: #cbd5e1;
+  line-height: 1.5;
+}
+
+.place-footer-link {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #38bdf8;
+  font-size: 13px;
+  font-weight: 600;
+  padding-top: 8px;
+}
+
+/* ==========================================================================
+   7. COMMUNITY TRAVEL GUIDES SECTION
+   ========================================================================== */
+.community-guides-section {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  width: 100%;
+}
+
+.community-guides-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px;
+  width: 100%;
+}
+
+.guide-item-card {
+  background-color: #181622;
+  border: 1px solid #2d2b3c;
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.guide-item-card:hover {
+  transform: translateY(-4px);
+  border-color: #6366f1;
+}
+
+.guide-img-wrap {
+  position: relative;
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+}
+
+.guide-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.guide-author-pill {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 600;
+  backdrop-filter: blur(6px);
+}
+
+.guide-content-box {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.guide-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.35;
+}
+
+.guide-summary {
+  font-size: 13px;
+  color: #94a3b8;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.guide-stats-footer {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: #7b7891;
+  padding-top: 8px;
+}
+
+/* ==========================================================================
+   8. RAVING REVIEWS (LIGHT YELLOW/AMBER BACKGROUND ACCENT)
+   ========================================================================== */
+.light-yellow-bg-card {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  border-radius: 34px;
+  padding: 52px 48px;
+  border: 2px solid #fde68a;
+  box-shadow: 0 20px 50px rgba(245, 158, 11, 0.08);
+}
+
+.yellow-pill {
+  background: rgba(245, 158, 11, 0.16) !important;
+  color: #92400e !important;
+  border-color: #fcd34d !important;
+}
+
+.white-shadow-card {
+  background-color: #ffffff !important;
+  border: 1px solid #fde68a !important;
+  box-shadow: 0 12px 30px rgba(245, 158, 11, 0.08) !important;
+}
+
+.dark-quote {
+  color: #374151 !important;
+}
+
+.dark-name {
+  color: #111827 !important;
+}
+
+.dark-trip {
+  color: #6b7280 !important;
+}
+
+.yellow-avatar {
+  background-color: #f59e0b !important;
+}
+
+.raving-reviews-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  width: 100%;
+}
+
+.reviews-carousel-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  width: 100%;
+}
+
+.review-speech-card {
+  border-radius: 22px;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.review-stars-row {
+  display: flex;
+  gap: 4px;
+}
+
+.review-quote-body {
+  font-size: 14.5px;
+  line-height: 1.6;
+  font-style: italic;
+  flex: 1;
+}
+
+.review-author-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.author-circle-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.author-name-text {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.author-trip-name {
+  font-size: 12.5px;
+}
+
+/* ==========================================================================
+   9. WHITE PROFILE CARD FOOTER SECTION
+   ========================================================================== */
+.landing-footer-section {
+  width: 100%;
+  max-width: 100%;
+  padding: 10px 48px 70px 48px;
+  box-sizing: border-box;
+}
+
+.footer-exact-card-frame {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 34px;
+  border: 2px solid #282635;
+  padding: 18px 18px 32px 18px;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  overflow: visible;
+  position: relative;
+}
+
+.footer-exact-banner-box {
+  width: 100%;
+  background-color: #1e1e1e;
+  border-radius: 24px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 260px;
+  max-height: 380px;
+  position: relative;
+}
+
+.footer-exact-banner-img {
+  width: 100%;
+  height: 100%;
+  max-height: 380px;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+.footer-exact-content-body {
+  padding: 0 32px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.footer-exact-avatar-circle {
+  width: 104px;
+  height: 104px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  border: 3px solid #282635;
+  position: relative;
+  margin-top: -52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  margin-bottom: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.footer-exact-avatar-circle:hover {
+  transform: scale(1.05);
+}
+
+.footer-exact-avatar-icon {
+  width: 52px;
+  height: 52px;
+}
+
+.footer-exact-info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 28px;
+  flex-wrap: wrap;
+  padding-top: 4px;
+}
+
+.footer-exact-info-col {
+  flex: 1;
+  min-width: 280px;
+  max-width: 760px;
+}
+
+.footer-exact-title {
+  font-size: 27px;
+  font-weight: 800;
+  color: #111827;
+  letter-spacing: -0.5px;
+  margin-bottom: 2px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.footer-exact-handle {
+  font-size: 14.5px;
+  color: #6b7280;
+  margin-bottom: 12px;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.footer-exact-description {
+  font-size: 15.5px;
+  color: #374151;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.footer-exact-hashtags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.footer-exact-tag {
+  color: #2563eb;
+  font-size: 14.5px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.footer-exact-tag:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+.footer-exact-action-col {
+  display: flex;
+  align-items: center;
+  padding-top: 4px;
+}
+
+.footer-exact-edit-btn {
+  padding: 10px 28px;
+  border-radius: 30px;
+  border: 1.5px solid #111827;
+  background-color: #ffffff;
+  color: #111827;
+  font-size: 14.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.footer-exact-edit-btn:hover {
+  background-color: #111827;
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* White Button Utility */
+.white-btn-black-text {
+  background-color: #ffffff !important;
+  color: #12111a !important;
+  font-weight: 700 !important;
+  border: none !important;
+  cursor: pointer !important;
+  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.2) !important;
+  transition: all 0.2s ease !important;
+}
+
+.white-btn-black-text:hover {
+  background-color: #f1f5f9 !important;
+  transform: translateY(-2px) scale(1.02) !important;
+}
+
+/* ==========================================================================
+   10. RESPONSIVE BREAKPOINTS
+   ========================================================================== */
+@media (max-width: 1200px) {
+  .landing-main-content {
+    padding: 24px 32px 60px 32px;
+    gap: 50px;
+  }
+
+  .press-cards-row {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .power-tools-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .community-guides-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .places-cards-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .hero-giant-title {
+    font-size: 46px;
+  }
+
+  .press-cards-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .feature-showcase-box {
+    grid-template-columns: 1fr;
+    padding: 28px;
+  }
+
+  .power-tools-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .reviews-carousel-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .light-green-bg-card,
+  .light-yellow-bg-card {
+    padding: 32px 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .landing-main-content {
+    padding: 16px 16px 40px 16px;
+    gap: 40px;
+  }
+
+  .wanderlog-hero-card {
+    min-height: 440px;
+    padding: 40px 20px;
+    border-radius: 22px;
+  }
+
+  .hero-giant-title {
+    font-size: 34px;
+  }
+
+  .hero-lead-description {
+    font-size: 15px;
+  }
+
+  .user-map-rendered-img {
+    min-height: 280px;
+  }
+
+  .map-stats-floating-badge {
+    top: 12px;
+    left: 12px;
+    padding: 8px 14px;
+    gap: 10px;
+  }
+
+  .map-stat-num {
+    font-size: 18px;
+  }
+
+  .map-rank-badge {
+    font-size: 12px;
+  }
+
+  .add-visited-places-floating-btn {
+    top: 12px;
+    right: 12px;
+    padding: 8px 14px;
+    font-size: 12.5px;
+  }
+
+  .press-cards-row {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-tab-selectors {
+    border-radius: 20px;
+  }
+
+  .feature-tab-btn {
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+
+  .power-tools-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .places-cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .community-guides-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .landing-footer-section {
+    padding: 0 16px 40px 16px;
+  }
+
+  .footer-exact-card-frame {
+    border-radius: 22px;
+    padding: 12px;
+  }
+
+  .footer-exact-content-body {
+    padding: 0 12px;
+  }
+
+  .footer-exact-avatar-circle {
+    width: 80px;
+    height: 80px;
+    margin-top: -40px;
+  }
+
+  .footer-exact-avatar-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer-exact-info-row {
+    flex-direction: column;
+  }
+
+  .footer-exact-edit-btn {
+    width: 100%;
+    text-align: center;
+  }
+}
